@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Icyo kizere se umuntu yagikura he ? ||| Where would one get that hope ?
+
+% TEXT
+Icyo kizere se umuntu yagikura he ?
+
+% ANNO
+Icyo > kizere > yagikura
+se > yagikura 
+umuntu > yagikura < he

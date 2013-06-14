@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mbonampeka aragenda hashize akanya gato cyane tubona aragarutse n' abasirikare baba padiri baba barabarashe . ||| Mbonampeka went away and after a short while he came back with soldiers and shot the priests .
+
+% TEXT
+Mbonampeka aragenda hashize akanya gato cyane tubona aragarutse n' abasirikare baba padiri baba_1 barabarashe .
+
+% ANNO
+[Mbonampeka aragenda hashize akanya gato cyane tubona aragarutse n' abasirikare baba padiri baba_1 barabarashe]

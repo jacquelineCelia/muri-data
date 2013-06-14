@@ -1,0 +1,16 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Huu ndumva nta kindi , usibye ko kwihangana biragoye cyane cyane iyo nta nta n' imibereho ufite birarushya . ||| I do n't think there is anything else although patience is not easy especially when you do n't have good welfare .
+
+% TEXT
+Huu ndumva nta kindi , usibye ko kwihangana biragoye cyane cyane_1 iyo nta_1 nta_2 n' imibereho ufite birarushya .
+
+% ANNO
+Huu 
+ndumva < (nta > kindi) 
+ndumva < usibye < ko > kwihangana > biragoye < cyane 
+biragoye < cyane_1 
+biragoye < iyo < nta_1 < nta_2 < (n' < imibereho) 
+biragoye < ufite < birarushya

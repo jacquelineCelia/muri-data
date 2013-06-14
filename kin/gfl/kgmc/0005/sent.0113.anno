@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' abantu twabanaga rwose twari duturanye cyane uwo we wandangiiye akambwira ko yabashyinguye ni numucikacumu . ||| Yes they were our neighbours ; the one who even told me that he had buried my children himself was even a genocide survivor .
+
+% TEXT
+N' abantu twabanaga rwose twari duturanye cyane uwo we wandangiiye akambwira ko yabashyinguye ni numucikacumu .
+
+% ANNO
+[N' abantu twabanaga rwose twari duturanye cyane uwo we wandangiiye akambwira ko yabashyinguye ni numucikacumu]

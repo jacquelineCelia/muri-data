@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Barakomeje bakajya baza aho ngaho bakaza bakituma ariko yayindi ntibayizemo . ||| They kept coming to use the toilets but they did n't enter in the one I was in .
+
+% TEXT
+Barakomeje bakajya baza aho ngaho bakaza bakituma ariko yayindi ntibayizemo .
+
+% ANNO
+[Barakomeje bakajya baza aho ngaho bakaza bakituma ariko yayindi ntibayizemo]

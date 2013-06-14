@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko ibintu biragaruka inzu iraboneka icyo kurya kiraboneka umwambaro uraboneka imiti iraboneka . ||| But things can be got back , a house , food , clothes , medicine .
+
+% TEXT
+Ariko ibintu biragaruka inzu iraboneka icyo kurya kiraboneka umwambaro uraboneka imiti iraboneka_1 .
+
+% ANNO
+[Ariko ibintu biragaruka inzu iraboneka icyo kurya kiraboneka umwambaro uraboneka imiti iraboneka_1]

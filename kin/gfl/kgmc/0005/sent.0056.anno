@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Baradupopera baratubwira ngo tuzahurira mu ijuru bo bakoze icyo gusimbuka igipangu bariruka bagwa inyuma na musaza wange umwe . ||| They waved goodbye at us and said that we weill meet in heaven , they jumped the fence and ran away with one of my brothers .
+
+% TEXT
+Baradupopera baratubwira ngo tuzahurira mu ijuru bo bakoze icyo gusimbuka igipangu bariruka bagwa inyuma na musaza wange umwe .
+
+% ANNO
+[Baradupopera baratubwira ngo tuzahurira mu ijuru bo bakoze icyo gusimbuka igipangu bariruka bagwa inyuma na musaza wange umwe]

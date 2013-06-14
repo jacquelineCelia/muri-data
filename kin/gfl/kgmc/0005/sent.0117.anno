@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ubu muri gacaca aho bagenda baburanira niho bagenda babivuga abababonye bakabashinja . ||| Now in gacaca whenever they go to defend themselves that 's when they say it and those who saw them accuse them .
+
+% TEXT
+Ubu muri gacaca aho bagenda baburanira niho bagenda_1 babivuga abababonye bakabashinja .
+
+% ANNO
+[Ubu muri gacaca aho bagenda baburanira niho bagenda_1 babivuga abababonye bakabashinja]

@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Wari wararangije kwiga ? ||| Had you finished studying ?
+
+% TEXT
+Wari wararangije kwiga ?
+
+% ANNO
+Wari < wararangije < kwiga

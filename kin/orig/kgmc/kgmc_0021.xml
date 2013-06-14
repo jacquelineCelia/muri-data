@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset descriptor="kinyarwanda">
+  <file id="kmc00021" languages="kin,eng,fra">
+    <metadata interviewer="Félicien" interviewee="Ayirwanda Gaspard" date="26-FEB-2004" location="" otherInfo=""/>
+    <data>
+      <unit time="00:11:52" speaker="Félicien"><align>
+        <text langid="kin"><s>Ushobora kutubwira umwirondoro wawe, ni ukuvuga: amazina; aho wavukiye...</s></text>
+        <text langid="eng"><s>Could you please identify yourself...? I mean your name, where you were born...?</s></text>
+        <text langid="fra"><s>Peux-tu nous dire ton identité? C'est à dire nom, lieu de naissance...</s></text>
+      </align></unit>
+      <unit time="00:11:59" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nitwa Ayirwanda Gaspard. Navukiye muri commune Nyamagabe.</s></text>
+        <text langid="eng"><s>My name is Ayirwanda Gaspard. I was born in Nyamagabe commune.</s></text>
+        <text langid="fra"><s>Je m'appelle Ayirwanda Gaspard, je suis né dans la commune Nyamagabe.</s></text>
+      </align></unit>
+      <unit time="00:12:12" speaker="Félicien"><align>
+        <text langid="kin"><s>Mu gihe cya Jenoside wari ufite imyaka ingahe?</s></text>
+        <text langid="eng"><s>How old were you during the genocide?</s></text>
+        <text langid="fra"><s>Quel âge avais-tu durant le Génocide?</s></text>
+      </align></unit>
+      <unit time="00:12:15" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mu gihe cya...  Ubundi...hanyuma famille yanjye iza kwimuka tujya i Karama. Ariko navukiye ino.</s></text>
+        <text langid="eng"><s>During the... my family and I migrated to Karama but I was born in Nyamano.</s></text>
+        <text langid="fra"><s>Durant le Génocide...au fait...ensuite ma famille a déménagé vers Karama mais je suis né ici.</s></text>
+      </align></unit>
+      <unit time="00:12:25" speaker="Félicien"><align>
+        <text langid="kin"><s>Nari nkubajije Jenoside iba, wari ufite imyaka ingahe ?</s></text>
+        <text langid="eng"><s>I asked you how old you were during the genocide?</s></text>
+        <text langid="fra"><s>Je venais de te demander l'âge que tu avais durant le Génocide.</s></text>
+      </align></unit>
+      <unit time="00:12:28" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Jenoside... nari mfite imyaka... mirongo ine n'umwe .</s></text>
+        <text langid="eng"><s>During genocide...I was 41 years old.</s></text>
+        <text langid="fra"><s>J'avais 41 ans.</s></text>
+      </align></unit>
+      <unit time="00:12:34" speaker="Félicien"><align>
+        <text langid="kin"><s>Ubwo ni ukuvuga ko ufite ingahe ?</s></text>
+        <text langid="eng"><s>And that means... how old are you now?</s></text>
+        <text langid="fra"><s>Aujourd'hui tu as donc quel âge?</s></text>
+      </align></unit>
+      <unit time="00:12:36" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nari mfite... ubundi mfunzwe imyaka itanu. Nari mfite imyaka mirongo ine.</s></text>
+        <text langid="eng"><s>I have been in prison for 5 years but I was 40 years old then.</s></text>
+        <text langid="fra"><s>J'avais...ça fait 5 ans que je suis en prison. J'avais 40ans.</s></text>
+      </align></unit>
+      <unit time="00:12:44" speaker="Félicien"><align>
+        <text langid="kin"><s>Ushobora kutubwira icyo uregwa ?</s></text>
+        <text langid="eng"><s>Would you tell us the crime you are accused of?</s></text>
+        <text langid="fra"><s>Quelle est la raison de ta détention?</s></text>
+      </align></unit>
+      <unit time="00:12:47" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ndegwa Jenoside.</s></text>
+        <text langid="eng"><s>I am accused of genocide.</s></text>
+        <text langid="fra"><s>Crime de Génocide.</s></text>
+      </align></unit>
+      <unit time="00:12:49" speaker="Félicien"><align>
+        <text langid="kin"><s>Watubwira mu magambo arambuye, ibyo uregwa byose,  aho wabikoreye,  n' uko byagenze ?</s></text>
+        <text langid="eng"><s>Would you please tell us in details what you did and where you did it?</s></text>
+        <text langid="fra"><s>Explique-nous en large toutes les allégations portées contre toi, où et comment as-tu commis les crimes?</s></text>
+      </align></unit>
+      <unit time="00:12:56" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubundi muri mirongo cyenda na kane [1994] intambara yateye ...yateye ndeba. Cyane cyane iby'aha i Murambi nibyo mvuga ho uruhare rwabyo. Aha i Murambi twari turi ku irondo, turi kumwe n'abaserire, ducanye ngo tureba umwanzi, ngo adahita.</s></text>
+        <text langid="eng"><s>I witnessed the beginning of the war of 1994. And I will emphasize much on the Murambi events. It was here in Murambi where we were on a night patrol together with other soldiers. We were making light so as to reveal the enemy passing by.</s></text>
+        <text langid="fra"><s>En  1994, quand la guerre a éclaté, j'ai tout vu! Je vais surtout parler de ce qui s'est passé ici à Murambi. Nous étions entrain de patrouiller avec les chefs de cellules, nous avions fait un feu pour éviter que l'ennemi ne nous surprenne.</s></text>
+      </align></unit>
+      <unit time="00:13:23" speaker="Félicien"><align>
+        <text langid="kin"><s>Iryo rondo ntiwatubwira aho mwarikoreraga ?</s></text>
+        <text langid="eng"><s>Would you tell us where the patrol was taking place?</s></text>
+        <text langid="fra"><s>Où est-ce que cette patrouille a eu lieu?</s></text>
+      </align></unit>
+      <unit time="00:13:25" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Twarikoreraga iwacu mu cyaro serire Gashiha... secteur Muganza, commune Karama.</s></text>
+        <text langid="eng"><s>It took place in our home village in Gashiha cell, in Muganza sector in Karama commune.</s></text>
+        <text langid="fra"><s>Chez nous, dans la cellule Gashiha, secteur Muganza, commune Karama.</s></text>
+      </align></unit>
+      <unit time="00:13:29" speaker="Félicien"><align>
+        <text langid="kin"><s>Nk'iryo rondo ni bande bari bararitegetse?  Dusobanurire gatoya mbere y'uko utubwira iby'i Murambi?</s></text>
+        <text langid="eng"><s>Who organized it? Briefly explain to us about the patrol, before you tell us what happened in Murambi.</s></text>
+        <text langid="fra"><s>Cette patrouille a été ordonnée par qui? Explique- nous un peu avant de continuer sur ce qui s'est passé à Murambi.</s></text>
+      </align></unit>
+      <unit time="00:13:40" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Irondo ryari ryarategetse na responsable Anastase Uwihanganye. Abitegetswe na bourgmestre Ngenzahayo. Twarikoranaga na ba nyumbakumi na responsable, tugahinduranya kurara.  Utariraye yarahanwaga, twahigaga...ngo turahiga umwanzi. Niko badutegekaga.</s></text>
+        <text langid="eng"><s>A certain local leader whose name was Anastase Uwihanyanye organized it. He had got an order from Ngezahayo the burgomaster. We patrolled with other local leaders in shifts and whoever would try to dodge would be punished. It was an order from the authorities that we should hunt for the enemy.</s></text>
+        <text langid="fra"><s>La patrouille a été ordonnée par le responsable Uwihanganye Anastase mais il tenait l'ordre du bourgmestre Ngezahayo. Nous patrouillions avec des 'Nyumbakumi' [responsables-de-dix-maisons], le responsable du secteur, nous nous remplacions à certaines heures et celui qui ne patrouillait pas était puni. On nous disait qu'il s'agissait de chercher l'ennemi.</s></text>
+      </align></unit>
+      <unit time="00:14:05" speaker="Félicien"><align>
+        <text langid="kin"><s>None se uwo mwanzi mwaramubonye aho ku irondo ?</s></text>
+        <text langid="eng"><s>Did you catch that enemy on that patrol?</s></text>
+        <text langid="fra"><s>Et cet ennemi, vous l'avez retrouvé lors de votre patrouille?</s></text>
+      </align></unit>
+      <unit time="00:14:08" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ku irondo nta muntu wahaguye. Igihe cyaje kugera, hari ku itariki ya cumi n'umunani z'ukwezi kwa kane [18 /04 /1994].  Baratubwira... résponsible Uwihanganye... haza kuza umuntu,  wari umure...umunyumba kumi, aravuga ngo...ngo: Ngezahayo... azana urupapuro ruhawe na Ngezahayo amabwiriza. Kuri izo tariki cumi n'umunani twari ducanye umuriro ku irondo, turi iwacu mu cyaro. Ngo: abantu bose... ngo: buracya ngo: saa... hari saa sita z'ijoro,  niho twabonye abo bantu babiri. Ngo: tugende, ngo: responsable Uwihanganye, ngo: abyutse abantu bose, ngo bajye kurwanya abanzi ngo i Murambi hano. Hari ku itariki cumi n'umunani [18 /04 /1994].  Icyo gihe twari ducanye umuriro, responsable abyutsa abantu bose, tuzana impiri.  Ati: "kandi mwitwaze impiri, n'imipanga. Mujye...ngo: mujye kurwanya umwanzi hano i Murambi ahangaha." Njye nari ndi aho ducanye umuriro, nanjye narumvaga  ku irondo nari mpari. Responsable abyutsa abantu, icyo gihe twaje turi abantu nka mirongo itatu tuvuye muri cellure. Turaza tubungirana n'abandi ba ruguru, tuza turi benshi, ariko abenshi nzi amazina yabo. Turaza tugeze ahantu bita ku Kabuga ku 'gacentere', mpasanga   umuntu wari Interahamwe witwa Ngaje, afite imbunda. Atujya imbere, ubwo twari tumaze kuba nk'abantu mirongo itandatu, turaza tugeze ahantu bita 'ku w'akato' hano hakurya tuhahurira na conseiller w'iwacu.</s></text>
+        <text langid="eng"><s>On the patrol, no one died there. Time came... it was on the 18th April at around midnight, when a certain local leader came with a paper from Ngezahayo commanding that everyone should get out of their houses and go to hunt the enemy. He added that everyone should go with his weapon and fight an enemy here in Murambi. I heard him saying it; we were about 30 from that cell. Other people immediately joined us so the number increased. I know most of the people who were there. When we reached a certain centre called Kabuga, we found an Interahamwe called Nganze who had a gun; therefore he became our leader. We were about sixty people; we walked up to Wakato and met our counselor.</s></text>
+        <text langid="fra"><s>Personne n'est mort à la patrouille sauf que par après, le 18 avril 1994, un Nyumbakumi [responsable-de-dix-maisons] a apporté un message. Il a dit: «Ceci est un document envoyé par Ngezahayo. Sur le papier figuraient des instructions. Nous étions chez nous au village entrain de veiller autour du feu, puis vers...il était minuit...deux hommes sont venus dire: « Partons! Que le responsable Uwihanganye réveille tout le monde pour aller au front. L'ennemi est à Murambi. C'était le 18, le responsable a réveillé toutle monde puis il a dit: «Prenez des triques et des machettes, l'ennemi est justeici à Murambi!» Quand il a réveillé tout le monde, j'étais là près du feu, je l'écoutais! Nous sommes ensuite allés à Murambi, nous étions nombreux, je connais les noms de beaucoup d'entre eux. Nous sommes descendus puis quand nous sommes arrivés à Kabuga, à un petit centre, il y avait un Interahamwe appelé Ngaje. Il avait un fusil puis il est passé devant, nous l'avons suivi, nous étions environ 60 puis quand nous sommes arrivés à 'Ku w'akato', notre Conseiller était là.</s></text>
+      </align></unit>
+      <unit time="00:16:16" speaker="Félicien"><align>
+        <text langid="kin"><s>Witwa nde ?</s></text>
+        <text langid="eng"><s>What was his name?</s></text>
+        <text langid="fra"><s>Quel est son nom?</s></text>
+      </align></unit>
+      <unit time="00:16:17" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Witwa Kabera. Abantu...igitero cyari kimaze kuremera, ari kinshi. Icyo gihe hari ninjoro, byari bimaze nko kuba nka saa munani z'ijoro. Abantu ari benshi, baratubwira bati: "noneho dore abatutsi bari hano hakurya i Murambi, nimwihinduranye, mwambare inturusu. Ati: bataza...ati: kuko, ati: nabo...ati: hariho igihe bakwambara inturusu, cyangwa bakambara ibirere, ati: nimwihinduranye, ati: mwambare inturusu." Duca inturusu, turazambara,  tubitegetswe na responsable na conseiller. Tuhageze nahasanze undi muntu  ufite imbunda witwa Saveri, nawe arafunze, wari ufite imbunda. Batujya imbere... bon,  turahaguma. Haza umuntu uvuye hano i Murambi, aravuga ngo: "byapfubye, ngo: turi bakeya, ngo: nidutahe tuzagaruke undi munsi." Ntitwa...ntibaza ku... ntitwahatera... ntibahatera turi kumwe n'abo ba... bafite imbunda bari baturi imbere, twe dufite impiri n'i...n'imipanga. Uwo munsi kuri cumi n'umunani [18 /04 /1994], dusubira imuhira. Kuri makumyabiri na rimwe [21/ 04 /1994] turongera... twari ku irondo ati: "noneho  byakomeye, ati: nimuze dusubire i Murambi, ati: itariki n'iyingiyi."  Turaza tuza turi benshi noneho, ndi kumwe...abo twabyukanye iwacu , nari ndi kumwe na nyumbakumi witwa Senkware,  ari hanze;  ndi kumwe n'uwitwa Serujangwe, ari hanze nawe...</s></text>
+        <text langid="eng"><s>He was called Kabera. The number of attackers had really increased; it was about 8 o'clock in the evening. Then we were told that the Tutsi were in Murambi. Then we were asked to put on eucalyptus leaves since they might also come while camouflaged. Then we wore the eucalyptus leaves. It was a command from the counselor.  When we reached there, we found a man called Xavier. He had a gun... he is also in prison. After sometime, a certain man came from Murambi and told us it was no longer possible because we were few. That we should leave and come back another time. Therefore, we didn't attack on that day. We went back home with our leaders. On 21st they told us that things had worsened that we should go back to Murambi. At that time we went back and the number[of attackers] had increased. I was with our local leader called Senkware and another one called Serujangwe. All of them are out.</s></text>
+        <text langid="fra"><s>Kabera. Notre groupe était encore plus dense. Il était vers 2heures du matin puis le conseiller nous a dit: « les Tutsi sont là à Murambi...il faut  vous déguiser, portez des feuilles d'eucalyptus parce qu'il se peut qu'ils...qu'ils mettent ces feuilles aussi ou alors celles de bananes...non, mettez des feuilles d'eucalyptus. Nous avons ensuite coupé des feuilles d'eucalyptus que nous avons porté à l'ordre du conseiller et du responsable. Quand je suis arrivé, il y avait un autre Interahamwe appelé Xavier, il est en prison aussi. Il est passé devant puis soudain est arrivé un type venant de Murambi qui disait: «Nous ne sommes pas assez nombreux. Nous ferons mieux de revenir une autre fois.» Nous n'avons pas envahi...ils n'ont pas envahi le lieu...ils ne l'ont pas envahi en ma présence. Ils avaient des armes à feu et nous des triques et des machettes. Nous sommes rentrés ce jour là, c'était le 18 avril. Le 20, nous étions entrain de veiller comme d'habitude puis on est venu nous dire: «Venez! Nous repartons à Murambi. C'est aujourd'hui ou jamais!» Nous nous sommes levés puis nous sommes partis. J'étais avec...avec ces gens de chez nous qui s'étaient réveillés avec moi. J'étais avec le Nyumbakumi [responsable-de- dix-maisons] Senkware, il est à l'extérieur; j'étais aussi avec Seruyenge. Il est à l'extérieur aussi.</s></text>
+      </align></unit>
+      <unit time="00:18:00" speaker="Félicien"><align>
+        <text langid="kin"><s>Kuvuga ngo: "ari hanze bisobanuye iki? Ari hanze y'igihugu...?</s></text>
+        <text langid="eng"><s>What do you mean by saying that, "he is out"? Does it mean out of the country...?</s></text>
+        <text langid="fra"><s>'A l'extérieur' ça veut dire quoi? A l'étranger?</s></text>
+      </align></unit>
+      <unit time="00:18:03" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ntafunze... Yee, abo ntibafunze.</s></text>
+        <text langid="eng"><s>Not arrested... I mean they are not imprisoned.</s></text>
+        <text langid="fra"><s>En liberté, ils sont en liberté.</s></text>
+      </align></unit>
+      <unit time="00:18:06" speaker="Félicien"><align>
+        <text langid="kin"><s>Ariko bari ino ?</s></text>
+        <text langid="eng"><s>But they are in the country?</s></text>
+        <text langid="fra"><s>Mais ils sont dans le pays!</s></text>
+      </align></unit>
+      <unit time="00:18:07" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Bari ino.  abo bose bari hanze.</s></text>
+        <text langid="eng"><s>Yes they are all inside the country but out of jail.</s></text>
+        <text langid="fra"><s>Ils sont dans le pays mais en liberté.</s></text>
+      </align></unit>
+      <unit time="00:18:10" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Turaza igitero cyari kiremereye. Turaza n'abo...musirikare witwa Ngaje yakoraga i Nyanza yari umusuruveya [urinda gereza] afite  imbunda y'igiti [iriya y'igiti, itari icyuma], afite irimo amasasu.  N'uwo saveri turi kumwe. Conseiller noneho aturemesha inama, na responsable turafunganye [ni na mukuru wanjye ni n'ishumi yanjye tuva inda imwe]. Narabimwemeje yanga kubyemera. Ku buryo banyirukaniye n'umugore ntawe uhari ngo kubera ko mvuga ibyo. Ubwo responsable adushyiramo iyo nkuru, na conseiller adushyiramo iyo nkuru, ati: "nimuze ati: bourmestre Ngezahayo, atubwiye ko: byanze bikunze, ngo: abonye urupapuro, préfet yamwoherereje 'Bukibaruta'[izina rya préfet] yuko muri Muganza iwacu, tugomba gutabara abandi ngo: tukaza i Murambi; ngo kwica abatutsi." Twaraje kuri makumyabiri na rimwe [21 /04 /1994]. Kuri cumi n'umunani   [18 /04 /1994] igitero cyari cyapfubye twaje kuri mmakumyabiri na rimwe [21 /04 /1994]. Tugeze ku W'akato hano hakurya...  Ubwo ngubwo twabumbiye hamwe twese hano hakurya, ku gashuri kari hano hakurya.. Twambaye inturusu babidugetse, turaza,  twari ikiriri,  ngeze hari...hano... ahangaha twari abantu benshi, tuhahurira na Mudasomwa,  imodoka zatunze abaturage,  abaturage bari benshi cyane... benshi cyane...  Abaturage.</s></text>
+        <text langid="eng"><s>We came. We were in a large group led by the man called Ngaje who was a supervisor in Nyanza. Then we held a meeting with two local leaders and both of them are brothers; we are together here in prison. I told him to confess but he refused. And in return, they chased away my wife because I was trying to make them confess. Those two leaders convinced us that burgomaster Ngenzahayo had a written command from the mayor, which was saying that we had to go to Murambi to kill the tutsi in order to save our people. We came here on 21st and gathered up at a nearby school. We were commanded to wear eucalyptus leaves, then we moved from Kiribi up to here. We met people from Mudasomwa there and many other people who had been gathered from many other places using a lorry.</s></text>
+        <text langid="fra"><s>Nous sommes venus. Le groupe  d'assaut était grand. Nous sommes arrivés, Ngaje, qui travaillait à Nyanza comme surveillant, avait un fusil de chasse, il y avait des balles dedans, Xavier était là aussi. Le conseiller a organisé une réunion, j'étais avec le responsable, c'est mon frère, nous sommes ensembles en prison, il était mon complice, je le lui ai dit mais il a refusé de me croire....et ils ont même chassé ma femme parce que je dis tout ça. Le conseiller et le responsable nous ont ensuite fait comprendre que le bourgmestre Ngezahayo avait ditqu'il avait reçu un courrier venant du préfet Bukibaruta et que ce dernier disait qu'on le veuille ou non, les habitants de Muganza, devaient aller aider les autres à tuer les Tutsi à Murambi. Puisque le 18 avril, l'attaque avait échoué, nous sommes revenus le 21. Nous sommes descendus puis arrivés à 'Ku w'akato', il y avait beaucoup de gens, nous étions très nombreux, les gens de Mudasomwa étaient là aussi...nous étions une très grande foule, les gens avaient été transportés par des véhicules, nous étions très nombreux!</s></text>
+      </align></unit>
+      <unit time="00:20:07" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubwo ngubwo twamaze kugera hakurya ahangaha. Bati: "noneho nimuhagaruke mujye i Murambi." Turaza turi abaturage benshi. Abantu bari baturimo babiri, bari bafite  imbunda, aribo baturi  imbere .  Uwitwa Saveri yari afite imbunda. Uwitwa ngaje yari afite i mbunda.  Tuza turi kumwe na conseiller, turi kumwe na nyumbakumi witwa Sebukima Innocent. Turi kumwe na nyumbakumi witwa Senkware Vénuste; turi kumwe na responsable Uwihanganye. Turaza n'abaturage benshi cyane. Ba cellure kira... secteur Kiraro, na secteur Muganza.  Amasecteur atandukanye.  Ubwo turaza baduha amabwiriza ku W'akato. Twambara inturusu.  Turaza dufite impiri n'imipanga . Turaza tugeze hano i Murambi duhagarara hano hari inzu idasakaye, y'amatafari.</s></text>
+        <text langid="eng"><s>Therefore, when we got... here, they told us to stand up and go to Murambi. We had two people among us who had guns; it was Xavier and Ngaje. We were with the counselor and other local leaders and one of them was called Sebukima Innocent, the other one was called Senkware Vénuste. Uwihanganye was also there. We were many people from different sectors like Muganza and Kiraro. They gave us the rules to follow and we were immediately told to wear eucalyptus leaves. We went with our machetes up to Murambi and stopped beside that house without a roof.</s></text>
+        <text langid="fra"><s>Ensuite on nous a dit: «L'étape suivante consiste à vous rendre à Murambi.» Nous sommes partis, deux d'entre nous avaient des armes à feu: Ngaje et Xavier, ils sont passés devant. Nous étions avec le conseiller et 'un responsable-de-dix-maison' appelé Sebukina Innocent, un autre Nyumbakumi [responsable-de-dix-maisons] était Senkware Vénuste, le responsable Uwihanganye et tant plusieurs indigènes. Nous étions nombreux, il y avait des gens originaires du secteur Kiraro, de Muganza...plusieurs secteurs. Nous avons reçu des instructions là à 'Ku w'akato', nous nous sommes camouflés avec des feuilles d'eucalyptus; puis nous sommes partis à Murambi. Quand nous sommes arrivés à Murambi, nous nous sommes arrêtés à une maison en briques dont la construction n'était pas complètement achevée.</s></text>
+      </align></unit>
+      <unit time="00:21:34" speaker="Apollon"><align>
+        <text langid="kin"><s>Ni iyihe mu nzu zihari ?</s></text>
+        <text langid="eng"><s>Which one is it among the ones that are there?</s></text>
+        <text langid="fra"><s>Parmi les maisons qui sont là, c'est laquelle?</s></text>
+      </align></unit>
+      <unit time="00:21:36" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ngiriya. Iriya nzu ituzuye. Tuhahurira...mbona i modoka...mbona imodoka ya Mudasomwa, irimo Interahamwe, nyinshi cyane.  Muri position mbona préfet  Bukibaruta mbona n'umukomanda witwaga Sebuhura. mbaza abaturage nti: "ese bariya ko ntabazi, nti: ni bande?"  Bati: "bariya ni abatagetsi bo ku Gikongoro."  Bati: "commandant aje gutanga commandement [amategeko yo kurasa] ngo: abasirikare barase. Abajandarume." Ati: "namwe abaturage, ati: ubu mugiye gutera amabuye,  ati: agacitse ku icumu, ati: mugakubita ubuhiri." Ubwo...ubwo baragiye. Ngiye ku...noneho abari baturimo bakuru, bari bayoboye ibitero, bati: "dutangiye guhangana n'abatutsi." Duterana amabuye, baradutera,  baratunesha . Baratwirunkana batugeza hariya ku muhanda wa Murambi, hariya. Umurambi uza i Muha...umuhanda uza hano utaye uriya...uyu uza hano imodoka zigendamo. Ubwo abasirikare nagiye kubona, bavumbutse aha mu mashyamba hose ahangaha, bari baharyamye .  Barohamo za grenade, barasa n'imbunda, na babandi twazanye nabo, barohamo grenade bari bazifite, bajya kuzana izindi, noneho abaturage biroha mu mpunzi zari zihari z'abatutsi, baratema n'imipanga abandi babicisha ubuhiri .</s></text>
+        <text langid="eng"><s>It's that one over there, the unfinished one. When we reached there, I saw Mudasomwa's vehicle full of Interahamwe. I saw mayor Mukibaruta and commandant Sebuhura. Then I asked who they were because I had never seen them. I was told they were local leaders of Gikongoro. The Commandant had also come to give orders to policemen to shoot and to the rest of the villagers to throw stones and hack the ones who would survive the shootings. Some villagers left and local leaders said it was time to challenge the Tutsis. We threw stones at each other but we were defeated, they run after us up to the Murambi road, the main road that cars use to get here, and then I saw soldiers coming from the bushes where they were hiding. They threw grenades and shot. Even the soldiers we had come with started throwing grenades. Later they even had to refuel their supply. The villagers attacked the Tutsi who had sought refuge there. They hacked them with machetes and others were killed with clubs.</s></text>
+        <text langid="fra"><s>C'est celle là, celle qui n'est pas achevée. C'est là que nous nous sommes rencontrés, quand j'ai regardé à côté, il y avait un véhicule qui transportait les Interahamwe de Mudasomwa. Ils étaient très nombreux. De l'autre côté, je voyais le préfet Bukibaruta et le commandant Sebuhura. J'ai ensuite demandé à quelqu'un qui était à côté de moi: «Qui sont ces gens là, je ne les connais pas!» Il m'a répondu: «C'est eux les autorités de Gikongoro.»  Puis  il a continué en disant: «Le commandant est ici pour donner l'ordre aux gendarmes de tirer et aux indigènes lancer des pierres et abattre tout survivant tentant de s'échapper!» Ils sont allés...quand je suis allé...il y avait des grandes personnalités qui prenaient les devants de l'attaque. Nous avons commencé à lutter contre les Tutsi en leur lançant des pierres mais ils répliquaient aussi. Nous nous sommes affrontés puis après, comme ils gagnaient la bataille, nous avons fui, ils nous ont poursuivis jusqu'à la route principale...la route sur laquelle passent les voitures...mais après, j'ai été surpris de voir des militaires sortir des brousses, ils s'étaient cachés dedans puis ils sont sortis en tirant des coups de feu, en lançant des grenades, parmi les civils avec qui j'étais certains en avaient, ils les lançaient aussi. Quand ils n'en avaient plus, ils sont allés en chercher d'autres. Ensuite les civils se sont jetés dans la foule des déplacés puis les ont massacrés avec des machettes et des triques.</s></text>
+      </align></unit>
+      <unit time="00:23:35" speaker="Félicien"><align>
+        <text langid="kin"><s>Iyo ntambara...ubwo bwicanyi bwamaze nk'igihe kingana iki ?</s></text>
+        <text langid="eng"><s>For how long did the killing take place?</s></text>
+        <text langid="fra"><s>Combien de temps cette guerre, plutôt ces massacresont-ils duré ?</s></text>
+      </align></unit>
+      <unit time="00:23:40" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubwo bwicanyi bwagejeje saa... bwagejeje saa cyenda... bwagejeje saa kumi. Bugiye gucya, niho bwagejeje, saa kumi.  Amasasu nibwo yazimye.</s></text>
+        <text langid="eng"><s>The killings stopped at 4:00 a.m, when it was almost dawn. That is when the shootings stopped.</s></text>
+        <text langid="fra"><s>Ces massacres ont continué jusqu'à...jusqu'à  3 heures, 4 heures du matin. C'est à cette heure que les tirs ont cessés.</s></text>
+      </align></unit>
+      <unit time="00:23:57" speaker="Félicien"><align>
+        <text langid="kin"><s>Nyuma hakurikiyeho iki?</s></text>
+        <text langid="eng"><s>What happened afterwards?</s></text>
+        <text langid="fra"><s>Qu'est-ce qui a suivi?</s></text>
+      </align></unit>
+      <unit time="00:23:59" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nyuma hakurikiyeho...hakurikiyeho... ...barasahuye, babambura ibikapu, babisahura intumbi.</s></text>
+        <text langid="eng"><s>They [Interahamwe] started looting their property and stealing bags from the dead bodies.</s></text>
+        <text langid="fra"><s>Il s'en est suivi que...que...ils ont pillé, ils ont dépouillé les cadavres.</s></text>
+      </align></unit>
+      <unit time="00:24:13" speaker="Félicien"><align>
+        <text langid="kin"><s>None se nkawe muri iyo ntambara yabaye, ibikorwa byawe wakoze ni ibihe? Ese hari abantu wishe ?</s></text>
+        <text langid="eng"><s>During that war that took place, which role did you play? Did you kill some people?</s></text>
+        <text langid="fra"><s>Quels ont été tes œuvres dans cette guerre? As-tu tué quelqu'un?</s></text>
+      </align></unit>
+      <unit time="00:24:21" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibikorwa byange? Narabishe.</s></text>
+        <text langid="eng"><s>The role that I played...I killed some people.</s></text>
+        <text langid="fra"><s>Mes œuvres? J'en ai tué!</s></text>
+      </align></unit>
+      <unit time="00:24:24" speaker="Félicien"><align>
+        <text langid="kin"><s>Nka bangahe ?</s></text>
+        <text langid="eng"><s>How many did you kill?</s></text>
+        <text langid="fra"><s>Combien?</s></text>
+      </align></unit>
+      <unit time="00:24:25" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nishe babiri</s></text>
+        <text langid="eng"><s>I killed two people.</s></text>
+        <text langid="fra"><s>J'ai tué deux personnes.</s></text>
+      </align></unit>
+      <unit time="00:24:27" speaker="Félicien"><align>
+        <text langid="kin"><s>Wabishe gute? Aho bagusanze...?</s></text>
+        <text langid="eng"><s>How did you kill them and where did they find you?</s></text>
+        <text langid="fra"><s>Commentles as-tu tuées?</s></text>
+      </align></unit>
+      <unit time="00:24:30" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Bansanze hariya hino birukanka, mbicisha ubuhiri babiri.</s></text>
+        <text langid="eng"><s>They found me there, as they were running away and I used a club to kill them both.</s></text>
+        <text langid="fra"><s>Ils m'ont trouvé là où j'étais, ils sont venus en courant. Je les ai tués avec une trique.</s></text>
+      </align></unit>
+      <unit time="00:24:36" speaker="Félicien"><align>
+        <text langid="kin"><s>Abo mwari kumwe se ku ruhande rwawe bo ntabo wabonaga bica...?</s></text>
+        <text langid="eng"><s>What about those in your company, didn't you see them killing...?</s></text>
+        <text langid="fra"><s>Et les autres civils à côté de toi, ne tuaient-ils paseux ?</s></text>
+      </align></unit>
+      <unit time="00:24:40" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo twari kumwe b'abaturage uwacikaga ku icumu agiye gucika, nabo babicishaga ubuhiri. Abo baturage twari turi kumwe.</s></text>
+        <text langid="eng"><s>Yes I did. The local people we were with would get any Tutsi who would try to escape and kill him or her with a club... I was with them...</s></text>
+        <text langid="fra"><s>Si, quand un Tutsi s'échappait, ils le tuaient avec des triques. J'étais avec ces gens...</s></text>
+      </align></unit>
+      <unit time="00:24:49" speaker="Félicien"><align>
+        <text langid="kin"><s>Ugereranyije urabona uko Murambi ingana. Mwari muhagaze ahantu hamwe? Mwari muyizengurutse... byari bimeze gute?</s></text>
+        <text langid="eng"><s>If you consider the size of Murambi, were you all on one side...? Were you surrounding it all...? How was it?</s></text>
+        <text langid="fra"><s>Si on considère la superficie de Murambi, vous l'encercliez? Ou bien vous étiez à un endroit fixe, explique-nous un peu.</s></text>
+      </align></unit>
+      <unit time="00:24:57" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo ngabo b'abaturage. Bamaze... ...abasirikare bamaze kubaha ingufu, bari abaturage benshi, nibo bagendaga bagira... basonga.</s></text>
+        <text langid="eng"><s>After the soldiers reinforced the [Murambi] natives, they continued with the war.</s></text>
+        <text langid="fra"><s>Ces civils...quand ils ont été renforcés par les militaires, ils sont entrés pour achever.</s></text>
+      </align></unit>
+      <unit time="00:25:14" speaker="Félicien"><align>
+        <text langid="kin"><s>Nyine ndi kukubaza  urareba Murambi , igihe mwicaga. Mwari muhagaze ahantu hamwe,  cyangwa mwari muzengurutse ikigo i nyuma ?</s></text>
+        <text langid="eng"><s>I am asking you whether you surrounded the whole area or whether you were in one place.</s></text>
+        <text langid="fra"><s>Je t'ai demandé si, lorsque vous étiez entrain de tuer, vous étiez à un endroit fixe, ou si vous aviez encerclé tout Murambi?</s></text>
+      </align></unit>
+      <unit time="00:25:23" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abasirikare bari bazengurutse ikigo, bari kurasa. Abaturage  bahagaze kuri iriya nzu. Ariko abatutsi bamaze guhunga birukatse, abaturage barabirukankije, babasanga mu kigo. Babasanga no mu mazu bihishemo, barabatemagura.</s></text>
+        <text langid="eng"><s>Soldiers are the ones who surrounded the area but citizens were just beside that house. But when the Tutsis started running Interahamwe followed them in that school and even in the homes they where they were hiding and started hacking them.</s></text>
+        <text langid="fra"><s>Les militaires avaient encerclé l'établissement, les civils étaient au niveau à cette maisonlà...quand les Tutsi essayaient de s'échapper, les civils les poursuivaient jusqu'à ce qu'ils rentrent dans l'établissement, dans les maisons où ils se cachaient...les civils les y trouvaient puis les massacraient.</s></text>
+      </align></unit>
+      <unit time="00:25:40" speaker="Apollon"><align>
+        <text langid="kin"><s>Wowe ubwawe hari abantu wishe wari uzi ?</s></text>
+        <text langid="eng"><s>You personally, did you kill anyone you knew before?</s></text>
+        <text langid="fra"><s>As-tu personnellement tué quelqu'un que tu connaissais?</s></text>
+      </align></unit>
+      <unit time="00:25:45" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Njyewe ubwanjye nta bantu nishe nari nzi, ariko hari umututsi twari duturanye bamwishe ndeba. Hari n'undi mukonseye witwaga Budengeri, hari umuntu wamwishe urushinyaguro ndeba</s></text>
+        <text langid="eng"><s>I didn't kill anyone I knew but there is some Tutsi neighbour who was killed while I was seeing. Even counselor Budengeri was present. Someone killed that Tutsi a painful death while I was watching.</s></text>
+        <text langid="fra"><s>Personnellement, je n'ai tué personne que je connaissais mais il y a un Tutsi qu'on a tué sous mes yeux. Je le connaissais, c'était mon voisin. Il y avait un conseiller Bundegeri, on l'a tué d'une façon atroce devant moi!</s></text>
+      </align></unit>
+      <unit time="00:26:02" speaker="Félicien"><align>
+        <text langid="kin"><s>Uwo yari conseiller wa hehe ?</s></text>
+        <text langid="eng"><s>He was a counselor of which area?</s></text>
+        <text langid="fra"><s>Il était conseiller de quel secteur?</s></text>
+      </align></unit>
+      <unit time="00:26:03" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yari conseiller wa Nyamagabe yamukuyemo n'ibihumbi bitanu [5000frw]</s></text>
+        <text langid="eng"><s>He was a counselor from Nyamagara. He even took 5,000 Frw from that Tutsi.</s></text>
+        <text langid="fra"><s>Il était conseiller de Nyamagabe. Celui qui l'a tué a sorti 5000Frw de sa poche!</s></text>
+      </align></unit>
+      <unit time="00:26:11" speaker="Apollon"><align>
+        <text langid="kin"><s>Abo wishe wabishe ute... wabishe mu gihe kingana iki ?</s></text>
+        <text langid="eng"><s>What about those you killed, how did you kill them...how long did you take to kill people?</s></text>
+        <text langid="fra"><s>Ceux que tu as tués, tu les as tués comment...en quel espace de temps?</s></text>
+      </align></unit>
+      <unit time="00:26:14" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo nishe... namukubise ubuhiri, ahita yuma.  Undi nawe mukubita ubuhiri, ahita yuma.</s></text>
+        <text langid="eng"><s>The people I killed... I hit him with a club and he died right way. The same for the other one, I hit him with the club and he immediately died.</s></text>
+        <text langid="fra"><s>Ceux que j'ai tués...le premier j'ai l'ai frappé un coup de trique. Il est mort sur-le-champ. L'autre de même.</s></text>
+      </align></unit>
+      <unit time="00:26:25" speaker="Apollon"><align>
+        <text langid="kin"><s>Wabishe mu hagati y'igihe kingana iki? Wabishe mu mwanya umwe,  cyangwa wabishe nko mu masaha atandukanye ?</s></text>
+        <text langid="eng"><s>What interval of time did you kill them? Did you kill them at the same time or it was at different times?</s></text>
+        <text langid="fra"><s>Tu les as tués au même moment ou à des heures différentes?</s></text>
+      </align></unit>
+      <unit time="00:26:29" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo nishe babiri, nabishe... nk'uko mvuze, ako kanya namukubise ubuhiri mu mutwe, ahita apfa.</s></text>
+        <text langid="eng"><s>I killed two people... I killed them in... As I've just said, I hit him with a club and he immediately died.</s></text>
+        <text langid="fra"><s>J'en ai tué deux...comme je viens de te le dire, je l'ai frappé, il est mort sur-le-champ.</s></text>
+      </align></unit>
+      <unit time="00:26:40" speaker="Apollon"><align>
+        <text langid="kin"><s>Hari saa ngahe, icyo gihe ?</s></text>
+        <text langid="eng"><s>What time was it?</s></text>
+        <text langid="fra"><s>Quelle heure était-il?</s></text>
+      </align></unit>
+      <unit time="00:26:41" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Njye namwishe, bugiye gucye mu gitondo, nka saa...nka saa kumi za mugitondo.</s></text>
+        <text langid="eng"><s>I killed him towards morning. It was around 4:00 a.m.</s></text>
+        <text langid="fra"><s>Je l'ai tué à l'aurore, vers... 4 heures du matin.</s></text>
+      </align></unit>
+      <unit time="00:26:49" speaker="Apollon"><align>
+        <text langid="kin"><s>Wabonye umwanya wo kumwitegereza, ngo umenye ko ari umututsi ?</s></text>
+        <text langid="eng"><s>Did you get time to properly identify whether he was a Tutsi or not?</s></text>
+        <text langid="fra"><s>Tu as eu le temps de le scruter pour être sûr qu'il était Tutsi?</s></text>
+      </align></unit>
+      <unit time="00:26:54" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ni umututsi, kuko nta muhutu wari uhari.</s></text>
+        <text langid="eng"><s>I believe he was a Tutsi because there was no Hutu among them.</s></text>
+        <text langid="fra"><s>Il ne pouvait qu'être Tutsi puisqu'il n'y avait pas de Hutu[ici]!</s></text>
+      </align></unit>
+      <unit time="00:26:58" speaker="Félicien"><align>
+        <text langid="kin"><s>Icyabikubwiraga n'iki se ?</s></text>
+        <text langid="eng"><s>What assured you that he was Tutsi?</s></text>
+        <text langid="fra"><s>Qu'est-ce qui te le faisait croire?</s></text>
+      </align></unit>
+      <unit time="00:27:01" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Icyabimbwiye ko ari umututsi, ni uko aribo bari bahari, nta bandi bari bahari.</s></text>
+        <text langid="eng"><s>It's because the Tutsi were the only ones there. No one else was there.</s></text>
+        <text langid="fra"><s>C'est parce qu'il n'y avait que des Tutsi et personne d'autre!</s></text>
+      </align></unit>
+      <unit time="00:27:10" speaker="Apollon"><align>
+        <text langid="kin"><s>Naho ukurikiyeho wamwishe  ryari? Wamwishe saa ngahe?</s></text>
+        <text langid="eng"><s>And when did you kill the second one?</s></text>
+        <text langid="fra"><s>La deuxième personne, tu l'as tué à quelle heure?</s></text>
+      </align></unit>
+      <unit time="00:27:13" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uku...bose ni igihe kimwe.</s></text>
+        <text langid="eng"><s>Like this... I killed both of them at the same time.</s></text>
+        <text langid="fra"><s>Euh! je les ai tué au même moment.</s></text>
+      </align></unit>
+      <unit time="00:27:17" speaker="Apollon"><align>
+        <text langid="kin"><s>Wabishe mu minota mikeya ikurikirana ?</s></text>
+        <text langid="eng"><s>Did you kill them in a few minutes interval?</s></text>
+        <text langid="fra"><s>A la  même minute?</s></text>
+      </align></unit>
+      <unit time="00:27:19" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nabishe mu minota mikeya ikurikirana .</s></text>
+        <text langid="eng"><s>I killed both of them in a few minutes interval.</s></text>
+        <text langid="fra"><s>En un laps de temps très court.</s></text>
+      </align></unit>
+      <unit time="00:27:23" speaker="Apollon"><align>
+        <text langid="kin"><s>Tuvuge niba uwo muntu...aah, yarabayeho nyuma, ushobora kuba waragize ngo yapfuye ariko akaza kubaho. umubonye wamumenya ?</s></text>
+        <text langid="eng"><s>What if that person didn't die, would you recognize him today if you met him?</s></text>
+        <text langid="fra"><s>Il se pourrait que cette personne soit encore en vie, tu as cru qu'elle est morte du coup mais peut-être pas! Est-ce que si tu croises cette personne, tu peux la reconnaître?</s></text>
+      </align></unit>
+      <unit time="00:27:31" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mubonye kuko hari hahungiye ingeri nyinshi,  ntabwo namumenya .</s></text>
+        <text langid="eng"><s>I don't think I would recognize him because there were people of all kinds. So I wouldn't know him.</s></text>
+        <text langid="fra"><s>Etant donné qu'il y avait beaucoup de gens différents, je ne la reconnaîtrais pas!</s></text>
+      </align></unit>
+      <unit time="00:27:36" speaker="Apollon"><align>
+        <text langid="kin"><s>Ntabwo ujya wibuka nk'ukuntu yasaga , ngo uvuge uti: "umuntu nakubise yasaga atya?"</s></text>
+        <text langid="eng"><s>You don't even remember his looks...? Aren't you able to say, "The person I killed looked like so and so?"</s></text>
+        <text langid="fra"><s>Est-ce que tu te souviens de son image? Dire qu'elle était comme ça ou...</s></text>
+      </align></unit>
+      <unit time="00:27:41" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uko mbyibuka, nibuka uko yasaga.</s></text>
+        <text langid="eng"><s>I think I remember what he looked like.</s></text>
+        <text langid="fra"><s>Je m'en souviens.</s></text>
+      </align></unit>
+      <unit time="00:27:45" speaker="Apollon"><align>
+        <text langid="kin"><s>Ku buryo ubonye uwo muntu nk'uwo basa cyangwa ariwe ubonye wamumenya ?</s></text>
+        <text langid="eng"><s>So would you recognize him if you met?</s></text>
+        <text langid="fra"><s>De sorte que si tu vois quelqu'un qui lui ressemble ou lui/elle-même, tu peux le/la reconnaître!</s></text>
+      </align></unit>
+      <unit time="00:27:49" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Namumenya.</s></text>
+        <text langid="eng"><s>Yes I can recognize him.</s></text>
+        <text langid="fra"><s>Je peux le/la reconnaître.</s></text>
+      </align></unit>
+      <unit time="00:27:51" speaker="Apollon"><align>
+        <text langid="kin"><s>Ntabwo uzi aho abo bantu bavaga ?</s></text>
+        <text langid="eng"><s>Did you know where they came from?</s></text>
+        <text langid="fra"><s>Est-ce que tu sais d'où venaient ces  gens là [les Tutsi]?</s></text>
+      </align></unit>
+      <unit time="00:27:53" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo bantu ntabwo nzi aho bavaga. Bari bahunze. Bahungiye i Murambi</s></text>
+        <text langid="eng"><s>I didn't know where they came from; they had fled to Murambi.</s></text>
+        <text langid="fra"><s>Je ne sais, ils avaient trouvé refuge ici, à Murambi.</s></text>
+      </align></unit>
+      <unit time="00:28:01" speaker="Apollon"><align>
+        <text langid="kin"><s>None ku bwawe nk'icyo gihe wamwicaga wumvaga umwiciye iki ?</s></text>
+        <text langid="eng"><s>Did you have any reason for killing them?</s></text>
+        <text langid="fra"><s>Quand tu tuais cette personne là, qu'est-ce qui te poussait à le faire?</s></text>
+      </align></unit>
+      <unit time="00:28:04" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Numvaga ku bwanjye bitewe na... bitewe... na leta mbi, yari ya...n'abategetsi ubutegetsi bubi bwari bwari bwa...bwadushutse ngo twicane, niyo mpamvu yabinteye, ntabwo ubundi nari kubica.</s></text>
+        <text langid="eng"><s>It was just because of the bad leadership that forced us to kill but otherwise I would not have killed them.</s></text>
+        <text langid="fra"><s>Je me disais que...que c'était la faute de la mauvaise gouvernance qui nous avait incités à nous entretuer. Sans ça, je ne l'aurais pas fait!</s></text>
+      </align></unit>
+      <unit time="00:28:24" speaker="Apollon"><align>
+        <text langid="kin"><s>Kuba ari ubutegetsi bubi, ubizi ubu.  Kuko hari ubundi.  Icyo gihe iyo umenya ko ari bubi ntabwo uba warabishe. Hari impamvu yindi y'icyo gihe utari wamenya ko ubwo butegetsi ari bubi yatumye ubica. Ni iyihe mpamvu ?</s></text>
+        <text langid="eng"><s>You have recently known that it was a bad leadership because now there is a good one. I believe if you had known before that it was a bad leadership you would not have killed them. Therefore there should be other reasons that forced you to kill; would you tell us some of those reasons that might have forced you to kill.</s></text>
+        <text langid="fra"><s>Tu t'es rendu compte récemment qu'il s'agissait d'une mauvaise gouvernance, parce que si tu avais su que c'était ainsi, tu ne l'aurais pas  fait. J'aimerais que tu nous dises, ce temps là avant que tu ne te rendes compte qu'il s'agissait d'une mauvaise gouvernance, qu'est-ce qui t'as poussé à tuer? Quel était le mobile de ton crime?</s></text>
+      </align></unit>
+      <unit time="00:28:38" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Impamvu yatumye mbica icyo gihe. Impamvu yatumye mbica icyo gihe, ni uko icyo gihe bavugaga bati: "nimu...hariho ubwicanyi, bavuga ngo: umwanzi n'umwe ." Kandi tubitewe n'abategetsi, bati: " utamwica, utica Abatutsi. Ati: nawe turamwica."</s></text>
+        <text langid="eng"><s>The reason I killed them is because the authorities ordered us to. They said, "There is only one enemy and you must kill him or her, and if you don't, you yourself shall be killed."</s></text>
+        <text langid="fra"><s>Je les ai tués parce que...je les ai tués parce qu'on disait que...qu'il y avait les massacres et qu'il n'y avait qu'un seul ennemi: le Tutsi. Nos dirigeants nous disaient de tuer les Tutsi...et celui qui ne tuait pas serait tué à son tour.</s></text>
+      </align></unit>
+      <unit time="00:29:07" speaker="Félicien"><align>
+        <text langid="kin"><s>Nonese ku bwawe abo bantu wari warigeze ubabona ari abanzi ?</s></text>
+        <text langid="eng"><s>From your personal point of view, did they appear like your enemies?</s></text>
+        <text langid="fra"><s>A ton avis, est-ce ces gens étaient des ennemis?</s></text>
+      </align></unit>
+      <unit time="00:29:12" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo bantu nta n'ikintu twapfaga . Sinari no kubica... nta n'ikintu twapfaga sinari kubica, ni uko gusa... ni nk'ibintu... ahari... sina... nka... Kugirango nice abo bantu, baravugaga bati: "utamwica bati: natwe turamwica."</s></text>
+        <text langid="eng"><s>We never had any conflicts between us. In fact I wouldn't have killed them if it weren't that they told us that if we didn't kill them, they would definitely kill us.</s></text>
+        <text langid="fra"><s>Je n'avais aucun problème avec ces gens...je ne pouvais pas les tuer...il n'y avait aucun problème qui me pousse à les tuer...seulement je les ai tués parce qu'on disait que celui qui ne tuait pas mourait également!</s></text>
+      </align></unit>
+      <unit time="00:29:39" speaker="Apollon"><align>
+        <text langid="kin"><s>Urashaka kuvuga yuko wamwishe kubera ubwoba wari ufite, ko nutabica nawe bari bukwice?</s></text>
+        <text langid="eng"><s>Do you mean that you killed because you were afraid that you would be killed in case you didn't?</s></text>
+        <text langid="fra"><s>Tu veux donc dire que tu l'as tué de peur que ce ne soit toi qu'on tue au cas où tu ne le faisais pas?</s></text>
+      </align></unit>
+      <unit time="00:29:45" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Icyo gihe twari kumwe n'interahamwe zifite imbunda, kandi icyo gihe nari ndi mu gitero cy'abantu benshi. Ntabwo ari jye njyenyine nabo twari kumwe nabo barabishe.</s></text>
+        <text langid="eng"><s>By then we were with the Interahamwe who had guns. And I was in a very big attack, which had so many people. I wasn't the only one who killed, even those whom we were together killed.</s></text>
+        <text langid="fra"><s>J'étais avec des Interahamwe qui avaient des armes à feu, il y avait beaucoup de gens dans le groupe, ils tuaient également!</s></text>
+      </align></unit>
+      <unit time="00:30:01" speaker="Apollon"><align>
+        <text langid="kin"><s>Urashaka kuvuga yuko iyo icyo gihe, abo bantu utabica, wari guhita wicwa ako kanya? Hari uwakugiye inyuma aravuga ngo: "nutabica ndakwica?"</s></text>
+        <text langid="eng"><s>Are you trying to say that if you had refused to kill then, you would have been immediately killed? Is there anyone who came to you and said, "If you don't kill, I will kill you."?</s></text>
+        <text langid="fra"><s>Tu veux donc dire que si tu n'avais pas tué ces gens, on t'aurait tué sur-le-champ? Y a t-il quelqu'un qui t'a dit: «Si tu ne tues pas, moi je vais te tuer!»</s></text>
+      </align></unit>
+      <unit time="00:30:11" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo bantu iyo ntabi...abo bantu...niyo mpamvu nanjye numvise ibyo bintu ari bibi nkabyirega, abo bantu nabishe  nta kintu na kimwe bankoshereje, nta na kimwe, ku buryo nanjye byanteye agahinda yuko nishe bagenzi banjye, mbahoye ubusa .</s></text>
+        <text langid="eng"><s>That is why I realized that what I did was very bad and reported myself. I killed innocent people who hadn't done any thing wrong to me. That is why whenever I think about it, I become very miserable because I killed my fellow people yet they hadn't done anything to me.</s></text>
+        <text langid="fra"><s>Ces gens...je...voilà pourquoi je me suis rendu compte que ce que j'avais fait était mal, ces gens ne m'avaient fait mal en aucun cas, d'où la raison de plaider coupable. J'ai été choqué d'avoir tué mes prochains, c'était des innocents!</s></text>
+      </align></unit>
+      <unit time="00:30:33" speaker="Apollon"><align>
+        <text langid="kin"><s>Ni ukuvuga yuko iyo abo bantu baza kuza, ntubature impiri yawe, ukayireka aho uyifite bagatambuka, bari kubaho.</s></text>
+        <text langid="eng"><s>So if you had let them pass and you had not hacked them they might have been alive up to now?</s></text>
+        <text langid="fra"><s>Si tu n'avais pas frappé ces gens avec ta trique, ils seront peut-être en vie aujourd'hui!</s></text>
+      </align></unit>
+      <unit time="00:30:42" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Bari kubaho, iyo ntabica bari kubaho. Iyo mbareka banguye ho simbakubite impiri, yenda bari kubaho...kuko iyo mbareka bari kubaho...bari kurokoka, kubw'Imana yabo.</s></text>
+        <text langid="eng"><s>Yes they would be alive. If I hadn't killed them, they would be alive today. Maybe they would have survived through God's mercy.</s></text>
+        <text langid="fra"><s>Si je les avais laissés passé et ne les avais pas frappés avec ma trique, ils seraient en vie...ils auraient peut-être survécu...</s></text>
+      </align></unit>
+      <unit time="00:30:59" speaker="Apollon"><align>
+        <text langid="kin"><s>Ni ukuvuga ko ni wowe  wabiyiciye, ntabwo ari ukuvuga yuko ari undi  wagushyizeho agahato ngo bice ?</s></text>
+        <text langid="eng"><s>So that means that you did it voluntarily and no one forced you?</s></text>
+        <text langid="fra"><s>Cela signifie que tu les as tués de plein gré, personne ne t'a forcé à le faire!</s></text>
+      </align></unit>
+      <unit time="00:31:04" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo bantu...nica abo bantu, nari naje mu...aho ngaho nyine twahu...nahurujwe nazanye n'abongabo, hanyuma bitewe n'umutima wanjye, w'ubunyamaswa mpita nica abo bavandimwe .</s></text>
+        <text langid="eng"><s>I was convinced by those people to go to that place. When I reached there my savagery led me to killing those innocent people.</s></text>
+        <text langid="fra"><s>Ces gens...je...j'étais venu là en...j'avais été appelé par les autres mais après à cause de mon animosité, j'ai tué ces frères!</s></text>
+      </align></unit>
+      <unit time="00:31:26" speaker="Apollon"><align>
+        <text langid="kin"><s>Ni ubushake bwawe ntabwo ari undi ...?</s></text>
+        <text langid="eng"><s>So it was out of your own will?</s></text>
+        <text langid="fra"><s>Tu l'as donc fait exprès!</s></text>
+      </align></unit>
+      <unit time="00:31:28" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyo bintu nta muntu wabintegetse, ni ubushake bwanjye, niyo mpamvu mbisabira imbabazi.</s></text>
+        <text langid="eng"><s>No one forced me, it was out of my own will and that is why I apologize for what I did.</s></text>
+        <text langid="fra"><s>Personne ne m'a forcé à faire ces choses là, je les ai tués de mon plein gré. C'est la raison pour laquelle je demande pardon.</s></text>
+      </align></unit>
+      <unit time="00:31:36" speaker="Apollon"><align>
+        <text langid="kin"><s>Nonese nk'ubungubu ko ndeba ibibazo bigoye, uwo wiciye afite agahinda, n'umujinya mwinshi. Ntumuzi nawe ntakuzi. Icyo azi cyo ni uko hari abantu bafunze nkawe, bishe abantu . Ubona muzabana mute, ubona uzaba basaba imbabazi ute utazi n'abo wiciye abo aribo ?</s></text>
+        <text langid="eng"><s>Things are more complicated than they seem to be. The person you killed had family and those who are still alive today are very sad and angry. They do not know me and I do not know them, but they know the killers are in prison. So how do you expect to live with them and reconcile with them when you don't know them? Who are you going to apologize to when you do not know the families of the people you killed?</s></text>
+        <text langid="fra"><s>La situation est plus délicate qu'elle ne paraît. La personne que tu as tuée avait une famille, aujourd'hui ceux qui sont en vie ont mal au cœur et sont très en colère. Ces gens ne te connaissent pas et tu ne le connais pas  non plus, tout ce qu'ils savent c'est qu'il y a des gens en prison qui ont tué. Comment envisages-tu vivre avec eux, leur demander pardon alors que tu ne les connais pas?</s></text>
+      </align></unit>
+      <unit time="00:32:02" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo niciye bamwe nabasabye imbabazi,barazimpaye . Abo ntazi abongabo nabo, nazisaba leta, n'Imana ikambabarira.</s></text>
+        <text langid="eng"><s>I have already apologized to the people I know but those I don't know I would like to apologize to the Government and ask God to forgive me.</s></text>
+        <text langid="fra"><s>J'ai demandé pardon à certains d'entre eux, ils m'ont pardonné. Pour ceux que je ne connais pas, je demanderais pardon à Dieu et au Gouvernement.</s></text>
+      </align></unit>
+      <unit time="00:32:17" speaker="Apollon"><align>
+        <text langid="kin"><s>Abo uzi wabamenye ute? Abo wiciye uzi uvuga ni abahe? Wabamenye ute?</s></text>
+        <text langid="eng"><s>How did you know the people you tormented and who are they?</s></text>
+        <text langid="fra"><s>Comment as-tu reconnusceux à qui tu as demandé pardon ? Combien sont-ils?</s></text>
+      </align></unit>
+      <unit time="00:32:21" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo nzi niciye, hari abo... n'abo muri Serile duturanye.</s></text>
+        <text langid="eng"><s>They were our neighbours just in the nearby area.</s></text>
+        <text langid="fra"><s>Ceux là...ils sont de la cellule voisine.</s></text>
+      </align></unit>
+      <unit time="00:32:27" speaker="Apollon"><align>
+        <text langid="kin"><s>Muri Serile muturanye hari abandi wishe?</s></text>
+        <text langid="eng"><s>Did you kill other people from that same area?</s></text>
+        <text langid="fra"><s>Y a t-il d'autres que tu as tués dans cette cellule voisine?</s></text>
+      </align></unit>
+      <unit time="00:32:29" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Hari abo nishe.</s></text>
+        <text langid="eng"><s>Yes there are some people I killed.</s></text>
+        <text langid="fra"><s>Il y en a!</s></text>
+      </align></unit>
+      <unit time="00:32:31" speaker="Apollon"><align>
+        <text langid="kin"><s>Abantu bose wishe hamwe ni bangahe?</s></text>
+        <text langid="eng"><s>How many people did you kill altogether?</s></text>
+        <text langid="fra"><s>Combien de personne as-tu tué au total?</s></text>
+      </align></unit>
+      <unit time="00:32:32" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo nishe,nishe umwana witwa Kagina. mwicana n'umugabo witwa Manama [Kayihura]. Kagina twaramwishe... Kagina yari yihishe kwa muramu wanjye. Yihishe kwa muramu wanjye, umuhungu witwa Kayihura ati: "hariya hepfo hari umwana wahihishe, ngiye kumuzana, ni inkotanyi." Nari ndi ku mutwe w'ikawa zanjye, arambwi... noneho arambwira, ati: "uriya mwana wihishe kwa muramu wawe, ngiye kumuzana, tumwice." Aragenda aramuzamura, amaze kumuzamura, amunyuza ahantu,  ku Muhora mu Bahungo, tuhahurira n'abandi bagabo bageze kuri batandatu. Umwana turamujyana, uwo Kayihura n'undi witwa  Sipiriyani Ntakirutimana arafunze, baramuboha n'inshinge bamuroha mu ruzi.</s></text>
+        <text langid="eng"><s>I killed a certain child called Kagina and a man called Manama. Kagina was hiding at the home of my in-laws. Then a certain boy call Kiyihura found me standing in front of my coffee plantation and told me, "There is a child who is hiding at the place of your in-laws, he is an Inkotanyi [RPF member] I am going to bring him so that we kill him." He went and brought him. He made him pass by a place called Muhora in Muhungo when we reached there we found six other men. Then we took the boy, Kayihura and Cyprien Ntakirutimana who is in jail today, tied him up with ropes made out of tough grass and drowned him in the river.</s></text>
+        <text langid="fra"><s>J'ai tué un enfant qui s'appelait Kagina, je l'ai tué en même temps qu'un homme appelé Manama. Nous avons tué Kagina...il se cachait chez  mon beau-frère. Ensuite Kayinamura a dit: «Il y a un gosse qui se cache plus bas, c'est un Inkotanyi. Je vais l'emmener.» J'étais dans mon champ de café...il m'a dit: «Je vais emmener l'enfant qui se cache chez ton beau-frère pour qu'on le tue!» Il est allé l'emmener, il l'a d'abord fait passé à 'Muhora mu bahungo', nous l'avons rejoint là bas, nous étions environ six hommes. Ensuite Kayihura et Ntakirutimena Cyprien l'ont ligoté avec de la chaume puis l'ont noyé.</s></text>
+      </align></unit>
+      <unit time="00:33:49" speaker="Apollon"><align>
+        <text langid="kin"><s>Ko wumva ari abandi bamuroshye mu ruzi, wowe ukaba uvuga ko wamwishe, icyo ushaka kutubwira n'iki?...Icyo ushaka kurubwira ni iki? Uratubwira ko hari abandi bamuroshye mu ruzi. Bamuhambiriye n'ishinge, kandi mukanya utubwiye ko wamwishe...</s></text>
+        <text langid="eng"><s>From all you have said, it sounds like other people drowned that kid in the river, but you are saying that you killed him. So what do you mean...? What do you mean when you say that you killed him? You told us that other people drowned him; they tied him with grass made out of ropes but in no time you are telling us that you killed him...</s></text>
+        <text langid="fra"><s>Tu viens de nous dire tout à  l'heure que c'est toi qui l'a tué, mais après que c'est d'autres personnes qui l'ont ligoté puis l'ont noyé...qu'et-ce que tu veux dire par là?</s></text>
+      </align></unit>
+      <unit time="00:34:06" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uwo Kagi...mwana witwa Kagina, twa...baramushoreye, bamaze kumushorera, abamwishe bamwishe mpari. Kuko iyo batamwica, nanjye ubwo nari kumwica.</s></text>
+        <text langid="eng"><s>That child called Kagina was taken and the people who took him killed him while I was there. Which means that if they never killed him, I would have killed him myself.</s></text>
+        <text langid="fra"><s>Ce Kagina, nous l'avons...ils l'ont d'abord escorté puis l'ont tué sous mes yeux...et puis s'ils ne l'avaient pas fait, moi je l'aurais fait!</s></text>
+      </align></unit>
+      <unit time="00:34:22" speaker="Apollon"><align>
+        <text langid="kin"><s>Wowe ntacyo wamukozeho? Ari n'ishinge bamuziritse, ntayo wamuziritse; ari ukumuroha ntabwo wamuroshye?</s></text>
+        <text langid="eng"><s>In other words, you didn't do anything to him; You neither tied him up with the ropes they were tying him nor did you help them to drown him...?</s></text>
+        <text langid="fra"><s>Tu n'as donc pas touché à ce gamin, tu n'as ni participé à son ligotage ni à sa  noyade.</s></text>
+      </align></unit>
+      <unit time="00:34:27" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Sinamuroshye, n'inshinge ntayo namuroshyemo, ariko abamuroshyemo nari mpari.</s></text>
+        <text langid="eng"><s>I neither drowned him nor tie him. But I witnessed the whole event.</s></text>
+        <text langid="fra"><s>Je ne l'ai ni noyé ni ligoté mais ceux qui l'ont fait, je les connais.</s></text>
+      </align></unit>
+      <unit time="00:34:33" speaker="Apollon"><align>
+        <text langid="kin"><s>Warabafashije?</s></text>
+        <text langid="eng"><s>Did you help them?</s></text>
+        <text langid="fra"><s>Tu ne les as pas aidés?</s></text>
+      </align></unit>
+      <unit time="00:34:35" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nibo bifashije, ariko nari  mpagaze nk'uko mpagaze uku, bamuroshye ndeba. Twari turi kumwe.</s></text>
+        <text langid="eng"><s>I did not help them. But I was just standing watching. Like the way I'm standing now. They drowned him while I was watching and we were together.</s></text>
+        <text langid="fra"><s>Non mais j'étais là, debout comme ça, ils l'ont noyé devant moi, nous étions ensembles!</s></text>
+      </align></unit>
+      <unit time="00:34:42" speaker="Apollon"><align>
+        <text langid="kin"><s>None mbwira.  Abantu wowe ku giti cyawe... ubwawe,  wishe ni bangahe? niba utabibuka nabwo nta kibazo..</s></text>
+        <text langid="eng"><s>Okay, tell me now...the people you killed yourself how many are they? Don't worry, if you don't remember them it is okay.</s></text>
+        <text langid="fra"><s>Personnellement, combien de personne as-tu tuées? Ce n'est pas grave si tu ne t'en souviens pas.</s></text>
+      </align></unit>
+      <unit time="00:34:47" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abantu ubwanjye nishe ku giti cyanjye...abantu ku giti cyanjye nishe...nishe... umwe [asa n'ubara ku ntoki] nishe batatu.</s></text>
+        <text langid="eng"><s>The people I killed myself... they are... [counting with fingers] I killed three people.</s></text>
+        <text langid="fra"><s>J'ai tué...personnellement j'ai tué...j'ai tué [il compte ses doigts] une...trois personnes.</s></text>
+      </align></unit>
+      <unit time="00:35:00" speaker="Apollon"><align>
+        <text langid="kin"><s>Wiyiciye n'amaboko yawe?</s></text>
+        <text langid="eng"><s>Those are the people you killed with your own hands?</s></text>
+        <text langid="fra"><s>Tu les as tuées de tes propres mains?</s></text>
+      </align></unit>
+      <unit time="00:35:01" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee niyiciye n'amaboko yanjye.</s></text>
+        <text langid="eng"><s>Yes, those are the people I killed with my own hands.</s></text>
+        <text langid="fra"><s>Oui, de mes propres mains.</s></text>
+      </align></unit>
+      <unit time="" speaker="Apollon"><align>
+        <text langid="kin"><s>Hari abo watubwiye babiri b' I Murambi.</s></text>
+        <text langid="eng"><s>There are the two others from Murambi you told us...</s></text>
+        <text langid="fra"><s>Tu nous a parlé de deux personnes de Murambi...</s></text>
+      </align></unit>
+      <unit time="00:35:05" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee, hari undi mwana nanjye niyiciye umwe. Maze kumwica namukubise ubuhiri mujugunya mu ruzi .</s></text>
+        <text langid="eng"><s>Well, there's another child I killed myself. After killing him... I hit him with a club and threw his body in the river.</s></text>
+        <text langid="fra"><s>Oui mais il y a un autre enfant que j'ai tué aussi, je l'avais frappé avec ma trique puis je l'ai noyé.</s></text>
+      </align></unit>
+      <unit time="00:35:13" speaker="Félicien"><align>
+        <text langid="kin"><s>Wamuvanye hehe? Urwo ruzi ni urwa he?</s></text>
+        <text langid="eng"><s>Where did you find him and which river is that?</s></text>
+        <text langid="fra"><s>Tu l'avais eu où?Et quel est le cours d'eau?</s></text>
+      </align></unit>
+      <unit time="00:35:16" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Urwo ruzi ni urw'iwacu ni muri Rukarara.</s></text>
+        <text langid="eng"><s>It's a certain river from our place in Rukarara.</s></text>
+        <text langid="fra"><s>Le cours d'eau de chez nous à Rukarara.</s></text>
+      </align></unit>
+      <unit time="00:35:19" speaker="Félicien"><align>
+        <text langid="kin"><s>Wari umubonye ute? Gira icyo utubwira udusobanurire.</s></text>
+        <text langid="eng"><s>How did you see him? Explain to us.</s></text>
+        <text langid="fra"><s>Tu l'avais vu comment cet enfant, explique-nous!</s></text>
+      </align></unit>
+      <unit time="00:35:22" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uko nari mubonye, twari tugiye kureba ise...ise. Ise tumubuze, mbonye umwana ndamwica.</s></text>
+        <text langid="eng"><s>We were looking for his father and failed to get him. But I saw the son. Therefore I decided to kill the son.</s></text>
+        <text langid="fra"><s>Nous étions allés voir son père, nous l'avons manqué puis quand j'ai vu l'enfant, je l'ai tué.</s></text>
+      </align></unit>
+      <unit time="00:35:33" speaker="Félicien"><align>
+        <text langid="kin"><s>Hari abandi mwari muri kumwe?</s></text>
+        <text langid="eng"><s>Were you with other people?</s></text>
+        <text langid="fra"><s>Tu étais avec des gens?</s></text>
+      </align></unit>
+      <unit time="00:35:35" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Twari turi kumwe  bagabo ba...babiri nanjye wa gatatu, ariko umwana ninjye wamwishe, abo ntibamwishe. Twari turi kumwe,  ni jyewe wamwiyiciye.</s></text>
+        <text langid="eng"><s>We were three but I'm the one who killed him. The other men whom we were together didn't. I am the one who killed him.</s></text>
+        <text langid="fra"><s>Oui, j'étais avec deux hommes. nous étions trois mais c'est moi qui ai tué l'enfant. Ils ne l'ont pas touché, je l'ai tué tout seul.</s></text>
+      </align></unit>
+      <unit time="00:35:47" speaker="Apollon"><align>
+        <text langid="kin"><s>None icyo nakubazaga. Igihe wamwicaga  wumvaga umwiciye iki? Bitari ubu. Icyo gihe uko wari umeze mu mutwe wawe, no mubikorwa byawe. Wumvaga umeze ute?</s></text>
+        <text langid="eng"><s>My question is, during that time when you were killing him, What was your main reason of killing him? I mean, not now... but then, what was going on in your mind? How were you feeling inside? What was your attitude?</s></text>
+        <text langid="fra"><s>Lors de  ton acte meurtrier, à quoi pensais-tu? Je ne dis pas aujourd'hui mais lorsque tu était en pleine action, quel était ton état d'esprit?</s></text>
+      </align></unit>
+      <unit time="00:36:00" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mu bikorwa byanjye icyo gihe uko byari bimeze... kumwica ku giti cyanjye, numvaga umutima wanjye, wari umeze nk'umutima w'inyamaswa. Ari...uvuga ngo... barahiga... ahari Umututsi... nice.</s></text>
+        <text langid="eng"><s>At the time when I was doing it, I had wild thoughts that made me think we were hunting... wherever I saw a Tutsi I would kill.</s></text>
+        <text langid="fra"><s>En le tuant, je me sentais comme un animal au fond de moi. Dire que...chasser...trouver un Tutsi et le tuer...</s></text>
+      </align></unit>
+      <unit time="00:36:24" speaker="Félicien"><align>
+        <text langid="kin"><s>Mbese wumvaga Abatutsi wabavanyeho amaboko?... ...Ndakubaza? Wumvaga abatutsi wabavanyeho amaboko.</s></text>
+        <text langid="eng"><s>So you felt like you did not have any interactions with the Tutsi...? I am asking you... did you feel like you didn't want to interact them?</s></text>
+        <text langid="fra"><s>Tu ne voulais donc plus avoir d'interaction avec les Tutsi...Je te demande si tu ne voulais plus avoir d'interaction avec les Tutsi?</s></text>
+      </align></unit>
+      <unit time="00:36:33" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Icyo gihe kugirango nice uwo mwana, nta kintu dupfa, nta na kimwe, ureba nd'umuntu ukuze, uwo mwana kugira ngo mwice, nanjye ubwo urumva ko nta kintu namwiciye, urumva nakoze nabi.</s></text>
+        <text langid="eng"><s>By then... Imagine I had killed an innocent child who hadn't done anything wrong to me! You can see I am an old man...that was really a very bad thing to do.</s></text>
+        <text langid="fra"><s>Tuer cet enfant sans qu'il ne me fasse de mal...tu vois, je suis un adulte, tuer cet enfant...franchement j'ai très mal agi!</s></text>
+      </align></unit>
+      <unit time="00:36:58" speaker="Félicien"><align>
+        <text langid="kin"><s>Umaze kutubwira iby'ubwicanyi wakoze. Ese ni wowe wenyine, nta bandi bantu bo mu muryango wawe baba barakoze Jenoside?</s></text>
+        <text langid="eng"><s>You have just told us the crimes you committed; were you the only one or are there some members of your family who also participated in the Genocide?</s></text>
+        <text langid="fra"><s>Tu viens de nous parler des meurtres que tu as commis mais n'y a t-il personne dans ta famille qui ait commis le Génocide?</s></text>
+      </align></unit>
+      <unit time="00:37:06" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo mu muryango wanjye, ntabayikoze.</s></text>
+        <text langid="eng"><s>No one in my family participated in the Genocide.</s></text>
+        <text langid="fra"><s>Non, personned'autre !</s></text>
+      </align></unit>
+      <unit time="00:37:11" speaker="Félicien"><align>
+        <text langid="kin"><s>Nta n'umwe ufunze?</s></text>
+        <text langid="eng"><s>You mean there's no one who is imprisoned?</s></text>
+        <text langid="fra"><s>Personne n'est en prison?</s></text>
+      </align></unit>
+      <unit time="00:37:12" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nta n'umwe ufu...ufunze. Abo tuva inda imwe...  Abo tuva inda imwe ntawundi...nta muntu nzi wakoze Jenoside, keretse abaturage twari duturanye.</s></text>
+        <text langid="eng"><s>There's no one in prison. At least no one from my family, maybe my neighbours.</s></text>
+        <text langid="fra"><s>Personne! Aucun de mes frères n'est en prison, je ne connais personne d'autre de ma famille qui a commis le Génocide à part les voisins.</s></text>
+      </align></unit>
+      <unit time="00:37:26" speaker="Félicien"><align>
+        <text langid="kin"><s>Umaze kutubwira ko wishe Abatutsi, bimwe ari abategetsi wabibabwiye. Ubundi nkawe umuntu witwa Umututsi wamubonaga ute mbere ya Jenoside ?</s></text>
+        <text langid="eng"><s>You have told us that you killed the Tusti because your leaders forced you to. So personally what did you think of the Tutsi before the Genocide?</s></text>
+        <text langid="fra"><s>Tu viens de nous dire que tu as tué des Tutsis, quelques fois incité par les autorités. J'aimerais que tu me dises comment tu trouvais les Tutsis avant la guerre.</s></text>
+      </align></unit>
+      <unit time="00:37:38" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mbere ya Jenoside, abategetsi babishishikarizaga cyane, ngo: umwanzi ngo: ni umwe, tukabibona ko abo bantu ari abanzi bacu,  kandi ari nta kintu dupfa, tubitewe n'ubutegetsi burimo bubidushishikariza buri kanya.</s></text>
+        <text langid="eng"><s>Before the genocide, the bad leadership of that time influenced us. They used to convince us that our only enemy was the Tutsi. So we were forced to believe it and yet it was not true. Simply because the government was sensitizing us all the time.</s></text>
+        <text langid="fra"><s>Avant le Génocide, les autorités sensibilisaient les gens en leur disant qu'il n'y avait qu'un seul ennemi: le Tutsi. Mais à vrai dire, ces gens n'étaient pas des ennemis...c'est seulement parce que les autorités nous inculquaient cela.</s></text>
+      </align></unit>
+      <unit time="00:37:59" speaker="Félicien"><align>
+        <text langid="kin"><s>Ibyo batangiye kubibabwira ryari?</s></text>
+        <text langid="eng"><s>When did they start telling you that?</s></text>
+        <text langid="fra"><s>Quand ont-ils commencé à vous l'enseigner?</s></text>
+      </align></unit>
+      <unit time="00:38:01" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyo batangiye kubitubwira Habyarimana amaze gupfa.</s></text>
+        <text langid="eng"><s>They started telling us that after Habyarimana's death.</s></text>
+        <text langid="fra"><s>Juste à la mort du président Habyarimana.</s></text>
+      </align></unit>
+      <unit time="00:38:04" speaker="Félicien"><align>
+        <text langid="kin"><s>Noneho turi ku kubaza, mbere ya Habyarimana. Wowe wabonaga Umututsi gute?</s></text>
+        <text langid="eng"><s>We are asking you how you used to find the Tutsi before Habyarimana's death.</s></text>
+        <text langid="fra"><s>Et avant sa mort, comment trouvais- tu le Tutsi?</s></text>
+      </align></unit>
+      <unit time="00:38:09" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Intambara itaraba. Intambara itaraba, twari twarashyingiranye, twarahanye abageni, mfite na mushiki wanjye wari warahashatse. Twaraganiraga.</s></text>
+        <text langid="eng"><s>Before the genocide we would intermarry, I even have a sister who got married in that ethnic group. We were friendly.</s></text>
+        <text langid="fra"><s>Avant la guerre, nous nous inter-marions. J'ai même une sœur qui s'était mariée à un des leurs [un Tutsi]. Nous étions bien!</s></text>
+      </align></unit>
+      <unit time="00:38:24" speaker="Félicien"><align>
+        <text langid="kin"><s>None ubwo wababonaga ute se?</s></text>
+        <text langid="eng"><s>And how did you used to loot at them [Tutsi]?</s></text>
+        <text langid="fra"><s>Comment les [les Tusis] trouvais-tu?</s></text>
+      </align></unit>
+      <unit time="00:38:26" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nababonaga nk'abavandimwe, dusabana amazi, dusangira, nta kibazo cyari gihari.</s></text>
+        <text langid="eng"><s>I considered them as relatives: we would give each other water, we shared everything and there was no problem.</s></text>
+        <text langid="fra"><s>Ils étaient comme des frères. On se partageait tout! Il n'y avait pas de problème.</s></text>
+      </align></unit>
+      <unit time="00:38:33" speaker="Félicien"><align>
+        <text langid="kin"><s>None...wababonaga nk'abavandimwe biza guhinduka. Nkeka intambara ya za mirongo icyenda [1990]urayizi, cyangwa warayumvaga itangira. Wigeze ubyumva?</s></text>
+        <text langid="eng"><s>So you used to look at them as if they were your relatives but later on you changed your attitude towards them... I guess you know something about the war that took place in 1990, isn't it?</s></text>
+        <text langid="fra"><s>Tu les considérais comme des frères mais après tout a changé...tu te souviens de la guerre des années 90, en avais-tu entendu parler?</s></text>
+      </align></unit>
+      <unit time="00:38:44" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Narabyumvise.</s></text>
+        <text langid="eng"><s>Yes I heard about it.</s></text>
+        <text langid="fra"><s>Oui, j'en ai entendu parler.</s></text>
+      </align></unit>
+      <unit time="00:38:47" speaker="Félicien"><align>
+        <text langid="kin"><s>Muri kiriya gihe. Nta bintu by' ibimenyetso wigeze ubona, ko Jenoside ishobora kuzaba mu Rwanda?</s></text>
+        <text langid="eng"><s>During that time, didn't you see signs, which showed that in the future there would be Genocide in Rwanda?</s></text>
+        <text langid="fra"><s>Ce temps là, tu n'avais pas remarqué des signes montrant qu'un Génocide pourrait être commis au Rwanda.?</s></text>
+      </align></unit>
+      <unit time="00:38:54" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Muri icyo gihe muri za mirongo cyenda [1990], numvaga bavuga bati: "hepfo iriya za Kibungo, ngo: hari mirwano...imirwano bari kurwana ."  Hanyuma icyo gihe twumva ngo: bari kurwana bitaragera ino. Dusangira nabo dusabana amazi, bavuga bati: " ni abanyarwanda bari gutaha iwabo, bari kurwana n'abandi."ino ku Gikongoro, intambara yari itarahagera.</s></text>
+        <text langid="eng"><s>We could hear that there was a war going on towards Kibungo. That there were people coming from exile who were fighting against the people they found in the country. But for us in Gikongoro it was peaceful.</s></text>
+        <text langid="fra"><s>Dans les années 90, j'entendais dire que vers Kibungo, il y avait la guerre. Elle n'était pas encore arrivée chez nous, nous partagions tout...on disait que c'était des Rwandais qui se battaient pour rentrer chez eux. La guerre n'avait pas encore commencé ici à Gikongoro.</s></text>
+      </align></unit>
+      <unit time="00:39:37" speaker="Félicien"><align>
+        <text langid="kin"><s>Ku buryo nta bimenyetso wigeze ubona ko Jenoside ishobora kuzaba?</s></text>
+        <text langid="eng"><s>Therefore, you never saw any signs of the genocide?</s></text>
+        <text langid="fra"><s>...de sorte que tu n'ais remarqué aucun signe précurseur de Génocide?</s></text>
+      </align></unit>
+      <unit time="00:39:41" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibimenyetso... natangiye kubona ko Jenoside igiye kuba, Habyarimana amaze gupfa.</s></text>
+        <text langid="eng"><s>I started seeing those signs after Habyarimana's death.</s></text>
+        <text langid="fra"><s>Les signes? J'ai remarqué que le Génocide pouvait avoir lieu juste à la mort du président Habyarimana.</s></text>
+      </align></unit>
+      <unit time="00:39:47" speaker="Félicien"><align>
+        <text langid="kin"><s>Niho wabibonye?</s></text>
+        <text langid="eng"><s>Is that the time you saw signs?</s></text>
+        <text langid="fra"><s>C'est à ce moment que tu l'as remarqué?</s></text>
+      </align></unit>
+      <unit time="00:39:49" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Niho nabibonye.</s></text>
+        <text langid="eng"><s>Yes, that's when I saw some signs</s></text>
+        <text langid="fra"><s>Oui!</s></text>
+      </align></unit>
+      <unit time="00:39:50" speaker="Félicien"><align>
+        <text langid="kin"><s>Ni ukuvuga ko nta myitozo wigeze ubona?</s></text>
+        <text langid="eng"><s>Therefore you didn't see any training taking place.</s></text>
+        <text langid="fra"><s>Tu veux donc dire que tu n'as assisté à aucune formation?</s></text>
+      </align></unit>
+      <unit time="00:39:52" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Imyitozo ntayo nabonaga, twarasangiraga nabo, nta myitozo nigeze mbona.</s></text>
+        <text langid="eng"><s>I didn't see any training taking place.</s></text>
+        <text langid="fra"><s>Non, aucune! Nous étions solidaires les uns les autres [les Tutsis]...je n'ai remarqué aucune formation.</s></text>
+      </align></unit>
+      <unit time="00:40:01" speaker="Félicien"><align>
+        <text langid="kin"><s>Hari icyo nakubaza. Uvuze ko byose byahise bihinduka Habyarimana akimara gupfa. Ni iki wabona cyahise gihinduka cyane  kuri wowe, Habyarimana akimara gupfa. Mbese waba warabyifashemo ute?</s></text>
+        <text langid="eng"><s>Let me ask you...You have just said that all changed after Habyarimana's death. Which changes did you experience after Habyarimana's death? And how did you handle those changes?</s></text>
+        <text langid="fra"><s>Tu nous a dit que tout a changé à la mort de Habyarimana, qu'est-ce qui a changé? Comment as-tu réagi face à cette situation?</s></text>
+      </align></unit>
+      <unit time="00:40:16" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Habyarimana akimara gupfa, hari ahantu nararaga izamu ry'umugabo narariraga, noneho nzakuza...nzakubona ahantu bari gutwika amazu, mvuye mu Mudasomwa kugura ibirayi. Ndaza nyura ku mugore w'Umututsi, arambwira ati: "ese Gaspard, ati: ko nduzi hariya batwitse amazu, ati: bimeze bite... kandi ukaba wiruka? Ndamubwira nti: mvuye kugura ibirayi ku Gahira, nsize amazu ari gushya hariya haruguru, nti: mpuye n'abagabo bikoreye inyama z'inka, nti: hariya mu Mushishito. Nti: ariko bitewe yuko nkuzi wari umuturanyi wanjye, nti: ngiye kubikubwira ariko uyu munsi sinongera kurara izamu. Nti nabonye ari abatutsi barimo bica! Yee nti: ni Abatutsi barimo bica. Ati: "urakoze." Nti: nibo...nti nibo barimo bica. Ubwo yahise afumyamo ntiyongeye kurara ahongaho. Ubwo nanjye, nahise ntaha njya imuhira mva ku zamu, njya imuhira.</s></text>
+        <text langid="eng"><s>After Habyarimana's death, I was at a place where I was working as a watchman. As I was coming from Mudasomwa to buy Irish potatoes, I met a Tutsi woman who asked me, "Gaspard, how come those houses across are burning? What is happening and why are you running?" Then I told her I was from buying Irish potatoes from Gasharu. But I told her that I had left houses being burnt up there. I told her how I met some men taking cow's there in Mushishito. Then I told her, "Since you are my neighbour I will tell you what is going on. From now on, I will never work as a watchman anymore. They are killing the Tutsi!" Then she thanked me and immediately left; she never slept there in her home. I also went home and stopped moving around. I stayed at home.</s></text>
+        <text langid="fra"><s>A la mort de Habyarimana...j'étais sentinelle quelque part chez...en rentrant, je venais de Mudasomwa acheter des pommes de terre puis j'ai vu des maisons en feu. Je suis passé devant une dame Tutsi puis elle m'a demandé: Qu'est-ce qui se passeGaspar ? Je vois des maisons qui brûlent de l'autre côté. Et pourquoi tu es si pressé? Je viens d'acheter des pommes de terre à Gahira, je viens de laisser des gens entrain d'incendierdes maisons. J'ai aussi rencontré des gens qui portaient de la viande de bœuf...mais étant donné que je te connais, je vais te dire la vérité: Ces gens sont entrain de tuer les Tutsis. Ils sont entrain de les tuer. Aujourd'hui je ne monterai pas la garde! Merci, me dit-elle! Je suis directement rentré chez moi. Cette dame a fait ses affaires puis s'est sauvée, elle n'a plus passé la nuit là!</s></text>
+      </align></unit>
+      <unit time="00:40:33" speaker="Félicien"><align>
+        <text langid="kin"><s>None ukimara kubimenya se nta gitekerezo...ko wumvishe ko Abatutsi bicwa, nta gitekerezo  waba waragize, cyo kurwana kubo mwari muturanye ? Ko wanavuze ko hari abo mwari mwarashyingiranywe?</s></text>
+        <text langid="eng"><s>After realizing what was about to take place, didn't you at least think of what you should do to help your neighbours since you had even intermarried?</s></text>
+        <text langid="fra"><s>Après avoir su que les Tutsi étaient entrain d'être tués, tu n'as pas eu un réflexe de venir au secours de tes voisins, avec qui  tu vivais si bien?</s></text>
+      </align></unit>
+      <unit time="00:41:45" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Igitekerezo cyabo twari duturanye, bamaze kumva ibyo ngibyo,bahita bahunga. Bamwe bahungira hano... bahungiye hano i Murambi.</s></text>
+        <text langid="eng"><s>My neighbours... when they heard about it, they all fled. Some came here to Murambi.</s></text>
+        <text langid="fra"><s>Les voisins, après avoir su ce qui se passait, ils ont directement fui, certains se sont réfugiés ici à Murambi.</s></text>
+      </align></unit>
+      <unit time="00:01:16" speaker="Félicien"><align>
+        <text langid="kin"><s>Watubwiye ko hano i Murambi habaye ubwicanyi buhambaye. Nyuma yuko ubwo bwicanyi buba hari ibindi bintu  uzi byakurikiyeho? mu giturage iwanyu...</s></text>
+        <text langid="eng"><s>You told us that here in Murambi was a horrible massacre. After the killings do you know of something else that followed in your home village?</s></text>
+        <text langid="fra"><s>Tu nous as dit qu'il y a eu d'innommables atrocités ici, après les massacres, n'y a t-il aucun autre événement qui se serait produitdans ton village ?</s></text>
+      </align></unit>
+      <unit time="00:01:28" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nyuma y'intambara y'i Murambi, nta bundi bwicanyi bwabayeho, hahise haza Abafaransa, bahita babuhosha.</s></text>
+        <text langid="eng"><s>After the Murambi battle, no more killings took place. The French troops intervened and stopped it.</s></text>
+        <text langid="fra"><s>Après, il n'y a plus eu de massacre. Les Français sont arrivés, ils ont calmé la situation.</s></text>
+      </align></unit>
+      <unit time="00:01:41" speaker="Félicien"><align>
+        <text langid="kin"><s>Abafaransa basanze hari Abatutsi bakiriho?</s></text>
+        <text langid="eng"><s>Did the French find any Tutsi around?</s></text>
+        <text langid="fra"><s>Quand les Français sont arrivés, ont-ils trouvé des Tutsis en vie?</s></text>
+      </align></unit>
+      <unit time="00:01:44" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abafaransa basanze Abatutsi barapfuye.</s></text>
+        <text langid="eng"><s>They found all the Tutsi already dead.</s></text>
+        <text langid="fra"><s>Non, ils étaient déjà morts!</s></text>
+      </align></unit>
+      <unit time="00:01:47" speaker="Félicien"><align>
+        <text langid="kin"><s>None se icyo bahosheje n'iki?</s></text>
+        <text langid="eng"><s>So what did they stop?</s></text>
+        <text langid="fra"><s>Alors qu'est-ce qu'ils ont calmé?</s></text>
+      </align></unit>
+      <unit time="00:01:49" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abafaransa baraje, abahunga barahunga bajya muri Zaire [Republika iharanira demokarasi ya Congo], ba...b'abahutu, nyuma yabwo ntayindi ntambara yabaye Abatutsi bamaze gupfa hano i Murambi, no ku Gikongoro.</s></text>
+        <text langid="eng"><s>When the French came, those who wanted to flee went to Zaire [Democratic Republic of Congo] but only the Hutu. There were no any other killings after the Tutsi from Murambi and Gikongoro had died.</s></text>
+        <text langid="fra"><s>Quand les Français sont arrivés, les Hutu qui fuyaient, ont fui vers le Zaïre [la République Démocratique du Congo actuelle]...après que les Tutsi aient été tués, il n'y a plus eu de guerre ici à Murambi, Gikongoro.</s></text>
+      </align></unit>
+      <unit time="00:02:01" speaker="Félicien"><align>
+        <text langid="kin"><s>Ni ukuvuga ko abo Bafaransa icyo bakoze ari ukugirango...bakingiye ikibaba abantu bahunze ?</s></text>
+        <text langid="eng"><s>It sounds like the French came to cover up the deeds of those who went to exile?</s></text>
+        <text langid="fra"><s>Donc les Français ont servi de couverture aux gens qui voulaient fuir?</s></text>
+      </align></unit>
+      <unit time="00:02:05" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee, bakingiye ikibaba abantu bahunze, ariko Abatutsi barapfuye.</s></text>
+        <text langid="eng"><s>Yes they just wanted to cover up on what those people had done but the Tutsi had already died.</s></text>
+        <text langid="fra"><s>Oui, mais après que les Tutsi aient été tués.</s></text>
+      </align></unit>
+      <unit time="00:02:09" speaker="Félicien"><align>
+        <text langid="kin"><s>Hagati Abatutsi...bambe Abafaransa wibuka igihe bagereye ino?</s></text>
+        <text langid="eng"><s>Do you remember when the French reached here?</s></text>
+        <text langid="fra"><s>Te souviens-tu de la date à laquelleles Français sont arrivés?</s></text>
+      </align></unit>
+      <unit time="00:02:13" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ntabwo nkibuka, sinkibuka.</s></text>
+        <text langid="eng"><s>I don't remember...</s></text>
+        <text langid="fra"><s>Je ne me rappelle plus.</s></text>
+      </align></unit>
+      <unit time="00:02:16" speaker="Félicien"><align>
+        <text langid="kin"><s>Ariko hari igihe cyahise mo i Murambi hamaze kubera ishyano?</s></text>
+        <text langid="eng"><s>Maybe it was within a short time after the catastrophe that happened in Murambi...</s></text>
+        <text langid="fra"><s>Mais c'est juste après les massacres de Murambi?</s></text>
+      </align></unit>
+      <unit time="00:02:22" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Basanze Abatutsi b'i Murambi barapfuye.</s></text>
+        <text langid="eng"><s>They found when all Tutsi from Murambi had already died.</s></text>
+        <text langid="fra"><s>Les Tutsis de Murambi étaient déjà morts!</s></text>
+      </align></unit>
+      <unit time="00:02:26" speaker="Félicien"><align>
+        <text langid="kin"><s>Ugereranyije ni nk'igihe kingana iki?</s></text>
+        <text langid="eng"><s>When you estimate, what time do you think it was?</s></text>
+        <text langid="fra"><s>Si tu considères au temps présent, c'est environ combien de temps passé?</s></text>
+      </align></unit>
+      <unit time="00:02:28" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ngereranyije... ngereranije Abatutsi barapfuye... Abafaransa numvishe ngo bigeze ku Kibuye, ngiye kumva numva ngo na hano ku Gikongoro bahaje, ariko nta gihe cy'ukwezi gishize, Abatutsi bamaze gupfa.</s></text>
+        <text langid="eng"><s>If I estimate... the Tutsi died... I heard that the French had reached Kibuye and within a short time I heard that they had reached Gikongoro. But that was less than a month time after the Tutsi had been murdered.</s></text>
+        <text langid="fra"><s>Si je considère le temps où les Tutsis  ont été tués...j'ai d'abord entendu dire que les Français étaient à Kibuye, ils sont arrivés à Gikongoro environ un mois plus tard après que les Tutsi soient tués.</s></text>
+      </align></unit>
+      <unit time="00:03:17" speaker="Félicien"><align>
+        <text langid="kin"><s>Cyane... Hari ikintu ngiye ku kubaza wadusobanurira neza. Ubundi ahangaha uzi ko habaye ubwicanyi hari nubwo wakoreye mu giturage. Ndagira ngo utubwire ikintu, wenda ushobora kuba unarota . Muri kiriya gihe cy'ubwicanyi cyabaye kitajya kikuvamo.</s></text>
+        <text langid="eng"><s>There is something I would like to ask you... you very well know about the killings that took place here. You even participated in the killings in other villages. Could you tell us the most horrible memory... maybe a dream... Memories of the time of killing that come to your mind.</s></text>
+        <text langid="fra"><s>Je vais te poser une question et je souhaite que tu sois clair. Tu sais bien qu'il y a eu des atrocités ici, il y en a même que tu as commis dans ton village, j'aimerais que tu me dises un acte horrible que tu aies vu durant les massacres, quelque chose qui te revient dans tes  rêves, que tu n'oublies jamais!</s></text>
+      </align></unit>
+      <unit time="00:03:45" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubungubu nabaye umuntu... nabaye umuntu mwiza, bitewe nuko nigishijwe cyane...</s></text>
+        <text langid="eng"><s>Now I have changed my way of thinking. Now I've changed and I became a good person because I have been educated.</s></text>
+        <text langid="fra"><s>Aujourd'hui je suis un homme bien, dû au fait que j'ai été assez enseigné.</s></text>
+      </align></unit>
+      <unit time="00:03:53" speaker="Félicien"><align>
+        <text langid="kin"><s>Oya, sinkubaza ko wabaye umuntu mwiza ibyo ndabyemera. Ndakubaza uribuka ibyo wakoze...ikintu kikubabaza...</s></text>
+        <text langid="eng"><s>That is not what I was asking. I know you've changed and you are a good person. But I was asking whether you remember what you did... what's the most painful souvenir...?</s></text>
+        <text langid="fra"><s>Je ne te demande pas si tu es devenu un homme bien, ça j'en suis persuadé. Je te demande ce que tu as fait...qu'est-ce qui te fait le plus mal?</s></text>
+      </align></unit>
+      <unit time="00:03:59" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ikintu kibi cyambabaje cyane, nibuka abantu bapfuye bazize akarengane, bazize ubusa.</s></text>
+        <text langid="eng"><s>What I remember that always hurts me are the innocent people who were killed.</s></text>
+        <text langid="fra"><s>Ce qui me fait le plus mal, c'est tous ces innocents qui sont morts pour rien!</s></text>
+      </align></unit>
+      <unit time="00:04:07" speaker="Félicien"><align>
+        <text langid="kin"><s>Bose bazize akarengane bazize akarengane. Ariko turibuka hano nk'umuntu wari uri i Murambi. Ikintu utazibagirwa, wenda se n' amaraso yakuguyeho...</s></text>
+        <text langid="eng"><s>Well, those who died were all innocent.  But as a person who was in Murambi, what would be the souvenir that you will never forget? Something you ever think about, maybe blood that dropped on you...</s></text>
+        <text langid="fra"><s>Ils sont morts pour rien c'est vrai...mais je te demande en tant que quelqu'un qui était présent lors des atrocités, qu'est-ce que tu n'oublieras jamais? Le sang sur  tes habits peut–être?</s></text>
+      </align></unit>
+      <unit time="00:04:17" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ikintu ntazibagirwa, ni abantu baguye hano, bishwe n'abantu b'abagizi ba nabi.</s></text>
+        <text langid="eng"><s>What I can never forget are the people who died here, killed by wrong doers.</s></text>
+        <text langid="fra"><s>Ce que je n'oublierai jamais, c'est les gens qui sont morts ici, tués par des malfaiteurs!</s></text>
+      </align></unit>
+      <unit time="00:04:29" speaker="Félicien"><align>
+        <text langid="kin"><s>Kuri wowe reka tuguhe urugero. Ushobora kuba ubana n'umugore wawe, mukajya mutongana, rimwe, kabiri, gatatu. Mukazarwana, ariko noneho rmwe ukazibuka yaguteye igishirira cyangwa wowe wakimuteye. Akaba ari cyo kikubabaza. Na hano i Murambi warahageze. Sibyo? Mbwira mu bikorwa bibi byose wakoze, cyangwa n'abandi n'icyo wabonye. Icyo ujya wumva kigusigara mu mutwe ujya ubona. Wenda se ni umuntu watemye, ni uwo wagize ni uwo se wabonye ashibukanwa na gerenade...nicyo dushaka kumenye. Icyo utazibagirwa wowe...</s></text>
+        <text langid="eng"><s>I mean you personally. Let me give you an example. Let's say you have a wife and you quarrel frequently; you quarrel once, twice, three times and finally you fight. And maybe she hits you with a burning charcoal or you hit her toot. That can stick in your mind maybe because it is what hurts you the most in the whole fight. Now, comparing that example to this situation. You came to Murambi, isn't it? So tell me among all the horrible things you did or saw, what do you remember... something that stuck in your head? Maybe a memory about hacking somebody or somebody you saw being crushed by a grenade. That is all we need to know. An incident that you will never forget.</s></text>
+        <text langid="fra"><s>Je vais te donner un exemple. Tu vois, tu peux avoir une femme avec qui vous vous querellez souvent jusqu'à vous battre. Puis une fois, elle te jette  une braise ou tu la lui jettes. Ceci devient la chose qui te fait le plus mal...tu es venu ici à Murambi, n'est-ce pas? Qu'est-ce qui te passe par la tête à chaque fois que tu y penses? Quelqu'un qu'on tue à plusieurs coups de machette? Une personne déchiquetée par une grenade? C'est ce qu'on veut savoir, quelque chose que tu n'oublieras jamais!</s></text>
+      </align></unit>
+      <unit time="00:05:04" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ikintu ntazibagirwa, ni abantu nabonye batera grenade bakabica. Ikintu ntazibagirwa...</s></text>
+        <text langid="eng"><s>The thing I will never forget is seeing people being crushed by grenades. I will never forget that.</s></text>
+        <text langid="fra"><s>Ce que je n'oublierai jamais, c'est des gens sur qui on a lancé une grenade, ils sont morts sur le coup. C'est ce que je n'oublierai pas...</s></text>
+      </align></unit>
+      <unit time="00:05:11" speaker="Félicien"><align>
+        <text langid="kin"><s>Byagenze gute iyo grenade?</s></text>
+        <text langid="eng"><s>What happened?</s></text>
+        <text langid="fra"><s>Qu'est qui s'était passé avec la grenade?</s></text>
+      </align></unit>
+      <unit time="00:05:13" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Barayibateye  barapfa.</s></text>
+        <text langid="eng"><s>A grenade was thrown to them and they died.</s></text>
+        <text langid="fra"><s>Ils la leur ont jeté puis ils sont morts sur-le-champ.</s></text>
+      </align></unit>
+      <unit time="00:05:14" speaker="Félicien"><align>
+        <text langid="kin"><s>Wabibonye ute noneho? Reba ukuntu wabidushushanyiriza nk'aka kanya.</s></text>
+        <text langid="eng"><s>What did you see? Find a way of describing it to us.</s></text>
+        <text langid="fra"><s>Essaie de nous décrire la situation. C'était comment?</s></text>
+      </align></unit>
+      <unit time="00:05:16" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uko nabibonye...uko nabibonye barayifunguye barayibatera bahita bapfa.</s></text>
+        <text langid="eng"><s>How I saw it, they removed the detonator clip and threw it on them. And they all died right away.</s></text>
+        <text langid="fra"><s>Ils ont ouvert la grenade puis l'ont jeté, ils sont morts du coup.</s></text>
+      </align></unit>
+      <unit time="00:05:22" speaker="Félicien"><align>
+        <text langid="kin"><s>Bayifunguye gute... wabonye imipfire yabo bapfuye gute...</s></text>
+        <text langid="eng"><s>How did they open the grenade...? How did you see them dying?</s></text>
+        <text langid="fra"><s>Ils l'ont ouverte comment? Comment était leur mort?</s></text>
+      </align></unit>
+      <unit time="00:05:25" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Imipfire yabo nabonye bikubita hasi, bazana urufuro. Nicyo nabonye.</s></text>
+        <text langid="eng"><s>What I saw about their death, they fell down and died slobbering. That is all I saw.</s></text>
+        <text langid="fra"><s>Leur mort? Ils sont tombés, ont sorti la mousse...C'est ce que j'ai vu!</s></text>
+      </align></unit>
+      <unit time="00:05:33" speaker="Apollon"><align>
+        <text langid="kin"><s>Ikintu nicyo wumva...nicyo wumva wabonye kibi...kibi... nko mu munota umwe...?</s></text>
+        <text langid="eng"><s>Is that all you saw? I mean the worst thing you saw... it might be an event that took place in the twinkling of an eye?</s></text>
+        <text langid="fra"><s>Qu'est-ce que tu as vu d'horrible...dans environ une minute!</s></text>
+      </align></unit>
+      <unit time="00:05:35" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ikintu nabonye kibi...kibi cyane ku munota umwe. Ni abo bagabo babiri niyiciye. ntizibagirwa ku isi, kandi mbajijije ubusa.</s></text>
+        <text langid="eng"><s>The two men I killed myself is the worst thing I saw happening in the twinkling of an eye. I will never forget that, in my whole lifetime. Yet they were innocent.</s></text>
+        <text langid="fra"><s>Ce que je ne vais jamais oublier qui s'est passé en un clin d'oeil, c'est les deux personnes que j'ai tuées sans raison.</s></text>
+      </align></unit>
+      <unit time="00:05:51" speaker="Apollon"><align>
+        <text langid="kin"><s>Icyo ubyibukaho ni iki gihora kigaruka...</s></text>
+        <text langid="eng"><s>What do you remember about that event, which always comes back to your mind?</s></text>
+        <text langid="fra"><s>Qu'est-ce qui te revient le plus à la mémoire?</s></text>
+      </align></unit>
+      <unit time="00:05:52" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Icyo mbyibukaho ni uko nabishe, mbicishije ubuhiri, bagahita bapfa. Ndabyibuka nkagira agahinda kanini cyane, mbica mbarenganyije ari bagenzi banjye. Ntabahishe nkabica, njya mbyibuka nkagira agahinda kanini,  yuko nabishe, nkaba mbisabira imana imbabazi. Yuko bagenzi banjye nabishe nta kintu mbaziza, mbajijije ibitekerezo bibi byariho buri gihe...icyogihe.</s></text>
+        <text langid="eng"><s>What I recall... is the fact that I killed them. I killed them with clubs and they died right away. Whenever I recall it, I feel so sad. They were my people but I killed them. Instead of hiding them I killed them. Whenever I think about it I feel so sad. Whenever I remember that I killed them... That is why I ask God to forgive me. I always ask for forgiveness because I killed my comrades yet they were innocent. I killed them because of the wrong mentality we were fed then.</s></text>
+        <text langid="fra"><s>C'est la façon dont je les ai tués avec la trique, ils sont morts sur-le-champ. A chaque fois que je m'en souviens, j'ai très mal au cœur! Ils étaient innocents mas je les ai tués au lieu de les cacher,  j'ai mal à chaque fois que je m'en souviens. Je demande pardon à Dieu pour les avoir tués alors qu'ils étaient innocents! Je les ai tués à cause de la mauvaise idéologie qui régnait à l'époque.</s></text>
+      </align></unit>
+      <unit time="00:06:37" speaker="Félicien"><align>
+        <text langid="kin"><s>Ujya ubitekerezaho buri munsi... ?</s></text>
+        <text langid="eng"><s>Do you think about it often?</s></text>
+        <text langid="fra"><s>Tu y penses tous les jours?</s></text>
+      </align></unit>
+      <unit time="00:06:38" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ndabitekereza buri munsi cyane, nkagira agahinda cyane, kubw'abo bagabo nishe mbajijije ubusa.</s></text>
+        <text langid="eng"><s>Yes I often think about it and it fills me with misery. Because of those two men I killed yet they were innocent.</s></text>
+        <text langid="fra"><s>Oui, tous les jours et j'ai trop mal pour avoir tué ces deux innocents!</s></text>
+      </align></unit>
+      <unit time="00:06:45" speaker="Félicien"><align>
+        <text langid="kin"><s>Hari igihe ujya ubirota se ?</s></text>
+        <text langid="eng"><s>Do you sometimes have nightmares about it?</s></text>
+        <text langid="fra"><s>Est-ce qu'il t'arrive de les revoir dans tes cauchemars?</s></text>
+      </align></unit>
+      <unit time="00:06:47" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ndabirota...ibyo...ndabirota cyane nkagira agahinda kanini cyane.</s></text>
+        <text langid="eng"><s>Yes I have nightmares about it. I dream about it and feel deeply sad.</s></text>
+        <text langid="fra"><s>Oui...et à chaque fois, j'ai mal au cœur!</s></text>
+      </align></unit>
+      <unit time="00:06:55" speaker="Félicien"><align>
+        <text langid="kin"><s>Ku bwawe utubwiye ko wishe, hari n'ibyo wibuka neza.  uzi ko wemeye icyaha nk'ubu ibyo bakurega...icyo cyaha wumva...ubifata ute, iyo bakubwiye ko wakoze Jenoside ?</s></text>
+        <text langid="eng"><s>You personally told us that you killed. There are some events that you still remember clearly and you admitted what you were accused of. How do you look at that crime especially when people accuse you to have participated in the genocide?</s></text>
+        <text langid="fra"><s>Tu nous as personnellement dit que tu as tué des gens, tu as même plaidé coupable. Quel effet ça te fait que les gens t'accusent ou qu'ils te disent que tu as commis le Génocide?</s></text>
+      </align></unit>
+      <unit time="00:07:13" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyo byaha, ni jyewe wabyireze bitewe n'umutima wanjye yuko nakoze ibintu bibi. Nta  muntu wabimpase ni jyewe wabyireze. Nza kubyirega ibyo muri selire,  nza no kuvuga ibya hano i Murambi, bitewe n'uko nahabonye abantu bapfuye bazize akarengane. Bishwe n'abagizi ba nabi, babahoye ubusa bahahungiye. Nza kuhirega nta muntu wahandeze ni jyewe wahireze.</s></text>
+        <text langid="eng"><s>No one forced me to pleade guilty. I reported myself as my conscience didn't leave at peace because I knew what I did was very wrong. No one forced me I did it willingly. I reported myself in my home area and talked about what I did in Murambi. I saw so many innocent people dying in Murambi. Wrong doers killed them although they had not done anything wrong. Those people had fled to Murambi. I reported myself about it before anybody reported me.</s></text>
+        <text langid="fra"><s>Personne ne m'a forcé à plaider coupable! Je l'ai fait parce que je sais que ce que j'ai fait est très mal! Je me suis rendu de moi-même, j'ai parlé de ce qui s'est passé ici à Murambi parce que j'ai vu des innocents mourir, tués par des malfaiteurs pour rien. Je me suis rendu sans l'influence de qui que ce soit!</s></text>
+      </align></unit>
+      <unit time="00:07:42" speaker="Félicien"><align>
+        <text langid="kin"><s>Ku giti cyawe se, kuba warakoze Jenoside, cyangwa bakwita ko wakoze Jenoside, wumva ko ipfunwe biguteye ?</s></text>
+        <text langid="eng"><s>Having participated in the genocide or being called a genocidaire, does it make you feel embarrassed?</s></text>
+        <text langid="fra"><s>Le fait de dire que tu as commis le crime de Génocide ou même l'admettre personnellement ne te frustre-t-il pas?</s></text>
+      </align></unit>
+      <unit time="00:07:53" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Kuba narakoze Jenoside,  numva ku giti cyanjye, narakoze nabi, bitewe n'umutima mubi nari mfite. Nyuma leta, iza kuvuga iti: "mwarishe, ni muvuge ukuntu mwishe, tubabarire." Nza kwibaza ndavuga nti: ngiye kuvuga ukuntu nishe, nzababarirwe... ...bambabarire n'Imana imbabarire.</s></text>
+        <text langid="eng"><s>Having participated in the genocide... personally I feel that, I did wrong. And, it was due to the bad heart I had. Later the Government said, "You killed, tell us how you killed then we shall forgive you." Then I thought about it and decided was going to say how I killed and then be pardoned by the Government and by God."</s></text>
+        <text langid="fra"><s>J'admets que j'ai mal agi en commettant le crime de Génocide. C'était dû à l'animosité que j'avais! Mais ensuite le Gouvernement a dit: «Vous avez tué, dites comment vous l'avez fait, nous vous pardonnerons!» Ensuite je me suis engagé à dire comment j'ai tué pour que je sois pardonné...pardonné par Dieu également.</s></text>
+      </align></unit>
+      <unit time="00:08:30" speaker="Félicien"><align>
+        <text langid="kin"><s>Ku bwawe se, ubu uzi ko hariho ikintu cyitwa ubutabera. Cyane n'imanza nyinshi ziba mu Rwanda ni izijyanye n'ibya Jenoside ubona ubutabera bwo mu Rwanda, bwagombye gukora iki?  Kuri iki...,ku bwawe. Wumva bwagombye gukora gute?</s></text>
+        <text langid="eng"><s>You know there is something called 'justice' that is being practiced in Rwanda, concerning the genocide that happened. So how do you think justice should be done? How should they go about it?</s></text>
+        <text langid="fra"><s>Tu sais qu'il y a ce qu'on appelle Justice...surtout la Justice au Rwanda concernant les crimes de Génocide. Qu'est-ce que tu crois que la Justice devrait faire? Ça devrait se passer commentà ton avis?</s></text>
+      </align></unit>
+      <unit time="00:08:50" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubutabera bwo mu Rwanda kuri njyewe, bitewe ko mvugisha ukuri, ngashinja abantu batemera ibyabaye hano. Nkabivugishamo ukuri, nkafasha leta sinyirushye nkavuga ibyabaye, n'ibyo nakoze: ndumva, yambabarira. Yuko mvugisha ukuri ibyabaye, ntayiruhije.</s></text>
+        <text langid="eng"><s>On my behalf, justice in Rwanda... I suggest that the Government forgives me because I always try to simplify its work by confessing and convicting those who don't admit their participation in Murambi killings. I say everything truthfully and I help the Government by telling what happened here and what I personally got involved into. Therefore the Government should forgive me. Because I say the truth about what happened without giving them a hard time.</s></text>
+        <text langid="fra"><s>La Justice...étant donné que je dis la vérité, j'accuserais ceux qui nient leurs actes meurtriers concernant ce qui s'est passé ici. Aider  le Gouvernement en disant ce que j'ai fait, je crois qu'il me pardonnerait ainsià cause du fait que j'ai dit la vérité!</s></text>
+      </align></unit>
+      <unit time="00:09:17" speaker="Félicien"><align>
+        <text langid="kin"><s>Usibye kuvuga ngo: uzababarirwa ku giti cyawe.  Ariko se, ubutabera wifuza nyuma y'ibyabaye mu Rwanda, wumva bwaba ari ubuhe ?</s></text>
+        <text langid="eng"><s>Besides being forgiven, personally after all that happened in Rwanda, what kind of justice should be done?</s></text>
+        <text langid="fra"><s>A part demander pardon, quelle Justice souhaiterais-tu qui soit faiteen tebasant sur ce qui s'est passé au Rwanda?</s></text>
+      </align></unit>
+      <unit time="00:09:27" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ni ubutabera bwunga abanyarwanda, tukubaka igihugu cyacu, ibyabaye nibyongere kuba. Tukacyubaka kikamera nk'uko cyari kimeze, na mbere abantu batarapfa.</s></text>
+        <text langid="eng"><s>It is 'justice' that unites all Rwandans. So that we can build our nation and stop what happened from happening again. We should build our nation and make it look like it was before people died.</s></text>
+        <text langid="fra"><s>Une justice réconciliant la nation en vue de bâtir notre pays. Que ce qui s'est passé ne se reproduise plus. Reconstruire notre pays comme il était avant, quand les gens n'étaient pas encore morts.</s></text>
+      </align></unit>
+      <unit time="00:09:40" speaker="Félicien"><align>
+        <text langid="kin"><s>Bwabunga gute? Ubwo butabera?</s></text>
+        <text langid="eng"><s>How do you think justice would unite people?</s></text>
+        <text langid="fra"><s>Comment cette Justice réconciliera t-elle la nation?</s></text>
+      </align></unit>
+      <unit time="00:09:43" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubutabera bwatwunga twerekana ukuri, ku byabaye muri iki gihugu . Tuvugisha ukuri.</s></text>
+        <text langid="eng"><s>Justice can unite us when we show and say the truth on what happened in Rwanda.</s></text>
+        <text langid="fra"><s>En nous montrant la vérité sur ce qui s'est passé dans le pays! Que nous puissions dire la vérité !</s></text>
+      </align></unit>
+      <unit time="00:09:56" speaker="Félicien"><align>
+        <text langid="kin"><s>Kuri wowe...uvuze ibintu by'ubumwe n'Ubwiyunge. Ubumwe n'ubwiyunge ubwumva ute? Wumva bwakora gute ?</s></text>
+        <text langid="eng"><s>You have just talked about unity and reconciliation. What do you think about unity and reconciliation? How do you expect it to work?</s></text>
+        <text langid="fra"><s>Qu'est-ce que tu comprends par unité et réconciliation? Comment est-ce que cela devrait marcher?</s></text>
+      </align></unit>
+      <unit time="00:10:06" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ubumwe n'Ubwiyunge nuko bwa kunga abanyarwanda, bukabasubiza...bukabasubiza...bu...ubumwe n'ubwiyunge ni uko bwakunga abanyarwanda, bagasubira bakabana nk'uko byari mbere, bakabana n'abo bahemukiye, bakabasaba imbabazi.</s></text>
+        <text langid="eng"><s>I think unity and reconciliation should unite the Rwandans so that they live in harmony the way they lived before. People should live with those they betrayed and ask for forgiveness.</s></text>
+        <text langid="fra"><s>En unifiant les gens...en les réconciliant pour qu'ils revivent avec ceux qui les ont heurtés. Que ces derniers demandent pardon, qu'ils cohabitent encore comme ils étaient avant, quand les gens n'étaient encore pas morts!</s></text>
+      </align></unit>
+      <unit time="00:10:32" speaker="Félicien"><align>
+        <text langid="kin"><s>Wumva se nyuma y'ibyabaye byoroshye  kugira ngo ubumwe n'ubwiyunge buzagerweho?</s></text>
+        <text langid="eng"><s>Do you think that unity and reconciliation are possible after all that happened in Rwanda?</s></text>
+        <text langid="fra"><s>Après ce qui s'est passé, qu'est-ce que tu trouves qui soit facile pour parvenir à l'unité et la réconciliation?</s></text>
+      </align></unit>
+      <unit time="00:10:38" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyabaye, ntabwo byari byoroshye, ariko leta y'u Rwanda ntishaka gukora nk'ibyabaye, irashaka kunga aba...kunga ababikoze, ngo bagaragaze ibyabaye... ukuri.</s></text>
+        <text langid="eng"><s>I know it's hard to unite and reconcile after what happened in Rwanda. But again, the Government is working hard so that people may say the truth about what happened in order to reconcile.</s></text>
+        <text langid="fra"><s>Ce qui s'est passé n'était pas du toutmoindre! Sauf que le Gouvernement Rwandais ne veut pas agir dans ce sens là, il veut réconcilier les auteurs [de massacres] pour...pour qu'ils disent la vérité sur ce qui s'est passé.</s></text>
+      </align></unit>
+      <unit time="00:10:57" speaker="Félicien"><align>
+        <text langid="kin"><s>Ese ku bwawe ko wireze ukemera icyaha...watubwiye ko hari bamwe wakoreye icyaha, bamwe baba bararokotse uzi. Warabegereye?</s></text>
+        <text langid="eng"><s>You have told us that you confessed; now we want to ask you whether you asked for forgiveness to the people you hurt. Did you go to them, especially the survivors?</s></text>
+        <text langid="fra"><s>Tu nous as dit que tu a plaidé coupable sans qu'aucune pression ne soit exercée sur toi. Y a t-il des survivants que tu connaisses qui soient des membres des familles de tes victimes? Si oui, les as-tu approchés?</s></text>
+      </align></unit>
+      <unit time="00:11:09" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee, hari umugore negereye mubwira ukuri, mubwira nabo niciye, aravuga ngo: ntiyari abazi, kuba... mugaragariza imiryango ye yapfuye ati: " rwose ati: nta kibazo."</s></text>
+        <text langid="eng"><s>Yes, there is a woman to whom I asked for forgiveness; she was happy and she thanked me for having told her about the people I killed, she said she didn't know them. And then she said there was no problem with her...I told her about who killed her family members and she said she did not know them.</s></text>
+        <text langid="fra"><s>Euh! Il y a une dame que j'ai approchée, je lui ai parlé des gens que j'ai tués, elle m'a dit qu'elle ne les connaissais pas et que lui dire cela était une bonne chose, qu'il n'y avait pas de problème! Je lui ai parlé de ceux qui ont tué sa famille et elle a répondu qu'elle ne le savait pas.</s></text>
+      </align></unit>
+      <unit time="00:11:25" speaker="Félicien"><align>
+        <text langid="kin"><s>Kuvuga ngo ntakibazo, bisobanuye iki?</s></text>
+        <text langid="eng"><s>What does it mean when one says there is no problem?</s></text>
+        <text langid="fra"><s>Dire qu'il n'y avait pas de problème, ça veut dire quoi?</s></text>
+      </align></unit>
+      <unit time="00:11:27" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ati: "sinari nzi abanyiciye, nune urabagaragaza turaturanye, ati: ubwo ngubwo... ati: kandi babihakana ukaba ugaragaza ababishe, ati: ndumva uvugisha ukuri. Ati: uzakomeze uvuge nk'uko uvuga, iyo miryango yanjye yapfuye."</s></text>
+        <text langid="eng"><s>She said to me, "I didn't know those who killed my relatives. Now you have told them to me and in fact we are neighbours." She told me that they always deny that they didn't kill them. She appreciated me and said, "You say the truth, keep it up and don't change." She told me to keep saying the truth like I had said about her family.</s></text>
+        <text langid="fra"><s>Elle m'a dit qu'elle ne connaissait pas les gens que j'ai tués et que le dire prouvait que je disais la vérité. Ses voisins niaient leurs actes criminels. Elle m'a ensuite encouragé à dire la vérité... sur la façon dont sa famille est morte!</s></text>
+      </align></unit>
+      <unit time="00:11:47" speaker="Félicien"><align>
+        <text langid="kin"><s>Usibye se uwo mugore, wumva abantu bose bacitse ku icumu, biboroheye kuba babarira abakoze jenoside?</s></text>
+        <text langid="eng"><s>Apart from that woman who forgave you, do you think it will be easy for other genocide survivors to forgive the genocidaires?</s></text>
+        <text langid="fra"><s>A l'exception de cette dame, est-ce que tu crois que ce sont tous les rescapés qui sont en mesure de pardonnerles Génocidaires ?</s></text>
+      </align></unit>
+      <unit time="00:11:55" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abantu bose bacitse ku icumu...kuko iki gihugu ntigishaka kwica... nk'abantu bapfuye, twabasaba imbabazi bakatubabarira, tukongera tukabana nk'uko byari bisanzwe.</s></text>
+        <text langid="eng"><s>All the genocide survivors... because this country doesn't want to kill people... the way others were murdered. Therefore, we can ask them to forgive us and in return they will forgive us. Thereafter we will live together in peace as before.</s></text>
+        <text langid="fra"><s>Les rescapés...puisque le Gouvernement actuel n'a pas le but de tuer...comme d'autres sont morts, nous demanderions pardon puis on nous pardonnerait, ensuite nous cohabiterions avec les autres comme avant!</s></text>
+      </align></unit>
+      <unit time="00:12:17" speaker="Félicien"><align>
+        <text langid="kin"><s>Ariko ndakubaza urabona byoroshye ?</s></text>
+        <text langid="eng"><s>But I am asking you if you think it is easy?</s></text>
+        <text langid="fra"><s>Je te demande si tu penses que c'est facile?</s></text>
+      </align></unit>
+      <unit time="00:12:20" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Koroha kugirango abantu batange imbabazi z'abantu babiciye, kuko ari benshi bazitanga, abanga kwemera ibyaha by'ibyo bakoze kandi byabahama bakabahana, kuko baba banga kugaragaza ukuri.</s></text>
+        <text langid="eng"><s>Being easy... people should forgive those who did wrong to them since the majority is ready to forgive. Maybe those who don't accept their roles in the genocide yet there are evidences should be punished because they don't want to expose the truth.</s></text>
+        <text langid="fra"><s>Facile, c'est que...pour que les gens pardonnent à ceux qui les ont offensés,  ils sont d'ailleurs nombreux à le faire...  Ceux qui n'admettent pas leurs crimes et qui à la fin sont prouvés coupables devront être punis du fait qu'ils n'ont pas voulu dire la vérité.</s></text>
+      </align></unit>
+      <unit time="00:12:44" speaker="Félicien"><align>
+        <text langid="kin"><s>Kuri wowe umaze kuvuga ibyabaye wanagize mo uruhare . Urimo uvuga ko ubungubu bigukoma ku mutima ukabyicuza, ubundi u Rwanda urubona ute, mu gihe kizaza ?</s></text>
+        <text langid="eng"><s>You have admitted the crimes you committed and always regret what you did. Now according to you, how do you find the future of Rwanda?</s></text>
+        <text langid="fra"><s>Tu viens de montrer ta part de responsabilité dans ce qui s'est passé et tu dis que tu as des remords. Comment trouves-tu l'avenir du Rwanda?</s></text>
+      </align></unit>
+      <unit time="00:12:59" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>U Rwanda ndubona ko rwa...rutari nka mbere, abana b'u Rwanda bashaka kurwubaka, badashaka gukora nk'ibyabaye. Mu gihe kizaza abana barimo bavuka barimo babigisha kubana n'abandi, bakabigisha gukora, ndabona nta tsembatsemba rizagaruka .</s></text>
+        <text langid="eng"><s>Rwanda is no more like the former Rwanda. Children of Rwanda today think about building their nation. They don't think about doing things like what happened in the past. The Government is teaching the children how to live in peace with one another, how to work... I don't see genocide happening again.</s></text>
+        <text langid="fra"><s>Le Rwanda que je vois n'est pas comme celui d'avant, les enfants du pays se sont engagés à la reconstruction, ils ne veulent pas refaire ce qui est arrivé! Les enfants qui naissent aujourd'hui sont initiés à des mœurs de solidarité et de travail, je crois qu'il n'y aura plus de Génocide dans le pays.</s></text>
+      </align></unit>
+      <unit time="00:13:27" speaker="Félicien"><align>
+        <text langid="kin"><s>Nk'ubu ubwawe uzi u Rwanda rwatakaje abantu, rutakaza n'ibintu. Nk'ubu uramutse ufunguwe, uruhare rwawe watanga, haba mu bumwe n'ubwiyunge, haba mu bikorwa by'amajyambere ni uruhe ?</s></text>
+        <text langid="eng"><s>You know very well that Rwanda lost so many things and very many people. So in case you were released, what would be your contribution as far as unity and reconciliation or development in Rwanda is concerned?</s></text>
+        <text langid="fra"><s>Tu sais bien que le Rwanda a perdu des ressources tant humaines que matérielles, si tu es affranchi aujourd'hui, quel serait ton rôle dans l'unité et la réconciliation ou dans quelque autre domaine visant le développement du pays?</s></text>
+      </align></unit>
+      <unit time="00:13:46" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uruhare natanga ni uko nakwegera abo nahemukiye, kuko ndi umuhinzi yenda tukaguzanya; tugasangira nk'uko twasangiraga; nkabasaba imbabazi; tugahingirana; tugatwererana nk'uko byari bisanzwe .</s></text>
+        <text langid="eng"><s>I think I would go and try to live in peace with the people I tormented and since I'm a farmer, I would try to work with them as we try to help one another.</s></text>
+        <text langid="fra"><s>Ma contribution serait de me rapprocher de la personne que j'ai offensée, puisque je suis cultivateur, nous cultiverionsles uns pour les autres...je leur demanderais pardon; nous redeviendrons unis comme avant.</s></text>
+      </align></unit>
+      <unit time="00:14:11" speaker="Félicien"><align>
+        <text langid="kin"><s>Ukurikije se ibyabaye, ujya wiyumva ko uri Umunyarwanda? ...Ndakubaza. Ujya wiyumva ko uri Umunyarwanda.</s></text>
+        <text langid="eng"><s>When you consider what happened, do you feel like you are a Rwandan?</s></text>
+        <text langid="fra"><s>Après ce qui est arrivé, est-ce que tu ressens que tu es Rwandais? Je te demande si tu te sens Rwandais.</s></text>
+      </align></unit>
+      <unit time="00:14:24" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ndabyumva.</s></text>
+        <text langid="eng"><s>Yes, I feel I'm a Rwandan.</s></text>
+        <text langid="fra"><s>Oui, je le sens.</s></text>
+      </align></unit>
+      <unit time="00:14:26" speaker="Félicien"><align>
+        <text langid="kin"><s>None nk'Umunyarwanda, umuntu witwa Umunyarwanda umubona ute? Uhereye ku bintu byabaye ?</s></text>
+        <text langid="eng"><s>Well as a Rwandan, how do you find your fellow Rwandans? Based on what happened?</s></text>
+        <text langid="fra"><s>Si tu te réfères sur ce qui est arrivé, comment trouves-tu le Rwandais [aujourd'hui]?</s></text>
+      </align></unit>
+      <unit time="00:14:36" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Umuntu witwa umunyarwanda uko mubona, mbere... kera iriya leta itaramuhindura yari...yari mwi...yari mwiza ariko imaze kumuhindura aba mubi ; ariko iyi leta ije ntabwo bikimeze nka mbere. Kuko yagenderaga ku matwara...ku matwara yashaje ya kera, y'abantu bari... bigishaga amacakubiri,  nibyo bigishaga. None iyingiyi yigisha kubana bagasangira, igakuramo abantu ibintu bya kera bibi bagenderagaho, by'inda nini byo kwicana, iyi ntishaka kwica. Ishaka ko  abantu babana n'abandi bagasangira, uwo wiciye ukamusaba imbabazi, nta kindi ishaka. Ukavugisha ukuri.</s></text>
+        <text langid="eng"><s>Before Rwandans used to be good people, but later on the former leadership changed them and then they became bad people. However, this new Government is totally different from the former one. Because the former government was following the ideology of division among people. And, that is all they would teach people. But this Government is teaching people how to live together and how to share and washes away the bad thoughts out of people's minds. Things like grid, killing ... this Government doesn't support that ideology of killing. All this Government needs is people to live with others peacefully; it wants killers to ask for forgiveness. That is all it wants... they want people to say the truth.</s></text>
+        <text langid="fra"><s>Le Rwandais....Avant que le Gouvernement [l'ex-Gouvernement] ne le change, il était bon mais le Gouvernement actuel n'est pas comme celui d'autrefois parce que ce dernier enseignait une idéologie archaïque, une idéologie divisionniste...c'est ça qu'ils enseignaient. Mais le Gouvernement actuel apprend aux gens de cohabiter et d'être solidaires, d'abandonner les mœurs archaïques telles que l'égoïsme et le meurtre. Ce Gouvernement ne veut pas tuer, il veut que les gens vivent solidaires, qu'on demande pardon à celui qu'on a offensé, dire la vérité. C'est tout ce qu'il demande!</s></text>
+      </align></unit>
+      <unit time="00:15:35" speaker="Félicien"><align>
+        <text langid="kin"><s>Urakoze. Harya ushobora kongera kutwibutsa amazina yawe .</s></text>
+        <text langid="eng"><s>Thank you, would you please remind us your name?</s></text>
+        <text langid="fra"><s>Merci, rappelle-nous ton nom.</s></text>
+      </align></unit>
+      <unit time="00:15:37" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nitwa Ayirwanda Gaspard .</s></text>
+        <text langid="eng"><s>My name is Ayirwanda Gaspard.</s></text>
+        <text langid="fra"><s>Je m'appelle Ayirwanda Gaspar.</s></text>
+      </align></unit>
+      <unit time="00:15:42" speaker="Félicien"><align>
+        <text langid="kin"><s>Ubundi umaze igihe kingana iki ....</s></text>
+        <text langid="eng"><s>How long have you been in prison?</s></text>
+        <text langid="fra"><s>Ça fait combien de temps que tu...</s></text>
+      </align></unit>
+      <unit time="00:15:43" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mfite imyaka itanu n'amezi umunani .</s></text>
+        <text langid="eng"><s>I have been in prison for five years and eight months</s></text>
+        <text langid="fra"><s>Cinq ans et huit mois.</s></text>
+      </align></unit>
+      <unit time="00:15:48" speaker="Félicien"><align>
+        <text langid="kin"><s>Urakoze</s></text>
+        <text langid="eng"><s>Thank you.</s></text>
+        <text langid="fra"><s>Merci.</s></text>
+      </align></unit>
+      <unit time="00:15:49" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Namwe murakoze.</s></text>
+        <text langid="eng"><s>Thank you too.</s></text>
+        <text langid="fra"><s>Merci à vous!</s></text>
+      </align></unit>
+      <unit time="00:15:51" speaker="Apollon"><align>
+        <text langid="kin"><s>Ayirwanda.</s></text>
+        <text langid="eng"><s>Ayirwanda?</s></text>
+        <text langid="fra"><s>Ayirwanda!</s></text>
+      </align></unit>
+      <unit time="00:15:52" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Karame.</s></text>
+        <text langid="eng"><s>Yes please?</s></text>
+        <text langid="fra"><s>Oui?</s></text>
+      </align></unit>
+      <unit time="00:15:54" speaker="Apollon"><align>
+        <text langid="kin"><s>Tuvuze nk'ubungubu nk'abantu wiciye, ukishyira mu mwanya wabo. Ngirango uwo watubwiye ni uwo wiciye umwana Ari wo... iyo aramuka akwiciye umwana. Yarishe umwana wawe. Wumva  wabasha kumubabarira wowe ubwawe ?</s></text>
+        <text langid="eng"><s>Well, put yourself in the survivors' shoes and to be more specific let us consider the one whose son you killed. Suppose he was the one who killed your own child, do you think it would be easy for you to forgive him?</s></text>
+        <text langid="fra"><s>Si aujourd'hui tu te mets à la place de ceux que tu as offensés, je crois que la personne dont tu nous a parlé, tu as tué son fils...si c'était ton fils qu'on avait tué, tu pardonnerais au meurtrier toi?</s></text>
+      </align></unit>
+      <unit time="00:16:17" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Njyewe bitewe n'uko... ubutegetsi. Iyo ubutegetsi butaza ku... abantu b'umutima mubi leta mbi yabishishikarije. uwo nanjye akanyicira umwana, akaba ariwe wanyiciye umwana...uko nabyifatamo muri ibi bihe. Imbabazi nazi... nazimuha bitewe nuko...namubabarira.</s></text>
+        <text langid="eng"><s>I personally... according to how this Government... if the Government never... people with bad hearts, who were influenced by the Government. In case it was him who killed my own child, what I would do... according to these days, I would... I would forgive him due to... I would forgive him.</s></text>
+        <text langid="fra"><s>Cela dépendrait de la Gouvernance, si...si elle n'avait pas...si elle avait incité les gens à faire le mal, et qu'il arrive que quelqu'un tue mon enfant...dans ce temps actuel, je...je lui pardonnerais dû au fait que...je lui pardonnerais.</s></text>
+      </align></unit>
+      <unit time="00:16:50" speaker="Apollon"><align>
+        <text langid="kin"><s>Umva nkubwire. Twese twarize twagiye twigisha ubumwe n'ubwiyunge, turanabyumva tunabishyira mu bikorwa, ni nacyo turimo gukora. Ariko tugira umutima n'ubwenge . Sinkubaza ibyo bakwigishije, ndakubaza amarangamutima yawe. Ndakubaza uko ubyumva. Wowe ubwawe, umuntu akwiciye umwana, bamubwiye bati tuga...tugarure uriya muntu wakwiciye umwana, wumva washobora kumugirira izo mbabazi ? Cyangwa wavuga uti: "uyu muntu najye ukwe simushaka".</s></text>
+        <text langid="eng"><s>Listen, we all learnt... all of us were taught about unity and reconciliation. We understood and even practiced it. In fact this is what we are doing right now. But as human beings we have hearts and brains. Therefore, I am not asking you about what you were taught. I am asking you according to your conscience and beliefs. On your behalf, if one said that they are going to bring someone who killed your child, would you be that kind to him? Or would you say that you don't even want to see him?</s></text>
+        <text langid="fra"><s>Ecoute, nous avons tous enseigné sur l'unité et la réconciliation, nous comprenons ce que c'est et même que nous la mettons en pratique, c'est d'ailleurs ce que nous sommes entrain de faire. Je ne te demande pas ce que tu as appris mais juste l'expression de tes sentiments, comment perçois-tu la chose? Si quelqu'un tue ton enfant, et qu'on le ramène, est-ce que tu peux le pardonner? Ou dirais-tu simplement: «Je ne veux pas voir cette personne!»</s></text>
+      </align></unit>
+      <unit time="00:17:25" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uwo muntu abenshi bamwe barazitanga, abandi bakazimana.</s></text>
+        <text langid="eng"><s>Such a person... the majority forgives and others don't.</s></text>
+        <text langid="fra"><s>Cette personne...certains pardonnent, d'autres ne le font pas!</s></text>
+      </align></unit>
+      <unit time="00:17:30" speaker="Apollon"><align>
+        <text langid="kin"><s>Wowe ubwawe, nakubajije wowe ubwawe, simvuga abandi . Wowe ubwawe ari ibyakubayeho, wataha ugasanga umwana wawe bamwishe. Uwamwishe wamubabarira?</s></text>
+        <text langid="eng"><s>I'm asking you personally, I'm not asking you about others. If it was a true story that happened to you, let us say one time you went home and found your child's body lying there dead. Can you forgive that person who may have killed your child?</s></text>
+        <text langid="fra"><s>Je m'adresse à toi personnellement et pas aux autres. Si une fois tu rentres et que tu trouves ton enfant assassiné, pardonnerais-tu le meurtrier?</s></text>
+      </align></unit>
+      <unit time="00:17:41" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Njyewe ubwanjye, nigeze nokuzitanga hari umuntu wanyiciye umugore, ndamubabarira ubu ari hanze. Ariko si muri Jenoside, ni uburozi yamuhaye, arapfa . Ariko ubu twarasangiraga tukana... tugasangira tugatumirana. Nanjye nazimuha. Bitewe n'umutima wanjye uba wagarutse, nazimuha.</s></text>
+        <text langid="eng"><s>Personally there is a time I forgave someone who killed my wife. Now he has been released. But it wasn't during genocide, that person used poison and she died. But later we reconciled and started sharing everything; we would invite each other for events. Therefore I would forgive him. My heart would be at ease to forgive him.</s></text>
+        <text langid="fra"><s>Personnellement, je l'ai fait! J'ai pardonné à celui qui a tué ma femme, il est en liberté aujourd'hui! mais il ne l'a pas tuée durant le Génocide, ill'a juste empoisonné puis elle est morte. Nous étions solidaires et... nous partagions et nous invitions mutuellement, je lui pardonnerais dû au fait que mon cœur aurait changé, je lui pardonnerais!</s></text>
+      </align></unit>
+      <unit time="00:18:07" speaker="Apollon"><align>
+        <text langid="kin"><s>Yee, ni icyo nagirango umbwire. Hanyuma, mu magambo make ndagira ngo umbwire imibereho yawe... watubwiye ko hashize imyaka itanu n'amezi umunani ufunze, ni ukuvuga ko wafunzwe nko muri mirongo cyenda n'icyenda [1999].</s></text>
+        <text langid="eng"><s>Well that is all I wanted you to tell me. Now would you tell us in brief, your life experience; you told us that you have been in prison for 5 years and 8 month, which means you were arrested in 1999.</s></text>
+        <text langid="fra"><s>Ok ! C'est ce que je voulais savoir. J'aimerais bien que tu me parles de ta vie courante, tu m'as dit que ça fait 5ans et huit mois que tu es en prison, ce qui signifie que tu as été arrêté en 1999.</s></text>
+      </align></unit>
+      <unit time="00:18:18" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nafunzwe icyenda n'umunani [1998], itariki 26 z'ukwa karindwi.</s></text>
+        <text langid="eng"><s>I was arrested on the 26th July 1998.</s></text>
+        <text langid="fra"><s>J'ai été arrêté le 26 Juillet 1998.</s></text>
+      </align></unit>
+      <unit time="00:18:27" speaker="Apollon"><align>
+        <text langid="kin"><s>Mbere y'aho kuva muri mirongo cyenda na kane [1994], aho ubwicanyi buhagarariye, watubwira ubuzima waciyemo mu magambo make ?</s></text>
+        <text langid="eng"><s>After the genocide stopped in 1994, what kind of life did you go through? Please tell us in brief.</s></text>
+        <text langid="fra"><s>Dis-nous en bref quel genre de vie tu as vécu depuis la fin des massacres de 1994.</s></text>
+      </align></unit>
+      <unit time="00:18:38" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Muri mirongo cyenda na kane [1994] intambara imaze kuba abatutsi barapfuye, abantu twari dufite umutima nk'uw' bisimba. Twari dufite umutima...kuko abantu bari muri Gikongoro usibye njyewe, ntabwo bari bameze neza.</s></text>
+        <text langid="eng"><s>In 1994 after the war when all Tutsi had died, people were wild. Everyone in Gikongoro was bad except me.</s></text>
+        <text langid="fra"><s>Après la guerre de 1994, les Tutsis ont péri, ce temps là, nous avions des cœurs sauvages...un cœur de...les gens de Gikongoro à part moi n'étaient pas des gens bien!</s></text>
+      </align></unit>
+      <unit time="00:19:08" speaker="Apollon"><align>
+        <text langid="kin"><s>Nagusabye ko wansobanurira ubuzima bwawe nyuma y'icyo gihe. Ese warahunze ujya muri Kongo nk'abandi...ese wagize ute... Tubwiye mu magambo make, uti: "intambara irangiye navuye aha njya aha, ngira ntya...ngira ntya, kugeza umunsi uyu n'uyu bageze aho baramfata, tubwire mu magambo arambuye...</s></text>
+        <text langid="eng"><s>I am asking you to describe your life for me, after that time. Did you flee to Congo like others...If you fled, how did you go...? Tell us in brief. For example you may say, "After the war I went here or there, I did this or that until such and such day when I was arrested." Just tell us general.</s></text>
+        <text langid="fra"><s>Je te demandais de nous décrire  la vie que tu as traversée à cette époque là, est-ce que tu as fui au Congo comme les autres? Qu'est-ce qui s'est passé...Raconte comme ceci: 'Après la guerre, je suis allé à tel endroit, j'y ai passé autant de jours, puis j'ai été arrêté... explique en large.</s></text>
+      </align></unit>
+      <unit time="00:19:25" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mu buzima bwanjye icyo gihe ntabwo namerewe neza, kuko nabonaga Umututsi twari duturanye...itongo nsigaye nturanye n'amatongo.</s></text>
+        <text langid="eng"><s>During that time, I faced a very hard time in my life. Because all my Tutsi neighbours had died.</s></text>
+        <text langid="fra"><s>Je ne me sentais pas bien à cette époque là parce que là où il y avait un voisin Tutsi, il ne restait plus que des ruines...mon voisinage n'était que des ruines!</s></text>
+      </align></unit>
+      <unit time="00:19:33" speaker="Apollon"><align>
+        <text langid="kin"><s>Ndashaka kukubaza. Wigeze uhunga?</s></text>
+        <text langid="eng"><s>I want to know if you fled.</s></text>
+        <text langid="fra"><s>Je voudrais te demander si tu es parti en exil à un certain temps.</s></text>
+      </align></unit>
+      <unit time="00:19:35" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Sinahunze. Noneho nababazwa n'abaturanyi twari duturanye, bigatuma nanjye bimbabaza ntabwo nari meze neza mu mutima wanjye.</s></text>
+        <text langid="eng"><s>No I didn't flee. What hurt me were the neighbours I had whom I would no longer see. That caused me a lot of pain in my heart.</s></text>
+        <text langid="fra"><s>Non je n'ai pas fui...le fait de ne plus voir mes voisins me faisait très mal, je n'étais pas bien dans mon cœur!</s></text>
+      </align></unit>
+      <unit time="00:19:47" speaker="Apollon"><align>
+        <text langid="kin"><s>Wakomeje kubaho ubuzima busanzwe bw'umuturage wo mu giturage?</s></text>
+        <text langid="eng"><s>Did you continue to live your life in the village like any other villager?</s></text>
+        <text langid="fra"><s>Tu as continué à mener une vie de paysanà la campagne ?</s></text>
+      </align></unit>
+      <unit time="00:19:50" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee. Nakomeje kubaho ariko umutima wanjye... nkumva umutima urarya, nanjye umutima wanjye ntiwari umeze neza, bitewe n'abantu bapfuye twari duturanye.</s></text>
+        <text langid="eng"><s>Yes I lived a normal life but I wasn't happy at all because of the innocent people who had died.</s></text>
+        <text langid="fra"><s>Oui j'ai continué mais j'avais toujours mal au cœur, mon âme n'était pas en paix du fait que mes voisins [Tutsis] étaient morts!</s></text>
+      </align></unit>
+      <unit time="00:19:58" speaker="Apollon"><align>
+        <text langid="kin"><s>Nk'aho wari utuye wabonaga nk'amatongo angahe?</s></text>
+        <text langid="eng"><s>In the place where you lived, how many ruined houses were there?</s></text>
+        <text langid="fra"><s>Combien de maisons en ruine y avait-il autour de toi?</s></text>
+      </align></unit>
+      <unit time="00:20:02" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Aho nari ntuye nabonaga nk'amatongo ageze kuri atandatu.</s></text>
+        <text langid="eng"><s>Where I lived, there were about six houses in ruin.</s></text>
+        <text langid="fra"><s>Environ six.</s></text>
+      </align></unit>
+      <unit time="00:20:07" speaker="Apollon"><align>
+        <text langid="kin"><s>Iyo wayabonaga se, hari icyo byakwibutsaga?</s></text>
+        <text langid="eng"><s>Whenever you would see them, wouldn't they remind you of something?</s></text>
+        <text langid="fra"><s>Est-ce qu'elles te rappelaient quelque chose quand tu les voyais?</s></text>
+      </align></unit>
+      <unit time="00:20:09" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Byarakinyibutsaga, iyo nahataramiraga, iyo noherezaga abana kujya kuharahura no gusaba amazi. Nkabura aho njya kuyasaba, nkabura n'uwo tuganira, kandi twaranaguzanyaga no guhinga, numvaga muri njyewe umutima wanjye utameze neza. Agahinda karanyicaga, kubera kubura abo bavandimwe.</s></text>
+        <text langid="eng"><s>Yes they would remind me of something because whenever I would like to send my children to my neighbours for some water, I could not because they were no longer there and yet there used to be people whom we would talk. It would really hurt me.</s></text>
+        <text langid="fra"><s>Bien sûr! Ça me rappelait toutes les soirées que je pouvais m'entretenir avec eux, toutes les fois que je pouvais envoyer mon enfant y chercher de l'eau ou du feu...mais après, je n'avais personne pour causer avec, nulle part ou demander de l'eau ou du feu...en plus, nous cultivions les uns pour les autres...tout ceci rendait mon âme instable, je souffrais intérieurement du fait d'avoir perdu des frères.</s></text>
+      </align></unit>
+      <unit time="00:20:31" speaker="Apollon"><align>
+        <text langid="kin"><s>Hari icyo wabikozeho ngo: uvuge ngo urasaba imbabazi, cyangwa ngo urabegera ngo ubabanire ?</s></text>
+        <text langid="eng"><s>Did you do anything about it? For example like apologizing to them...?</s></text>
+        <text langid="fra"><s>Est-ce que tu as essayé de faire quelque chose pour les approcher ou leur demander pardon?</s></text>
+      </align></unit>
+      <unit time="00:20:34" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Abo ngabo ntibari bariho, nari kuzisaba aba... ntibari bariho bari barapfuye, agahinda nagiraga ni uko nari nturanye n'amatongo gusa.</s></text>
+        <text langid="eng"><s>There was no one I could apologize to during that time. If they had been there, I would have apologized to them. But I was only hurt because of those ruins</s></text>
+        <text langid="fra"><s>Mais ils ne sont plus là! A qui veux-tu que je le demande? Ils étaient mort depuis longtemps...ce qui me faisait le plus mal, c'était de vivre entouré  de ruines!</s></text>
+      </align></unit>
+      <unit time="00:20:47" speaker="Apollon"><align>
+        <text langid="kin"><s>Hagati  aho watubwiye ko usa nk'uwafunzwe bitinze. Icyo gihe nabwo utubwire kuva icyanda na kane [1994] kugera icyenda n'umunani [1998], ukuntu byaje kugera  aho urafungwa .</s></text>
+        <text langid="eng"><s>Meanwhile, according to what you have said, it seems like it took long before you were arrested. But you are not telling us your life during all that period. From 1994 to 1998... until you were arrested.</s></text>
+        <text langid="fra"><s>Apparemment tu as été emprisonné tard! Dis-nous comment tu as vécu la période entre 1994 et ton arrestation en 1998?</s></text>
+      </align></unit>
+      <unit time="00:21:00" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ukuntu byagezeho... ukuntu byagezeho, uwo niciye umwana yari Umuhutukazi wari washatse ku Mututsi aza kundega . Noneho nanga...ndahunga nkazajya ndara mu bihuru ndaraguza. Nta urugo rwanjye.</s></text>
+        <text langid="eng"><s>What happened is that, the lady whose child I killed was a Hutu but she had married a Tutsi. So she reported me to the authorities and then I ran away from my home. I let my home and I would sleep in bushes.</s></text>
+        <text langid="fra"><s>Au fait, l'enfant que j'avais tué était issu de mère Hutu mais de père Tutsi...sa mère m'a accusé...mais j'ai nié, j'ai fui, je passais la nuit dans les buissons, j'allais voir les devins, j'ai fui ma maison....</s></text>
+      </align></unit>
+      <unit time="00:21:22" speaker="Apollon"><align>
+        <text langid="kin"><s>Yakureze ryari?</s></text>
+        <text langid="eng"><s>When did she report you?</s></text>
+        <text langid="fra"><s>Quand t'a t-elle accusé?</s></text>
+      </align></unit>
+      <unit time="00:21:23" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yandeze icyo gihe muri mirongo cyenda n'umunani [1998]. Baza kumfata bakambura.</s></text>
+        <text langid="eng"><s>She reported me in 1998 but whenever they would come for me, I would run away.</s></text>
+        <text langid="fra"><s>Elle m'a accusé en 1998 mais à chaque fois qu'ils venaient me chercher, ils ne me trouvaient pas!</s></text>
+      </align></unit>
+      <unit time="00:21:33" speaker="Apollon"><align>
+        <text langid="kin"><s>Wabaga mu gihuru?</s></text>
+        <text langid="eng"><s>Were you hiding in the bush?</s></text>
+        <text langid="fra"><s>Tu étais dans les buissons?</s></text>
+      </align></unit>
+      <unit time="00:21:34" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nabaga mu gihuru</s></text>
+        <text langid="eng"><s>Yes I was hiding in the bush.</s></text>
+        <text langid="fra"><s>Oui!</s></text>
+      </align></unit>
+      <unit time="00:21:35" speaker="Félicien"><align>
+        <text langid="kin"><s>Hafi y'iwawe?</s></text>
+        <text langid="eng"><s>Near your home?</s></text>
+        <text langid="fra"><s>Mais juste près de chez toi!</s></text>
+      </align></unit>
+      <unit time="00:21:37" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Hafi y'i...najyaga za Rukondo, ngatembera nkapagasa, naza nkaza ninjoro atareba. Bugacya nkamara nko mu nzu nihishe, ubundi nkagenda ntawe ubizi.</s></text>
+        <text langid="eng"><s>Near my... I would go to a place called Rukondo and then I would come back at night while no one was seeing. I would stay in the house for the whole day, and then go back when no one was aware.</s></text>
+        <text langid="fra"><s>Près de Ruhondo...j'allais sarcler [pour avoir de l'argent] puis je rentrais le soir sans que personne s'en aperçoive. Le lendemain, je me cachais dans la maison puis sortais incognito.</s></text>
+      </align></unit>
+      <unit time="00:21:55" speaker="Apollon"><align>
+        <text langid="kin"><s>Muri uko ubwo bwihisho bwawe hari uwagufashije ?</s></text>
+        <text langid="eng"><s>Was anyone there to help you to hide?</s></text>
+        <text langid="fra"><s>Est-ce que quelqu'un t'a aidé à te cacher?</s></text>
+      </align></unit>
+      <unit time="00:21:59" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Twihishanye...muri ubwo bwihisho bwanjye, nabanaga n'abandi bagabo, bari bameze nkanjye gutyo.</s></text>
+        <text langid="eng"><s>I was hiding with other men who were in the same situation as me.</s></text>
+        <text langid="fra"><s>Dans ma cachette, j'étais avec d'autres dans le même cas que moi!</s></text>
+      </align></unit>
+      <unit time="00:22:10" speaker="Apollon"><align>
+        <text langid="kin"><s>Nabo baje gufatwa se?</s></text>
+        <text langid="eng"><s>Were they arrested too?</s></text>
+        <text langid="fra"><s>Ont-ils été arrêtés aussi?</s></text>
+      </align></unit>
+      <unit time="00:22:11" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ntibafashe bari hanze.Bagarutse iwabo, ni njye bafashe njyenyine. Twafatanyije kwica.</s></text>
+        <text langid="eng"><s>They were not arrested. They are out there in their homes. I am the only one who is in jail among all people we collaborated in the killings.</s></text>
+        <text langid="fra"><s>Non, ils sont en liberté. J'ai été le seul à être arrêté alors que nous avons commis le crime ensemble!</s></text>
+      </align></unit>
+      <unit time="00:22:20" speaker="Apollon"><align>
+        <text langid="kin"><s>Waje gufatwa ute?</s></text>
+        <text langid="eng"><s>How were you arrested?</s></text>
+        <text langid="fra"><s>Comment as-tu été arrêté?</s></text>
+      </align></unit>
+      <unit time="00:22:21" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Uko nafashwe, nari ndimo mpinga imuhira, baza kumfata ubwo bahita banjyana kuri komine. Bahita bamfunga, mpageze mpita nemera ko nishe.</s></text>
+        <text langid="eng"><s>How the arrested me...they got me from home where I was digging. When they took me to the commune and imprisoned me. And when I reached there, I immediately I admitted that I committed the genocide.</s></text>
+        <text langid="fra"><s>J'étais entrain de cultiver dans mon champ puis on est venu m'arrêter. On m'a emmené au bureau communal; j'ai reconnu que j'ai tué puis on m'a directement mis en prison!</s></text>
+      </align></unit>
+      <unit time="00:22:37" speaker="Apollon"><align>
+        <text langid="kin"><s>Ni nde wagufashe?</s></text>
+        <text langid="eng"><s>Who arrested you?</s></text>
+        <text langid="fra"><s>Qui t'a arrêté?</s></text>
+      </align></unit>
+      <unit time="00:22:39" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nafashwe na konseye uwo nguwo, watuzanye hano i Murambi, mfatwa na banyumbakumi, mfatwa n'uwo mututsi na none nici...wacyuye...wacitse ku icumu, wacyuye uwo mugore  wabo.</s></text>
+        <text langid="eng"><s>The counselor arrested me; the one who brought us here in Murambi. Together with the local leaders they arrested me. And that Tutsi survivor who married a Hutu lady.</s></text>
+        <text langid="fra"><s>Le conseiller...celui qui nous avait emmené à Murambi, ensuite par des Nyumbakumi [responsables-de-dix-maisons] etle Tutsi là, le rescapé, qui avait pris la femme avec lui.</s></text>
+      </align></unit>
+      <unit time="00:22:57" speaker="Félicien"><align>
+        <text langid="kin"><s>Utubwiye ngo: konseye uwo nguwo ni umukonseye wigeze kubazana mu gihe cy'ubwicanyi ?</s></text>
+        <text langid="eng"><s>You have told us that you were arrested by the counselor, is it the one who brought you during the time of killing?</s></text>
+        <text langid="fra"><s>Tu viens de parler d'un conseiller durant la période des massacres?</s></text>
+      </align></unit>
+      <unit time="00:23:01" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee, niwe wamfashe.</s></text>
+        <text langid="eng"><s>Yes he is the one.</s></text>
+        <text langid="fra"><s>Oui, c'est lui qui m'a arrêté.</s></text>
+      </align></unit>
+      <unit time="00:23:02" speaker="Félicien"><align>
+        <text langid="kin"><s>Yari akiri konseye?</s></text>
+        <text langid="eng"><s>Was he still a counselor by the time he arrested you?</s></text>
+        <text langid="fra"><s>Il est toujours conseiller?</s></text>
+      </align></unit>
+      <unit time="00:23:03" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>N'ubu niwe .</s></text>
+        <text langid="eng"><s>Yes and up to now he is still a counselor.</s></text>
+        <text langid="fra"><s>Oui!</s></text>
+      </align></unit>
+      <unit time="00:23:06" speaker="Apollon"><align>
+        <text langid="kin"><s>Wigeze mu buhamya bwawe...</s></text>
+        <text langid="eng"><s>Did you talk about it in the testimony you gave?</s></text>
+        <text langid="fra"><s>Dans ton témoignage...</s></text>
+      </align></unit>
+      <unit time="00:23:08" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mu buhamya bwanjye no kuri dossier  yanjye hose ariho. No mu Cyanika narabuvuze ku kibuga. Kuri  Dossier yanjye, abo bose bariho.</s></text>
+        <text langid="eng"><s>In my testimonies and in my documents he is there. Even in the testimony I testified in Cyanika I mentioned him. That was in Kibuye. In my document all of them are mentioned.</s></text>
+        <text langid="fra"><s>Dans mon témoignage et dans mon dossier, je l'ai mentionné! Je l'ai dit même au terrain de Cyanika, jeles ai dénoncés! Ils sont mentionés dans mon dossier.</s></text>
+      </align></unit>
+      <unit time="00:23:17" speaker="Félicien"><align>
+        <text langid="kin"><s>Nonese nk'mpamvu ubona bo badafatwa, unatubwiye ko harimo umuyobozi ni iyihe?</s></text>
+        <text langid="eng"><s>What could be the reason why they are not arrested and you have told us that some are leaders?</s></text>
+        <text langid="fra"><s>Mais quelle est la raison pour laquelle ces gens sont en liberté? Tu m'as dit aussi qu'il y a une autorité parmi eux.</s></text>
+      </align></unit>
+      <unit time="00:23:22" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Narabivuze igihe kinini, baravuga ngo: bazabafatira...bazabafata muri Gacaca niko numva bavuga.  Narabivuze banga kubafata simbizi.</s></text>
+        <text langid="eng"><s>I said it for a long time and they said that they will arrest them in Gacaca but I don't know why they don't arrest them.</s></text>
+        <text langid="fra"><s>Je l'ai dit maintes fois mais on m'a dit qu'il fallait attendre Gacaca pour leur mettre la main dessus. C'est ce qu'on m'a dit, je ne sais pas pourquoi!</s></text>
+      </align></unit>
+      <unit time="00:23:34" speaker="Félicien"><align>
+        <text langid="kin"><s>Hanyuma se nkawe, nk'umuntu uri muri gereza, iyo wumva hari... umuyobozi uyoboye umurenge w'iwawe, ubwo ni ukuvuga ko ariwe utanga amabwiriza niwe wagombye kugaragariza ibibi. Uzi neza ko mwakoranye ikibi. Ubwo ni iki uba utekereza kuri uwo murenge wawe ?</s></text>
+        <text langid="eng"><s>You as a person who s in jail, when you hear about such... a leader in your sector... it means that he is the one who gives orders yet he is supposed to be the one revealing the wrong things. You are very sure that you all participated in the genocide. What do you thing about your sector?</s></text>
+        <text langid="fra"><s>Toi en tant que quelqu'un qui  est en prison et qui est au courant qu'il y a une autorité dans ton secteur qui donne des instructions, en principe c'est lui qui devrait faire ressortir la vérité...qu'est-ce que tu penses de ton secteur vu que celui qui le dirige a été ton complice [durant le Génocide]?</s></text>
+      </align></unit>
+      <unit time="00:23:58" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ntekereza kuri uwo murenge wanjye, ni uko nazahagera nkahagarara mu ruhame rw'abantu, njyenda mpagurutsa umuntu  twagiye twica...dufatanyije ubwicanyi. N'iyo na konseye yaba ayoboye iyo nama, nawe namu... namuvuga...namuvugaho.</s></text>
+        <text langid="eng"><s>If I were given the opportunity to go back to my area, I would go pointing out the people we were with and even though that leader is among, I would name him too.</s></text>
+        <text langid="fra"><s>Ce que je pense de mon secteur c'est que je témoignerai devant la foule, je lèverai un par un tout un chacun qui a été  mon complice dans les massacres! Peu importe si c'est le conseiller qui sera entrain de présider la réunion, je le dénoncerai!</s></text>
+      </align></unit>
+      <unit time="00:24:14" speaker="Félicien"><align>
+        <text langid="kin"><s>Nyine nashatse kukubaza ubu, ku miyoborere y'umurenge wawe, ubungubu udahari.</s></text>
+        <text langid="eng"><s>I just wanted to know how you feel about the leadership in your sector in this time of your absence.</s></text>
+        <text langid="fra"><s>Je te demande ce que tu penses de l'administration aujourd'hui que tu n'es pas là!</s></text>
+      </align></unit>
+      <unit time="00:24:21" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nk'umurenge wanjye uyoborwa n'umuntu waba yarishe, mbibonamo yuko uwo muntu bamufata.</s></text>
+        <text langid="eng"><s>Well, a place like my home sector, which is lead by a genocidaire, I suggest that person should be arrested.</s></text>
+        <text langid="fra"><s>Mon secteur est dirigé par un criminel, ce dernier devrait être arrêté!</s></text>
+      </align></unit>
+      <unit time="00:24:30" speaker="Félicien"><align>
+        <text langid="kin"><s>Oya si ukuvuga ngo bamufata, nicyo cyifuzo cyawe. Ariko kubyerekeye imiyoborere yaho.</s></text>
+        <text langid="eng"><s>No, it's not to do with arresting him, which is your desire; I'm talking about his leadership.</s></text>
+        <text langid="fra"><s>L'arrêter est ton souhait certes mais je parle de l'administration!</s></text>
+      </align></unit>
+      <unit time="00:24:35" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyerekeye imiyoborere, uko ayobora ndafunze ntabwo nzi uko ayobora.</s></text>
+        <text langid="eng"><s>I don't know about his ways of leading because I'm in prison.</s></text>
+        <text langid="fra"><s>Je ne sais pas comment il [le conseiller] le dirige!</s></text>
+      </align></unit>
+      <unit time="00:24:41" speaker="Félicien"><align>
+        <text langid="kin"><s>Ndi kukubaza uko ubitekereza?</s></text>
+        <text langid="eng"><s>I am just asking you what you think about it.</s></text>
+        <text langid="fra"><s>Je te demande ce que tu en penses.</s></text>
+      </align></unit>
+      <unit time="00:24:43" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Icyo ntekereza nk'umuntu uyobora yarishe. Akayobora, ku bwanjye numva nta kintu ari gukora. Keretse uwamucisha mu ngando, akikuramo ibibi yakoze. Kuko yakoze byinshi.</s></text>
+        <text langid="eng"><s>What I think about someone who is leading my home sector yet he killed, I guess he is doing nothing. I think he should first go to solidarity camps and try to forget what he did because he did many things.</s></text>
+        <text langid="fra"><s>Je pense que diriger alors qu'il a tué, ça n'a aucun sens! A moins qu'on le fasse passer dans un camp de solidarité [ingando] pour le débarrasser de tous les maux qu'il a fait! Il fait beaucoup de mauvaises choses!</s></text>
+      </align></unit>
+      <unit time="00:25:00" speaker="Félicien"><align>
+        <text langid="kin"><s>Kuri wowe urumva agiye mu ngando uri kumva agiye mu ngando hari icyo  yahindura? Cyangwa yanagiyemo ntabwo ubizi.</s></text>
+        <text langid="eng"><s>So you think if he went to solidarity camps he may change? Or maybe he went there but you are not informed?</s></text>
+        <text langid="fra"><s>Tu crois que pour lui, aller dans un camp de solidarité changera quelque chose? Peut-être même qu'il s'y est rendu, qu'est-ce que tu en sais?</s></text>
+      </align></unit>
+      <unit time="00:25:06" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nta ngando arajyamo kuko... yajya mu ngando se  ate, kandi adafunze, ari hanze ?</s></text>
+        <text langid="eng"><s>He has not yet gone there. How can he go there yet he was not arrested?</s></text>
+        <text langid="fra"><s>Il n'est allé dans aucun camp de formation! Comment pouvait-il y aller alors qu'il est en liberté?</s></text>
+      </align></unit>
+      <unit time="00:25:18" speaker="Félicien"><align>
+        <text langid="kin"><s>Hari ingando zijya zibaho z'abayobozi.</s></text>
+        <text langid="eng"><s>But there are camps purposely for leaders.</s></text>
+        <text langid="fra"><s>Il y en a qui sont organisés uniquement pour les dirigeants!</s></text>
+      </align></unit>
+      <unit time="00:25:21" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyo yakoze arabyirengagiza ntiyabyemera, keretse ukuri kwagiye ahagaragara ibyaha bikamufata.</s></text>
+        <text langid="eng"><s>He ignored and never admitted what he did, unless the truth is revealed and then his crimes will get him to jail.</s></text>
+        <text langid="fra"><s>Il n'a admet pas ce qu'il a fait, il fait semblant. A moins qu'on mettela vérité à nu pour qu'il soit jugé coupable!</s></text>
+      </align></unit>
+      <unit time="00:25:36" speaker="Félicien"><align>
+        <text langid="kin"><s>Kubyo umaze kuvuga se ubungubu ni ikihe cyifuzo cyawe watanga ?</s></text>
+        <text langid="eng"><s>Of all what you have just said what would you suggest?</s></text>
+        <text langid="fra"><s>En plus de tout ce que tu viens de dire, qu'est-ce que tu souhaites?</s></text>
+      </align></unit>
+      <unit time="00:25:42" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Kubyo maze kuvuga, ikifuzo ntanga; ni uko ibyo nakoze byari bibi muri leta ya mbere. None kuri leta y'ubumwe n'ubwiyunge ikaba... na...nshaka kugaragaza ukuri kw'ibyabaye. Nkaba ukuri nagaragaza ni uko nagarura umutima...umutima wanjye wabaye muzima, ku buryo nabana n'abantu. Tukabana tukubaka u Rwanda rwatubyaye, tukagaragaza ukuri ku byabaye tukabana n'abo twiciye.</s></text>
+        <text langid="eng"><s>Based on all I have said, my wish is to let people know that all the bad deeds I did were of the past Government. And, now in this Government of unity and reconciliation, I would like to testify what happened. And the truth I would like to show is how my heart was renewed and now I am human and I can live with other people. Together we can build our motherland Rwanda. We should reveal the truth about what happened and live with those whose beloved ones we killed.</s></text>
+        <text langid="fra"><s>Sur ce que je viens de dire, je dirais que mon souhait est que...j'ai mal agi durant le pouvoir du premier Gouvernement mais maintenant, je souhaite dire la vérité sur ce qui s'est passé. La vérité est que je veux changer, être humain de façon à cohabiter avec les gens pour rebâtir notre pays...exposer la vérité sur ce qui s'est passé et revivre avec les familles de ceux que nous avons tués.</s></text>
+      </align></unit>
+      <unit time="00:26:18" speaker="Félicien"><align>
+        <text langid="kin"><s>Nk'ubungubu uhagaze hano i Murambi uribuka ijoro ryaho uza mu bwicanyi. nibwo bwa mbere uhaje?</s></text>
+        <text langid="eng"><s>Now that you are here in Murambi, you can remember that night when you came for the killings... is it your first time to come to Murambi?</s></text>
+        <text langid="fra"><s>Quand tu te mets ici à Murambi, tu te souviens de la nuit de votre attaque? Est-ce la première fois que tu y arrives?</s></text>
+      </align></unit>
+      <unit time="00:26:26" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ni bwo bwa mbere nza ahangaha , aha...ntarafatwa narahaje perezida yahaje, haje na perezida Kabomboki.</s></text>
+        <text langid="eng"><s>It's my first time to come here; I last came here when his excellence the former President had come with the Zambian president Kabombeki.</s></text>
+        <text langid="fra"><s>C'est la première fois...avant  mon arrestation, j'y suis venu à l'arrivée du président Kabomboki.</s></text>
+      </align></unit>
+      <unit time="00:26:37" speaker="Apollon"><align>
+        <text langid="kin"><s>Kabomboki ni nde?</s></text>
+        <text langid="eng"><s>Who is Kabombeki...?</s></text>
+        <text langid="fra"><s>Qui est Kabomboki?</s></text>
+      </align></unit>
+      <unit time="00:26:39" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ni perezida yari yahaje perezida wo muri Zambiya, sinzi... hari haje umuperezida sinzi uwo ariwe.</s></text>
+        <text langid="eng"><s>He is the Zambian... anyway I don't remember well which country he is the President of...</s></text>
+        <text langid="fra"><s>C'est un président, le Président de Zambie...C'est le Président je ne sais de quel pays.</s></text>
+      </align></unit>
+      <unit time="00:26:48" speaker="Apollon"><align>
+        <text langid="kin"><s>Ni Thabo Mbeki?</s></text>
+        <text langid="eng"><s>Is it Thabo Mbeki?</s></text>
+        <text langid="fra"><s>C'est Thabo M'beki.</s></text>
+      </align></unit>
+      <unit time="00:26:51" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee, ariko aha haje umuperezida nari mpari. Icyo gihe perezida wari uhari yari Bizimungu Pasteur. Twarahaje turi abaturage nari ntarafungwa. Nibuka ibibi nahakoreye, ariko baje kureba amagufwa, n'ibiki byose... Ariko umutima wanjye wankomanga, nti nanjye narahaje. Nti bamfata nzirega, nahise mbyirega ntawe ubimbwiye. Iyo ntabivuga nta wari kubimenya, ni njye wabyivugiye ku giti cyanjye, kugira ngo na bariya bantu twa...</s></text>
+        <text langid="eng"><s>Yes, the president came while I was there. By then Bizimungu Pasteur was the President of Rwanda. I remember all of us came here and by then I was not yet imprisoned. And when we came here, I remembered all the bad deeds that I did here. They had come to see the remains of people and several other things. But my heart was haunting me. Deep down in my heart something was telling me, "You too came to attack here!" And I knew that once they get me I would say the truth. And indeed I admitted everything willingly. Of course if I had denied no one would have known what happened. Therefore, I admitted everything personally so that even those people whom we...</s></text>
+        <text langid="fra"><s>Oui, donc lorsque ce Président est arrivé, je me trouvais également venu. Le Président de la République de ce temps là était Bizimungu Pasteur. Je n'avais pas encore été arrêté, il y avait beaucoup de gens ici, ils étaient venus voir les ossements et autres...j'avais mal au cœur puis je me suis dit que si jamais j'étais arrêté, je dirais  la vérité  sans que personne ne me le demande même! Personne ne l'aurait su si je ne l'avais pas dit, je l'ai de mon plein grépour que ces gens qui...</s></text>
+      </align></unit>
+      <unit time="00:27:27" speaker="Apollon"><align>
+        <text langid="kin"><s>Baza kugufata se wari warabivuze?</s></text>
+        <text langid="eng"><s>Had you ever confessed before they came to arrest you?</s></text>
+        <text langid="fra"><s>Est-ce que tu l'as dit quand tu as été arrêté?</s></text>
+      </align></unit>
+      <unit time="00:27:29" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Baza kumfata nageze kuri komini mpita mbivuga.</s></text>
+        <text langid="eng"><s>No I hadn't, but I confessed immediately after I had reached the commune.</s></text>
+        <text langid="fra"><s>Quand ils m'ont arrêté...je l'ai dit dès que je suis arrivé à la commune!</s></text>
+      </align></unit>
+      <unit time="00:27:32" speaker="Apollon"><align>
+        <text langid="kin"><s>Ariko iyo batagufata ntabwo wari kuzabivuga?</s></text>
+        <text langid="eng"><s>But if you had not been arrested, would you have confessed?</s></text>
+        <text langid="fra"><s>Mais tu ne l'aurais pas dit si on ne t'avais pas arrêté!</s></text>
+      </align></unit>
+      <unit time="00:27:41" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Iyo batamfata, kwirega no kwemera icyaha...iyo batamfata iyo hagira ubinshi...uza kuvuga ati: "nawe twari kumwe nari guhita mbyemera."</s></text>
+        <text langid="eng"><s>I they hadn't arrested me, reporting and admitting my deeds... if they hadn't got me... if someone convicted me saying, "You were with us during those acts of killings." I would immediately have accepted it.</s></text>
+        <text langid="fra"><s>Si on ne m'avait pas arrêté...admettre le crime...s'il y avait quelqu'un pour dire: «J'étais avec toi!» je l'aurais admis sur-le-champ.</s></text>
+      </align></unit>
+      <unit time="00:27:50" speaker="Apollon"><align>
+        <text langid="kin"><s>Iyo ntawe ubivuga? Iyo utagira ugufata ukaba ukiri mu giturage,  hari icyo wari kuzavuga?</s></text>
+        <text langid="eng"><s>What if no one accused you, would you have confessed?</s></text>
+        <text langid="fra"><s>Et si personne ne l'avait fait? Et que tu te trouvais encore au village, l'avouerais-tu [aujourd'hui]?</s></text>
+      </align></unit>
+      <unit time="00:27:55" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Mu giturage, eeh...kuko uwo mugore, yari yamaze kumenya ko namwiciye umwana.</s></text>
+        <text langid="eng"><s>In the village... since that woman had already known that I'm the one who killed her child, I would...</s></text>
+        <text langid="fra"><s>Au village? euh...au fait la dame savait déjà que j'avais tué son enfant...</s></text>
+      </align></unit>
+      <unit time="00:28:02" speaker="Apollon"><align>
+        <text langid="kin"><s>Iyo ataza kubimenya se ? Wari ufite umutima wo kuzirega wowe ubwawe?</s></text>
+        <text langid="eng"><s>What if she hadn't known? Did you want to report yourself?</s></text>
+        <text langid="fra"><s>Et si elle ne l'avait pas su? Avais-tu cette culpabilité qui pousse à se rendre?</s></text>
+      </align></unit>
+      <unit time="00:28:05" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Iyo ataza kubimenya, kubera ko nari nzi hari ahantu nari nagiye kwa Responsable, kwa konseye hariya...mwene wacu hariya kuko navukiye hano ku Gikongoro. Arambwira ati: "uzajye kwirega bazakugabanyiriza. Ati: "uzavuge  ibyo wakoze byose, ati: uve mu gihuru dore umaze kuzana amaga nk'ayo igikeri ati: ujye kwirega bazakugabanyiriza." Nari mfite imigambi yo kwirega, kuko nari maze kubona merewe nabi.</s></text>
+        <text langid="eng"><s>If she didn't know, there is a place I went to... at the local leader's... there at the counselor's place. He was my relative because I was born there in Gikongoro. Therefore, he advised me to go and report myself that they would reduce my punishment in case I did so. He told me that I should say all the roles I played in the genocide and stop living in the bushes. I had started developing scale like those of a frog. Therefore I assured myself that if I report myself, my punishment would be reduced. So in my plans I knew I would report myself because I had noticed that things had become worse in my life.</s></text>
+        <text langid="fra"><s>Si elle n'avait pas su, au fait j'étais d'abord allé voir le responsable, plutôt le conseiller de...il est de la famille puisque je suis natif de Gikongoro. Il m'a dit: «Rends-toi et dit la vérité, ta peine sera réduite. Et sors des buissons, tu as maintenant une peau semblable à celle d'un crapaud...rends-toi, on réduira ta peine!» J'étais sur le point de me rendre parce que je menais une vie misérable!</s></text>
+      </align></unit>
+      <unit time="00:28:32" speaker="Apollon"><align>
+        <text langid="kin"><s>Imirambo y'abantu bari aha  warayibonye?</s></text>
+        <text langid="eng"><s>Have you ever seen people's corpses that are lying here?</s></text>
+        <text langid="fra"><s>Tu as vu les cadavres qui étaient étalés ici?</s></text>
+      </align></unit>
+      <unit time="00:28:33" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yari myinshi cyane, narayibonye.</s></text>
+        <text langid="eng"><s>I saw them; they were very many.</s></text>
+        <text langid="fra"><s>Oui, il y en avait beaucoup.</s></text>
+      </align></unit>
+      <unit time="00:28:37" speaker="Apollon"><align>
+        <text langid="kin"><s>Wayibonye ryari?</s></text>
+        <text langid="eng"><s>When did you see them?</s></text>
+        <text langid="fra"><s>Tu les as vus quand?</s></text>
+      </align></unit>
+      <unit time="00:28:38" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Nayibonye...nayibonye mu gitondo bamaze gupfa. Babarashe .</s></text>
+        <text langid="eng"><s>I saw them in the morning when they had just died.</s></text>
+        <text langid="fra"><s>Je les ai vus...je les ai vus, le lendemain du jour de leur massacre.</s></text>
+      </align></unit>
+      <unit time="00:28:48" speaker="Apollon"><align>
+        <text langid="kin"><s>Igihe ba perezida baza ahangaha wagiye kureba nawe imirambo?</s></text>
+        <text langid="eng"><s>That time when the Presidents came here, did you also go to see the corpses?</s></text>
+        <text langid="fra"><s>Quand les Présidents sont arrivés ici, es-tu allé les voir également?</s></text>
+      </align></unit>
+      <unit time="00:28:51" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Igihe ba perezida baza ahangaha ntibatumye abaturage bajya yo. Nibo bagiye kureba.</s></text>
+        <text langid="eng"><s>When the Presidents came, no citizen was allowed to go there. It was only the Presidents.</s></text>
+        <text langid="fra"><s>A part eux, personne d'autre n'était autorisée à entrer.</s></text>
+      </align></unit>
+      <unit time="00:28:58" speaker="Apollon"><align>
+        <text langid="kin"><s>Kugeza ubu ntabwo wari wabona  imirambo iri aha?</s></text>
+        <text langid="eng"><s>Until now you had never seen these corpses here?</s></text>
+        <text langid="fra"><s>Donc jusqu'à présent tu n'as pas encore vu les corps qui sont étalés là!</s></text>
+      </align></unit>
+      <unit time="00:29:00" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Kugeza ubungubu, nyiheruha hariya kuri etage, hariya yari iri...hariya mu mashitingi ubu...kugeza ubungubu sindayibona. Ngo mbone ibyo mbwira abandi.</s></text>
+        <text langid="eng"><s>Yes until now I have never see them. I last saw them when they were there at the flat. I saw them the time they were covered in tents in that building. And, up to now I haven't seen them so that I can know what to tell others.</s></text>
+        <text langid="fra"><s>La dernière fois que je les ai vus, ils étaient là à l'étage...au niveau de ces bâches là, jusqu'à présent je ne les ai pas encore vus pour le dire aux autres.</s></text>
+      </align></unit>
+      <unit time="00:29:09" speaker="Apollon"><align>
+        <text langid="kin"><s>Hari inkuru zivuga yuko bamaze kwica abantu bahise bajya ku bahamba.</s></text>
+        <text langid="eng"><s>But there is a rumor around that, after they had killed those people, did they rush to bury them?</s></text>
+        <text langid="fra"><s>Il y a des rumeurs disant que juste après les avoir tués, ils ont été enterrés.</s></text>
+      </align></unit>
+      <unit time="00:29:12" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Bahise bajya ku bahamba.</s></text>
+        <text langid="eng"><s>Yes they buried them immediately.</s></text>
+        <text langid="fra"><s>Oui, ils ont été enterrés.</s></text>
+      </align></unit>
+      <unit time="00:29:17" speaker="Apollon"><align>
+        <text langid="kin"><s>Bakoresha n'ibyuma sinzi ...</s></text>
+        <text langid="eng"><s>What were they using?</s></text>
+        <text langid="fra"><s>Ils ont utilisé des machines...</s></text>
+      </align></unit>
+      <unit time="00:29:18" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee, bya torotoro.</s></text>
+        <text langid="eng"><s>Tractors.</s></text>
+        <text langid="fra"><s>Oui, des tracteurs.</s></text>
+      </align></unit>
+      <unit time="00:29:20" speaker="Apollon"><align>
+        <text langid="kin"><s>Ntacyo wagizemo uruhare muri ibyongibyo ntabwo wigeze ufasha abandi guhamba?</s></text>
+        <text langid="eng"><s>Did you play any role there? Didn't you come to help others?</s></text>
+        <text langid="fra"><s>Tu n'as pas participé à l'enterrement?</s></text>
+      </align></unit>
+      <unit time="00:29:24" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Oya.</s></text>
+        <text langid="eng"><s>No.</s></text>
+        <text langid="fra"><s>Non!</s></text>
+      </align></unit>
+      <unit time="00:29:27" speaker="Apollon"><align>
+        <text langid="kin"><s>Ariko ayo makuru urayazi.</s></text>
+        <text langid="eng"><s>But you got that information?</s></text>
+        <text langid="fra"><s>Mais tu es au courant!</s></text>
+      </align></unit>
+      <unit time="00:29:30" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Yee ayo makuru ndayazi. Ayo makuru babataburura niyo nzi . Aho bari barabahambye hariya. Abaturage bari banze kubaha...kuza kubataburura babahemba amafaranga leta...iyi leta y'ubumwe n' ubwiyunge.</s></text>
+        <text langid="eng"><s>Yes, I got that news. I only know that information of how they were exhuming them from that place where they had buried them. The citizens had refused to... exhume and rebury the remains. Therefore, the current Government; this Government of unity and reconciliation had to pay them to do so.</s></text>
+        <text langid="fra"><s>Oui, je suis au courant. Je suis au courant de l'exhumation...les paysans avaient d'abord refusé deles déterrer, mais quand les autorités leur ont donné de l'argent, ils ont accepté. Les autorités de ce Gouvernement d'unité et de réconciliation.</s></text>
+      </align></unit>
+      <unit time="00:29:50" speaker="Apollon"><align>
+        <text langid="kin"><s>Noneho ibyo kubahamba ntabwo ubizi ? Mbere...mbere  bakimara   kubica?</s></text>
+        <text langid="eng"><s>Do you know anything about that event of exhuming and reburying them? The first time they buried them after they had been killed.</s></text>
+        <text langid="fra"><s>Donc tu ne sais rien de leur enterrement! Juste après qu'ils aient été tués.</s></text>
+      </align></unit>
+      <unit time="00:29:52" speaker="Ayirwanda"><align>
+        <text langid="kin"><s>Ibyo kubahamba na... mbere bakimara kubica ibimodoka byavuye ku Gikongoro, byatingitingi, bakazajya babapakurura, bya rwipakurura . Abaturage banyuraga aha bajya mu masoko barimo birohamo bareba. Abanyururu bakaba aribo...nabo baturukaga hariya ku Gikongoro, narababonaga ndi umuturage.</s></text>
+        <text langid="eng"><s>About the first burial... when they had just killed them, some trucks come from Gikongoro; big trucks. Therefore they would offload them. The locals were passing here going to markets, but they would stop and intervene. It was the prisoners who were coming from Gikongoro... I was just a villager and I saw them.</s></text>
+        <text langid="fra"><s>En ce qui concerne l'enterrement, juste après qu'ils aient été tués, des camions auto-déchargeables sont venus de Gikongoro. Ces camions se déchargeaient des cadavres...les gens circulaient ici, au marché, j'ai vu les cadavres être déchargés dedans...ce sont les prisonniers qui...et ces gens qui venaient de Gikongoro, je les voyais!</s></text>
+      </align></unit>
+      <unit time="00:30:21" speaker="Félicien"><align>
+        <text langid="kin"><s>Ok, urakoze</s></text>
+        <text langid="eng"><s>Okay, thanks.</s></text>
+        <text langid="fra"><s>Ok, merci.</s></text>
+      </align></unit>
+    </data>
+  </file>
+</dataset>

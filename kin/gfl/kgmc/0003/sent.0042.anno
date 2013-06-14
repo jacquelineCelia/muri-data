@@ -1,0 +1,14 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Papa rero nawe bamwiciye aho hafi y' iwacu kuko yagiye muri stade avayo agaruka aho iwacu mu Ruvumbu niho bamwiciye . ||| Dad was also killed near home , he was at the stadium but he managed to escape and then went back in Ruvumbu , our home area and that 's where he was killed .
+
+% TEXT
+Papa rero nawe bamwiciye aho hafi y' iwacu kuko yagiye muri stade avayo agaruka aho_1 iwacu_1 mu Ruvumbu niho bamwiciye_1 .
+
+% ANNO
+$x :: {Papa yagiye} :: kuko
+Papa < rero > nawe > (bamwiciye < aho) < hafi < y' > iwacu
+yagiye < (muri < stade) > avayo < agaruka < aho_1 < iwacu_1 < (mu < Ruvumbu) < niho > bamwiciye_1
+

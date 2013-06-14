@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese muri iryo shyirahamwe se iyo muhuriyemo mu mwagira ubuzima , ||| So does this association have some kind of life ?
+
+% TEXT
+Ese muri iryo shyirahamwe se iyo muhuriyemo mu mwagira ubuzima ,
+
+% ANNO
+Ese > (muri < iryo > shyirahamwe) > iyo > muhuriyemo < mu < mwagira < ubuzima
+se > muhuriyemo 

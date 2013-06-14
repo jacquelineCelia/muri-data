@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Mbwira ibyo wibuka ku babyeyi bawe , ibyo ukibuka . ||| Tell me about your memory of your parents . If you recall ...
+
+% TEXT
+Mbwira ibyo wibuka ku babyeyi bawe , ibyo_1 ukibuka .
+
+% ANNO
+[Mbwira ibyo wibuka ku babyeyi bawe ibyo_1 ukibuka]

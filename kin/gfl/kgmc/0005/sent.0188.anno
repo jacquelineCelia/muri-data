@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ahubwo ngewe imyaka makumyabiri uvuze ndabona ari myinshi kuko hari naho ubona zatantiye no kononekara . ||| You said twenty years but I think twenty is a lot of time because they are some that are already getting spoiled .
+
+% TEXT
+Ahubwo ngewe imyaka makumyabiri uvuze ndabona ari myinshi kuko hari naho ubona zatantiye no kononekara .
+
+% ANNO
+[Ahubwo ngewe imyaka makumyabiri uvuze ndabona ari myinshi kuko hari naho ubona zatantiye no kononekara]

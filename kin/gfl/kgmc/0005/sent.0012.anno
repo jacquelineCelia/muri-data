@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bavugako ari izabasirikari barankubita ariko bita babaje cyane bambaza ngo ninerekane ibyo nahishe ngo ninerekane izo nkotanyi . ||| They said it belonged to soldiers and they started beating me but not too much , telling me to show them everything else I had hidden and show them the Inkotanyi .
+
+% TEXT
+Bavugako ari izabasirikari barankubita ariko bita babaje cyane bambaza ngo ninerekane ibyo nahishe ngo_1 ninerekane_1 izo nkotanyi .
+
+% ANNO
+[Bavugako ari izabasirikari barankubita ariko bita babaje cyane bambaza ngo ninerekane ibyo nahishe ngo_1 ninerekane_1 izo nkotanyi]

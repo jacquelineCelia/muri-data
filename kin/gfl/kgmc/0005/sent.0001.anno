@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nitwa murebwayire Josephine ntuye mu kimironko mu kagali ka nyagatovu mu karere ka gasabo . ||| My names are Murebwayire Josephine I live in Kimironko in the sector of Nyagatovu in the district of Gasabo .
+
+% TEXT
+Nitwa murebwayire Josephine ntuye mu kimironko mu_1 kagali ka nyagatovu mu_2 karere ka_1 gasabo .
+
+% ANNO
+[Nitwa murebwayire Josephine ntuye mu kimironko mu_1 kagali ka nyagatovu mu_2 karere ka_1 gasabo]

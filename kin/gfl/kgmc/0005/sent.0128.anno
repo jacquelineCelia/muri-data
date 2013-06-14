@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ati kandi uzajye ubivuga . ||| And please tell the story .
+
+% TEXT
+Ati kandi uzajye ubivuga .
+
+% ANNO
+[Ati kandi uzajye ubivuga]

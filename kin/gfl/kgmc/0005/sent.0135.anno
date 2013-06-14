@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' umugabo wange n' abavandimwe n' abatunyi bose nari nsize aho ngaho bagaramye ari intumbi sinarinziko nzabaho . ||| My husband , relatives and neighbours that were lying there dead , I did n't think I was going to live .
+
+% TEXT
+N' umugabo wange n' abavandimwe n'_1 abatunyi bose nari nsize aho ngaho bagaramye ari intumbi sinarinziko nzabaho .
+
+% ANNO
+[N' umugabo wange n' abavandimwe n'_1 abatunyi bose nari nsize aho ngaho bagaramye ari intumbi sinarinziko nzabaho]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bikazaba ikitegererezo cy' abandi murakoze . ||| They can be somebody else 's opinion , thank you .
+
+% TEXT
+Bikazaba ikitegererezo cy' abandi murakoze .
+
+% ANNO
+[Bikazaba ikitegererezo cy' abandi murakoze]

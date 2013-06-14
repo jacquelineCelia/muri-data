@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abasirikare banyicaza hasi bambaza ibyangombwa bambaza indangamuntu nuko barambwira ngo ndi inyenzi ndabahakanira ko ntariyo . ||| Soldiers made me sit down and asked for my identity card and then they said that I was a cockroach but I denied it telling them I was n't a cockroach .
+
+% TEXT
+Abasirikare banyicaza hasi bambaza ibyangombwa bambaza_1 indangamuntu nuko barambwira ngo ndi inyenzi ndabahakanira ko ntariyo .
+
+% ANNO
+[Abasirikare banyicaza hasi bambaza ibyangombwa bambaza_1 indangamuntu nuko barambwira ngo ndi inyenzi ndabahakanira ko ntariyo]

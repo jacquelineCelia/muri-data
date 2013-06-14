@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mwarimu ahabwa inshingano ahabwa ibyo yigisha ariko ntawe ujya gu controrwa ariko ntawe ujya gukontrola urugo rw' umuntu . ||| The teacher is given responsibilities and a syllabus to follow but no one controls someone 's home .
+
+% TEXT
+Mwarimu ahabwa inshingano ahabwa_1 ibyo yigisha ariko ntawe ujya gu controrwa ariko_1 ntawe_1 ujya_1 gukontrola urugo rw' umuntu .
+
+% ANNO
+[Mwarimu ahabwa inshingano ahabwa_1 ibyo yigisha ariko ntawe ujya gu controrwa ariko_1 ntawe_1 ujya_1 gukontrola urugo rw' umuntu]

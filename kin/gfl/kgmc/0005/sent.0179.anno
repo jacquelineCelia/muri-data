@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bakwiye kwiga uburyo bakareba ukuntu umuntu afashwa koko bihoraho bidahora byirukanka bajya gusaba . ||| They should look for a way that a person should be supported continually so that they do n't keep going to ask for help .
+
+% TEXT
+Bakwiye kwiga uburyo bakareba ukuntu umuntu afashwa koko bihoraho bidahora byirukanka bajya gusaba .
+
+% ANNO
+[Bakwiye kwiga uburyo bakareba ukuntu umuntu afashwa koko bihoraho bidahora byirukanka bajya gusaba]

@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Wenda ntari ninzira cyane mu bintu bya AVEGA n' uburyo ibafasha . ||| Maybe before I go into details about AVEGA and how they help you .
+
+% TEXT
+Wenda ntari ninzira cyane mu bintu bya AVEGA n' uburyo ibafasha .
+
+% ANNO
+Wenda < ntari < ninzira < cyane 
+ninzira < (mu < bintu) < (bya > AVEGA)
+$x :: {bintu uburyo} :: n'
+uburyo >  ibafasha

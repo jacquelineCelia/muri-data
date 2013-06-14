@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+nazibaha kubera ko nta kindi nakora . ||| So I would forgive because there is nothing else I can do .
+
+% TEXT
+nazibaha kubera ko nta kindi nakora .
+
+% ANNO
+nazibaha < kubera < ko > nta > kindi > nakora]

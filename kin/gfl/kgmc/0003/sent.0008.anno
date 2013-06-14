@@ -1,0 +1,14 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Wari wabona umuntu agusaba ibintu bidashoboka n' ukugusaba ibidashoboka , ibyo ntibishoboka ... ntabwo bishoboka . ||| You would be asking for the impossible ! That's just impossible |
+
+% TEXT
+Wari wabona umuntu agusaba ibintu bidashoboka n' ukugusaba ibidashoboka , ibyo ntibishoboka ... ntabwo bishoboka .
+
+% ANNO
+$x :: {Wari ukugusaba} :: n'
+Wari < wabona < (umuntu > agusaba) < (ibintu > bidashoboka)
+ukugusaba < ibidashoboka < (ibyo > ntibishoboka)
+... ntabwo > bishoboka

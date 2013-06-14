@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Namubajije icyo yashatse kugeraho dushaka kubipfa ariko ndavuga nti ntabwo ari ngombwa ko tubipfa . ||| I asked him why he did and it almost turned us into enemies but then I said to myself that there was no point .
+
+% TEXT
+Namubajije icyo yashatse kugeraho dushaka kubipfa ariko ndavuga nti ntabwo ari ngombwa ko tubipfa .
+
+% ANNO
+[Namubajije icyo yashatse kugeraho dushaka kubipfa ariko ndavuga nti ntabwo ari ngombwa ko tubipfa]

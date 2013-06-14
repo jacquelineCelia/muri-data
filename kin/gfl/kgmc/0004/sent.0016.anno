@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese baba barishwe rupfu ki ? ||| How were they killed ?
+
+% TEXT
+Ese baba barishwe rupfu ki ?
+
+% ANNO
+Ese > (baba > barishwe < rupfu < ki)

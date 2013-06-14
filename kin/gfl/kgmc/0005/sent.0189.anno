@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niby' abanyarwanda bose kwibuka simbona rero impamvu umuntu aturanye na site njya ngira urugero rwa hariya ikanombe . ||| It 's for all rwandans to remember , I do n't see how some one who is neighbours with a memorial , I always take an example of Kanombe .
+
+% TEXT
+Niby' abanyarwanda bose kwibuka simbona rero impamvu umuntu aturanye na site njya ngira urugero rwa hariya ikanombe .
+
+% ANNO
+[Niby' abanyarwanda bose kwibuka simbona rero impamvu umuntu aturanye na site njya ngira urugero rwa hariya ikanombe]

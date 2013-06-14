@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hari ikintu nendaga kubabaza kijyanye n' ibintu byo kwibuka abantu bacu bagiye bamburwa agaciro muri jenocide . ||| I wanted to ask you something in line with rememebering our loved ones that were degraded and humiliated in the genocide .
+
+% TEXT
+Hari ikintu nendaga kubabaza kijyanye n' ibintu byo kwibuka abantu bacu bagiye bamburwa agaciro muri jenocide .
+
+% ANNO
+[Hari ikintu nendaga kubabaza kijyanye n' ibintu byo kwibuka abantu bacu bagiye bamburwa agaciro muri jenocide]

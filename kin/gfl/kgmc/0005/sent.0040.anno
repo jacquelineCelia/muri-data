@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Baraza barankingurira abana barongera barabakingirana ndagenda bati duhe amafranga umugabo wawe avuzeko ari wowe uyabitse . ||| They opened the door for me and kept the children locked up , and then they told me to give them the money that my husband had told them that I was the one keeping it .
+
+% TEXT
+Baraza barankingurira abana barongera barabakingirana ndagenda bati duhe amafranga umugabo wawe avuzeko ari wowe uyabitse .
+
+% ANNO
+[Baraza barankingurira abana barongera barabakingirana ndagenda bati duhe amafranga umugabo wawe avuzeko ari wowe uyabitse]

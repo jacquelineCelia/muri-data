@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko ubwo ngubwo tuva indera nabonye ukuntu abana banjye bapfuye ndavuga nti . ||| But when we were coming from Ndera I saw they way my children had died and said .
+
+% TEXT
+Ariko ubwo ngubwo tuva indera nabonye ukuntu abana banjye bapfuye ndavuga nti .
+
+% ANNO
+[Ariko ubwo ngubwo tuva indera nabonye ukuntu abana banjye bapfuye ndavuga nti]

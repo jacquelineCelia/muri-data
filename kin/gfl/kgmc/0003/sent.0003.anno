@@ -1,0 +1,21 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ubundi ntabwo wakabwiye abantu ngo ntibakiyunge , ntushobora kubwira abantu ngo ntimukiyunge . Kuko ubwiye abantu ngo ntimukiyunge nawe waba ubaye nk' abishe abatutsi . ||| Of course you can not tell people not to be united , because if you say so , you 'd be like the people who killed the Tutsis .
+
+% TEXT
+Ubundi ntabwo wakabwiye abantu ngo ntibakiyunge , ntushobora kubwira abantu_1 ngo_1 ntimukiyunge . Kuko ubwiye abantu_2 ngo_2 ntimukiyunge_1 nawe waba ubaye nk' abishe abatutsi ._1
+
+% ANNO
+$x :: {Ubundi ubwiye} :: Kuko
+Ubundi > ( ntabwo > wakabwiye ) < abantu 
+ngo > ntibakiyunge < ntushobora < kubwira < abantu_1 
+ngo_1 > ntimukiyunge
+ubwiye < abantu_2 
+ngo_2 > ntimukiyunge_1 < nawe > waba < ubaye < nk' > abishe < abatutsi
+abantu = ngo
+abantu_1 = ngo_1
+abantu_2 = ngo_2
+
+

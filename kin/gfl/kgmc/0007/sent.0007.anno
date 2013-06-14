@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Wigeze ubona [ uhibereye ] urupfu rw' abantu bo mu muryago wawe . ||| Freddy did you witness the death of any of your family ? Did you see the death of any of your family ... did you see any of your family being killed ? Can you just tell me what happened ?
+
+% TEXT
+Wigeze ubona [ uhibereye ] urupfu rw' abantu bo mu muryago wawe .
+
+% ANNO
+[Wigeze ubona [ uhibereye ] urupfu rw' abantu bo mu muryago wawe]

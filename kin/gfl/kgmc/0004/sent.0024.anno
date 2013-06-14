@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+AVEGA niho yansanze rwaye niho yatangiye kumenya . ||| That 's how AVEGA knew me .
+
+% TEXT
+AVEGA niho yansanze rwaye niho_1 yatangiye kumenya .
+
+% ANNO
+(AVEGA < niho) > yansanze < rwaye 
+niho_1 > yatangiye < kumenya

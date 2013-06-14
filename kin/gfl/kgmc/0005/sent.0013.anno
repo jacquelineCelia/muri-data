@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Imbunda zabo hanyuma babibuze barantwara mu modoka bambwira ngo nibamubona barandekura turazamuka tugeze hafi yiyo butike turamubona . ||| When they did n't get the guns they took me in the car and said that if they get my husband they will release me and let me go , when we reached near the shop we saw him .
+
+% TEXT
+Imbunda zabo hanyuma babibuze barantwara mu modoka bambwira ngo nibamubona barandekura turazamuka tugeze hafi yiyo butike turamubona .
+
+% ANNO
+[Imbunda zabo hanyuma babibuze barantwara mu modoka bambwira ngo nibamubona barandekura turazamuka tugeze hafi yiyo butike turamubona]

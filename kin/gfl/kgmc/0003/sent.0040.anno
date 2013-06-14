@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ariko papa nabimenye bamaze kumujyana mu Bisesero hamwe n' abandi , abashoboye kumukura aho bamushyinguye bamwiciye , bahise bamujyana mu Bisesero . ||| But I found out about it when he had already been taken to Bisesero with other corpses . Some people exhumed his body from where he was buried after being killed and took him to Bisesero .
+
+% TEXT
+Ariko papa nabimenye bamaze kumujyana mu Bisesero hamwe n' abandi , abashoboye kumukura aho bamushyinguye bamwiciye ,_1 bahise bamujyana mu_1 Bisesero_1 .
+
+% ANNO
+Ariko >  papa > nabimenye < bamaze < kumujyana < (mu < Bisesero) <  hamwe < (n' < abandi < abashoboye) >  kumukura < aho > bamushyinguye < bamwiciye < bahise < bamujyana < (mu_1 < Bisesero_1)

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Na musaza wange umwe niho baguye , niho baguye ariko ntabwo nari narigeze mbimenya . ||| With my one brother that 's where they died from but I did n't know about it .
+
+% TEXT
+Na musaza wange umwe niho baguye , niho_1 baguye_1 ariko ntabwo nari narigeze mbimenya .
+
+% ANNO
+[Na musaza wange umwe niho baguye niho_1 baguye_1 ariko ntabwo nari narigeze mbimenya]

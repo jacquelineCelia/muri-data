@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ariko ubundi ubu se ngewe wambwira ngo ngende niyunge n' umuntu wishe Alphred ? ||| On the other hand , would you dare tell me to be reconciled with the person who killed Alfred ?
+
+% TEXT
+Ariko ubundi ubu se ngewe wambwira ngo ngende niyunge n' umuntu wishe Alphred ?
+
+% ANNO
+Ariko > (ubundi < ubu) se > ngewe < wambwira < ngo > ngende < niyunge < (n' < umuntu) > wishe < Alphred

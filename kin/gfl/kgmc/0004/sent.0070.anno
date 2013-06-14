@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Gira ikintu ibimbwiraho niba ubona hari ikintu cyakozwe niba ubona harakozwe iki . ||| Could you say something about that ? If you believe that something was done , what is it ?
+
+% TEXT
+Gira ikintu ibimbwiraho niba ubona hari ikintu_1 cyakozwe niba_1 ubona_1 harakozwe iki .
+
+% ANNO
+Gira < ikintu 
+Gira < ibimbwiraho < niba > ubona < hari < (ikintu_1 < cyakozwe) 
+ibimbwiraho < niba_1 > ubona_1 < harakozwe < iki

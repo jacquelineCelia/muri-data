@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hari jardin yari iri mbere ya chapelle iriho inzuzi nama epinali . ||| There was a garden that was in front of the praying room that had spinach and some other plants .
+
+% TEXT
+Hari jardin yari iri mbere ya chapelle iriho inzuzi nama epinali .
+
+% ANNO
+[Hari jardin yari iri mbere ya chapelle iriho inzuzi nama epinali]

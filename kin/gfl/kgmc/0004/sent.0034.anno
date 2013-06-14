@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese ikintu cyo kumva waranduye wacyakiriye ute muri wowe ? ||| I mean how did you receive the fact of being infected with AIDS ?
+
+% TEXT
+Ese ikintu cyo kumva waranduye wacyakiriye ute muri wowe ?
+
+% ANNO
+Ese > kumva
+(ikintu < cyo) > kumva < waranduye < wacyakiriye < ute < muri < wowe

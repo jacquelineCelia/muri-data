@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ntabwo tubyicuza uretseko badushinyaguriye bihagije guhora washyinguye wataburuye washyinguye . ||| We do n't regret it but they toyed with us , always excavating and burying .
+
+% TEXT
+Ntabwo tubyicuza uretseko badushinyaguriye bihagije guhora washyinguye wataburuye washyinguye_1 .
+
+% ANNO
+[Ntabwo tubyicuza uretseko badushinyaguriye bihagije guhora washyinguye wataburuye washyinguye_1]

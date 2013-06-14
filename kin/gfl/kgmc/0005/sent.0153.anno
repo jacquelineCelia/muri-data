@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hagati y' abantu bishe n' abiciwe ? ||| Between the killers and victims ?
+
+% TEXT
+Hagati y' abantu bishe n' abiciwe ?
+
+% ANNO
+[Hagati y' abantu bishe n' abiciwe]

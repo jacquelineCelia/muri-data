@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hariya 1930 natangiye kujya njyayo ngirango ndamusura ariko yarinze afungurwa nyuma ya mezi atandatu ntaramubona kimwe n' abandi . ||| So I started going to visit him at the 1930 prison but did n't see him until he was released six months after just like everyone else .
+
+% TEXT
+Hariya 1930 natangiye kujya njyayo ngirango ndamusura ariko yarinze afungurwa nyuma ya mezi atandatu ntaramubona kimwe n' abandi .
+
+% ANNO
+[Hariya 1930 natangiye kujya njyayo ngirango ndamusura ariko yarinze afungurwa nyuma ya mezi atandatu ntaramubona kimwe n' abandi]

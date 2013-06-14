@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kuki utaretse ngo mpahamukire kimwe ariko mbashyingure nuko muri gacaca rero uwo mwana abivuze byaho babashyize noneho . ||| Why did n't you let me get traumatized once and for all but atleast bury them , so in gacaca that child said where they were buried .
+
+% TEXT
+Kuki utaretse ngo mpahamukire kimwe ariko mbashyingure nuko muri gacaca rero uwo mwana abivuze byaho babashyize noneho .
+
+% ANNO
+[Kuki utaretse ngo mpahamukire kimwe ariko mbashyingure nuko muri gacaca rero uwo mwana abivuze byaho babashyize noneho]

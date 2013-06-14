@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ubu se njyewe wambwira ngo ngende niyunge n' umuntu wishe data ? ||| Would you tell me to be reconciled with the person who killed my father ?
+
+% TEXT
+Ubu se njyewe wambwira ngo ngende niyunge n' umuntu wishe data ?
+
+% ANNO
+(Ubu < se) < njyewe > wambwira < ngo > ngende < niyunge < (n' < umuntu) > wishe < data

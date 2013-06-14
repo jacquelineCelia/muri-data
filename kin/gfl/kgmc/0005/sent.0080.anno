@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho hashize iminsi nk' itatu bagendaga basubira muntumbi ariko bareba niba nta warokotse . ||| After around three days they were still going through the bodies checking if there were no survivors .
+
+% TEXT
+Noneho hashize iminsi nk' itatu bagendaga basubira muntumbi ariko bareba niba nta warokotse .
+
+% ANNO
+[Noneho hashize iminsi nk' itatu bagendaga basubira muntumbi ariko bareba niba nta warokotse]

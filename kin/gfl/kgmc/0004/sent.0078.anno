@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+nta byiringiro by' ubuzima ndi kubona cyane cyane nta n' aho kuba mfite . ||| I do n't have any hope ! I do n't even have a place I can call home .
+
+% TEXT
+nta byiringiro by' ubuzima ndi kubona cyane cyane_1 nta_1 n' aho kuba mfite .
+
+% ANNO
+nta > byiringiro < by' < ubuzima < ndi < kubona < cyane 
+kubona < cyane_1 
+nta_1 > n' < aho > kuba < mfite

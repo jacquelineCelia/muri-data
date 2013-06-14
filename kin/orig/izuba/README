@@ -1,0 +1,9 @@
+Training monolingual Kinyarwanda text contains
+  - Izuba newspaper
+     20,788 articles
+     285,495 sentences
+     6,919,787 tokens (avg. of 24.24 tokens per sentence)
+     Source: izuba.org.rw archive from inception to Febr. 24, 2011
+     Contributor: Ulf Hermjakob, USC/ISI
+Collected, normalized, tokenized, lower-cased, de-accented by Ulf Hermjakob, USC/ISI
+Released on March 4, 2011

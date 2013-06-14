@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Baramubwira bati umugore wawe ashobora kuba abitse amafaranga menshi abagore nibo babika amafaranga . ||| They said to him , your wife must be keeping a lot of money ; women are the ones that keep money .
+
+% TEXT
+Baramubwira bati umugore wawe ashobora kuba abitse amafaranga menshi abagore nibo babika amafaranga_1 .
+
+% ANNO
+[Baramubwira bati umugore wawe ashobora kuba abitse amafaranga menshi abagore nibo babika amafaranga_1]

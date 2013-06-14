@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Mwari bangahe , mwari abana bangahe ? ||| How many children were you in your family ?
+
+% TEXT
+Mwari bangahe , mwari abana bangahe_1 ?
+
+% ANNO
+(Mwari < bangahe) > (mwari < abana) < bangahe_1

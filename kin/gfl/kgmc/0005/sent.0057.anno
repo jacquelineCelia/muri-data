@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nyinshi cyane baraza baratubaza bati amafaranga ya habyarimana mwayikwije muri inkotanyi muri inyenzi muduhe amafaranga y' umubyeyi wacu . ||| There were very many and said , you took all of Habyarimana 's money when your Inkotanyi and cockroaches , give us our father 's money .
+
+% TEXT
+Nyinshi cyane baraza baratubaza bati amafaranga ya habyarimana mwayikwije muri inkotanyi muri_1 inyenzi muduhe amafaranga_1 y' umubyeyi wacu .
+
+% ANNO
+[Nyinshi cyane baraza baratubaza bati amafaranga ya habyarimana mwayikwije muri inkotanyi muri_1 inyenzi muduhe amafaranga_1 y' umubyeyi wacu]

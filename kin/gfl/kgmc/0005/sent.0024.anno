@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Barareba barambwira bati ntawe twabonye kuri liste y' abandi bati ubanza yarapfuye . ||| So when they checked they said that he was n't on the list with everyone else may be he died , they said .
+
+% TEXT
+Barareba barambwira bati ntawe twabonye kuri liste y' abandi bati_1 ubanza yarapfuye .
+
+% ANNO
+[Barareba barambwira bati ntawe twabonye kuri liste y' abandi bati_1 ubanza yarapfuye]

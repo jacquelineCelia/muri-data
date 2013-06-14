@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Wadusobanurira mu magambo arambuye n' ishyirahamwe rikora iki ? ||| Could you repeat for us in detail what this association does ?
+
+% TEXT
+Wadusobanurira mu magambo arambuye n' ishyirahamwe rikora iki ?
+
+% ANNO
+Wadusobanurira < (mu < magambo)
+Wadusobanurira < arambuye 
+$x :: {Wadusobanurira rikora} :: n'
+ishyirahamwe > rikora < iki

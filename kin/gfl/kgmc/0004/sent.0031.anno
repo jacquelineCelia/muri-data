@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma icyo gihe uri mu bitaro n' inyuma y' ibyo bintu watubwiye by' ibyo b' ifatwa ku ngufu . ||| During that time at the hospital it 's all after being raped .
+
+% TEXT
+Hanyuma icyo gihe uri mu bitaro n' inyuma y' ibyo bintu watubwiye by' ibyo_1 b' ifatwa ku ngufu .
+
+% ANNO
+Hanyuma > uri
+(icyo > gihe) > uri < (mu < bitaro < n' < inyuma < y' < ibyo < bintu)
+uri < watubwiye < by' < ibyo_1 < b' < ifatwa < ku < ngufu

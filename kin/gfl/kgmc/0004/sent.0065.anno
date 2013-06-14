@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+None mbere wenda y' uko turangiza numvaga hari ikindi kibazo nifuzaga kukubaza . ||| Now before we finish , there is another question . I would like to ask you ...
+
+% TEXT
+None mbere wenda y' uko turangiza numvaga hari ikindi kibazo nifuzaga kukubaza .
+
+% ANNO
+None > wenda
+mbere > wenda < (y' < uko) 
+wenda < turangiza < numvaga < hari < (ikindi < kibazo)
+hari < nifuzaga < kukubaza

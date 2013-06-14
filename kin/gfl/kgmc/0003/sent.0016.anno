@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Harokotse wowe na Shumbusho ? ||| Only you an Shumbusho survived ?
+
+% TEXT
+Harokotse wowe na Shumbusho ?
+
+% ANNO
+$x :: {wowe Shumbusho} :: na
+Harokotse < wowe 
+Shumbusho

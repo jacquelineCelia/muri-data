@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ikindi nuko Imana yandokoye imfiteho umugambi imfasha no kuwusohoza ntiyankojeje isoni ntiyampinduye umusazi byarashobokaga . ||| The other thing is that God who kept me has a plan for my life that He helps to fulfill it , he did n't put me to shame , I would have gone crazy , and it was possible .
+
+% TEXT
+Ikindi nuko Imana yandokoye imfiteho umugambi imfasha no kuwusohoza ntiyankojeje isoni ntiyampinduye umusazi byarashobokaga .
+
+% ANNO
+[Ikindi nuko Imana yandokoye imfiteho umugambi imfasha no kuwusohoza ntiyankojeje isoni ntiyampinduye umusazi byarashobokaga]

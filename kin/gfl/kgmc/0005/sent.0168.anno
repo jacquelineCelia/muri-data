@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Icyo dukora nubuvugizi urumva mubyukuri benshi babaho bihebye ariko noneho avega ikintu ikora nubujyanama guhumurizanya kwegeranya . ||| What we mainly do is speak out because most people live in despair , so avega advises , conforts and brings us together .
+
+% TEXT
+Icyo dukora nubuvugizi urumva mubyukuri benshi babaho bihebye ariko noneho avega ikintu ikora nubujyanama guhumurizanya kwegeranya .
+
+% ANNO
+[Icyo dukora nubuvugizi urumva mubyukuri benshi babaho bihebye ariko noneho avega ikintu ikora nubujyanama guhumurizanya kwegeranya]

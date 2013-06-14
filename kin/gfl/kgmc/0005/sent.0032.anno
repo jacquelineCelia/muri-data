@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Baba bacishijeho itangazo niba ar'ingabo niba ari irya perezidanse ivugango indege yari itwaye umukuru w' igihugu yahanutse . ||| There was an announcement on the radio am not sure if it was from the president 's office or the military command but it said that the plane carrying the president had crashed .
+
+% TEXT
+Baba bacishijeho itangazo niba ar'ingabo niba_1 ari irya perezidanse ivugango indege yari itwaye umukuru w' igihugu yahanutse .
+
+% ANNO
+[Baba bacishijeho itangazo niba ar'ingabo niba_1 ari irya perezidanse ivugango indege yari itwaye umukuru w' igihugu yahanutse]

@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Harya Hélène yavukanaga na Mariya ? ||| Were Hélène and Maria sisters ?
+
+% TEXT
+Harya Hélène yavukanaga na Mariya ?
+
+% ANNO
+(Harya < Hélène) > yavukanaga < (na < Mariya)

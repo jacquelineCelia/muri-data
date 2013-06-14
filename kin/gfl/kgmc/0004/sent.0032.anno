@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Waba warigeze ujya kwa muganga kugira ngo wipimishe umenye niba waranduye ? ||| Did you ever go to the hospital to be tested for HIV ?
+
+% TEXT
+Waba warigeze ujya kwa muganga kugira ngo wipimishe umenye niba waranduye ?
+
+% ANNO
+Waba < warigeze < ujya < kwa < muganga > kugira > ngo < wipimishe < umenye < niba < waranduye

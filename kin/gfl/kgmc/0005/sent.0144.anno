@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kuko ubu nitwa tante w' abana bose kuko umwana unsanze afite ikibazo mbasha kugikemura ndagikemura . ||| Because now I am called aunty of all the children , any child who comes to me with a problem that I can fix , I fix it .
+
+% TEXT
+Kuko ubu nitwa tante w' abana bose kuko umwana unsanze afite ikibazo mbasha kugikemura ndagikemura .
+
+% ANNO
+[Kuko ubu nitwa tante w' abana bose kuko umwana unsanze afite ikibazo mbasha kugikemura ndagikemura]

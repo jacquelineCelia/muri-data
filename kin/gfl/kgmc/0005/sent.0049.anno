@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Yari umushoferi w' imodoka ya komini yari aje gutwara umuryango we wari uraho ngaho twari twahararanye . ||| He was a driver of the commune and was coming to take his family which had also spent the night in the same place with us .
+
+% TEXT
+Yari umushoferi w' imodoka ya komini yari aje gutwara umuryango we wari uraho ngaho twari twahararanye .
+
+% ANNO
+[Yari umushoferi w' imodoka ya komini yari aje gutwara umuryango we wari uraho ngaho twari twahararanye]

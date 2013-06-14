@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kugirango ntekere abana icyayi mvuye gutira ya safuriya barambwira ngo haje imodoka yuzuye interahamwe ||| So that I can prepare tea for my children , after I had borrowed the saucepan I was told that a car full of Interahamwe was on its way .
+
+% TEXT
+Kugirango ntekere abana icyayi mvuye gutira ya safuriya barambwira ngo haje imodoka yuzuye interahamwe
+
+% ANNO
+[Kugirango ntekere abana icyayi mvuye gutira ya safuriya barambwira ngo haje imodoka yuzuye interahamwe]

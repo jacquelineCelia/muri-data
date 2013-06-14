@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Genocide itangiye turahunga duhungira ku bitaro mu Bushenyi , ||| When the Genocide started we fled to the hospital in Bushenyi .
+
+% TEXT
+Genocide itangiye turahunga duhungira ku bitaro mu Bushenyi ,
+
+% ANNO
+Genocide > itangiye < turahunga < duhungira < ku < bitaro < mu < Bushenyi

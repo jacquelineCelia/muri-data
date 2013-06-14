@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Usibye na natwe nka Leta y' u Rwanda mwumva yo ishobora kuba yakora iki ? ||| If not individuals , what do you think the Government of Rwanda should do ?
+
+% TEXT
+Usibye na natwe nka Leta y' u Rwanda mwumva yo ishobora kuba yakora iki ?
+
+% ANNO
+Usibye < na < natwe < nka < Leta < y' < [u Rwanda]
+mwumva < yo < ishobora < kuba < yakora < iki

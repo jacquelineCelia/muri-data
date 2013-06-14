@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Twashyinguye inshuro nyinshi dushyingura abntu batari abacu ariko n' abanyarwanda twashyinguraga . ||| We buried a lot of times burying people who we were not related to but we were burying Rwandans .
+
+% TEXT
+Twashyinguye inshuro nyinshi dushyingura abntu batari abacu ariko n' abanyarwanda twashyinguraga .
+
+% ANNO
+[Twashyinguye inshuro nyinshi dushyingura abntu batari abacu ariko n' abanyarwanda twashyinguraga]

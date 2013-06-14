@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Reka noneho Génocide irarangiye , hari ingaruka nyinshi za Génocide ubuzima butari bwiza nyuma ya Génocide . ||| Now that the Genocide is over , there are many consequences after the genocide like misery .
+
+% TEXT
+Reka noneho Génocide irarangiye , hari ingaruka nyinshi za Génocide_1 ubuzima butari bwiza nyuma ya Génocide_2 .
+
+% ANNO
+Reka < noneho > irarangiye 
+Génocide > irarangiye 
+hari < ingaruka < nyinshi < za < Génocide_1 < ubuzima < butari < bwiza < nyuma < ya < Génocide_2

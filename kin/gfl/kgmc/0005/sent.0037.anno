@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ndavuga nti se bari hano ngo ariko mwishimye nti se twishimye umuntu yishimira ko undi yapfuye . ||| I said there was nobody here and told them that we can not be happy because someone else died .
+
+% TEXT
+Ndavuga nti se bari hano ngo ariko mwishimye nti_1 se_1 twishimye umuntu yishimira ko undi yapfuye .
+
+% ANNO
+[Ndavuga nti se bari hano ngo ariko mwishimye nti_1 se_1 twishimye umuntu yishimira ko undi yapfuye]

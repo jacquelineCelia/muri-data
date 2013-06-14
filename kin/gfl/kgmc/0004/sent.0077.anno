@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ibyiringiro by' ubuzima byo , nonese wagira ibyiringiro by' ubuzima utari kubona uri kubaho neza ? ||| Hope ... can you have hope in life when you realize that your current life is not good ?
+
+% TEXT
+Ibyiringiro by' ubuzima byo , nonese wagira ibyiringiro by'_1 ubuzima_1 utari kubona uri kubaho neza ?
+
+% ANNO
+Ibyiringiro < by' < ubuzima < byo 
+nonese > wagira < ibyiringiro < by'_1 < ubuzima_1
+wagira < utari < kubona < uri < kubaho < neza

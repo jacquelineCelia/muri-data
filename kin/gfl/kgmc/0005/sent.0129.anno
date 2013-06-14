@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niwe waduhayemo ayo makuru . ||| He is the one who told us all that .
+
+% TEXT
+Niwe waduhayemo ayo makuru .
+
+% ANNO
+[Niwe waduhayemo ayo makuru]

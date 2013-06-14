@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ndavuga nti murambeshyeye barambwira ngo ninsohoke nsange abana ngo we baraza kumugarura . ||| So I protested that they had just lied and they told me to get out of the car and watch over the kids saying that they will bring him back later .
+
+% TEXT
+Ndavuga nti murambeshyeye barambwira ngo ninsohoke nsange abana ngo_1 we baraza kumugarura .
+
+% ANNO
+[Ndavuga nti murambeshyeye barambwira ngo ninsohoke nsange abana ngo_1 we baraza kumugarura]

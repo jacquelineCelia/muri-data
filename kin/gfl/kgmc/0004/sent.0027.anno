@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nonese abantu bo muri tribunal bakubwiwe n' iki ? ||| How did the people at the tribunal know about you ?
+
+% TEXT
+Nonese abantu bo muri tribunal bakubwiwe n' iki ?
+
+% ANNO
+Nonese > (abantu < bo < (muri < tribunal)) > bakubwiwe < n' < iki

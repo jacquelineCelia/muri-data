@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ubumwe n' ubwiyunge ! ||| Unity and reconciliation !
+
+% TEXT
+Ubumwe n' ubwiyunge !
+
+% ANNO
+$x :: {Ubumwe ubwiyunge} :: n'
+Ubumwe < ubwiyunge

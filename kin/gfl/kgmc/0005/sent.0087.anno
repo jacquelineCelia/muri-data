@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ndamubwira nti se ari hehe bamwe bati ari ikabuga abandi bati kuri goma mbese yari yarabaye simbizi . ||| So I asked them , where is she ? Some would say kabuga , others would say goma , I did n't really know what to make of it .
+
+% TEXT
+Ndamubwira nti se ari hehe bamwe bati ari_1 ikabuga abandi bati_1 kuri goma mbese yari yarabaye simbizi .
+
+% ANNO
+[Ndamubwira nti se ari hehe bamwe bati ari_1 ikabuga abandi bati_1 kuri goma mbese yari yarabaye simbizi]

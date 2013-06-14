@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko urwikekwe sinzi ngo niba ari kadafi wabivuze ngo ujye undinda incuti zange ngo abanzi ndabazi . ||| About trust I do n't know if its kadafi who said that , protect me form my friends because I already know my enemies .
+
+% TEXT
+Ariko urwikekwe sinzi ngo niba ari kadafi wabivuze ngo_1 ujye undinda incuti zange ngo_2 abanzi ndabazi .
+
+% ANNO
+[Ariko urwikekwe sinzi ngo niba ari kadafi wabivuze ngo_1 ujye undinda incuti zange ngo_2 abanzi ndabazi]

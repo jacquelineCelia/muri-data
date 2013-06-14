@@ -1,0 +1,14 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Urabona hari igihe yakubwira ati @: "@ genda , bakumenye se ... akongera akagira gute se ... impamvu wabonaga , nta kintu wamumariraga hagati aho ngaho wenda umuha nk' amafaranga cyangwa ... ? ||| Did you feel like the times she 'd ask you to leave it was because maybe you were n't of any gain to her , maybe because you were n't giving her money or ... ?
+
+% TEXT
+Urabona hari igihe yakubwira ati @: "@ genda , bakumenye se ... akongera akagira gute se_1 ..._1 impamvu wabonaga ,_1 nta kintu wamumariraga hagati aho ngaho wenda umuha nk' amafaranga cyangwa ..._2 ?
+
+% ANNO
+Urabona < hari < igihe < yakubwira < ati < @: < "@ < genda < bakumenye < se
+... 
+akongera < akagira < gute < se_1 < ..._1 < impamvu > wabonaga 
+(nta > kintu) > wamumariraga < hagati < aho < ngaho > wenda < umuha < nk' > amafaranga < cyangwa < ..._2

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abantu mwari muturanye ahantu mwari mutuye uyu munsi mubanye mute ? ||| How do you relate to the neighbours that you had befor all this , how is your relationship ?
+
+% TEXT
+Abantu mwari muturanye ahantu mwari_1 mutuye uyu munsi mubanye mute ?
+
+% ANNO
+[Abantu mwari muturanye ahantu mwari_1 mutuye uyu munsi mubanye mute]

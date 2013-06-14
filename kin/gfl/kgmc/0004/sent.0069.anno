@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+ubundi mwumva Leta yakora iki ? ||| What do you think the Government should do ?
+
+% TEXT
+ubundi mwumva Leta yakora iki ?
+
+% ANNO
+ubundi > mwumva < Leta 
+mwumva < yakora < iki

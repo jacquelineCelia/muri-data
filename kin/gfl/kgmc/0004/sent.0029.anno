@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+usibye ko icyo gihe nari ndembye ntabashaga kuvuga ariko nyuma yaho narabutanze nabyo . ||| . I was so sick then that I could n't even speak but later , I was able to tell them my story .
+
+% TEXT
+usibye ko icyo gihe nari ndembye ntabashaga kuvuga ariko nyuma yaho narabutanze nabyo .
+
+% ANNO
+usibye < ko > (icyo > gihe) > nari < ndembye < ntabashaga < kuvuga 
+$x :: {nari narabutanze} :: ariko 
+nyuma > yaho > narabutanze < nabyo

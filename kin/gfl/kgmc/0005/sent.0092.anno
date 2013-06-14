@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bamwe mbajyana muri orphelinat undi umwe muha umuntu w' umusirikari aragenda amwigirira kadogo . ||| I took some of them in an orphanage ; I gave the other one to a soldier who turned him into a kadogo @/ child soldier .
+
+% TEXT
+Bamwe mbajyana muri orphelinat undi umwe muha umuntu w' umusirikari aragenda amwigirira kadogo .
+
+% ANNO
+[Bamwe mbajyana muri orphelinat undi umwe muha umuntu w' umusirikari aragenda amwigirira kadogo]

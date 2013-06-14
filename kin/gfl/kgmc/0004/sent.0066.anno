@@ -1,0 +1,15 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+None ni iyihe message cyangwa n' ubuhe butumwa wumva waha abo bantu bose bavuzwe haruguru ? ||| Now what message would you send to all the people mentioned above ?
+
+% TEXT
+None ni iyihe message cyangwa n' ubuhe butumwa wumva waha abo bantu bose bavuzwe haruguru ?
+
+% ANNO
+None > ni < (iyihe > message)
+$x :: {ni wumva} :: cyangwa 
+(n' < ubuhe < butumwa) > wumva < waha < (abo > bantu < bose 
+bantu < bavuzwe 
+bantu < haruguru)

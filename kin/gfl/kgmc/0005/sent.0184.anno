@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho ahangaha nkaba nshaka kugirango mvuge ngo kwibuka nibyabande nibyabacitse ku icumu nibyabaturanyi bacu se bo mubindi bihugu ? ||| So here I want to ask , remembering is for who ? Is it for the survivors , is for our neighbouring countries ?
+
+% TEXT
+Noneho ahangaha nkaba nshaka kugirango mvuge ngo kwibuka nibyabande nibyabacitse ku icumu nibyabaturanyi bacu se bo mubindi bihugu ?
+
+% ANNO
+[Noneho ahangaha nkaba nshaka kugirango mvuge ngo kwibuka nibyabande nibyabacitse ku icumu nibyabaturanyi bacu se bo mubindi bihugu]

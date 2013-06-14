@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ngo buri gihe tujye twibuka kuko ikintu nshaka kubivugira aho kugirango nze kubasaba ko mwagira ikintu mubivugaho . ||| So that we may always rememebr them , I want that you will make your comment and say what you think .
+
+% TEXT
+Ngo buri gihe tujye twibuka kuko ikintu nshaka kubivugira aho kugirango nze kubasaba ko mwagira ikintu_1 mubivugaho .
+
+% ANNO
+[Ngo buri gihe tujye twibuka kuko ikintu nshaka kubivugira aho kugirango nze kubasaba ko mwagira ikintu_1 mubivugaho]

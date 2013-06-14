@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Nitwa Mutanguha Fredy , nkaba mfite imyaka 28 . ||| My name is Mutanguha Freddy and I am 28 years old .
+
+% TEXT
+Nitwa Mutanguha Fredy , nkaba mfite imyaka 28 .
+
+% ANNO
+[Nitwa Mutanguha Fredy nkaba mfite imyaka 28]

@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Oya ntabwo ari ibyo bibazo byari biriho by' intambara nanavuye iwacu ibyo bintu by' intambara bitari byaba , kubera ko mama avuka ku Gisenyi niho narerewe , akenshi narerewe mu miryango yo kwa mama . ||| No , it was n't because of the war . I left home before the war started . I was brought up in Gisenyi because that 's where my mom was born . I was mainly brought up in her family .
+
+% TEXT
+Oya ntabwo ari ibyo bibazo byari biriho by' intambara nanavuye iwacu ibyo_1 bintu by'_1 intambara_1 bitari byaba , kubera ko mama avuka ku Gisenyi niho narerewe ,_1 akenshi narerewe_1 mu miryango yo kwa mama_1 .
+
+% ANNO
+Oya
+(ntabwo > ari) < (ibyo > bibazo) > byari < biriho < (by' > intambara <  nanavuye) < iwacu < ibyo_1 < bintu (by'_1 > intambara_1 < bitari) > byaba
+kubera > ko > mama > avuka < (ku < Gisenyi) > niho > narerewe < akenshi < narerewe_1 < (mu < miryango) < yo < kwa > mama_1

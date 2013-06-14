@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ku gisenyi wabanaga na nde kuko watubwiye ko i Kayove hari famille ya mama n' aba cousine ? ||| You told us your mom 's family and your cousins lived in Kayove . Who were you living with in Gisenyi ?
+
+% TEXT
+Ku gisenyi wabanaga na nde kuko watubwiye ko i Kayove hari famille ya mama n' aba cousine ?
+
+% ANNO
+$x :: {mama aba} :: n'
+(Ku < gisenyi) > wabanaga < (na > nde) < kuko > watubwiye < ko > (i < Kayove) > hari < famille < ya < mama < (aba > cousine)
+

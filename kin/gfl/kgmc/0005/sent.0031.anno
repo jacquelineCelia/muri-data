@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Twari turyamye ariko kwa kundi abantu baba bakiri maso abantu baganira ntitwabyitaho turakomeza turiryamira . ||| We were in bed but not really asleep , in fact we were still talking but when heard the explosion we did n't give it much thought and we went on sleeping .
+
+% TEXT
+Twari turyamye ariko kwa kundi abantu baba bakiri maso abantu_1 baganira ntitwabyitaho turakomeza turiryamira .
+
+% ANNO
+[Twari turyamye ariko kwa kundi abantu baba bakiri maso abantu_1 baganira ntitwabyitaho turakomeza turiryamira]

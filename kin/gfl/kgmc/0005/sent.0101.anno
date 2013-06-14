@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nahoraga nshakisha muri mirongo icyenda na karindwi niho twagiye mugikorwa cyo gushyingura amagufa yari yandagaye k' umusozi . ||| I kept looking for them , in 1997 is when we went to bury the remains that had been scattered on our hill .
+
+% TEXT
+Nahoraga nshakisha muri mirongo icyenda na karindwi niho twagiye mugikorwa cyo gushyingura amagufa yari yandagaye k' umusozi .
+
+% ANNO
+[Nahoraga nshakisha muri mirongo icyenda na karindwi niho twagiye mugikorwa cyo gushyingura amagufa yari yandagaye k' umusozi]

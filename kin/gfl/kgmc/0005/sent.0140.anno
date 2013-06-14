@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nubwo hariho uwanyondoye nkuwo musaza wange wanjyanye akanshyira iwe ariko hatarimo imbaraga z' Imana ntabwo byari gushoboka . ||| Except my cousin @-@ brother but even for him it would n't have been possible without God 's power .
+
+% TEXT
+Nubwo hariho uwanyondoye nkuwo musaza wange wanjyanye akanshyira iwe ariko hatarimo imbaraga z' Imana ntabwo byari gushoboka .
+
+% ANNO
+[Nubwo hariho uwanyondoye nkuwo musaza wange wanjyanye akanshyira iwe ariko hatarimo imbaraga z' Imana ntabwo byari gushoboka]

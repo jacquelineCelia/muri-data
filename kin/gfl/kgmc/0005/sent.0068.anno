@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nicara aho ngaho muri iyo mirambo ngiye kubona mbona za nterahamwe ziragarutse . ||| I sat there among all those corpses and then all of a sudden the Interahamwe came back .
+
+% TEXT
+Nicara aho ngaho muri iyo mirambo ngiye kubona mbona za nterahamwe ziragarutse .
+
+% ANNO
+[Nicara aho ngaho muri iyo mirambo ngiye kubona mbona za nterahamwe ziragarutse]

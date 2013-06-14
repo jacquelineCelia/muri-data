@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ibi bintu byose ubasha kubyihanganira ku buryo ubuzima bwa buri munsi wumva nta kibazo ? ||| Do you really cope with all this to the extent of having a normal life ?
+
+% TEXT
+Ibi bintu byose ubasha kubyihanganira ku buryo ubuzima bwa buri munsi wumva nta kibazo ?
+
+% ANNO
+(Ibi > bintu < byose) > ubasha < kubyihanganira < ku < buryo
+kubyihanganira < ubuzima < bwa < (buri > munsi)
+ubuzima < wumva < (nta > kibazo)

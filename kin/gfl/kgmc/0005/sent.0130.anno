@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Arabazi mubyukuri we aravuga ngo yahise yiruka ntabwo bemera kuvuga ngo babihagarareho neza . ||| He knows them but he says that he ran away , they do n't agree to say everything clearly .
+
+% TEXT
+Arabazi mubyukuri we aravuga ngo yahise yiruka ntabwo bemera kuvuga ngo_1 babihagarareho neza .
+
+% ANNO
+[Arabazi mubyukuri we aravuga ngo yahise yiruka ntabwo bemera kuvuga ngo_1 babihagarareho neza]

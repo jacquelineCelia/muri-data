@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ndagenda njya murugo negeranya ibintu byose bari bavangavanze negeranya amasaka negeranya n' amasukari ntabwo bagira gahunda . ||| I went home and rearranged everything they had disorganized and thrown around , wheat and sugar . They were very confused .
+
+% TEXT
+Ndagenda njya murugo negeranya ibintu byose bari bavangavanze negeranya_1 amasaka negeranya_2 n' amasukari ntabwo bagira gahunda .
+
+% ANNO
+[Ndagenda njya murugo negeranya ibintu byose bari bavangavanze negeranya_1 amasaka negeranya_2 n' amasukari ntabwo bagira gahunda]

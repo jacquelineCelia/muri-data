@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset descriptor="kinyarwanda">
+  <file id="kmc00005" languages="kin,eng">
+    <metadata interviewer="Niwenshuti Martin" interviewee="Murebwayire Josephine" date="5-MAR-2007" location="Kimironko, Murebwayire Josephine's home" otherInfo=""/>
+    <data>
+      <unit time="00:00:02:23" speaker="Martin"><align>
+        <text langid="kin"><s>Uyu munsi n'itariki ejanu z'ukwezi kwa gatatu ibihumbi bibiri na karindwi ndi hano ku kimironko kwa murebwayire Josephine.</s></text>
+        <text langid="eng"><s>Today is 5th of march 2007 I am here in Kimironko at Murebwayire Josephine's home.</s></text>
+      </align></unit>
+      <unit time="00:00:08:17" speaker="Martin"><align>
+        <text langid="kin"><s>Aho tugiye kuganira amateka y'ibintu byabaye muri jenocide ..... Twagirango mutangire mutwibwira.</s></text>
+        <text langid="eng"><s>We would like you to introduce yourself to us as we are about to talk about what happened in the genocide.</s></text>
+      </align></unit>
+      <unit time="00:00:17:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Nitwa murebwayire Josephine ntuye mu kimironko mu kagali ka nyagatovu mu karere ka gasabo.</s></text>
+        <text langid="eng"><s>My names are Murebwayire Josephine I live in Kimironko in the sector of Nyagatovu in the district of Gasabo.</s></text>
+      </align></unit>
+      <unit time="00:00:30:14" speaker="Martin"><align>
+        <text langid="kin"><s>Ese twagirango noneho utubwire mbere ya jenocide itaraba umuryango wanyu mwari mubayeho gute ese wari ufite umuryango ungana iki?</s></text>
+        <text langid="eng"><s>We would like you to tell us about your life with your family before the genocide, how big was your family?</s></text>
+      </align></unit>
+      <unit time="00:00:50:13" speaker="Martin"><align>
+        <text langid="kin"><s>Udusobanurire umuryango uko wanganaga abana umugabo noneho nurangiza uze kutwereka ishusho cyangwa se isura yuko uwo muryango wanyu wari ubayeho mbere ya jenocide.</s></text>
+        <text langid="eng"><s>Explain to us and tell us how big your family was; your children, your husband and then after try and give us an idea or paint an image for us on how your life was before the genocide.</s></text>
+      </align></unit>
+      <unit time="00:01:02:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbere ya jenocide twari dutuye ahantu bita imasoro icyo gihe bahitaga muri secteur ya ndera.</s></text>
+        <text langid="eng"><s>Before the genocide we lived in a place called Masoro at that time it was called Ndera sector.</s></text>
+      </align></unit>
+      <unit time="00:01:15:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Komine rubungo niho twari dutuye ubu ni akarere ka gasabo nari mfite umugabo n'abana batandatu.</s></text>
+        <text langid="eng"><s>Commune Rubungo is where we lived, nowadays it's called Gasabo district, I had a husband with six children.</s></text>
+      </align></unit>
+      <unit time="00:01:26:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Abahungu batatu n'abakobwa batatu twari dufite nundi mwana twareraga mwishywa w'umugabo wanjye.</s></text>
+        <text langid="eng"><s>Three boys and three girls, we also had a child that we had adopted, my husband's niece.</s></text>
+      </align></unit>
+      <unit time="00:01:33:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Twari tubanye neza twari dufite urugo rwiza twari dufite imibereho ishimishije umugabo wanjye yarakora.</s></text>
+        <text langid="eng"><s>We were living in harmony, we had a nice house, our standard of life was good, and my husband was working.</s></text>
+      </align></unit>
+      <unit time="00:01:43:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Yarikoreraga yakoraga akazi kubukanishi ari umu tekinisiye nange ndi umu maman w'abana ndi murugo ariko mfite indi mirimo nkora kuko twari dufite na butike.</s></text>
+        <text langid="eng"><s>He was a self employed mechanic and I was a mother at home with the children even though I had other things to do because we had a small shop.</s></text>
+      </align></unit>
+      <unit time="00:01:57:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Ncuruza dufite n'isambu nziza dufite inka ndeberera imirimo yose yo murugo twari twifashije.</s></text>
+        <text langid="eng"><s>So I was in a business and we also had a nice piece of land and cows, I was supervising all the activities at home, we were doing great.</s></text>
+      </align></unit>
+      <unit time="00:02:06:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Yeee hanyuma abana bange bari bakuru bari bamaze gukura bari muri sogonderi umukuru yari ari mu wa kane sogonderi umuto yari mu wa kane primaire.</s></text>
+        <text langid="eng"><s>My children were growing up and were in secondary school, the oldest was in senior four and the youngest was in primary four.</s></text>
+      </align></unit>
+      <unit time="00:02:22:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Hanyuma nari mfite n'abandi bavandimwe twabanaga basaza banjye babiri.</s></text>
+        <text langid="eng"><s>We also lived with my two brothers.</s></text>
+      </align></unit>
+      <unit time="00:02:31:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Umwe twari tumaze kumushyingira atuye hafi yacu mbese twari umuryango munini ushimishije hanyuma jenocide yatangiye mubyukuri muri mirongo icyenda nibwo twumvise ko inkotanyi zateye.</s></text>
+        <text langid="eng"><s>One had just gotten married and he lived near us, we were a big nice family, the genocide rally started in 1990, that's when we heard that the Inkotanyi [RPF] had attacked.</s></text>
+      </align></unit>
+      <unit time="00:02:49:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Bavuga ko zaturutse ibyumba ku itariki ya mbere z'ukwacumi mirongo cyenda twese twabyumvise kimwe n'abaturanyi bacu ntabwo twari tuzi ibyo aribyo.</s></text>
+        <text langid="eng"><s>They said they came from Byumba on the 1st of October 1990, we all didn't know what it was when we heard about it with our neighbours.</s></text>
+      </align></unit>
+      <unit time="00:03:01:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko itariki ya karindwi z'ukwacumi mirongo icyenda niho umugabo wanjye baje kumufatako ari ikitso k'inkotanyi.</s></text>
+        <text langid="eng"><s>On the 7th of October 1990 that's when they came to arrest my husband saying he was a spy for the Inkotanyi.</s></text>
+      </align></unit>
+      <unit time="00:03:10:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Basanze Atari no murugo kuko babanje kuvuga ko nta Bantu bagomba kuva murugo ariko twebwe kuberako twari dufite iyo butike yari iriho musaza wanjye.</s></text>
+        <text langid="eng"><s>They didn't find him at home, because even though they had said that nobody should leave their homes, my brother went to the shop to work because it was near the house.</s></text>
+      </align></unit>
+      <unit time="00:03:22:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Azamuka agiye kureba uko bimeze kuri iyo butike abaje kumufata basanze arijyewe uri murugo n'abana.</s></text>
+        <text langid="eng"><s>So my husband also went to see how things were at the shop, the people who were coming to arrest him only found me and the children at home.</s></text>
+      </align></unit>
+      <unit time="00:03:31:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Ni njyewe babanje gutwara ariko babanje gukora ibindi bitari byiza gusaka gukubita,bakajya bankubita ibibuno by'imbunda bambaza ngo imbunda twari dufite irihe?</s></text>
+        <text langid="eng"><s>So they took me first but before that they were doing bad things; searching the house and throwing things around, hitting me with their gun-butt asking me where I had hidden the gun that we had.</s></text>
+      </align></unit>
+      <unit time="00:03:43:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubwo ku itariki enye bari baraye barasa baravuga ngo nitwebwe twaraye turasa mu mugi wa Kigali.</s></text>
+        <text langid="eng"><s>On the 4th of October 1990 they had spent the night shooting in the air and they said that we were the ones that were shooting Kigali.</s></text>
+      </align></unit>
+      <unit time="00:03:48:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Bambaza imbunda barayibura ari basanga twari dufite jumeri umugabo wanjye yajyana guhiga yajyaga ajyana n'abapadiri baba seriziyani.</s></text>
+        <text langid="eng"><s>They kept asking me about the gun but they couldn't find it but they found binoculars that my husband used when hunting, he did it with priests.</s></text>
+      </align></unit>
+      <unit time="00:03:59:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Bayibonye bavuga yuko ariyo tureberamo inkotanyi baba babonye urwitwazo hari gurude za mazi abana bajyanagamo amazi nubwo hari hafi ariko hari ubwo batwaragamo amazi.</s></text>
+        <text langid="eng"><s>When they saw it they said that we use it to look at the Inkotanyi, they had just got a reason. There were also water bottles that my children used to take water in, even though it wasn't far, they used them.</s></text>
+      </align></unit>
+      <unit time="00:04:12:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Bavugako ari izabasirikari barankubita ariko bita babaje cyane bambaza ngo ninerekane ibyo nahishe ngo ninerekane izo nkotanyi.</s></text>
+        <text langid="eng"><s>They said it belonged to soldiers and they started beating me but not too much, telling me to show them everything else I had hidden and show them the Inkotanyi.</s></text>
+      </align></unit>
+      <unit time="00:04:21:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Imbunda zabo hanyuma babibuze barantwara mu modoka bambwira ngo nibamubona barandekura turazamuka tugeze hafi yiyo butike turamubona.</s></text>
+        <text langid="eng"><s>When they didn't get the guns they took me in the car and said that if they get my husband they will release me and let me go, when we reached near the shop we saw him.</s></text>
+      </align></unit>
+      <unit time="00:04:35:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndababwira nti dore umugabo wange nguriya araje</s><s> barahagarara baramubwira ngo niyinjiremo ajye kubaha imbunda nabemereye ngo ariko njyewe nanze kuzibaha atampaye uruhushya.</s></text>
+        <text langid="eng"><s>So I said to them, there is my husband, he is coming. </s><s>They stopped and told him to enter the car and go give them the gun I had promised them but couldn't give it away without his permission.</s></text>
+      </align></unit>
+      <unit time="00:04:45:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndavuga nti murambeshyeye barambwira ngo ninsohoke nsange abana ngo we baraza kumugarura.</s></text>
+        <text langid="eng"><s>So I protested that they had just lied and they told me to get out of the car and watch over the kids saying that they will bring him back later.</s></text>
+      </align></unit>
+      <unit time="00:04:52:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Umugabo baramujyana nange ndamanuka nsanga abana ariko ubona ko abaturanyi bacu babonyeko koko turi inyenzi ako kanya batangira kuduha akato.</s></text>
+        <text langid="eng"><s>They took my husband and I went back home to watch over the kids but at that moment you could see that our neighbours started looking at us like we were cockroaches and stigmatizing us.</s></text>
+      </align></unit>
+      <unit time="00:05:04:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndagenda njya murugo negeranya ibintu byose bari bavangavanze negeranya amasaka negeranya n'amasukari ntabwo bagira gahunda.</s></text>
+        <text langid="eng"><s>I went home and rearranged everything they had disorganized and thrown around, wheat and sugar. They were very confused.</s></text>
+      </align></unit>
+      <unit time="00:05:13:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko birangije abana ndabegeranya ndabahumuriza ndababwira naringiye nange na papa yagiye nubu bagaruka bakantwara ariko muhure.</s></text>
+        <text langid="eng"><s>I called all my children and started comforting them telling them that they almost took me, dad was taken, they might come back and take me too but do not be afraid.</s></text>
+      </align></unit>
+      <unit time="00:05:24:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Twari abantu basenga njyewe nari umuntu wemera nkumvako nibibaye byose Imana iba ibizi ndabahumuriza ndababwira nti muhumure natanagaruka muzabaho nzajya mbakorera icyo ngomba kubakorera.</s></text>
+        <text langid="eng"><s>We were a praying family, so I was a firm believer that no matter what happens God knows and is in control, so I comforted them and told them that even if their father does not return they will live, telling them that I will do all my best and work hard and provide for all their needs.</s></text>
+      </align></unit>
+      <unit time="00:05:37:04" speaker="josephine"><align>
+        <text langid="kin"><s>Nka maman wanyu ariko ubwo sigeze nemerako yagiye Atari bugaruke namaze iminsi ibiri yose nteka nkashyira ibiryo mu kabati mvuga ngo araje araje.</s></text>
+        <text langid="eng"><s>As a mother I didn't believe that he wasn't going to return, for two days I would prepare food and keep it in the cupboard for him.</s></text>
+      </align></unit>
+      <unit time="00:05:47:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Nta muntu wari ukigera murugo yewe nuwo negeraga wabonaga afite ubwoba yuko ndibumukoreho.</s></text>
+        <text langid="eng"><s>Nobody was even reaching our home anymore; if I came close to someone they would seem afraid that I was going to cause them trouble.</s></text>
+      </align></unit>
+      <unit time="00:05:56:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko nkajya mbyuka ngenda murugo hariya irubungo ni kure ya Kigali nkabura umbwira ati araha naha.</s></text>
+        <text langid="eng"><s>So I would wake up and go home, Rubungo is far from Kigali and nobody would direct me where he might be.</s></text>
+      </align></unit>
+      <unit time="00:06:08:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Bigeze mu kwezi kwa cumi na biri baza kutubwirako twazajya kubaza kuri seyiseyeri bakatubwira amakuru y'abantu bacu bafunz.</s></text>
+        <text langid="eng"><s>In December we were told that we can go ask at CICR about our people who were put in jail.</s></text>
+      </align></unit>
+      <unit time="00:06:20:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Sinari nahazi nzakujyayo umuntu aranyobora icyo gihe narayobye ntungukira kwa perezida habyarimana hariya mu kiyovu.</s></text>
+        <text langid="eng"><s>I didn't know the place so someone directed me but I got lost and went to president Habyarimana's house in Kiyovu.</s></text>
+      </align></unit>
+      <unit time="00:06:29:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Abasirikare banyicaza hasi bambaza ibyangombwa bambaza indangamuntu nuko barambwira ngo ndi inyenzi ndabahakanira ko ntariyo.</s></text>
+        <text langid="eng"><s>Soldiers made me sit down and asked for my identity card and then they said that I was a cockroach but I denied it telling them I wasn't a cockroach.</s></text>
+      </align></unit>
+      <unit time="00:06:41:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Barambwira bati ugiye he nti ngiye kuri seyiseyeri bati ubwo ufite inyenzi ubwo ufite ibyitso nti n'umuntu wampamagaye ushaka kumpa akazi.</s></text>
+        <text langid="eng"><s>They asked me where I was going and I told them CICR so they said I was going to see spies, no someone called me to offer me a job, I said.</s></text>
+      </align></unit>
+      <unit time="00:06:48:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko ndagenda bambwira ngo ningende nikoreye amaboko ngende ndirimba ko nta nzira iri aho.</s></text>
+        <text langid="eng"><s>So they told me raise my hands and walk away singing there is no way here.</s></text>
+      </align></unit>
+      <unit time="00:06:55:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngenda mbivuga ariko uwo musirikari arahanyereka arahangeza mpageze rero ndabaza barambwira bari reka turebe niba ari muri computer sinarinzi na computer icyo aricyo.</s></text>
+        <text langid="eng"><s>One of the soldiers showed me the place and I walked away saying what they had asked me to say, when I reached there I asked and they told me they were going to check in the computer, I didn't even know what a computer was.</s></text>
+      </align></unit>
+      <unit time="00:07:06:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Barareba barambwira bati ntawe twabonye kuri liste y'abandi bati ubanza yarapfuye.</s></text>
+        <text langid="eng"><s>So when they checked they said that he wasn't on the list with everyone else may be he died, they said.</s></text>
+      </align></unit>
+      <unit time="00:07:12:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Nararize cyane haza umuzungukazi arambwira ati ko urira niki ndamubwira nti ngewe bari bambwiye ngo iyo umuntu aje hano bamubwira amakuru y'umuntu we iyo afunze.</s></text>
+        <text langid="eng"><s>I started crying hysterically, a white lady saw me and she came and asked me what was wrong? I replied to her that I had been told that if I come at their office they would tell me about my loved one who is in jail.</s></text>
+      </align></unit>
+      <unit time="00:07:23:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Nti umugabo wanjye baramutwaye none barambwiye ngo ntawe arambwira ati noneho genda nyuma y'iminsi itatu uzagaruke kureba ndagenda.</s></text>
+        <text langid="eng"><s>My husband was taken, now I am being told that he is not on the lists. So she told me to go home and come back in three days.</s></text>
+      </align></unit>
+      <unit time="00:07:33:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Nyuma y'iminsi itatu naragarutse arambwira ngo nimusigire amazina ngo azambariza naragarutse nsanga umugabo yanyandikiye nyine ambwira amakuru ye nyine ko ari muri gereza.</s></text>
+        <text langid="eng"><s>After three days I came back, she had asked me to give her the names of my husband. She told me that my husband was in prison.</s></text>
+      </align></unit>
+      <unit time="00:07:43:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Hariya 1930 natangiye kujya njyayo ngirango ndamusura ariko yarinze afungurwa nyuma ya mezi atandatu ntaramubona kimwe n'abandi.</s></text>
+        <text langid="eng"><s>So I started going to visit him at the 1930 prison but didn't see him until he was released six months after just like everyone else.</s></text>
+      </align></unit>
+      <unit time="00:07:52:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntabwo abantu bacu twababonaga baravugaga ngo nituzane ibintu babashyire tukajyayo kuwa kane wa nyuma w'ukwezi.</s></text>
+        <text langid="eng"><s>We were not allowed to see our loved ones; they told us to just bring whatever we were bringing for them on the last Thursday of the month, telling us that it would be delivered to them.</s></text>
+      </align></unit>
+      <unit time="00:07:59:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Icyo tujyanye tukagihereza aba suruveya ariko baducunaguza ariko badukubita ntiwamenyaga niba byamugezeho cyangwa bitamugezeho.</s></text>
+        <text langid="eng"><s>So whatever we would take we would give it to the guards as they were threatening and beating us, there was no certainty that our loved ones would get it.</s></text>
+      </align></unit>
+      <unit time="00:08:07:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Yafunguwe yari amazemo amezi atandatu araza tuba murugo umuntu akibaza ese bizagenda bite ariko tubona habaye agahenge umuntu asubira mubuzima busanzwe.</s></text>
+        <text langid="eng"><s>He was released after six months and came back home, but from that point we were not sure what was going to happen next, but after a while it was peaceful and life seemed to return to normal.</s></text>
+      </align></unit>
+      <unit time="00:08:21:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Bigeze muri mirongo icyenda na kabiri nibwo twatangiye kumva bishe za bugesera bigogwe akavuga ati ubanza bitazagera hano mbese tukumva ninko gutoranya nk'abagabo.</s></text>
+        <text langid="eng"><s>In 1992 that's when we started hearing about the killings in Bugesera, Bigogwe and he would say that may be it won't reach our region, we thought they were just selecting and killing men.</s></text>
+      </align></unit>
+      <unit time="00:08:33:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Ukavuga uti noneho nagenda ntagaruka ariko tukumva bitazafata intera ndende nkiyo byafashe muri mirongo icyenda na kane.</s></text>
+        <text langid="eng"><s>When he would walk out I would keep thinking that he won't return but we never thought that it would be as bad as it was in 1994.</s></text>
+      </align></unit>
+      <unit time="00:08:41:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Yarongeye asubira ku kazi arakora nkuko bisanzwe hanyuma rero bihita bigera muri mirongo icyenda na kane biba uko byagenze.</s></text>
+        <text langid="eng"><s>He went back to work and went on with life as usual and then everything else happened as you know in 1994.</s></text>
+      </align></unit>
+      <unit time="00:08:58:04" speaker="Martin"><align>
+        <text langid="kin"><s>Hanyuma mirongo icyenda na kane abantu bavuga ko iriya ndege ya habyarimana ikimara kumanuka aribwo jenocide yatangiye yo gutsemba uabantu no kumaraho.</s></text>
+        <text langid="eng"><s>In 1994 they say that the genocide and killings started after Habyarimana's plane was shot down?</s></text>
+      </align></unit>
+      <unit time="00:09:13:24" speaker="Martin"><align>
+        <text langid="kin"><s>Ariko uko yagiye itangira byaterwaga na karere ese wowe iwanyu ahantu mwari mutuye ese mwabwiwe niki ko jenocide yatangiye ese mwaba mwaramenyeko iyo ndege ya habyarimana yaguye.</s></text>
+        <text langid="eng"><s>But I think the way it started depended on the region and the place where one stayed. How did you know that the genocide had started in the place where you stayed? Did you know that Habyarimana's plane was shot down?</s></text>
+      </align></unit>
+      <unit time="00:09:26:09" speaker="Martin"><align>
+        <text langid="kin"><s>Ese byabagezeho bite twagirango udusobanurire?</s></text>
+        <text langid="eng"><s>How did all the events unfold in your lives, I would like you to explain and tell us?</s></text>
+      </align></unit>
+      <unit time="00:09:30:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Twebwe aho twari dutuye hari hateganye na kanombe mubyukuri ari mu kabande ariko ibyaberga ikanombe washoboraga kubibona.</s></text>
+        <text langid="eng"><s>The place where we stayed was just opposite Kanombe, it was in the valley but you could see everything that happens in Kanombe.</s></text>
+      </align></unit>
+      <unit time="00:09:38:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Indege yarahanutse ntitwamenya ibyo aribyo ariko twumva ikintu kiraturitse hari ni joro twiryamiye nta mashanyarazi twari dufite ngo turatarama cyane.</s></text>
+        <text langid="eng"><s>When the plane was shot down we didn't know what it was but heard a loud explosion, it was at night and we were sleeping, we didn't have electricity so that we can stay up late.</s></text>
+      </align></unit>
+      <unit time="00:09:46:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Twari turyamye ariko kwa kundi abantu baba bakiri maso abantu baganira ntitwabyitaho turakomeza turiryamira.</s></text>
+        <text langid="eng"><s>We were in bed but not really asleep, in fact we were still talking but when heard the explosion we didn't give it much thought and we went on sleeping.</s></text>
+      </align></unit>
+      <unit time="00:09:57:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Saa kumi nimwe umugabo yafunguye radio twumva harimo musique classique aravuga ati habaye cout d'etat igihe tugishaka kubiganiraho ngo tubijyeho impaka.</s></text>
+        <text langid="eng"><s>At 5 am my husband turned on the radio and it was playing classical music so he said there was a coup-d'état, when we were starting to argue about it.</s></text>
+      </align></unit>
+      <unit time="00:10:10:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Baba bacishijeho itangazo niba ar'ingabo niba ari irya perezidanse ivugango indege yari itwaye umukuru w'igihugu yahanutse.</s></text>
+        <text langid="eng"><s>There was an announcement on the radio am not sure if it was from the president's office or the military command but it said that the plane carrying the president had crashed.</s></text>
+      </align></unit>
+      <unit time="00:10:19:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubwoba buratwica turabyuka ndamubwira nti turashize arambwira ati reka reka ati uwaduhigaga arapfuye none ngo turashize ndamubwira nti oya nti ntabwo dukize ahubwo turashize.</s></text>
+        <text langid="eng"><s>We were terrified and woke up, I said to him that its over for us but instead he said no the one who wanted us dead is gone and you are saying its over for us, I replied and said that we were not going to live instead it was over.</s></text>
+      </align></unit>
+      <unit time="00:10:33:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Igihe tukibijya impaka tumva abantu barakomanze kurugi rwo mugikari ndabyuka ndagenda nkinguye nkubitana n'abasirikari baje iwacu</s></text>
+        <text langid="eng"><s>As we were still arguing we heard a knock at the back door, so I woke up and went to open the door where I met with soldiers.</s></text>
+      </align></unit>
+      <unit time="00:10:48:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Mu byukuri barabeshya ntabwo jenocide yatangiye muri mirongo icyenda na kane kuko iyo itangira muri mirongo icyenda na kane ntabwo baba bamenye ako kanya.</s></text>
+        <text langid="eng"><s>They lie but the genocide didn't start in 1994, if it had then they wouldn't have found me straight away.</s></text>
+      </align></unit>
+      <unit time="00:10:59:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo barajya kwa nde barica kwande ahubwo babiteguye kera indege iba imbarutso.</s></text>
+        <text langid="eng"><s>They knew where to find everybody and who to kill, it was planned long ago, the plain just marked the beginning.</s></text>
+      </align></unit>
+      <unit time="00:11:03:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Gusa wo kugirango barangize umurimo wabo ariko ntabwo aribwo jenocide yatangiye baritoje bakora gahunda neza ahubwo mvuga ko uwo munsi aribwo bayinonosoye.</s></text>
+        <text langid="eng"><s>That's when they started working but that's not when the genocide started, because they were already well trained and had planned, so I say that's the day when it was implemented and perfected.</s></text>
+      </align></unit>
+      <unit time="00:11:14:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ni nabwo jenocide yarangiye nubwo aribwo yatangiye ubwo abasirikari baraje bazana n'umwana w'iwacu aje kubayobora.</s></text>
+        <text langid="eng"><s>That's when the genocide was over even though that's when it started, so the soldiers came with one of our children showing them the way.</s></text>
+      </align></unit>
+      <unit time="00:11:26:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Bamufashe munzira yari umwana w'abatutsi kuko hahigwaga abatutsi ariko niwe wabazanye bari bafite liste y'abantu benshi ariko ari twebwe turi ku isonga.</s></text>
+        <text langid="eng"><s>They found him on the way, Tutsi's were being hunted and him being one they got him and he brought them. They had list with many names and ours were at the top of the list.</s></text>
+      </align></unit>
+      <unit time="00:11:37:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Baraza nkinguye nyine turakubitana barambwirango mwishimye se ngo abantu bahanuye indege y'umukuru w'igihugu barihe hehe?</s></text>
+        <text langid="eng"><s>When I opened I saw them and they said that I must be happy and they asked for the people who shot down the president's plane.</s></text>
+      </align></unit>
+      <unit time="00:11:48:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndavuga nti se bari hano ngo ariko mwishimye nti se twishimye umuntu yishimira ko undi yapfuye.</s></text>
+        <text langid="eng"><s>I said there was nobody here and told them that we cannot be happy because someone else died.</s></text>
+      </align></unit>
+      <unit time="00:11:54:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo nti mwamwangaga se nti se tumwanga turamuzi cyangwa we aratuzi nti ntabwo twishimye nti twabimenye nkuko abandi bose babimenye.</s></text>
+        <text langid="eng"><s>Didn't you hate him, they said? Can we hate someone we don't even know or does he know us? We heard it like everyone else.</s></text>
+      </align></unit>
+      <unit time="00:12:05:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntabwo byadushimishije ntawishimirako undi yapfuye ngo kandi arimwe mwamuhanuye ngo kandi inyenzi zamuhanuye ari zenewanyu.</s></text>
+        <text langid="eng"><s>Nobody is happy that he died especially when you are the ones that shot down his plane and the cockroaches who did it are your relatives</s></text>
+      </align></unit>
+      <unit time="00:12:14:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo ubu se inyenzi zamuhanuye si zenewanyu ntiziri ahangaha ngo umugabo wawe ari heahe ngo mutwereke aho aryamye turajyana mucyumba ndamubereka.</s></text>
+        <text langid="eng"><s>Aren't the cockroaches that shot it down your relatives? Aren't they here? Show us where your husband is? I took them to the room where he was sleeping.</s></text>
+      </align></unit>
+      <unit time="00:12:22:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Bahita bamfata bafata n'abana bose baragenda badukingirana mugikoni hanze n'abakozi bamaze kudukingiranamo bagaruka munzu bamusangamo baramubwira bati.</s></text>
+        <text langid="eng"><s>They took me and the children and locked us in the kitchen with the workers and then they came back in the house and said to him</s></text>
+      </align></unit>
+      <unit time="00:12:36:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Duhe amafaranga ati nta mafaranga mfite bati urayaduha ati ubu se ko musanze ndyamye ngaho nimuyashake ubwo cyakora urabyumva ntibari kumureka baramukubise amafaranga yari afite  arayabaha.</s></text>
+        <text langid="eng"><s>Give us money. I don't have money, he replied. You will give it to us, they said. He told them that they had found him sleeping and asked them to look for it. They didn't just let him go, they beat him and he gave them all the money he had on him.</s></text>
+      </align></unit>
+      <unit time="00:12:53:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Baramubwira bati umugore wawe ashobora kuba abitse amafaranga menshi abagore nibo babika amafaranga.</s></text>
+        <text langid="eng"><s>They said to him, your wife must be keeping a lot of money; women are the ones that keep money.</s></text>
+      </align></unit>
+      <unit time="00:12:57:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Baraza barankingurira abana barongera barabakingirana ndagenda bati duhe amafranga umugabo wawe avuzeko ari wowe uyabitse.</s></text>
+        <text langid="eng"><s>They opened the door for me and kept the children locked up, and then they told me to give them the money that my husband had told them that I was the one keeping it.</s></text>
+      </align></unit>
+      <unit time="00:13:08:04" speaker="josephine"><align>
+        <text langid="kin"><s>Nti nta mafaranga mfite rwose bati duhe ndababwira nti se ubundiko mwaje mufite ibyo mushaka mwakwihaye ibyo mushaka ariko mukatubisa.</s></text>
+        <text langid="eng"><s>I told them that I didn't have any money as they kept asking for it. So I said to them, why don't you take whatever you want and leave us in peace, it is clear that you came for a purpose.</s></text>
+      </align></unit>
+      <unit time="00:13:16:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko bafata ibibabangukiye baragenda barangije baravuga ngo yemwe twari tuje kwishakira ibintu ngo ababica bari inyuma.a</s></text>
+        <text langid="eng"><s>So they took whatever they could manage as they were going away and said that they were only there looking for what to take but those who were going to kill us where on their way.</s></text>
+      </align></unit>
+      <unit time="00:13:28:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Bahita bagenda bamaze kugenda bimaze kuba hafi saa tatu abantu bo kugasozi ka batutsi abagore babo bose tubona baramanutse baje iwacu.</s></text>
+        <text langid="eng"><s>They went away and then around 9h we saw the wives of all the Tutsis on one of the hills coming towards our house.</s></text>
+      </align></unit>
+      <unit time="00:13:43:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Twari dufite urugo runini cyane ndababwira nti se ko muje hano muziko hano ariho ibintu bicikira bwa mbere nitwe batwaye mu byitso murajya he.</s></text>
+        <text langid="eng"><s>We had a big compound, so I asked them why they were coming at our home when it was the first place where they look, we are the ones they arrested first as spies, why did you come here?</s></text>
+      </align></unit>
+      <unit time="00:13:52:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Nitwe babanje bwa mbere bati oya wenda dupfane cyangwa bigenda ukundi ariko turaguma hano.</s></text>
+        <text langid="eng"><s>We were the first ones to be arrested. No, may be we'll die together or something like that but we are not living this place.</s></text>
+      </align></unit>
+      <unit time="00:13:58:28" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubwo abagabo bo bari bataratekereza ibintu byo guhunga tubaye aho ngaho bigeze nko mu ma saa sita saa saba gutyo tubona abantu benshi.</s></text>
+        <text langid="eng"><s>The men had not yet thought about fleeing, so we stayed there and at around one in the afternoon we saw a lot of people.</s></text>
+      </align></unit>
+      <unit time="00:14:09:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Baragenda kugasozi ko hakurya yacu baturutse za remera bafite ibikapu ari benshi turavuga tuti natwe duhunge ariko abagabo barasigara.</s></text>
+        <text langid="eng"><s>Walking on the opposite hill, they were many and coming from Remera with bags, so we said to ourselves that we should also flee, but the men stayed there.</s></text>
+      </align></unit>
+      <unit time="00:14:19:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Nabasaza banjye babiri n'abahungu bange babiri bakuru basigara murugo ndagenda n'abana batoya abana banjye bane nako gakobwa twareraga nabo badamu twari kumwe.</s></text>
+        <text langid="eng"><s>My two brothers and my two older sons also stayed home and I went with the four remaining children with the girl that we had adopted and the other women that we were together.</s></text>
+      </align></unit>
+      <unit time="00:14:34:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Tugeze hakurya abantu batangira kudukumira batubuza kugenda naho zari interahamwe zihunze inkotanyi i remera.</s></text>
+        <text langid="eng"><s>When we reached a bit farther some people started blocking our way stopping us from moving forward but we didn't know that they were Interahamwe fleeing Inkotanyi from remera.</s></text>
+      </align></unit>
+      <unit time="00:14:43:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuko ntitwari tuzi ibyo aribyo dutangira gutatana bamwe bagaca murutoki abandi bakagenda urumva twavuye murugo ari ku manywa ariko twageze ahantu twashakaga kujya indera ariko biratunanira duhura n'umuntu aratubwira ati hariya hari bariyeri.</s></text>
+        <text langid="eng"><s>But we didn't know what was happening and started separating some going through the banana plantations, others going on along the way. We left home during the day but almost reaching our destination, a place called Ndera it wasn't possible because we met someone who told us that there was a road block just ahead.</s></text>
+      </align></unit>
+      <unit time="00:15:01:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Abandi barakomeza bajya ahantu hitwa ijurwe ngewe n'abana tujya ahantu hari imyumbati twihishamo tubonye imodoka y'abapolisi tubamo tugeze k'umugoroba hatakibona.</s></text>
+        <text langid="eng"><s>The others continued to a place called Jurwe, me and my children we went and hid in a place where there was cassava when we saw a police car, we stayed there until it was dark in the evening.</s></text>
+      </align></unit>
+      <unit time="00:15:17:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Turagenda noneho yanzira y'indera turayireka dufata inzira y'ahantu hitwa i musave wari bwije hatabona dusanga abantu bose niho bahungiye hari hara mashuri.</s></text>
+        <text langid="eng"><s>We went on but decided not to go to Ndera but instead went to a place called Musave, it was dark and we couldn't see but reaching there found that that's where everyone took refuge, there was a school.</s></text>
+      </align></unit>
+      <unit time="00:15:32:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbwira abantu twari turi kumwe nti nanjye nimunyicire ririya shuri nange nigiremo n'abana ndabona hariya huzuye.</s></text>
+        <text langid="eng"><s>So I asked the people I was with to force the door open of one of the classrooms since all the other classrooms seemed full.</s></text>
+      </align></unit>
+      <unit time="00:15:39:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Naho ubwo ndabwira interahamwe nziko ari abantu b'iwacu duturanye ishuri bararyishe turaramo n'abakozi</s></text>
+        <text langid="eng"><s>I didn't know that I was telling Interahamwe, I thought I was telling my people. They forced the door open and we spent the night there with the workers.</s></text>
+      </align></unit>
+      <unit time="00:15:51:10" speaker="Josephine"><align>
+        <text langid="kin"><s>N'abandi bana babaturanyi mu gitondo hafi saa mbiri mbona abandi baratetse nta kintu nari najyanye cyakora nari natwaye isukari yo nari nayibutse jya gutira isafuriya.</s></text>
+        <text langid="eng"><s>With other children that were our neighbours, in the morning around 8 am I saw that the others were cooking but I hadn't taken anything except for sugar that I had remembered, I went to borrow a saucepan.</s></text>
+      </align></unit>
+      <unit time="00:16:06:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Kugirango ntekere abana icyayi mvuye gutira ya safuriya barambwira ngo haje imodoka yuzuye interahamwe</s></text>
+        <text langid="eng"><s>So that I can prepare tea for my children, after I had borrowed the saucepan I was told that a car full of Interahamwe was on its way.</s></text>
+      </align></unit>
+      <unit time="00:16:17:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Yasafuriya ndayita noneho nsa nugenda mpambiranya igitenge kuri buri mwana kugirango ntaza kubata munzira.</s></text>
+        <text langid="eng"><s>I threw away the saucepan and started tying a piece of the loincloth that I had on every child so that I won't leave them on the way.</s></text>
+      </align></unit>
+      <unit time="00:16:25:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuberako narimfite souvenir mbi cyane ngewe natakaye mu ishyamba iwacu bahunga muri mirongo itandatu na gatatu.</s></text>
+        <text langid="eng"><s>I had very bad memories because I got lost in the forest when my family was fleeing in 1963.</s></text>
+      </align></unit>
+      <unit time="00:16:31:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntoragurwa n'abantu noneho ngahora numva umwana wange murekuye nawe yatakara ubwo ndabakuruye tugeze imbere gato duhura n'imodoka y'umuhungu w'iwacu ariko nawe yari interahamwe.</s></text>
+        <text langid="eng"><s>I was found by some people, so I felt that if I let go of my child they would also get lost. So I pulled them and when we reached a little bit further we saw a car and inside was a guy form our region but he was an Interahamwe.</s></text>
+      </align></unit>
+      <unit time="00:16:47:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Yari umushoferi w'imodoka ya komini yari aje gutwara umuryango we wari uraho ngaho twari twahararanye.</s></text>
+        <text langid="eng"><s>He was a driver of the commune and was coming to take his family which had also spent the night in the same place with us.</s></text>
+      </align></unit>
+      <unit time="00:16:56:05" speaker="josephine"><align>
+        <text langid="kin"><s>Mbona ndamuzi noneho ndamubwira nti none se nange mwanshyizemo mukantwara n'abana arancira mu maso arambwira ngo urajya hehe se ko akanyu kashobotse ubwo arabapakiye baragiye.</s></text>
+        <text langid="eng"><s>I recognized him and I asked him if he could also take me with my children, he spit in my face and asked me where I was going since it was over for us. He packed his family in the car and left.</s></text>
+      </align></unit>
+      <unit time="00:17:06:05" speaker="josephine"><align>
+        <text langid="kin"><s>Nanjye ndakomeje nkururana n'abana tugenda n'amaguru tugana indera tugeze mu nzira ahantu bita imusave ugiye kugera indera.</s></text>
+        <text langid="eng"><s>So I kept pulling my children behind me as we walked towards Ndera, when we were almost there at a place called Musave.</s></text>
+      </align></unit>
+      <unit time="00:17:16:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Duhura n'imodoka irimo burugumesitiri wa rubungo ari kumwe nundi mugabo wiwacu nawe waruje kureba umuryango we wari uraho ngaho abana twari twararanye.</s></text>
+        <text langid="eng"><s>We saw a car with the head of region of Rubungo and another man that was also from our region who was also coming to see his family which had spent the night in the same place with us.</s></text>
+      </align></unit>
+      <unit time="00:17:26:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Nti abana bagiye nti bababwiye ko maman wabo ariho nti abana bagiye nuko adushyira mu modoka aratujyana atugeza indera kuri paruwasi.</s></text>
+        <text langid="eng"><s>I told him that his children had left; they were told that their mother was alive. So, he put us in the car and took us to Ndera at the Catholic parish.</s></text>
+      </align></unit>
+      <unit time="00:17:40:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Aravuga ati umugabo wawe naba bahungu bawe bari indera kuri paruwasi ngwino mbagushyire turagenda tutaragera kuri paruwasi tugera ahantu hitwaga mugahoromani tuhasanga bariyeri.</s></text>
+        <text langid="eng"><s>He said, your husband and sons are at the Catholic parish let me take you there. We went but before reaching the parish we reached a place called mugahoromani and there was a roadblock.</s></text>
+      </align></unit>
+      <unit time="00:17:52:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Hari hariho abantu baba polisi n'abandi baturage umwe afata icumu agiye kurintera aramubwira ati nurimutera nange ndakurasa baratureka turagenda.</s></text>
+        <text langid="eng"><s>There were policemen and other peasants, one of them got a spear and was ready to throw it at me and the man told him that if he throws it at me he will shoot him, they let us go.</s></text>
+      </align></unit>
+      <unit time="00:18:03:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Tugera kuri paruwasi abandi bari ku iseminari hirya nuko noneho padiri mukuru waho ahita aza aratwakira uwo mupadiri mukuru ubu aba hariya inyamata.</s></text>
+        <text langid="eng"><s>We reached the parish, other people were in the seminary a little bit further, the head priest came and welcomed us, he lives in Nyamata now.</s></text>
+      </align></unit>
+      <unit time="00:18:22:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Yitwa rugengamanzi niwe wari padiri mukuru aratwakira azana yari yabahaye nibyo bateka batetse baratwakiriye baratugaburiye tubonako tubonye ubuhungiro.</s></text>
+        <text langid="eng"><s>He is called Rugengamanzi, he was the head priest. He welcomed us; he had even given them food to cook. So they welcomed us and gave us food and we were comforted that we had got refuge.</s></text>
+      </align></unit>
+      <unit time="00:18:35:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ngewe kuri paruwasi nkumva simpashaka kubera hari umugabo twahoraga duhanganye kuva umugabo wanjye yafungwa mubyitso.</s></text>
+        <text langid="eng"><s>But personally I didn't want to stay at the parish because there was a man that we were not at good terms with since my husband was imprisoned among the spies.</s></text>
+      </align></unit>
+      <unit time="00:18:43:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Umupadiri witwa gakuba yahoraga ampiga ambwira abantu ko ndi ikitso ko turi inyenzi mbese agahora ashakisha ikintu cyatuma hari ncika no mu kiriziya ahari kigatuma n'abantu bangirira nabi.</s></text>
+        <text langid="eng"><s>A priest called Gakuba always looked for me telling people that I was a spy, that we were cockroaches, always looking for a reason that I would stop me from coming to church or cause other people to harm me.</s></text>
+      </align></unit>
+      <unit time="00:18:55:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko noneho mbwira umugabo nti ariko aha hantu ntabwo bahakorotiriye nti kandi dore abantu barimo barahagendagenda nti kandi na gakuba natubona arahadutsinda</s></text>
+        <text langid="eng"><s>So I told my husband that the place had no fence and people were walking in and out at ease and also told him that if Gakuba sees us he will kill us.</s></text>
+      </align></unit>
+      <unit time="00:19:05:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Nti twigire mu iseminari ubwo hari ku itariki ya munani nuko ducunga abandi ku jisho twigira mu iseminari abandi t.basiga aho ngaho ariko byari byegeranye.</s></text>
+        <text langid="eng"><s>So I told him that instead we go to the seminary, it was the 8th. So we made sure nobody saw us and then went to the seminary which was not very far away.</s></text>
+      </align></unit>
+      <unit time="00:19:20:16" speaker="Josephine"><align>
+        <text langid="kin"><s>N'abana banjye bose na basaza bange bose turagenda tujya mu iseminari turaharaye hari ahantu hari isale twicaye turaye dusenga mbega twabonaga ibintu bitameze neza.</s></text>
+        <text langid="eng"><s>With all my children and brothers we went to the seminary where we spent the night. There was a hall and we spent the night praying because things were not well.</s></text>
+      </align></unit>
+      <unit time="00:19:34:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Bashyiraho gouvernement ya batabazi nibwo twamenyeko tuvanze n'interahamwe baratangira barishima noneho tukumva ntabwo tukivuga ibintu bimwe.</s></text>
+        <text langid="eng"><s>The interim government was put in place, that's when we found out that we were mixed with Interahamwe because they started celebrating, all of a sudden we didn't talk the same language.</s></text>
+      </align></unit>
+      <unit time="00:19:46:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Turara dufite ubwoba buracya mugitondo ku itariki ya cyenda niba guverinoma barayishyizeho ku yamunani niba ari kuya cyenda simbyibuka ariko ni muri iyo minsi ku itarik ya cyenda ku wagatandatu hari mugitondo</s></text>
+        <text langid="eng"><s>We spent the night in a lot of fear, in the morning of the 9th, I don't remember well if the interim government was put in place on the 8th or 9th but it's around that time. So on the morning of the 9th.</s></text>
+      </align></unit>
+      <unit time="00:20:04:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Interahamwe ziraza harabanza haza mbonampeka yigeze kuba minister w'ubutabera araza ambwira abapadiri bo mwiseminari ati ariko ubundi aba Bantu bari hano mwabohereje bagataha ngo ariko ubundi ubu ntabwo mufitemo inyenzi.</s></text>
+        <text langid="eng"><s>Interahamwe came, first a man called mbonampeka who used to be the minister of justice came and said to the priests of the seminary, why don't you let these people go back home? Don't you have cockroaches among them?</s></text>
+      </align></unit>
+      <unit time="00:20:20:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Abapadiri baramubwira bati abantu bari aha bose ni abakirisitu bacu nta nyenzi zirimo kandi ntabwo twabohereza icyo bahunze ntikirarangira.</s></text>
+        <text langid="eng"><s>The priests replied to him that all the people they had there were their Christians and no there were no cockroaches among them and that they can't send the people home since the threat that caused them to seek refuge was still eminent.</s></text>
+      </align></unit>
+      <unit time="00:20:29:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Rwose hariho intambara ati reka bagume aha ngaha ntacyo babaye nibirangira bazataha ati mwanze mwanze kubarekure ati se mwabaretse ko tubaha abasirikare bo kubarinda.</s></text>
+        <text langid="eng"><s>There is still a war going on out there, let them stay here they are ok when its all over they will go back home. So you don't want to let them go? Let them go and we will give them soldiers to protect them, mbonapeka said.</s></text>
+      </align></unit>
+      <unit time="00:20:44:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Baravuga bati ariko abo Bantu bo kubarinda ntabwo bajya barinda buri muntu ati nibabarindire ahangaha aho bari.</s></text>
+        <text langid="eng"><s>Those people who are going to protect them cannot protect every single one of them, let them protect them from here.</s></text>
+      </align></unit>
+      <unit time="00:20:47:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbonampeka aragenda hashize akanya gato cyane tubona aragarutse n'abasirikare baba padiri baba barabarashe.</s></text>
+        <text langid="eng"><s>Mbonampeka went away and after a short while he came back with soldiers and shot the priests.</s></text>
+      </align></unit>
+      <unit time="00:20:55:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Bari abapadiri babahutu umwe yari na mwishya wa musenyeri nsengiyumva yitwaga naniya rugasira undi we ananiya ubwo yahise apfa ako kanya.</s></text>
+        <text langid="eng"><s>They were Hutu priests; one was bisop nsegiyumva's nephew, he was called naniya rugasira and the other was ananiya, he died on the spot.</s></text>
+      </align></unit>
+      <unit time="00:21:06:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Uwitwa ndereya nubu ngubu arahari aba hariya muri saint michel baba baguye aho ubwo noneho bahita bavuga ngo uziko ari umuhutu wese nafate irangamuntu ye asohoke.</s></text>
+        <text langid="eng"><s>One who is called andre now lives at St. Michael's, they died on the spot. So they said whoever is Hutu walk out with your identity card.</s></text>
+      </align></unit>
+      <unit time="00:21:20:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho batangira kwivangura umuhutu akerekana indangamuntu nutayerekanye byabaga bigaragara agasohoka.</s></text>
+        <text langid="eng"><s>So people started walking out showing their identity cards and the ones who didn't show it, it was still visible.</s></text>
+      </align></unit>
+      <unit time="00:21:29:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Abashatse kwihishamo babana babasore babatutsi bagiye babarasira ku irembo amasasu atangiye kuvuga ubwo natwe tugumye aho ngaho biratuyobeye abana banjye babiri babahungu bakuru babona abandi barimo barasoka noneho baraza baratureba aho twari twicaye.</s></text>
+        <text langid="eng"><s>Young Tutsi men who tried to hide in the crowd were shot from the gate. We didn't know what to do, two of my older boys so the other people going out and came to see us where we were seated.</s></text>
+      </align></unit>
+      <unit time="00:21:49:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Baradupopera baratubwira ngo tuzahurira mu ijuru bo bakoze icyo gusimbuka igipangu bariruka bagwa inyuma na musaza wange umwe.</s></text>
+        <text langid="eng"><s>They waved goodbye at us and said that we weill meet in heaven, they jumped the fence and ran away with one of my brothers.</s></text>
+      </align></unit>
+      <unit time="00:21:58:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Abandi tuguma aho ngaho ku itari ya cyenda burira ku itariki ya cumi interahamwe zirirwa ziza aho ngaho kureba uko tumeze turi mu masengesho gusa mbese umuntu yumvaga byarangiye.</s></text>
+        <text langid="eng"><s>We stayed there on the 9th, on the 10th the Interahamwe kept coming to see how we were praying, we knew that it was over for us.</s></text>
+      </align></unit>
+      <unit time="00:22:15:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Tutabona aho tunyura hanze hose hari amabariyeri ubwo ku icumi burira kuri cumi nimwe mugitondo mugihe cyo mu ma saa tatu  nibwo interahamwe zaje.</s></text>
+        <text langid="eng"><s>We didn't see any way out, there were roadblocks all over, on the 11th in the morning around 9 am that's when the Interahamwe came.</s></text>
+      </align></unit>
+      <unit time="00:22:29:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Nyinshi cyane baraza baratubaza bati amafaranga ya habyarimana mwayikwije muri inkotanyi muri inyenzi muduhe amafaranga y'umubyeyi wacu.</s></text>
+        <text langid="eng"><s>There were very many and said, you took all of Habyarimana's money when your Inkotanyi and cockroaches, give us our father's money.</s></text>
+      </align></unit>
+      <unit time="00:22:40:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Ati kandi uwo dusangana n'igiceri turamwica ubwo ngwee n'umugabo nta kintu twari dufite uretseko twari twagerekeranyije imyenda gusa nta ni giceri twari dufite.</s></text>
+        <text langid="eng"><s>And whoever we find with even a coin will be killed, me and my husband didn't have anything except wearing a lot of clothes, we didn't have any money on us.</s></text>
+      </align></unit>
+      <unit time="00:22:55:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko abayafite barayatanga ariko ntabwo ariyo bashakaga mubyukuri byari ukwiyenzi barangije bashaka gutera grenade aho ngaho twari turimo.</s></text>
+        <text langid="eng"><s>So whoever had money gave it away, but they didn't really want money they were just toying with us. After that they tried to throw a grenade where we were.</s></text>
+      </align></unit>
+      <unit time="00:23:09:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho grenade haza umukobwa wari wambaye ibintu by'amashara nundi mugabo wari ufite umuheto n'imyambi hari amazina bari bafite.</s></text>
+        <text langid="eng"><s>And then a lady who was wearing clothes with pearls came in with another man who had a bow with arrows, they had a list with some names.</s></text>
+      </align></unit>
+      <unit time="00:23:23:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Hari uwitwa pasteri na rukanika n'umugabo wange na nkundabarashe ariko we ntibamuhamagaraga cyane bahamagaraga pasteri na rukanika.</s></text>
+        <text langid="eng"><s>On the list was a man called pastor, rukanika, nkundabarashe and my husband, but they didn't call out my husband a lot, they called out for pastor and rukanika.</s></text>
+      </align></unit>
+      <unit time="00:23:34:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho hakaba hari undi musore witwaga mutsinzi nawe baramuhigaga noneho bamwambika kuvureri baramutwikira amera nk'umudamu.</s></text>
+        <text langid="eng"><s>There was also another young man called mutsinzi that they were looking for, they put a bead cover on him which made him look like a woman.</s></text>
+      </align></unit>
+      <unit time="00:23:43:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Arangije we abasohokamo ariruka yirutse baramurasa noneho baba babonye umugabo wanjye ngo dore nayanyenzi iruta izindi ngo haguruka baramuhagurutsa.</s></text>
+        <text langid="eng"><s>He tried to run away but they shot him, and then they saw my husband and said, here is the head of all the cockroaches, stand up, they said.</s></text>
+      </align></unit>
+      <unit time="00:23:56:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Bahagurutsa n'abana banjye babakobwa babiri barabasohokana babajyana hanze njyewe ntibambona nari negamye inyuma y'abandi badamu.</s></text>
+        <text langid="eng"><s>They also told my two daughters to stand up and took them outside but they didn't see me because I was behind some other women.</s></text>
+      </align></unit>
+      <unit time="00:24:08:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho ngo abo bana banjye babakobwa ngo bashaka kubaviyora ariko iyo n'inkuru nabwiwe na pasteri kuko yararokotse.</s></text>
+        <text langid="eng"><s>And then they tried to rape my daughters, pastor told me this since he survived.</s></text>
+      </align></unit>
+      <unit time="00:24:14:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Yabarebaga aho yari yihishe noneho barababwira bati se murashaka kudufata murashaka kudukorera ibintu nimutwice n'ubundi tugomba gupfa.</s></text>
+        <text langid="eng"><s>He was watching from where he was hiding. Do you want to rape us and hurt us, go ahead and kill us we are supposed to die anyway, my daughters said.</s></text>
+      </align></unit>
+      <unit time="00:24:23:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho uwo mukobwa abambura imyenda yabo ahita ayambara bari bambaye amapantalo arangije arababwira ngo nimugende murapfira rimwe n'abandi ntawe ugiye gupfusha umwanya ubusa</s></text>
+        <text langid="eng"><s>The woman removed their clothes and wore them, they were wearing trousers. She said to them, go back you will die at the same time with everyone else no one is going to waste anytime.</s></text>
+      </align></unit>
+      <unit time="00:24:34:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Babagarura munzu babagaruye munzu wa mukobwa aba arambonye ati twasohoye umwana twibagirwa nyina ati kuramo iyo myenda barampagarikiye imyenda nyikuramo nta muntu wayinkuragam.</s></text>
+        <text langid="eng"><s>They brought them back inside the house and then the lady saw me and said, we took the child and forgot the mother remove all your clothes. They watched as I removed all my clothes.</s></text>
+      </align></unit>
+      <unit time="00:24:46:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkuramo imyenda yose nsigarana agakanzu nari nambaye ndayimuhereza baragenda nka nyuma y'iminota nk'icumi nibwo bagarutse barasa umugore witwa makurata ni n'umugore wuwo mugabo witwa Pasteur.</s></text>
+        <text langid="eng"><s>I removed all my clothes and gave them to her as they walked away and only remained with a small dress I had on. After around 10 mins that's when they came back and shot a woman called makurata, the wife of pastor.</s></text>
+      </align></unit>
+      <unit time="00:25:04:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Bamurasa amaguru baramubwira ngo nahaguruke kandi bamurashe amaguru bagenda bamukurura natwe baradusohora.</s></text>
+        <text langid="eng"><s>They shot her legs and asked her to stand up when they had shot her legs; they dragged her as they took us all out.</s></text>
+      </align></unit>
+      <unit time="00:25:12:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Mubyukuri buri muntu ngirango ubanza yari afite abantu babiri bo kumwica bari benshi cyane baradusora batujyana mu kibuga baratubwira ngo nituryame.</s></text>
+        <text langid="eng"><s>They were so many I think each one of us had two people to kill him, they took us in a field that was there and asked us to lie down.</s></text>
+      </align></unit>
+      <unit time="00:25:24:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Wanze kuryama bakagutema uhagaze byose byari kimwe turaryamye mperuka uko naryamye naramye mfatanye mukiganza n'umwana wanjye w'umukobwa.</s></text>
+        <text langid="eng"><s>If you didn't lie down they would hack you with a machete, it was all the same whether you lied down or stood, we lied down. My last memory is that I lied down holding hands with my daughter.</s></text>
+      </align></unit>
+      <unit time="00:25:38:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Abandi nabo mbashyira iruhande rwange mbese numvaga batamva iruhande nuko turaryama twubitse inda batwerekaga position turi buryamemo bari bafite ukuntu bari bubigenze.</s></text>
+        <text langid="eng"><s>And I put the others on my side, I didn't want to part with them, they told us to lie down with our stomachs on the ground, they knew how they wanted it done.</s></text>
+      </align></unit>
+      <unit time="00:25:50:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Ikintu mperuka nuko kuryama nongeye kugira ubwenge mbona barantemaguye ubwo badutemye ari nko ku itariki cumi nimwe bigeze nko mu ma saa kumi nebyiri nibwo imvura yaguye numva mbaye nk'umuntu ukangutse</s></text>
+        <text langid="eng"><s>My last memory was lying on the ground I regained consciousness only to see that I was hacked, I think it was on the 11th, at around 6pm is when it started raining and I felt like I was waking up.</s></text>
+      </align></unit>
+      <unit time="00:26:11:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko negutse numva simbasha kweguka umutwe wajanjaguritse amenyo yasohotse mbese nuzuye amaraso ahantu hose ngerageza guhaguruka ndongera nikubita hasi interahamwe ziba ziraje.</s></text>
+        <text langid="eng"><s>But trying to lift my head I couldn't, my head was wide open and my teeth outside, soaked in blood all over. I tried to stand up and then I fell on the ground again, the Interahamwe came back.</s></text>
+      </align></unit>
+      <unit time="00:26:30:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Ziza ziza kureba noneho abagihumeka kuko batemaguye abantu bose noneho bakajya baza bagaterura bagakubita hasi, bagaterura imyenda bagakubita hasi</s></text>
+        <text langid="eng"><s>They came to see who was still breathing, they had hacked everyone so they would just lift someone off the ground throw them back down to see who was still alive.</s></text>
+      </align></unit>
+      <unit time="00:26:43:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko baragenda bigeze nijoro ngenda negura mbona byanga ubwonko bwari bwasohotse nanjye aho batemye bwagombaga kuba bwasohotse.</s></text>
+        <text langid="eng"><s>So they walked around and then at night I tried to lift myself up but it was very hard, I think my brain was out where they had hacked and cut me.</s></text>
+      </align></unit>
+      <unit time="00:27:02:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko ari Imana yankijije kuko aho bantemye ni nkaho bari batemye abandi bose.</s></text>
+        <text langid="eng"><s>It's just that God kept me otherwise they had hacked me just like everyone else.</s></text>
+      </align></unit>
+      <unit time="00:09:06" speaker="josephine"><align>
+        <text langid="kin"><s>Nuko ndavuga nti ubu nabo baraza guhembuka nti jyewe se ko nahembutse kandi bari bantemye.</s></text>
+        <text langid="eng"><s>So I thought to myself that the others will also wake up since I had also woken up after being hacked.</s></text>
+      </align></unit>
+      <unit time="00:27:13:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Nicara aho ngaho muri iyo mirambo ngiye kubona mbona za nterahamwe ziragarutse.</s></text>
+        <text langid="eng"><s>I sat there among all those corpses and then all of a sudden the Interahamwe came back.</s></text>
+      </align></unit>
+      <unit time="00:27:22:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngenda ngiye kumywa amazi igiye kunkubita umupanga indi iramubwira iti ariko se uyu mugore igihe watemeye ntiwahaze.</s></text>
+        <text langid="eng"><s>I went to drink water and then as one of the Interahamwe was about the hack me with a machete another asked him, you have hacked this woman so many times aren't you satisfied?</s></text>
+      </align></unit>
+      <unit time="00:27:35:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo ntago ariho ngo nanabaho ngo azicwe n'agahinda ngo mureke.</s></text>
+        <text langid="eng"><s>She isn't really alive and even if she lives let her die of sorrow, leave her alone.</s></text>
+      </align></unit>
+      <unit time="00:27:40:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Baragenda ndangije mbona umupadiri wari uhagaze imbere ya chapelle ubwo umurambo wuwo nguwo ananiya niho bari bawushyize ahagaze k'umuryango.</s></text>
+        <text langid="eng"><s>They went away and then I saw a priest standing in front of a praying room that's where they had put ananiya's corpse.</s></text>
+      </align></unit>
+      <unit time="00:27:53:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngenda musanga tuziranye ariko aranyoberwa kubera ukuntu nari nabaye ndamubwira nti se wampishe aho ngaho nti ko hano bari kuza kandi ko bari bunyice nabi.</s></text>
+        <text langid="eng"><s>I went towards him, I knew him but he didn't recognize me because of the way I had become, I asked him to hide me inside since the Interahamwe were coming back and they were going to kill me badly.</s></text>
+      </align></unit>
+      <unit time="00:28:04:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Ati naha baravuze ngo baraza mu kanya bankureho ati ahubwo jya hariya muruyuzi.</s></text>
+        <text langid="eng"><s>They have said that they are coming in a short while to kill me go and hide in that garden with fruits, he said.</s></text>
+      </align></unit>
+      <unit time="00:28:09:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Hari jardin yari iri mbere ya chapelle iriho inzuzi nama epinali.</s></text>
+        <text langid="eng"><s>There was a garden that was in front of the praying room that had spinach and some other plants.</s></text>
+      </align></unit>
+      <unit time="00:28:14:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Ninjiramo niba ariwe wantwikiriye uruyuzi ni ari Imana icyo nzicyo nzicyo nuko bagarutse kunshaka ngo bandangize bakambura.</s></text>
+        <text langid="eng"><s>I went there, I don't know if he is the one that covered me with those plants or God but all I know is that they came back looking for me to finish me off and they couldn't find me.</s></text>
+      </align></unit>
+      <unit time="00:28:23:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Bahita bagenda bavuga ngo ariko se wa mugore wari uraha ngo agiye he ngo aciye he se ko adakinguye?</s></text>
+        <text langid="eng"><s>They walked away saying, where is the woman that was here, where did she go since the priest didn't let her in?</s></text>
+      </align></unit>
+      <unit time="00:28:30:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Baranshaka ngo yewe  ngo niba akinariho ngo ntago ejo azagaruka ndara muri urwo ruyuzi bigejeje mugitondo nko mu ma saa kumi nimwe.</s></text>
+        <text langid="eng"><s>They looked for me and then said, even if she is still alive she is not coming back tomorrow. I spent the night there and then in the morning around 5am.</s></text>
+      </align></unit>
+      <unit time="00:28:43:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Nsubira muri ya mirambo ndongera ndeba abana banjye bose nkasanga ubwonko bwabo bwasohotse ndeba umugabo.</s></text>
+        <text langid="eng"><s>I went back and looked at the corpses, looking at my children and I could see their brains, I looked at my husband.</s></text>
+      </align></unit>
+      <unit time="00:28:58:03" speaker="Josephine"><align>
+        <text langid="kin"><s>We nkabura ahantu bamutemye ariko yapfuye yari afatanye nundi mugenzi we mu ntoki bapfuye bafatanye.</s></text>
+        <text langid="eng"><s>I couldn't see where they had hacked him but he died holding another man's hand, they died holding each others hands.</s></text>
+      </align></unit>
+      <unit time="00:29:08:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko ndagaruka nicaramo muri iyo mirambo ndicara ngeze aho ndavuga nti ariko se ubu ndicara.</s></text>
+        <text langid="eng"><s>So I sat among the corpses and then after a while I asked myself what I was doing.</s></text>
+      </align></unit>
+      <unit time="00:29:19:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngeze aho ndavuga nti ariko se ubu ndicara aha  ndahakora iki noneho nzenguruka hahandi hose ngeze aho ndavuga ngo reka basi njye hariya muri toilette.</s></text>
+        <text langid="eng"><s>So I asked myself what I was doing among the corpses and then I walked around and then decided to go in the toilet.</s></text>
+      </align></unit>
+      <unit time="00:29:27:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbe ariho njya noneho naravugaga nti noneho nibaza uretse no kunyica barankorera n'ibindi byose birenze no kwica nkumva mfite ubwoba bwa viol.</s></text>
+        <text langid="eng"><s>Let me hide in the toilet, I was thinking to myself that if they return except killing me they were also going to do other bad things, I was really afraid they were going to rape me.</s></text>
+      </align></unit>
+      <unit time="00:29:37:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko ndagenda njya muri toilette z'abanyeshuri narebye iyanduye cyane aba ariyo njyamo.</s></text>
+        <text langid="eng"><s>So I went in the student's toilets, I looked for the filthiest and went in it.</s></text>
+      </align></unit>
+      <unit time="00:29:44:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Nti ibyo aribyo byose aha nibaza bagasanga handuye ntabwo bahajya mpagarara imbere y'urugi koko niko byagenze.</s></text>
+        <text langid="eng"><s>I said to myself that if they come to use the bathroom they won't go in the dirtiest, I stood behind the door and that is exactly what happened.</s></text>
+      </align></unit>
+      <unit time="00:29:52:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Barakomeje bakajya baza aho ngaho bakaza bakituma ariko yayindi ntibayizemo.</s></text>
+        <text langid="eng"><s>They kept coming to use the toilets but they didn't enter in the one I was in.</s></text>
+      </align></unit>
+      <unit time="00:29:56:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho hashize iminsi nk'itatu bagendaga basubira muntumbi ariko bareba niba nta warokotse.</s></text>
+        <text langid="eng"><s>After around three days they were still going through the bodies checking if there were no survivors.</s></text>
+      </align></unit>
+      <unit time="00:30:06:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Hashize nk'iminsi nk'itatu nibwo mbonampeka yazanaga essence arabarundanya barabatwika nkumva barabivuga ndaho muri toilette.</s></text>
+        <text langid="eng"><s>After three days is when mbonampeka brought fuel, piled up all the corpses and then burnt them, I heard them saying it from the toilet.</s></text>
+      </align></unit>
+      <unit time="00:30:17:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Bararundanya baratwika bacukura aho ngaho imbere ya chapelle babashyiramo barenzaho itaka baragenda.</s></text>
+        <text langid="eng"><s>They piled and burnt them and then dug a hole in front of the praying room and threw them in and then covered it and left.</s></text>
+      </align></unit>
+      <unit time="00:30:28:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ubwo nkajya mvuga nti wenda hari umwana wanjye uriho nkuko nanjye ndiho kuko ukuntu bari bangize ntago nagombaga kuba ndiho.</s></text>
+        <text langid="eng"><s>But I kept saying to myself that may be one my children was alive just like I was, because the way they had made me I wasn't meant to be alive.</s></text>
+      </align></unit>
+      <unit time="00:30:36:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubundi nkavuga nti ba bana banjye buriya birukanse bo hari uwarokotse mbese nihishaga mvuga ngo hari uwarokotse.</s></text>
+        <text langid="eng"><s>And then I would say that may be my boys who ran away at least there is one who survived, I hid myself because I thought there was a survivor.</s></text>
+      </align></unit>
+      <unit time="00:30:44:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko mbaye aho muri toillete iminsi ibiri itatu nta kintu nywa amaraso yamvuyemo yaravuye yarakamye.</s></text>
+        <text langid="eng"><s>So I stayed in that toilet two three days without drinking anything, I had lost so much blood till there was no more to bleed.</s></text>
+      </align></unit>
+      <unit time="00:30:55:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko k'umunsi wa gatanu nibwo haje umwana wigaga aho ngaho mu iseminari nawe bari baratemye intumbi ziramugwira ariko ntibamutema ariko basa nabamukomeretsa akantu gatoya.</s></text>
+        <text langid="eng"><s>On the fifth day is when a student from that seminary came, they had hacked people and corpses fell on him but they didn't really hack him but he was wounded a little bit.</s></text>
+      </align></unit>
+      <unit time="00:31:08:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Ku kiganza nuko abantu bakoraga aho ngaho mu iseminari baramuhisha bamuhisha mugikoni cyabo bamutwikiriza ibintu ariko abaje gusahura barabiterura.</s></text>
+        <text langid="eng"><s>On the hand, people that worked in the seminary hid him in their kitchen and covered him with some supplies but the people who came to loot took them.</s></text>
+      </align></unit>
+      <unit time="00:31:20:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ntibamubona nibwo yahise aza aho ngaho nari ndi rero muri toilete yumva ndahirita n k'umuntu ugiye gupfa.</s></text>
+        <text langid="eng"><s>But they didn't see him, that's when he came where I was in the toilet and he heard someone breathing faintly like I was going to die.</s></text>
+      </align></unit>
+      <unit time="00:31:30:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Ararunguruka arungurutse arambona niwe watangiye kumpa amazi yo kumywa akajya akoza akantu ku rurimi agatonyanza.</s></text>
+        <text langid="eng"><s>He peeped through and saw me; he is the one who gave me water to drink. He would give me tiny little droplets on my tongue.</s></text>
+      </align></unit>
+      <unit time="00:31:39:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Akambwira ati numywa menshi arakwica tubaye aho ngaho muri toilette haza kuzamo n'abandi bana.</s></text>
+        <text langid="eng"><s>He would say to me that if I drink a lot, the water would kill me. We stayed in that toilet and were joined by other children.</s></text>
+      </align></unit>
+      <unit time="00:31:48:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbega twahavuye turi nk'abantu nka batanu bahaza buhoro buhoro ubwo twabayemo kugeza ku itariki ya 01/05 nibwo baturokoye baragenda umwana umwe waje wigaga mu iseminari nawe wari uturutse iruhanga.</s></text>
+        <text langid="eng"><s>More people kept coming slowly; by the time we left we were around five people. We stayed there until may 1st, that's when they helped us from there; we were also joined by another young boy/ girl who also studied in the seminary.</s></text>
+      </align></unit>
+      <unit time="00:32:14:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Sinzi aho yakuye ikintu niba ari icyuma niba ari urwembe rushaje niwe wanyogoshe imisatsi yarafashe mu bisebe ariko imisatsi kuyikuramo biramunanira.</s></text>
+        <text langid="eng"><s>I don't know where he got a knife or a razor blade, he is the one that shaved me, my hair was stuck in my wounds and he couldn't remove it.</s></text>
+      </align></unit>
+      <unit time="00:32:23:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Abaganga b'inkotanyi nibo bamvuye batangiye kumvurira indera haraboze nange ubwange sinarinziko nzakira cyangwa ngo ni nkira ngo mbe muzima.</s></text>
+        <text langid="eng"><s>The Inkotanyi doctors are the ones that treated my wounds; they started treating me from Ndera. My wounds were rotten and I didn't think that they would heal or even if they healed that I would be normal again.</s></text>
+      </align></unit>
+      <unit time="00:32:35:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko rero baramvuye bageze aho bajyana n'ibyumba niho navuriwe ubwo rero abana banjye bose uko ari batandatu n'umugabo wanjye na basaza banjye n'umugore wa musaza wange.</s></text>
+        <text langid="eng"><s>But they treated me and then they took me to Byumba, that's where I was treated from. So all my six children, my husband, my brothers and my sister-in-law.</s></text>
+      </align></unit>
+      <unit time="00:32:51:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Bose barapfuye ariko muri uko gupfa ntabwo narinziko bose bapfuye numvaga abana babiri bashobora kuba bariho naravugaga nti  ntago bapfuye rwose barirutse.</s></text>
+        <text langid="eng"><s>They are all dead, but I didn't know that they were all dead. I thought that my two sons were alive, I kept saying to myself that they ran away, they are not dead.</s></text>
+      </align></unit>
+      <unit time="00:33:05:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Wenda  buriya babayeho nkajya mpora ndumva bariho ndetse umuntu aza no kumbwira ngo hari umwana wange w'umukobwa uhari.</s></text>
+        <text langid="eng"><s>I kept thinking that maybe they are alive, there is even someone who told me that my daughter was alive.</s></text>
+      </align></unit>
+      <unit time="00:33:14:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndamubwira nti se ari hehe bamwe bati ari ikabuga abandi bati kuri goma mbese yari yarabaye simbizi.</s></text>
+        <text langid="eng"><s>So I asked them, where is she? Some would say kabuga, others would say goma, I didn't really know what to make of it.</s></text>
+      </align></unit>
+      <unit time="00:33:22:21:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko ariko biza kugaragara ko ntabo nyine hanyuma mba ibyumba twagiye ahantu hitwaga niba ari muri social.</s></text>
+        <text langid="eng"><s>But I realized that she was not alive, so I lived in Byumba at a place I think that was called social.</s></text>
+      </align></unit>
+      <unit time="00:33:36:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho musaza wanjye wo kwa maman wacu yari ari ibyumba akora kuri prefecture niwe waje kuhankura aranjyana aramfasha.</s></text>
+        <text langid="eng"><s>So one of my cousin-brother from my mother's side is the one that moved me from there and started helping me.</s></text>
+      </align></unit>
+      <unit time="00:33:47:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ubwo ngubwo tuva indera nabonye ukuntu abana banjye bapfuye ndavuga nti.</s></text>
+        <text langid="eng"><s>But when we were coming from Ndera I saw they way my children had died and said.</s></text>
+      </align></unit>
+      <unit time="00:33:55:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuko hari n'abandi bana barokotse nkavuga nti hari abarokotse wenda barabatwaye nange reka ntware aba babandi.</s></text>
+        <text langid="eng"><s>Maybe someone took my children adopting and helping them, even me let me help some.</s></text>
+      </align></unit>
+      <unit time="00:34:03:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbese  nari narahahamutse numva abana nta mwana ugomba kubabara nuko ubwo nageze ibyumba mfite abana bagera kuri batanu ubwo musaza wange agiye kuntwara.</s></text>
+        <text langid="eng"><s>I had been traumatized I didn't want any child to suffer so I reached Byumba when I had around five children when my cousin-brother was coming to take me.</s></text>
+      </align></unit>
+      <unit time="00:34:15:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Bamwe mbajyana muri orphelinat undi umwe muha umuntu w'umusirikari aragenda amwigirira kadogo.</s></text>
+        <text langid="eng"><s>I took some of them in an orphanage; I gave the other one to a soldier who turned him into a kadogo/ child soldier.</s></text>
+      </align></unit>
+      <unit time="00:34:21:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko intambara irangiye rero ngaruka mu matongo ariko nsanga barahashenye barahamaze hanyuma rero umwana mbereye nyinawabo.</s></text>
+        <text langid="eng"><s>After the war I came back home but they were just ruins, they had destroyed everything, one of my nephews.</s></text>
+      </align></unit>
+      <unit time="00:34:32:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Niwe watubohoreje inzu njyamo n'abandi bana babavandimwe be jyamo turabana.</s></text>
+        <text langid="eng"><s>He is the one that got a a house for us, I went in with some of his siblings.</s></text>
+      </align></unit>
+      <unit time="00:34:40:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Mbabera nyina bambera abana hanyuma baza kubona umuvandimwe wabo abatwara hanze.</s></text>
+        <text langid="eng"><s>I became their mother but they got a relative who took them abroad.</s></text>
+      </align></unit>
+      <unit time="00:34:47:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko sinigeze ncika intege ntago nigeraga numva nabaho nta mwana mfite ibyo byose nabagaho nararyaga kandi nari mukuru nari nshoboye kubishaka.</s></text>
+        <text langid="eng"><s>I never got to a point where I felt discouraged and didn't want to live without a child. I was mature and able to look for what I needed to eat.</s></text>
+      </align></unit>
+      <unit time="00:34:59:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko nkumva umwana atabasha kwishakishiriza icyarya nkumva iteka agomba kubana n'umubyeyi.</s></text>
+        <text langid="eng"><s>I felt that a child wouldn't be able to get what to eat on his/her own and hence always had to live with a parent.</s></text>
+      </align></unit>
+      <unit time="00:35:04:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Ufite ukwamera ni muri ubwo buryo rero nagiye nshaka abana b'imfubyi tukabana ubonye abe akabasanga utabafite akansanga.</s></text>
+        <text langid="eng"><s>That's how I got orphans and took care of them and when they would find their family they would go and stay with them and if not they stay with me.</s></text>
+      </align></unit>
+      <unit time="00:35:21:21" speaker="Martin"><align>
+        <text langid="kin"><s>Aha wambwiyeko igitero cyaje kubica mwari muri indera?</s></text>
+        <text langid="eng"><s>You told me that the people that came to kill you were in Ndera?</s></text>
+      </align></unit>
+      <unit time="00:35:26:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Uuuuuuuuuuuuuuuuu mu iseminari.</s></text>
+        <text langid="eng"><s>Hummmm, at the seminary.</s></text>
+      </align></unit>
+      <unit time="00:35:27:17" speaker="Martin"><align>
+        <text langid="kin"><s>Noneho nareba noneho nareba n'ahantu mwari mutuye biragaragarako harimo akanya aho babiciye izo nterahamwe nizari zivuye aho mwari mutuye cyangwa niza handi?</s></text>
+        <text langid="eng"><s>Looking at where you lived its evident that it's a long distance from where they killed you from. Were those Interahamwe from the region where you lived or from somewhere else?</s></text>
+      </align></unit>
+      <unit time="00:35:39:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Yewe iby'interahamwe rero baraguranaga abi ndera bakajya I kanombe ab'I kanombe bakajya I kanombe nkubwo ngubwo rwose interahamwe zishe aho ngaho mu iseminari urebye nizikanombe.</s></text>
+        <text langid="eng"><s>The Interahamwe would take turns, those from Ndera would go to Kanombe, and those from Kanombe would go to Ndera. The Interahamwe that killed form the seminary must have been from Kanombe.</s></text>
+      </align></unit>
+      <unit time="00:35:52:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Nizi ikanombe zari kumwe n'abasirikari ariko rero nab'iwacu kuko abana banjye bakuru barahunze basubira kumusozi w'iwacu.</s></text>
+        <text langid="eng"><s>Even those from Kanombe were with soldiers, also those from our region, because my eldest sons fled and went back on our hill where we lived.</s></text>
+      </align></unit>
+      <unit time="00:36:04:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Na musaza wange umwe niho baguye,niho baguye ariko ntabwo nari narigeze mbimenya.</s></text>
+        <text langid="eng"><s>With my one brother that's where they died from but I didn't know about it.</s></text>
+      </align></unit>
+      <unit time="00:36:13:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Nahoraga nshakisha muri mirongo icyenda na karindwi niho twagiye mugikorwa cyo gushyingura amagufa yari yandagaye k'umusozi.</s></text>
+        <text langid="eng"><s>I kept looking for them, in 1997 is when we went to bury the remains that had been scattered on our hill.</s></text>
+      </align></unit>
+      <unit time="00:36:20:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndi mubantu bambere bihutiye gushyingura mvuga ngo ndashyingura abana banjye ndashyingura abavandimwe ariko naje gusanga ko ataribo twashyinguraga.</s></text>
+        <text langid="eng"><s>I am among the first people that were eager to bury, saying that I am burying my children and the remains of my relatives, but I later found out that they were not the ones we had buried.</s></text>
+      </align></unit>
+      <unit time="00:36:31:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Turongera na none indi nshuro imwe turongera turashyingura bwa kabiri.</s></text>
+        <text langid="eng"><s>We buried again for the second time.</s></text>
+      </align></unit>
+      <unit time="00:36:36:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Bambwira ngo bari aha naha aho banyeretse amagufa nkagenda gutoragura nta bimenyetso nashakaga nahitaga mvuga nti ubu nibo rwose.</s></text>
+        <text langid="eng"><s>They would tell me that they are in this particular place, wherever they would show me bones I would not look for signs and I would think to myself finally I have got them.</s></text>
+      </align></unit>
+      <unit time="00:36:45:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Ejo bundi mu bihumbi bibiri na gatanu ngirango nibwo twashyinguye hari mukwezi kwa kane.</s></text>
+        <text langid="eng"><s>Recently in April 2005 is when we buried.</s></text>
+      </align></unit>
+      <unit time="00:37:08:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Umuntu aranyemeza ati nihariya noneho rwose ni nange wanabishyinguriye ngwino njye kubaguha ndagenda ndataburura abantu makumyabiri na batatu nabashyinguye ku gisozi.</s></text>
+        <text langid="eng"><s>Someone convinced me that he knew where they were buried saying he was the one who had buried them, lets go I show them to you. I excavated twenty three people and buried them at gisozi.</s></text>
+      </align></unit>
+      <unit time="00:37:22:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Nama sanduka manini cyane n'imisaraba yanditseho ayo mazina yabo nuko ariko biza kugaragara ko yambeshyaga sinzi icyo yaragamije.</s></text>
+        <text langid="eng"><s>They are very big graves with crosses written on their names but I realized that he was lying to me.</s></text>
+      </align></unit>
+      <unit time="00:37:33:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Niba yari abizi cyangwa Atari abizi sinzi ngewe nayobowe ibyo aribyo.</s></text>
+        <text langid="eng"><s>I don't know if he knew what he was doing or not but I was really shocked.</s></text>
+      </align></unit>
+      <unit time="00:37:38:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Mu makuru ya gacaca niho haje umwana wabanaga n'abana banjye bangana niwe wavuze ibyo aribyo ni nawe wavuze uko babataye muri toilette.</s></text>
+        <text langid="eng"><s>n gacaca si where child who knew my children, he/she was there age mate, he/she is the one that clarified and said that they were thrown in a latrine.</s></text>
+      </align></unit>
+      <unit time="00:37:51:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Nibwo babatabururaga mu kwezi kwa cumi tubashyingura mu kwa cumi na biri noneho ari ariko n'ibimenyetso byabo ndabibona n'amarangamuntu.</s></text>
+        <text langid="eng"><s>That's when they were excavated in October and we buried them in December and I saw signs that it was really them, like identity cards.</s></text>
+      </align></unit>
+      <unit time="00:38:02:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Amakarita y'ishuri imyenda yabo uretseko gusa bari barabaye utugufa barashengaguritse.</s></text>
+        <text langid="eng"><s>School cards and their clothes but they were just bones because they had decomposed.</s></text>
+      </align></unit>
+      <unit time="00:38:09:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Nuko tubakura muri toilette ya metero cumi n'esheshatu n'abandi Bantu babajugunyanyemo.</s></text>
+        <text langid="eng"><s>So we got them from a sixteen meter pit latrine with other people that were thrown in with them.</s></text>
+      </align></unit>
+      <unit time="00:38:16:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Binatuma n'abantu bo kumusozi w'iwacu dutaburura abaribo nyabo imibiri yaragaragaraga n'ibyangombwa twashyinguye abantu Magana abiri na mirongo itanu.</s></text>
+        <text langid="eng"><s>And for that cause on our hill we buried two hundred and fifty people knowing exactly who was who because their bodies were visible and their identity cards.</s></text>
+      </align></unit>
+      <unit time="00:38:27:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Twataburuye abantu Magana abiri na mirongo itanu icyo gihe kandi abantu bahariya iwacu baratubeshyaga tugataburura abataribo buri gihe.</s></text>
+        <text langid="eng"><s>That day we excavated two hundred and fifty people, before that people kept lying to us and we would excavate the wrong people.</s></text>
+      </align></unit>
+      <unit time="00:38:31:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Twashyinguye inshuro nyinshi dushyingura abntu batari abacu ariko n'abanyarwanda twashyinguraga.</s></text>
+        <text langid="eng"><s>We buried a lot of times burying people who we were not related to but we were burying Rwandans.</s></text>
+      </align></unit>
+      <unit time="00:38:38:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntabwo tubyicuza uretseko badushinyaguriye bihagije guhora washyinguye wataburuye washyinguye.</s></text>
+        <text langid="eng"><s>We don't regret it but they toyed with us, always excavating and burying.</s></text>
+      </align></unit>
+      <unit time="00:38:45:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ushyingura abataribo.</s></text>
+        <text langid="eng"><s>Burying the wrong people.</s></text>
+      </align></unit>
+      <unit time="00:00:03:14" speaker="Martin"><align>
+        <text langid="kin"><s>Noneho ikintu ngarutse kuri icyo kintu cyo gushyingura incuro nyinshi ushyingura abantu bataribo abantu babarangira abo Bantu n'abantu mwari muturanye?</s></text>
+        <text langid="eng"><s>Let's talk again about burying a lot of times burying the wrong people, the people who were directing you on where to excavate were they your neighbours?</s></text>
+      </align></unit>
+      <unit time="00:00:17:05" speaker="Martin"><align>
+        <text langid="kin"><s>Iyo mwitegereje mubona sinzi ukuntu mwabisobanurira umuntu ngo yaguye aha wenda anakubeshya.</s></text>
+        <text langid="eng"><s>Looking closely, how would someone say that somebody died from a certain place even when they are lying to you?</s></text>
+      </align></unit>
+      <unit time="00:00:27:11" speaker="Martin"><align>
+        <text langid="kin"><s>Abantu babarangiraga n'abantu mwari musanzwe muturanye?</s></text>
+        <text langid="eng"><s>The people who were telling you where to excavate where your neighbours?</s></text>
+      </align></unit>
+      <unit time="00:00:32:20" speaker="Josephine"><align>
+        <text langid="kin"><s>N'abantu twabanaga rwose twari duturanye cyane uwo we wandangiiye akambwira ko yabashyinguye ni numucikacumu.</s></text>
+        <text langid="eng"><s>Yes they were our neighbours; the one who even told me that he had buried my children himself was even a genocide survivor.</s></text>
+      </align></unit>
+      <unit time="00:00:43:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Namubajije icyo yashatse kugeraho dushaka kubipfa ariko ndavuga nti ntabwo ari  ngombwa ko tubipfa.</s></text>
+        <text langid="eng"><s>I asked him why he did and it almost turned us into enemies but then I said to myself that there was no point.</s></text>
+      </align></unit>
+      <unit time="00:00:49:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Ababishe nibo batumye no kumbeshya bibaho iyo njya kuba umuntu w'umugome mba naramukurikiye bigatinda ariko naravuze uwabishe niwe watumye nibi byose bibaho.</s></text>
+        <text langid="eng"><s>The ones who killed them are the ones that caused the lies, had I been a bad person I would have probably had followed him around in anger for a long time but I said to myself that the one who killed them is the cause and root for all this.</s></text>
+      </align></unit>
+      <unit time="00:01:02:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Nti izi ningaruka za jenocide zikomeje kunkurikirana ariko noneho we urumva ko bwari incuro ya kabiri  kandi n'ubwambere naramubwiraga nti ngiye.</s></text>
+        <text langid="eng"><s>I said that these were the consequences of the genocide on me, it was the second time, before I use to tell him that</s></text>
+      </align></unit>
+      <unit time="00:01:11:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngiye kwibuka nta kintu nakoraga nta mubwiye nk'umucikacumu mwenewacu nkamubwira nti uyu munsi nzakora amasengesho yo kwibuka akaza.</s></text>
+        <text langid="eng"><s>I am going to remember, I didn't do anything without telling him as a fellow survivor, telling him that today I am going to pray and remember and he would come.</s></text>
+      </align></unit>
+      <unit time="00:01:21:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho ndamubaza nti ariko se kubera iki ugeze iki gihe cyo utarambwira ko aba bana bashyinguye aho hantu akabwira abantu ko ngo yangaga ko mpahamuka.</s></text>
+        <text langid="eng"><s>I even asked him why he had taken so long without telling me where my children were buried and he said that he didn't want me to get traumatized.</s></text>
+      </align></unit>
+      <unit time="00:01:33:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkamubwira nti se nari guhahamuka nti nubundi mu kwa kane buri tariki cumi n'imwe nkora amasengesho yo kubibuka.</s></text>
+        <text langid="eng"><s>And I told thim that I couldn't get traumatized it was all the same since every 11th of april I would have prayers to remember them.</s></text>
+      </align></unit>
+      <unit time="00:01:40:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuki utaretse ngo mpahamukire kimwe ariko mbashyingure nuko muri gacaca rero uwo mwana abivuze byaho babashyize noneho.</s></text>
+        <text langid="eng"><s>Why didn't you let me get traumatized once and for all but atleast bury them, so in gacaca that child said where they were buried.</s></text>
+      </align></unit>
+      <unit time="00:01:52:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Muhamagaye ngirango uwo mwana niwe umbeshya twari tugiye gutongana nukwitesha agaciro nanga gutongana nawe no guhangana nawe.</s></text>
+        <text langid="eng"><s>I called him and even thought that the child is the one who was lying to me, we almost started arguing but I realized I would be disrespecting myself and didn't want any confrontation with him.</s></text>
+      </align></unit>
+      <unit time="00:02:01:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndamwihorera ndavuga nti ibi byose n'ingaruka zingeraho reka mpangane nabyo nkuko nsanzwe ariko ikindi cyo nuko muri za mirongo cyenda na karindwi.</s></text>
+        <text langid="eng"><s>I ignored him and said that I was just feeling the consequences of the genocide so I decided to fight them they way I normally fight but the other thing is that in 1995.</s></text>
+      </align></unit>
+      <unit time="00:02:12:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Abadutaburuje iyo misozi yose tuyiruka n'abaturanyi ni nababigizemo uruhare mu kubica Atari no kwica abanjye gusa no kwica abantu bo kuri ako gasozi bose.</s></text>
+        <text langid="eng"><s>Those who misled us in excavating all those bodies on the different hills are the ones who participated in killing the not only my people but all the people on that hill.</s></text>
+      </align></unit>
+      <unit time="00:02:23:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubu muri gacaca aho bagenda baburanira niho bagenda babivuga abababonye bakabashinja.</s></text>
+        <text langid="eng"><s>Now in gacaca whenever they go to defend themselves that's when they say it and those who saw them accuse them.</s></text>
+      </align></unit>
+      <unit time="00:02:30:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Nabo ubwabo bakishinja bagashinjanya ariko rero bagaragaje ubugome bukabije n'agashinyaguro gakabije.</s></text>
+        <text langid="eng"><s>They even accuse themselves and each other; they displayed a lot of hate and torture that was just imaginable.</s></text>
+      </align></unit>
+      <unit time="00:02:40:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Gusa gacaca irimo iragenda ibatahu abafunzwe bakarega abatarafunzwe abafunzwe bagashinja abafunguwe.</s></text>
+        <text langid="eng"><s>But gacaca is exposing them all, they are turning on each other, those who are in jail denounce those who were not put in jail and those who are in jail also denounce those who are being released.</s></text>
+      </align></unit>
+      <unit time="00:02:48:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Niko iwacu bimeze.</s></text>
+        <text langid="eng"><s>That's how things are in our region.</s></text>
+      </align></unit>
+      <unit time="00:02:52:03" speaker="Martin"><align>
+        <text langid="kin"><s>Reka ngaruke kuri abo bana abandi bo twumvise ko baguye indera nyuma bakaza no kubatwika ubwo birumvikana........</s></text>
+        <text langid="eng"><s>Lets talk again about the other children who were killed from Ndera and were later burnt, we can tell that...</s></text>
+      </align></unit>
+      <unit time="00:03:02:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Aho bashyinguye rero ngewe niba ari uko nari ngihahamutse cyane muri mirongo cyenda na karindwi nibwo twabakoreye amasengesho yambere.</s></text>
+        <text langid="eng"><s>Where they buried them, I don't if it's because I was still very traumatized in 1997 is when we first said prayers for them.</s></text>
+      </align></unit>
+      <unit time="00:03:12:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ubwo ni nange werekanye aho babashyize hari ikigunda rwose n'amafoto yaho.</s></text>
+        <text langid="eng"><s>I am the one who showed where they were thrown there is a bush even pictures of the place.</s></text>
+      </align></unit>
+      <unit time="00:03:18:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Y'ukuntu nagiye mpufira niki birahari ariko bavuze ngo mutaburure ngewe ndavuga nti oya sinshaka ko mudaburura urebye rero  ntabandi Bantu benshi baharokokeye.</s></text>
+        <text langid="eng"><s>And the way I watered the place but when they said to excavate the bodies I said no, I don't want you to excavate them; they weren't many other people that survived from there.</s></text>
+      </align></unit>
+      <unit time="00:03:28:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Ninge nuwo mwana umwe ubu ari mu busuwisi ubu ari no muri ibuka yahariya yitwa sezari turavuga tuti mwikwirirwa mubataburura rwose baranabatwitse.</s></text>
+        <text langid="eng"><s>It was me and the one boy who is now in Switzerland, he is a member of ibuka there, his name is cesar. We asked them not to excavate them since they had also burnt them.</s></text>
+      </align></unit>
+      <unit time="00:03:40:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Nimuhakore neza hanyuma abapadiri batwemerera kuhubaka urwibutso rwiza ruraho rurahari iteka kuri cumi na rimwe z'ukwa kane tujya kubibuka.</s></text>
+        <text langid="eng"><s>We asked if they could make the place look good and the priests promised us they were going to build a beautiful memorial, its there and every 11th of april we go there to commemorate.</s></text>
+      </align></unit>
+      <unit time="00:03:49:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Tukagira misa nuko ruraho ngaho rwose imbere ya chapelle.</s></text>
+        <text langid="eng"><s>And we have mass and pray, the memorial is just in front of the praying room.</s></text>
+      </align></unit>
+      <unit time="00:03:55:11" speaker="Martin"><align>
+        <text langid="kin"><s>Ugeranije kubantu bake barokotse aho ngaho ni wowe nuwo mwana ndumva n'abantu bake cyane ugereranije n'abantu bari aho ngaho biciye hariya.</s></text>
+        <text langid="eng"><s>If you estimate on the few people who survived from there it's you and that boy, it seems like you are very few compared to all the people that were killed from there.</s></text>
+      </align></unit>
+      <unit time="00:04:08:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Yewe bari nka Magana ni hafi Magana ane urebye kuko amashuri yose yari yuzuye hari n'agasare kari kuzuye gusa abari abahutu baje gusohokamo baragenda ariko ntago aribo bari benshi.</s></text>
+        <text langid="eng"><s>They were in hundreds around four hundred because all the classrooms were full, there was even a hall that was full, the hutus later went out but they were few.</s></text>
+      </align></unit>
+      <unit time="00:04:24:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Abari benshi n'abatutsi bari bahahungiye.</s></text>
+        <text langid="eng"><s>The majority were the Tutsis seeking refuge.</s></text>
+      </align></unit>
+      <unit time="00:04:29:04" speaker="Martin"><align>
+        <text langid="kin"><s>Nukuvuga ko mu Bantu Magana ane bari bahari abarokotsemo ntabwo barenga icumi.</s></text>
+        <text langid="eng"><s>So you mean that in the four hundred seeking refuge the survivors are not more than ten?</s></text>
+      </align></unit>
+      <unit time="00:04:34:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Aho ngaho mu iseminari oya ntabo nuwo mwana sezari nange hari nutundi twana twabanje kugenda twiruka ariko abo tuzi twibara turi babiri.</s></text>
+        <text langid="eng"><s>At the seminary it's just me and cezar, they are some kids who also ran away, but the ones we are sure of and count are me and cezar.</s></text>
+      </align></unit>
+      <unit time="00:04:43:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Muri izo ntumbi nitwe twavuye muri izo ntumbi.</s></text>
+        <text langid="eng"><s>We are the only ones who came out of the corpses.</s></text>
+      </align></unit>
+      <unit time="00:04:50:05" speaker="Martin"><align>
+        <text langid="kin"><s>Ngarutse kuri babana bawe baguye hariya imasoro waba warigeze umenya abantu babishe cyangwa se n'uburyo babishemo wenda uretse no kubata muri toilette?</s></text>
+        <text langid="eng"><s>If we talk about your children that died in Masoro did you get to know who killed them or how they were killed except the fact that they were thrown in the pit latrine?</s></text>
+      </align></unit>
+      <unit time="00:05:02:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Muri gacaca rero barabivuga ariko iyo babivuga bavuga abapfuye mubyukuri n'abazima bahari  mubyukuri nabo babigizemo uruhare cyakora ikigaragara nuko abo base abashijwe ubu ngubu barafashwe na gacaca.</s></text>
+        <text langid="eng"><s>In gacaca they talk about the people who died but even the ones who are there played a major role in it but what is clear is that whoever is involved were arrested because of gacaca.</s></text>
+      </align></unit>
+      <unit time="00:05:18:11" speaker="Martin"><align>
+        <text langid="kin"><s>Usibye hari ikintu cyo babanzaga gutema umuntu bakamuta mu musarane sinzi niba warigeze umenya niba barabataye mu musarani ari bazima cyangwa niba barabanje bakabatemagura.</s></text>
+        <text langid="eng"><s>They normally first hacked people before throwing them in the pits, did you get to know if your children were thrown in the pit alive or after being hacked.</s></text>
+      </align></unit>
+      <unit time="00:05:30:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Umwana wabitubwiyemo amakuru yatubwiye yuko barabatemye umuhungu wange wa kabiri uwo bitaga dede yitwaga jean bosco.</s></text>
+        <text langid="eng"><s>The boy who told us said that they were hacked, my second son, the one they called dede his name was jean bosco.</s></text>
+      </align></unit>
+      <unit time="00:05:43:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Yakundanaga nuwo mwana cyane uwo nguwo wabivuze noneho ngo bagiye kubica uwo mwana yitwa gashirabake ngo aramubwira ati gashiraba?</s></text>
+        <text langid="eng"><s>He was a very good friend of the boy who said it his name is gashirabake, he said that when they were about to kill them he said to him, gashiraba</s></text>
+      </align></unit>
+      <unit time="00:05:51:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Twarabanye turapfuye aho tugiye nta nkweto bambara ati akira izi nkweto ujye uzinyibukiraho.</s></text>
+        <text langid="eng"><s>We've been very good friends and we are going to die; where we are going they don't wear shoes, take my shoes and remember me whenever you look at them.</s></text>
+      </align></unit>
+      <unit time="00:05:58:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Ati kandi uzajye ubivuga.</s></text>
+        <text langid="eng"><s>And please tell the story.</s></text>
+      </align></unit>
+      <unit time="00:06:00:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Ati hanyuma ngo noneho bambwira abari bagiye kubica bati nimube muretse kutwica tubanze dusenge,abana ngo barasenga ngo barangije babata mu musarani.</s></text>
+        <text langid="eng"><s>And then they told those who were about to kill them to wait so that they can first pray, and when they had finished praying they threw them in the pit.</s></text>
+      </align></unit>
+      <unit time="00:06:10:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Niwe waduhayemo ayo makuru.</s></text>
+        <text langid="eng"><s>He is the one who told us all that.</s></text>
+      </align></unit>
+      <unit time="00:06:14:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ngewe ndumva nukuva ngo niba uwo mwana aba yarabashije kuba yarahawe inkweto n'umuhungu wawe nukuvaga ngo nababatemye arabazi.</s></text>
+        <text langid="eng"><s>But personally I think that if that boy was given shoes by your son it means that he even saw the ones who killed them.</s></text>
+      </align></unit>
+      <unit time="00:06:26:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Arabazi mubyukuri we aravuga ngo yahise yiruka ntabwo bemera kuvuga ngo babihagarareho neza.</s></text>
+        <text langid="eng"><s>He knows them but he says that he ran away, they don't agree to say everything clearly.</s></text>
+      </align></unit>
+      <unit time="00:06:33:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo mbese bemeze ikiriho kugirango nabasigaye batabagirira nabi aravuga ati ngewe nahise niruka akavuga ngo nuwamwirukankanye ngo akamukubita inkoni mubitugu.</s></text>
+        <text langid="eng"><s>They don't want to state facts I think of fear that the remaining ones will hurt them. He says that he ran away and says the one who chased him away and hit him with a stick on the shoulders.</s></text>
+      </align></unit>
+      <unit time="00:06:40:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuvuga ngo rero ngo ntago yabonye uwamutemye ariko noneho abandi bakavuga ko ngo batemwe n'umuntu witwaga habari n'umuntu wapfuye.</s></text>
+        <text langid="eng"><s>So he says that he doesn't know who killed them but others say that he was killed by a man called habari, he is dead.</s></text>
+      </align></unit>
+      <unit time="00:06:48:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Akongera bakavuga ngo ni uwitwa sebahire,sebahire nawe yarapfuye ntawe uriho wabatemye ariko bigaragarako abari aho bose barabazi ababatemye.</s></text>
+        <text langid="eng"><s>They also say that they were hacked by a man called sebahire who is also dead, there is noone who killed them who I alive but its clear that the people who are alive know who killed them.</s></text>
+      </align></unit>
+      <unit time="00:06:58:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ntawe ubavuga ngo abyemeze umwana aravuga ati yamaze kuzinkubita ndiruka ntabwo rero yavuga ati nabonye kanaka wenda amuvuze ari aho ngaho nawe yamuhiga sinzi</s></text>
+        <text langid="eng"><s>No one stands on his/her word, the boy says that after he was beaten he ran away, he can't really say that he saw someone kill, may be if he says him and he is there, he would also hunt him down, I don't know.</s></text>
+      </align></unit>
+      <unit time="00:07:09:15" speaker="Josephine"><align>
+        <text langid="kin"><s>We nta nubwo arongera kubura ngo kuko yanafunzwe ari umwana ariko wenda azaburana gacaca niyo izi uko izabigenza ntabwo nge mbizi.</s></text>
+        <text langid="eng"><s>He hasn't even come back to court because he was imprisoned when he was still young but may be he will. Gacaca will deal with it, I personally don't know.</s></text>
+      </align></unit>
+      <unit time="00:07:20:24" speaker="Martin"><align>
+        <text langid="kin"><s>None abantu birumvikana ko abantu bagushizeho ariko hari ikintu ibyo aribyo byose nta muntu ujya wibagirwa umuryango we none twagirango utubwire kumugabo wawe yari muntu ki?</s></text>
+        <text langid="eng"><s>I understand that your whole family died but no one forgets her family, can you please tell us about your husband, what kind of man was he?</s></text>
+      </align></unit>
+      <unit time="00:07:43:22" speaker="Martin"><align>
+        <text langid="kin"><s>Yari ateye ate mu mibanire ye n'abandi Bantu ikintu ujya wumva umwibukiraho udashobora gupfa kwibagirwa?</s></text>
+        <text langid="eng"><s>How did he relate with other people and what is the one thing that you remember about him that you cannot forget?</s></text>
+      </align></unit>
+      <unit time="00:07:52:17" speaker="josephine"><align>
+        <text langid="kin"><s>Nta na kimwe cyatuma mwibagirw ngewe namuvuga se ngo iki kumuvuga ntago bihagije ngirango niriya photo ishora kubikwereka byonyine yari umugabo utuje.</s></text>
+        <text langid="eng"><s>There is no way I can forget him, I don't know how I can describe him I think that picture describes a lot, he was a very calm man.</s></text>
+      </align></unit>
+      <unit time="00:08:11:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Yari umuntu ucisha make ariko ubana n'abantu bose cyane cyane nawe yakundaga abana ngirango ni nayo mpamvu yajyane n'abana.</s></text>
+        <text langid="eng"><s>He was avery humble man who easily related with everyone but especially he loved children, I think that's why he went with our children.</s></text>
+      </align></unit>
+      <unit time="00:08:21:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Be simbizi yari umuntu wumvikana kandi ugira impuhwe cyane kuburyo yashoboraga kwiyibagirwa cyangwa akibagirwa abandi.</s></text>
+        <text langid="eng"><s>He was very easy to relate to and was very merciful; he could easily ignore himselfo or others.</s></text>
+      </align></unit>
+      <unit time="00:08:36:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Niko yari ateye uuuuuuuu yari umuntu ukunda umuryango we cyane ngirango iyo aza kuba umugabo w'igisambo afunguwe mubyitso yari guhita yigendera akanadusiga.</s></text>
+        <text langid="eng"><s>That was his nature, he was a man that really loved his family, I think if he had been greedy when he was released from jail he would have abandoned us.</s></text>
+      </align></unit>
+      <unit time="00:08:50:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko ntago yabigize yakundaga bose nta muntu yangaga yakundaga abantu baciye bugufi abantu babakene.</s></text>
+        <text langid="eng"><s>But he didn't, he loved everyone, he didn't hate anyone, he loved the poor and humble.</s></text>
+      </align></unit>
+      <unit time="00:09:05:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Wasangaga imodoka yacu ariyo itwara ababyeyi bacu hariya kwa muganga umuntu wibukagaga kubona atwaye umugore w'umukene abona agiye kubyara.</s></text>
+        <text langid="eng"><s>Our car is the one that always took all the women at the hospital, he was always careful to take the poor pregnant women at the hospital.</s></text>
+      </align></unit>
+      <unit time="00:09:17:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Akibuka kumutwarira ikintu cyo kumuhembuza amaze kubyara nta wundi wabigiraga yari umugabo mwiza.</s></text>
+        <text langid="eng"><s>And he would also remember to take something to revive them after they had given birth; nobody else remembered he was a really nice man.</s></text>
+      </align></unit>
+      <unit time="00:09:27:22" speaker="Josephine"><align>
+        <text langid="kin"><s>N'abana banjye kandi nuko bari abana bakunda abandi bana bagira urugwiro ntabwo nshobora kubibagirw ahubwo ngerageza kubigana bikananira.</s></text>
+        <text langid="eng"><s>My children were also like that, they loved other kids and were always warm and happy, I can't forget them, instead I try to imitate them and fail.</s></text>
+      </align></unit>
+      <unit time="00:10:06:16" speaker="Martin"><align>
+        <text langid="kin"><s>Sinzi ukuntu nabivuga noneho ngewe ndashaka kuvuga aha ngaha bishe abantu bakumaraho abantu ese ..... birega bakemera n'icyaha baje kukwirega bakemere n'icyaha abo Bantu baje kukwirega wababarira?</s></text>
+        <text langid="eng"><s>I don't know how to say it, but here they killed all your family and finished it, if they came and confessed their fault, would you forgive them?</s></text>
+      </align></unit>
+      <unit time="00:10:35:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Kubabarira hari amagambo abantu bihutisha kuvuga ukabona utazi nibyo aribyo ari wamuntu umanuka akagusanga ari nawe uvuga ngo uramubabariye n'ibintu bikomeye cyane.</s></text>
+        <text langid="eng"><s>To forgive, they are words that people are quick to use but it doesn't even make sense. The person who asks it and you who says that you have forgiven him it's not something easy.</s></text>
+      </align></unit>
+      <unit time="00:10:48:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuko ngewe uko mbona iki gihugu nicy'abanyarwanda bose ntabwo ari icyange ngenyine nta nubwo ari icy'uwacitse ku icumu wenyine ntibinashoboka.</s></text>
+        <text langid="eng"><s>Because personally the way I see this country it belongs to all Rwandans, its not just mine it's not even for only the genocide survivor, it's impossible.</s></text>
+      </align></unit>
+      <unit time="00:11:02:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntabwo icyaha gihanishwa ikindi cyaha cyangwa se ngo ubugome buhanishwe ubundi ngewe ku giti cyange nabwiye Imana ibyo nkora byose nta na kimwe nikoresha.</s></text>
+        <text langid="eng"><s>Evil is not repaid by evil; personally I told God that I can't do anything on my own.</s></text>
+      </align></unit>
+      <unit time="00:11:16:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuko ntacyo nakwishoboza byikoresheje nta nubwo naba nkiriho naba narabaye n'umusazi simbizi ariko ngewe ibyange byose mbiha Imana kuko nubwo kuva muri iyo mirambo ya bana banjye.</s></text>
+        <text langid="eng"><s>I can't manage anything on my own, I don't think I would even be alive, I think I would have gone mad. I surrender everything to God because to be able to get out of all the corpses of my children.</s></text>
+      </align></unit>
+      <unit time="00:11:31:19" speaker="Josephine"><align>
+        <text langid="kin"><s>N'umugabo wange n'abavandimwe n'abatunyi bose nari nsize aho ngaho bagaramye ari intumbi sinarinziko nzabaho.</s></text>
+        <text langid="eng"><s>My husband, relatives and neighbours that were lying there dead, I didn't think I was going to live.</s></text>
+      </align></unit>
+      <unit time="00:11:40:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Nabwiye Imana ko ariyo ibizi ariyo izi impamvu yabyo ikintu rero nasabye Imana kandi yarakimpaye nayibwiyeko niba ari aba bapfuye niba hari abandi bo kubaho izampa gukunda ngakunda nta kindi kintu ndeba kuruhande.</s></text>
+        <text langid="eng"><s>I told God that He is the one in control and knows why everything happened. I asked God for something and he gave it to me, I told God that those who died and those who are alive, I asked that He may give me the power to love without focusing on anything else.</s></text>
+      </align></unit>
+      <unit time="00:12:01:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkakunda urukundo rwayo kuko urwange sinarubona bivuga rero ngo ngewe umuntu ansanze akabwira ati nakugiriye nabi naguha n'urugero rw'uwo mwana.</s></text>
+        <text langid="eng"><s>To love His love because personally I can't, so which means that if someone comes and tells that they did me wrong, an example is the boy.</s></text>
+      </align></unit>
+      <unit time="00:12:12:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Wavuze ati abana bawe babataye hari sinkubeshya umutima wanjye waramwakiriye,waramwakiriye kuburyo ndamubona nkabona n'umwana wa mwana nabonaga cya gihe.</s></text>
+        <text langid="eng"><s>Who said where my children were thrown, am not lying to you but my heart has accepted him in such a way that when I look at him I see the child I once saw before.</s></text>
+      </align></unit>
+      <unit time="00:12:23:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Noneho nkavuga nti ngewe aho kugirango ndemererwe nasabye Imana kumpa umutima wagutse urimo impuhwe nkazigiirira uwo mbona azikeneye.</s></text>
+        <text langid="eng"><s>So instead of being burdened I asked God to give me a big heart so that I can offer mercy to everyone who needs it.</s></text>
+      </align></unit>
+      <unit time="00:12:38:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Niyo yaba ari umuhutu wa wundi wanyiciye ariko akaza mbona yapfuye.</s></text>
+        <text langid="eng"><s>Even if it's a hutu who killed my family and he comes when he is broken down.</s></text>
+      </align></unit>
+      <unit time="00:12:43:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Akeneye impuhwe kubabarirwa nge namubabarira kuko ari umuntu nge ntabwo nakora ubunyamaswa nkubwe ntabwo rero aringe wabyihaye singiye kukubeshya.</s></text>
+        <text langid="eng"><s>In need of mercy and forgiveness, I would forgive him because he is a human being, I can't do the same atrocities like he did. It's really not by my strength that I can do this, I won't lie to you.</s></text>
+      </align></unit>
+      <unit time="00:12:52:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuko ngewe ubwange ntawe ndiwe nta nicyo mba ndicyo pe ariko kuba Imana yarabonyeko abana banshizeho umubiri ukanshiraho.</s></text>
+        <text langid="eng"><s>Because on my own I am nothing and I would be nothing but the fact that God saw that my children and body were dead.</s></text>
+      </align></unit>
+      <unit time="00:13:04:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkakokoka ngasigara nteye isesemi ikongera ikandema umuntu yumva ashaka kunyegera mbere barampungaga abantu bambonye nyuma ya jenocide ho gato barampungaga.</s></text>
+        <text langid="eng"><s>I was disgusting and he revived me and people want to be with me when before they use to run away from me, people who saw me immediately after the genocide would avoid me.</s></text>
+      </align></unit>
+      <unit time="00:13:17:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntari nteye ishozi n'isesemi nta muntu wanyondoye nta muntu wagize ikintu ankorera ngo avuge ngo nakugiriye ntya.</s></text>
+        <text langid="eng"><s>I was hideous and disgusting and there's no one who really took care of me to say they did it.</s></text>
+      </align></unit>
+      <unit time="00:13:27:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Nubwo hariho uwanyondoye nkuwo musaza wange wanjyanye akanshyira iwe ariko hatarimo imbaraga z'Imana ntabwo byari gushoboka.</s></text>
+        <text langid="eng"><s>Except my cousin-brother but even for him it wouldn't have been possible without God's power.</s></text>
+      </align></unit>
+      <unit time="00:13:33:16" speaker="Josephine"><align>
+        <text langid="kin"><s>Nari gusara bivuga ngo Imana niyo yambungabunze ingira uko ndi uku nange murukundo rwayo ngomba gukora icyo insaba uwaza ansaba imbabazi ambwiza ukuri ngewe nazimuha.</s></text>
+        <text langid="eng"><s>I would have gone mad, but God kept and made me who I am today, so even me in His love I must do what He asks me to do and whoever asks me for forgiveness in truth, I would forgive them.</s></text>
+      </align></unit>
+      <unit time="00:13:49:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko imbabazi za nyirarubeshwa ntazo mfite hari ibintu muri gacaca bavuga ngo nsabye imbabazi abanyarwanda bose.</s></text>
+        <text langid="eng"><s>But not forgiveness out of hypocrisy like they do in gacaca, someone coming and saying that I am asking forgiveness from every Rwandan, I don't have that forgiveness.</s></text>
+      </align></unit>
+      <unit time="00:13:57:12" speaker="Josephine"><align>
+        <text langid="kin"><s>Ziriya sinjya nzitanga kuko mbona aribyo bize gusa kuko ni siroga bafite izo rero ntazo mfite ariko umuntu waza agapfukama akavuga ati  ibintu nakoze akabivuga abikuye k'umutima.</s></text>
+        <text langid="eng"><s>I don't forgive those ones because I see that they are just saying it, it's like a slogan they use I don't have forgiveness for those ones. But if someone comes and kneels before me and says it from the depth of his heart.</s></text>
+      </align></unit>
+      <unit time="00:14:13:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Kandi iyo umuntu avuga ikintu abikuye k'umutima urabibona nazimuha ariko rero ntago bazisaba kuko usaba imbabazi nufite umutima wa kimuntu.</s></text>
+        <text langid="eng"><s>And when someone is saying something from the depth of their heart you can tell and I can forgive them, but they don't ask for forgiveness because someone asks for forgiveness is someone with a human heart.</s></text>
+      </align></unit>
+      <unit time="00:14:22:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Ufite ubu muntu aragusanga kuko aba abona uri umuntu iyo atagusanze rero aba abona ukiri cya kindi ya kwitaga cya gihe.</s></text>
+        <text langid="eng"><s>Someone with humanity in them comes close to you because he sees that you are human, whe he doesn't it's because he thinks that you are still the thing that he called you before.</s></text>
+      </align></unit>
+      <unit time="00:14:31:03" speaker="Josephine"><align>
+        <text langid="kin"><s>N'ubundi batwambuye ubumuntu batwita inyenzi batwita ibyo ntazi batwita ibiki nubu aracyabimbonamo ariko uwaza akanyegera ngewe nazimuha pe.</s></text>
+        <text langid="eng"><s>They dehumanized us by calling us cockroaches and other horrible names so I think they still see that in us, so whoever comes close to me, I would forgive them.</s></text>
+      </align></unit>
+      <unit time="00:14:44:03" speaker="Martin"><align>
+        <text langid="kin"><s>Noneho nyuma yo kumva ibintu bikomeye waciyemo urumva kuroka mu Bantu bangana kuriya noneho ukaza no kugira n'ikibazo umuryango wawe wose ukagushiraho.</s></text>
+        <text langid="eng"><s>After hearing the difficult things that you went through, surviving among all those people and your family being dead.</s></text>
+      </align></unit>
+      <unit time="00:15:02:19" speaker="Martin"><align>
+        <text langid="kin"><s>Ubu muri iki gihe sinzi navuga nti se murebwayire Josephine ubu muri iki gihe n'umuntu umeze ute? N'umuntu ufite ibyiringo nubwo abantu bamushizeho mbese nyuma ya jenocide.</s></text>
+        <text langid="eng"><s>Nowadays how can I describe murebwayire Josephine, what kind of person is she even though her whole family died, is she someone with hope even though her whole family died in the genocide?</s></text>
+      </align></unit>
+      <unit time="00:15:18:07" speaker="Martin"><align>
+        <text langid="kin"><s>Wadusobanurira mbese muri wowe wumva umeze ute ntabwo mbyumva?</s></text>
+        <text langid="eng"><s>Please tell us, how do you feel deep inside because I don't understand?</s></text>
+      </align></unit>
+      <unit time="00:15:24:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Erega ntabwo byumvikana mu bwenge bwa muntu n'indengakamere kandi iyo bavuze indengakamere wumva ko ari ibirenze kamere muntu.</s></text>
+        <text langid="eng"><s>It doesn't make sense humanly speaking, it's beyond our human nature and when they say beyond our human nature, it means it's not human.</s></text>
+      </align></unit>
+      <unit time="00:15:35:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntabwo ibyambayeho mu buzima bwanjye kuva ndi uruhinja kuva ndi umwana kugeza kuri iyi myaka mfite n'indengakamere ariko indengakamere hariho uwaremye kamere.</s></text>
+        <text langid="eng"><s>Everything that happened in my life since I was a child up to now is beyond human nature but there is someone who created human nature.</s></text>
+      </align></unit>
+      <unit time="00:15:48:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Aranshoboza urambajije rero uti ufite byiringiro ki,ibyiringiro mfite nuko ntabereyeho ngewe,ngewe nkanjye ngewe ntabwo nakagombye kuba nkiriho.</s></text>
+        <text langid="eng"><s>He enables me, you asked me if I have hope. My hope is that I am alive; I was not supposed to be alive.</s></text>
+      </align></unit>
+      <unit time="00:16:02:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Nta nicyo naba maze ariko kuberako mbona ko hari abo mbereyeho wenda bansoroma ngomba kubaho kandi nkabaho nk'umuntu ufite ibyo nshinzwe ngakora nk'umuntu ufite inshingano.</s></text>
+        <text langid="eng"><s>I wouldn't even be of any use but because I see that I am living for some people who reap from me I must live and live like someone who is responsible, work like someone with responsibilities.</s></text>
+      </align></unit>
+      <unit time="00:16:17:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Kandi izo nshingano nta nubwo narinziko nzazigira nari napfuye ndazuka nukuvaga ngo muri uko kuzuka nazutse ndi undi wundi utari wa wundi.</s></text>
+        <text langid="eng"><s>I didn't think I would have those responsibilities, it means that I had died and resurrected. In resurrecting I resurrected a new being not the same person.</s></text>
+      </align></unit>
+      <unit time="00:16:29:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Nakagombye rero kwemera uko njya nkunda kubwira abantu nti Josephine yarapfuye habaho tante.</s></text>
+        <text langid="eng"><s>So I have to accept the way I always tell people that Josephine died and aunty lived.</s></text>
+      </align></unit>
+      <unit time="00:16:42:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuko ubu nitwa tante w'abana bose kuko umwana unsanze afite ikibazo mbasha kugikemura ndagikemura.</s></text>
+        <text langid="eng"><s>Because now I am called aunty of all the children, any child who comes to me with a problem that I can fix, I fix it.</s></text>
+      </align></unit>
+      <unit time="00:16:50:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkamuhumuriza nkamwumvisha ko agomba kubaho nka mutera imbaraga numva rero narasigariye kuba tante w'abana bose.</s></text>
+        <text langid="eng"><s>To confort and convince that that child must live and encourage him/her, so I think I was left behind so that I may be an aunty to all the children.</s></text>
+      </align></unit>
+      <unit time="00:16:46:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Umwana unsanze afite ikibazo nshobora kugikemura ndagikemura nkamuhumuriza nkamwumvisha ko agomba kubaho.</s></text>
+        <text langid="eng"><s>A child who comes to me with a problem that I can fix, I fix it and confort them and convince him that they must live.</s></text>
+      </align></unit>
+      <unit time="00:16:53:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkamuremesha kandi nkamutera imbaraga numva rero narasigariye kuba maman w'abana badafite banyina.</s></text>
+        <text langid="eng"><s>I encourage and strengthen them, I feel like I was left behind so that I can be a mother to all children without mothers.</s></text>
+      </align></unit>
+      <unit time="00:16:59:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Ntabwo aringombwa ko mba mbatunze murugo rwange ariko hariho uwo mbwira nti ibi nibi ibi nibi nkabona ndamuremesheje ateye intambwe.</s></text>
+        <text langid="eng"><s>It's not a must that I take care of them in my house but they are some I advise on certain issues and they move forward.</s></text>
+      </align></unit>
+      <unit time="00:17:09:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Hari abo mfite hano murugo ubu mfite abana batandatu mfitemo abakobwa babiri mfitemo n'abahungu bane.</s></text>
+        <text langid="eng"><s>They are some that I have here in my house. I have six children, two girls and four boys.</s></text>
+      </align></unit>
+      <unit time="00:17:17:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Harimo abo ntazi iwabo ntazi na se na nyina ntazi naho bavukiye harimo nabo umuryamo harimo na maman  wambyaye ntigeze menya kuberako natakaye ndi umwana muto.</s></text>
+        <text langid="eng"><s>There are some who I don't know their origin, I don't know their father or mother or where they were born from, some are family including my mother I never knew her because I got lost when I was a little child.</s></text>
+      </align></unit>
+      <unit time="00:17:29:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkamubona jenocide irangiye batahutse mu Rwanda abo bose n'inshingano mfite ngomba kuzuza uko nzishoboye.</s></text>
+        <text langid="eng"><s>And only see her after the genocide when they returned from exile, all those are my responsibility to do all I can.</s></text>
+      </align></unit>
+      <unit time="00:17:36:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Ikindi nuko Imana yandokoye imfiteho umugambi imfasha no kuwusohoza ntiyankojeje isoni ntiyampinduye umusazi byarashobokaga.</s></text>
+        <text langid="eng"><s>The other thing is that God who kept me has a plan for my life that He helps to fulfill it, he didn't put me to shame, I would have gone crazy, and it was possible.</s></text>
+      </align></unit>
+      <unit time="00:17:49:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Batamye mu mutwe ubwonko ntibwagiye ndatekereza nukuvuga ngo ngomba kubaho nshima Imana ndatekereza nukuvuga ngo rero ngomba kubaho nshima Imana kandi nkora icyo nshoboye.</s></text>
+        <text langid="eng"><s>They hacked me in the head but I didn't loose my mind I can think, it means I must live my life thanking God and doing what I can.</s></text>
+      </align></unit>
+      <unit time="00:17:57:10" speaker="Josephine"><align>
+        <text langid="kin"><s>N'ikintu cya girira abandi akamaro .</s></text>
+        <text langid="eng"><s>It's something that can help others.</s></text>
+      </align></unit>
+      <unit time="00:18:04:12" speaker="Martin"><align>
+        <text langid="kin"><s>Abantu mwari muturanye ahantu mwari mutuye uyu munsi mubanye mute?</s></text>
+        <text langid="eng"><s>How do you relate to the neighbours that you had befor all this, how is your relationship?</s></text>
+      </align></unit>
+      <unit time="00:18:11:06" speaker="Martin"><align>
+        <text langid="kin"><s>Ese nyuma yubu bw'icanyi bwa gukozeho ndetse bukora no kubanyarwanda benshi ubu ubona hashobora kuzongera hakabaho ikintu cyo kubana nta kintu cy'urwikekwe.</s></text>
+        <text langid="eng"><s>After the genocide which affected your life and the life of many rwandans, do you think that there can be normal trustworthy relationships?</s></text>
+      </align></unit>
+      <unit time="00:18:27:03" speaker="Martin"><align>
+        <text langid="kin"><s>Hagati y'abantu bishe n'abiciwe?</s></text>
+        <text langid="eng"><s>Between the killers and victims?</s></text>
+      </align></unit>
+      <unit time="00:18:30:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko urwikekwe sinzi ngo niba ari kadafi wabivuze ngo ujye undinda incuti zange ngo abanzi ndabazi.</s></text>
+        <text langid="eng"><s>About trust I don't know if its kadafi who said that, protect me form my friends because I already know my enemies.</s></text>
+      </align></unit>
+      <unit time="00:18:39:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubundi umuntu murabana ariko Imana yaduhaye ubwenge iduha gushishoza nta mpamvu yo kumuhutaza yagize ibyago mpari namutabara nk'umunyarwanda yagize ibyiza twabisangira.</s></text>
+        <text langid="eng"><s>God gave us the wisdom to think, when you live with someone there is no reason to disturb someone who is going through hard times, if I am able I can help him/her as a rwandan and if they are celebrating I can celebrate with him/her.</s></text>
+      </align></unit>
+      <unit time="00:18:58:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko nka kenga nkagira amakenga kuberako ibyo aribyo byose ntabwo incira ishobora guhinduka inkoko ngo uyirye.</s></text>
+        <text langid="eng"><s>But I have to be careful because there is no way a cobra can turn into a cock and you eat it.</s></text>
+      </align></unit>
+      <unit time="00:19:10:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Nukuvuga ngo niba uziko mu ishyamba harimo inyamaswa ugomba kugenda uzi uko uri buhunge iyo nyamaswa.</s></text>
+        <text langid="eng"><s>It means that if you know that there is an animal or beast in the forest you must walk when your ready to run away from it.</s></text>
+      </align></unit>
+      <unit time="00:19:18:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Ukarigendamo ngewe nuko nakubwira ariko rero abaturanyi turabana ntabwo nzi kuvangura ubwo ngo umuhutu simusuhuza sinzi kugenda ntuka umuntu ngo uriya n'interahamwe.</s></text>
+        <text langid="eng"><s>But I live well with my neighbours I don't how to segregate people saying one is hutu so I won't greet them, or insulting someone that they are Interahamwe.</s></text>
+      </align></unit>
+      <unit time="00:19:34:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Umuntu iyo duhuye duhura mubonamo umuntu hanyuma ikibi kikaza igihe gikorewe nange nkabonako ari kibi ariko ntago njya nigizayo umuntu uwo ariwe wese.</s></text>
+        <text langid="eng"><s>When I see someone I see a human being and I only see evil when that person commits it, but I don't push anybody away.</s></text>
+      </align></unit>
+      <unit time="00:19:43:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Nkumva umutima wanjye ukeneye kwakira buri wese uje awugana yawugana nabi simuhe umwanya.</s></text>
+        <text langid="eng"><s>My heart welcomes everyone who comes to me with good intentions, if you don't then I don't give you my time.</s></text>
+      </align></unit>
+      <unit time="00:19:51:05" speaker="Martin"><align>
+        <text langid="kin"><s>Hari muri jenocide by'umwihariko abantu babadamu hari abantu babadamu benshi bagiye bahura n'ibintu byibibazo usibye no kuba babica n'abana bakabamaraho hari nabagiye bahura n'ingorane bakabaviyora bakabanduza indwara.</s></text>
+        <text langid="eng"><s>In the genocide especially women went through a lot of difficulties, besides killing them and finishing off their children, many were raped and infected with diseases.</s></text>
+      </align></unit>
+      <unit time="00:20:08:00" speaker="Martin"><align>
+        <text langid="kin"><s>Usibye no kubaviyora hari nabagiye bahura n'ibikomere bikomeye kuburyo uyu munsi iyo ugiye kwitegereza usanga nge navuga nti abapfakazi benshi bafite ibibazo.</s></text>
+        <text langid="eng"><s>Besides being raped they went through a lot of fifficulties and problems that personally I think that widows have a lot of problems.</s></text>
+      </align></unit>
+      <unit time="00:20:20:01" speaker="Martin"><align>
+        <text langid="kin"><s>Bituruka kuri jenocide ndetse ubona binakomeye cyane uyu munsi koko nkubungubu umuntu yikoreye umutwaro w'indwara izamwica igihe iki niki.</s></text>
+        <text langid="eng"><s>As a result of the genocide, it is very difficult because you find that someone has a sickness that will kill her at some point.</s></text>
+      </align></unit>
+      <unit time="00:20:30:08" speaker="Martin"><align>
+        <text langid="kin"><s>Udafite uwo mutwaro jenocide yarangiye aguma mu buzima butari bwiza ubukene burakomeza bumumerera nabi aha noneho nagirango nk'umuntu nkawe w'umubyeyi.</s></text>
+        <text langid="eng"><s>If she is not burdened by disease, the genocide ended and she is probably in a lot of poverty, I woulk like you as a woman.</s></text>
+      </align></unit>
+      <unit time="00:20:44:06" speaker="Martin"><align>
+        <text langid="kin"><s>Wagize ikibazo bakakumaraho umuryango icyo nikindi kintu kigikomere giteye ubwoba aha nagirango umpe ishusho y'abapfakazi ba jenocide babayeho ubu bari mungaruka zikomeye cyane.</s></text>
+        <text langid="eng"><s>Who went through the same and lost your whole family which is a very difficult thing to endure, I would like you to paint a picture for us of the genocide widows who are suffering the hard consequences.</s></text>
+      </align></unit>
+      <unit time="00:21:05:16" speaker="Martin"><align>
+        <text langid="kin"><s>Nizo z'uburwayi wababwira iki ese sinzi ukuntu nge navuga.</s></text>
+        <text langid="eng"><s>For example disease, what would you say to them? I don't know how to say it.</s></text>
+      </align></unit>
+      <unit time="00:21:12:04" speaker="Martin"><align>
+        <text langid="kin"><s>Ubuzima bwabo uyu munsi bugeze he? ese bameze bate ese n'abantu ubona uduhe ishusho yabyo yibyo bintu?</s></text>
+        <text langid="eng"><s>How is their life today? How are they doing, please give us an image of their life?</s></text>
+      </align></unit>
+      <unit time="00:21:20:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Ikintu umbajije kirakomeye ubundi ngewe mba no mu muryango w'abapfakazi ba jenocide avega agahozo.</s></text>
+        <text langid="eng"><s>You have just asked me a very difficult question, I am part of a widows' association called avega agahozo.</s></text>
+      </align></unit>
+      <unit time="00:21:27:18" speaker="Josephine"><align>
+        <text langid="kin"><s>Ndi vice presidente wa kabiri ku rwego rw'igihugu ni umuryango twashinze kubera ibibazo abapfakazi bari bafite abapfakazi barimo ingeri nyinshi harimo abafashwe ku ngufu koko barwaye bandujwe sida.</s></text>
+        <text langid="eng"><s>I am the second vice-president on the national level, it's an association that we set up because among widows there are many categories. There are some who were raped and infected with HIV &amp; AIDS.</s></text>
+      </align></unit>
+      <unit time="00:21:44:07" speaker="Josephine"><align>
+        <text langid="kin"><s>Harimo abana babakobwa babyaye abana badashaka harimo abatemaguwe badafite ibice byo kumubiri umwe ugasanga nta kaboko afite.</s></text>
+        <text langid="eng"><s>There are some girls who gave birth to children they didn't want, they are some who were hacked and do not have some limbs, some don't have hands.</s></text>
+      </align></unit>
+      <unit time="00:21:53:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Uwo ijisho ryavuyemo mbese harimo ubumuga butandukanye noneho rero reba aba bantu bafite ubu muga bwo mu mutima.</s></text>
+        <text langid="eng"><s>Some don't have eyes, they are different handicaps and then they are those who are emotionally handicaped.</s></text>
+      </align></unit>
+      <unit time="00:22:04:03" speaker="Josephine"><align>
+        <text langid="kin"><s>N'umubiri badafite aho bataha badafite inzu yo kubamo kenshi na kenshi begamiye aba bahekuye.</s></text>
+        <text langid="eng"><s>And physically they don't have a home, without a house to live in, many times they are next door to the ones who kileed their families and injured them.</s></text>
+      </align></unit>
+      <unit time="00:22:12:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Urumva ko ari agahinda kageretse ku kandi ariko nka association yacu icyo dukora nukubatera ingabo mubitugu tubabwira tuti muhumure.</s></text>
+        <text langid="eng"><s>You understand that its adding more sorrow to an already broken heart, so our associationts goal is to stand by them and confort them telling them not to loose heart.</s></text>
+      </align></unit>
+      <unit time="00:22:24:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuba ukiriho nejo uzabaho tugira amahirwe amahirwe twabonye umushinga ubafasha kubona iriya miti igabanya ubukana bwa sida.</s></text>
+        <text langid="eng"><s>Telling them that the fact that they are still alive that they will continue to live, we are lucky that we got a project that helps them with anti-retro viral medication for HIV &amp; AIDS.</s></text>
+      </align></unit>
+      <unit time="00:22:36:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Abatarapfuye kuko hari benshi barapfuye kuko iriya miti ije vuba kuko hari benshi baducitse.</s></text>
+        <text langid="eng"><s>There are many who died because the medication just started coming in recently, they are many who passed away.</s></text>
+      </align></unit>
+      <unit time="00:22:42:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko iramira n'abasigaye bakiriho umushinga wa sidipi duterwamo inkunga urebye na madamu wa perezida wa repuburika muri pakifa.</s></text>
+        <text langid="eng"><s>The medicine helps those who are still alive, the CDP project that supports us and the first lady through PACFA.</s></text>
+      </align></unit>
+      <unit time="00:22:54:10" speaker="Josephine"><align>
+        <text langid="kin"><s>Rwose ndamushima cyane kuko kubera bagenzi be rero uwo muntu abona imiti hakaba ubwo ayibonye adafite icyo arya.</s></text>
+        <text langid="eng"><s>I am very grateful, so a widow can get the medicine and sometimes not have anything to eat.</s></text>
+      </align></unit>
+      <unit time="00:23:09:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Nayo ikamuzonga kubonera ikintu umuntu arya buri munsi n'ibintu bikomeye kuko urabona turi abapfakazi bagenzi babo.</s></text>
+        <text langid="eng"><s>And it can really affect her because the medication is strong, to get food everyday is not easy because you can see that we are widows like them.</s></text>
+      </align></unit>
+      <unit time="00:23:15:19" speaker="Josephine"><align>
+        <text langid="kin"><s>Nta kazi dufite bamwe na bamwe bagafite nabo bafite izindi charges mungo zabo ariko turafashanya turahumurizanya.</s></text>
+        <text langid="eng"><s>We don't have work and those who do sometimes have other responsibilities in their home, but we try to help and confort each other.</s></text>
+      </align></unit>
+      <unit time="00:23:28:04" speaker="Josephine"><align>
+        <text langid="kin"><s>Icyo dukora nubuvugizi urumva mubyukuri benshi babaho bihebye ariko noneho avega ikintu ikora nubujyanama guhumurizanya kwegeranya.</s></text>
+        <text langid="eng"><s>What we mainly do is speak out because most people live in despair, so avega advises, conforts and brings us together.</s></text>
+      </align></unit>
+      <unit time="00:23:48:15" speaker="Josephine"><align>
+        <text langid="kin"><s>Ni nayo objectif y'umuryango wacu kwegerana,guhumurizanya,guhozanya umuntu ukamwumvishako niba ababaye ejo ashobora guhumurizwa niba arwaye ejo ashobora koroherwa.</s></text>
+        <text langid="eng"><s>That is our main objective of our association, to bring us together, confort each other, convincing someone that if they are in pain tomorrow they might be conforted, if they are sick tomorrow they can get better.</s></text>
+      </align></unit>
+      <unit time="00:24:03:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Sida yo nikimungu kiba mu mubiri ariko bimaze kugaragarako itakinica kuwabashije kubona iyo miti.</s></text>
+        <text langid="eng"><s>HIV &amp; AIDS is bad disease in the body but its clear now that it does not even kill when one gets those medication.</s></text>
+      </align></unit>
+      <unit time="00:24:07:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Icyo rero dukora ngewe ibyiringiro mbaha nuko kubabara atariko gupfa ariko nbuvugizi na leta kandi ubwayo undi twebwe icyo tuba twifuza nuko aba bantu batarekurwa.</s></text>
+        <text langid="eng"><s>So what we do is tell them the fact that they are in pain doesn't mean that they die, and we speak up for them to the government, our desire is that these people are not given up on or forgotten.</s></text>
+      </align></unit>
+      <unit time="00:24:26:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Aba bantu bataha aba bantu bahabwa imbabazi mbese usanga biduhungabanya kuko usanga basa naho aribo bitaweho.</s></text>
+        <text langid="eng"><s>These people who are sent home and forgiven really traumatizes us because it seems as though they are the ones who are cared for.</s></text>
+      </align></unit>
+      <unit time="00:24:33:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Twebwe ugasanga ubuvugizi butuvugira yego burahari ariko ugasanga nta mbaraga ubona bushyirwamo kugirango ibibazo birangire yego ntawe uzagarura abantu.</s></text>
+        <text langid="eng"><s>But with us it seems as though those who advocate for us do not have strength or there is no emphasis so that the problems are solved, of course nobody can bring back the people who died.</s></text>
+      </align></unit>
+      <unit time="00:24:44:10" speaker="josephine"><align>
+        <text langid="kin"><s>Ariko ibintu biragaruka inzu iraboneka icyo kurya kiraboneka umwambaro uraboneka imiti iraboneka.</s></text>
+        <text langid="eng"><s>But things can be got back, a house, food, clothes, medicine.</s></text>
+      </align></unit>
+      <unit time="00:24:53:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Mu bake rero bahari ndibazako wenda bafashe abapfakazi cyangwa abacitse ku icumu muri rusange ntabwo ari benshi cyane kuburyo bananirwa kugira icyo bakorerwa.</s></text>
+        <text langid="eng"><s>So among the few that are alive I think if they get the widows or survivors in general, they are not so many so that they can't do something for them.</s></text>
+      </align></unit>
+      <unit time="00:25:03:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo dufashwe dufashwe ikarangira.</s></text>
+        <text langid="eng"><s>If they help us it can be over.</s></text>
+      </align></unit>
+      <unit time="00:25:07:03" speaker="Martin"><align>
+        <text langid="kin"><s>Ariko tumaze imyaka cumi n'itatu jenocide irangiye aha ntawavuga ko uko abantu bari bameze jenocide ikirangira ariko bakimeze.</s></text>
+        <text langid="eng"><s>But it has been thirteen years after the genocide, can we say that people are still the same way they were when the genocide had just ended?</s></text>
+      </align></unit>
+      <unit time="00:25:18:07" speaker="Martin"><align>
+        <text langid="kin"><s>Nyuma y'imyaka cumi nitatu ese mwebwe iyo murebye uko byari bimeze jenocide ikirangira mukongera mukareba uko bimeze nyuma y'imyaka cumi n'itatu.</s></text>
+        <text langid="eng"><s>Thirteen years later, if you compare the way things are now and the way they were immediately after the genocide.</s></text>
+      </align></unit>
+      <unit time="00:25:27:15" speaker="Martin"><align>
+        <text langid="kin"><s>Mubona nibura hari ikintu cyabayeho cyo kuba abantu baragiye bava mu gihirahiro kugeza ubu umuntu yavuga ngo ubuzima burimo buragaruka.</s></text>
+        <text langid="eng"><s>Do you think that atleast people are moving from the state of turmoil and life is being restored?</s></text>
+      </align></unit>
+      <unit time="00:25:40:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Nukuri wenda uretseko ntawarangiriza ibibazo rimwe cyangwa wenda niba tubonye abantu ijana ngo tuvuge ngo abantu barashize ariko ibintu byarahindutse none se iyo ubona abana b'imfubyi barize bakaba bararangije.</s></text>
+        <text langid="eng"><s>It's just that no one can solve all the problems at once, or if we see a hundred people go on to say that everyone died but things have really changed a good example is the orphans that went to school and now have completed their studies it is evidence.</s></text>
+      </align></unit>
+      <unit time="00:25:52:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Bakaba bari muri universte abandi bararangije hari umwana wavuye mu mwobo aziko aziga.</s></text>
+        <text langid="eng"><s>And now they are in university and some have finished, is their a child who came out of a pit thinking that he was going to study.</s></text>
+      </align></unit>
+      <unit time="00:25:56:20" speaker="Josephine"><align>
+        <text langid="kin"><s>Abapfakazi bamwe niba barabashije kubona aho begeka umusaya ubwo uwo muntu yavugako ntacyakozwe.</s></text>
+        <text langid="eng"><s>The widows didn't have a place to stay, can that person say that nothing was done.</s></text>
+      </align></unit>
+      <unit time="00:26:05:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Biba ari bikeya ariko wenda mu mikoro make ariko ntago narahira ngo nsembe ngo ntacyo twakorewe.</s></text>
+        <text langid="eng"><s>It's not enough may be because of limited means but I can't say that they didn't help us.</s></text>
+      </align></unit>
+      <unit time="00:26:11:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Cyarakozwe kuko niba umwana yararokotse ari  muri secondaire ubu akaba ari muri univeriste ejo azabeshaho abandi.</s></text>
+        <text langid="eng"><s>Things have changed for example if a child survived the genocide when he was in secondary and now he is in university, he'll also help others.</s></text>
+      </align></unit>
+      <unit time="00:26:20:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Nabataravayo kandi natwe tuzakomeza dufatanye tuvuge tuvuge icyangombwa nukuvuga kandi  nanone abakiri inyuma ntago navuga ngo wenda nukubirengagiza.</s></text>
+        <text langid="eng"><s>And we will continue to stand together and talk, I don't want us to forget those who are behind us.</s></text>
+      </align></unit>
+      <unit time="00:26:33:10" speaker="Josephine"><align>
+        <text langid="kin"><s>N'abanyarwanda bose muri rusange ntabwo bameze neza nkantswe nuwakuwe mutwe burundu.</s></text>
+        <text langid="eng"><s>Generally rwandans are not doing great now imagine those who were taken out of their own.</s></text>
+      </align></unit>
+      <unit time="00:26:40:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko buhoro buhoro ngewe mbona hari icyahindutse gusa haracyarimo abameze nabi cyane binambabaza iyo numvise bavuga ngo batanga inkunga y'ingoboka ya farg.</s></text>
+        <text langid="eng"><s>But slowly I think something has changed but there's still a long way to go. They problem is that there are some people who are doing very badly and it huts me when I hear that they support FARG.</s></text>
+      </align></unit>
+      <unit time="00:26:53:00" speaker="Josephine"><align>
+        <text langid="kin"><s>Ugasanga baravuga ngo mu mezi atatu ibihumbi icumi hari nutabirya mu mezi icumi icyo kintu rero kirambabaza icyo cyumvise hari nubwo numva ari agashinyaguro.</s></text>
+        <text langid="eng"><s>They say that in three months there are people who do not even it ten thousands francs, I am hurt whenever I hear this, sometimes I think thats its mocking us.</s></text>
+      </align></unit>
+      <unit time="00:27:04:01" speaker="Josephine"><align>
+        <text langid="kin"><s>Bakwiye kwiga uburyo bakareba ukuntu umuntu afashwa koko bihoraho bidahora byirukanka bajya gusaba.</s></text>
+        <text langid="eng"><s>They should look for a way that a person should be supported continually so that they don't keep going to ask for help.</s></text>
+      </align></unit>
+      <unit time="00:27:15:01" speaker="Martin"><align>
+        <text langid="kin"><s>Hari ikintu nendaga kubabaza kijyanye n'ibintu byo kwibuka abantu bacu bagiye bamburwa agaciro muri jenocide.</s></text>
+        <text langid="eng"><s>I wanted to ask you something in line with rememebering our loved ones that were degraded and humiliated in the genocide.</s></text>
+      </align></unit>
+      <unit time="00:27:26:11" speaker="Martin"><align>
+        <text langid="kin"><s>Babajugunya hirya no hino nyuma ya jenocide habayeho kugenda umuntu ashakisha ..... noneho bagashyingurwa noneho nagirango mutubwire mwumva abantu bacu bashyingurwa gute?</s></text>
+        <text langid="eng"><s>They were thrown in different places after the genocide, someone has to go searching... and then they are buried, so I wanted to ask you how do you think our people should be buried?</s></text>
+      </align></unit>
+      <unit time="00:27:46:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Abantu bacu bagiye kubibuka kwiza icyambere nukumenya aho bajugunywe tukabashyingura tukabavana mu myobo.</s></text>
+        <text langid="eng"><s>The first and best way to honor our people is to know where they were thrown and we bury them taking them out of the holes.</s></text>
+      </align></unit>
+      <unit time="00:27:58:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Tukabavana mu misarane tukavuga tuti abantu bo muri aka karere bashyinguye aha tukikora tukajyayo tukahabibukira ariko noneho kwibuka kwiza nukwibuka babantu basizwe na babandi ntibajye kwibuka umugabo w'umuntu.</s></text>
+        <text langid="eng"><s>To take them out of pit latrines, to be able to say that teh people in this district are going to be honored and buried and all of us get ready and go there remember and honor them. But rememeber well is to remember well is to remember the ones that remained behind. Don't go to remember a man</s></text>
+      </align></unit>
+      <unit time="00:28:14:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Umupfakazi we akiraraguza munzu zabamwiciye umupfakazi acyambaye incocero kandi yari akwiye kwambikwa nuwo mugabo ntabwo rero twajya tuvuga ngo tugiye kwibuka uwo mugabo.</s></text>
+        <text langid="eng"><s>When his widow stays in the house of those who killed him, when she is wearing rugs when her husband would have dressed her up well, we can't say that we are going te remeber that man.</s></text>
+      </align></unit>
+      <unit time="00:28:30:14" speaker="Josephine"><align>
+        <text langid="kin"><s>Tutibuka abasizwe nuwo muntu ngo abana babe bakirira batibuka ubasura ubagenderera ngo abigishe ngo mwa bana mwe nimuhumure ejo muzaba muri abagabo cyangwa abagore beza.</s></text>
+        <text langid="eng"><s>Without remembering those he left behind, for the kids to be crying and no one visits them to confort them and teach them that tomorrow they will be men and women.</s></text>
+      </align></unit>
+      <unit time="00:28:42:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngo tubakangurire kwitwara neza no kugira imico myiza nkiyo ababyeyi babo bari kuba babaha tujye ku ma sites memoriaux ariko twibuke na babantu basize na babandi.</s></text>
+        <text langid="eng"><s>We teach them good manners just like their parents would have done and then go the memorial sites and remember all the people who passed away.</s></text>
+      </align></unit>
+      <unit time="00:29:01:19" speaker="Martin"><align>
+        <text langid="kin"><s>Ubundi hari ukuntu njye numvaga ibintu numvaga twakabaye twibuka abantu bacu tukabashyingura neza tugahora tunabibuka.</s></text>
+        <text langid="eng"><s>Personally there is a way I feel that we should remember our people and bury them in such a way that we would always remember them.</s></text>
+      </align></unit>
+      <unit time="00:29:11:17" speaker="Martin"><align>
+        <text langid="kin"><s>Ariko ibyo bintu byombi bikajya bigerageza kujyana nkuko wari ubivuze kuri abo bantu basigaye nta kuntu umuntu yasigara muri ibyo bibazo byo kubura aho aba n'inzara.</s></text>
+        <text langid="eng"><s>But both things work together just like you have said, about the survivors. There is no way that someone can remain in that kind of trouble without knowing where to live and starving.</s></text>
+      </align></unit>
+      <unit time="00:29:22:21" speaker="Martin"><align>
+        <text langid="kin"><s>Ngo buri gihe tujye twibuka kuko ikintu nshaka kubivugira aho kugirango nze kubasaba ko mwagira ikintu mubivugaho.</s></text>
+        <text langid="eng"><s>So that we may always rememebr them, I want that you will make your comment and say what you think.</s></text>
+      </align></unit>
+      <unit time="00:29:32:09" speaker="Martin"><align>
+        <text langid="kin"><s>Ngirango nyuma y'imyaka cumi n'itatu jenocide irangiye ngirango ni mike cyane ariko iyo witegereje uburyo inzibutso zo mu rwanda zifashwe.</s></text>
+        <text langid="eng"><s>I think that after thirteen years that the genocide has ended its not a lot of years, but when you look at the way the memorial sites are maintained.</s></text>
+      </align></unit>
+      <unit time="00:29:42:05" speaker="Martin"><align>
+        <text langid="kin"><s>Ubona ko hatabaye ikintu cyo guhindura uburyo zifashwemo ubona ko hatabaye ikintu cyo guhindura uburyo zifashwemo ubunako nka nyuma y'imyaka makumyabiri zishobora kuba zarangiritse muburyo bugaragara.</s></text>
+        <text langid="eng"><s>It is evident that they are not well taken care of and nothing is done about it, clearly if nothing is changed about the way they are managed then after twenty years they will be in a visibly bad condition.</s></text>
+      </align></unit>
+      <unit time="00:29:53:07" speaker="Martin"><align>
+        <text langid="kin"><s>Noneho ahangaha nkaba nshaka kugirango mvuge ngo kwibuka nibyabande nibyabacitse ku icumu nibyabaturanyi bacu se bo mubindi bihugu?</s></text>
+        <text langid="eng"><s>So here I want to ask, remembering is for who? Is it for the survivors, is for our neighbouring countries?</s></text>
+      </align></unit>
+      <unit time="00:30:06:19" speaker="Martin"><align>
+        <text langid="kin"><s>Kuko kenshi abantu bagira ikintu cyo kwibuka ari uko ukwezi kwa kane kwageze ntabwo harimo akantu ko gushishikara izo site memorial zikaba zakorerwa.</s></text>
+        <text langid="eng"><s>Because many times people remember in april, there is no initiative so that memorial sites are always mIntined and in good condition.</s></text>
+      </align></unit>
+      <unit time="00:30:19:23" speaker="Martin"><align>
+        <text langid="kin"><s>Zigahora zitaweho mukeza igihe runaka sinzi niba mwebwe icyo kintu icyo mwabivugaho?</s></text>
+        <text langid="eng"><s>So that there ar ealways taken care of no matter what, I don't know what you would comment about it?</s></text>
+      </align></unit>
+      <unit time="00:30:26:21" speaker="Josephine"><align>
+        <text langid="kin"><s>Nukuri usanga twibuka mu kwa kane gusa wagirango ubundi tuba twaribagiwe aho bagiye tukabibuka mu kwa kane gusa.</s></text>
+        <text langid="eng"><s>It's true that we only remember in april, you would think that at other times we forget where they went and only remember thrm in april.</s></text>
+      </align></unit>
+      <unit time="00:30:33:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Wagirango tuba twaribagiwe aho bagiye tukavuga tuti nzajya gusura abantu bange mu kwezi kwa kane.</s></text>
+        <text langid="eng"><s>You would think that we forget where they went and say, I will go visit my people in april.</s></text>
+      </align></unit>
+      <unit time="00:30:36:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko uwawe umuhozaho umutima ugahora ushaka kureba aho ari naho yiriwe hariya hantu rero munzibutso arizo mubyaro ari nizi zikomeye.</s></text>
+        <text langid="eng"><s>But your loved one is always on your mind and heart and you always want to know where they spent the day and where they are but those memorials in the provinces and even the strong ones here.</s></text>
+      </align></unit>
+      <unit time="00:30:45:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Ahubwo ngewe imyaka makumyabiri uvuze ndabona ari myinshi kuko hari naho ubona zatantiye no kononekara.</s></text>
+        <text langid="eng"><s>You said twenty years but I think twenty is a lot of time because they are some that are already getting spoiled.</s></text>
+      </align></unit>
+      <unit time="00:30:51:17" speaker="Josephine"><align>
+        <text langid="kin"><s>Hari aharidutse hari ahari ibigunda usanga baragiramo amatungo ntago rero kwibuka ariby'abacitse ku icumu nta nubwo ari ibya leta kuko leta ni abaturage.</s></text>
+        <text langid="eng"><s>Some places are crumbling, in other places there are bushes where animals are taken to eat grass, remebering is not for the genocide survivors only, its not even just for the government, because the government is people.</s></text>
+      </align></unit>
+      <unit time="00:31:01:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Niby'abanyarwanda bose kwibuka simbona rero impamvu umuntu aturanye na site njya ngira urugero rwa hariya ikanombe.</s></text>
+        <text langid="eng"><s>It's for all rwandans to remember, I don't see how some one who is neighbours with a memorial, I always take an example of Kanombe.</s></text>
+      </align></unit>
+      <unit time="00:31:09:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Kuri kaburimbo bigeze kuhashyira cloture y'ibyuma ariko barayibye bayimazeho umuntu ujya kwiba kuri site memorial abagiye gukoresha iki ibyo bintu?</s></text>
+        <text langid="eng"><s>At the main road they had put there a metallic fence but they stole them and finished them off, I don't understand how some one steals from a memorial site, what do you do with those thinks?</s></text>
+      </align></unit>
+      <unit time="00:31:21:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Ukibaza uti uru nurugo rwaba bantu bantu batakireba ku isi ariko n'urugo rwabo.</s></text>
+        <text langid="eng"><s>It is the home of those people, they may not be here on earth but it is there home.</s></text>
+      </align></unit>
+      <unit time="00:31:26:13" speaker="Josephine"><align>
+        <text langid="kin"><s>Ngewe rero nkabona abantu bakagombye kubishyira mu nshingano zabo noneho tukagira n'amahirwe haje inzego zo hasi umudugudu.</s></text>
+        <text langid="eng"><s>I personally think that people should make it their purpose and we are also lucky that now we have lower levels of government the umudugudu/village.</s></text>
+      </align></unit>
+      <unit time="00:31:34:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Imidugudu ukareba site ziri iwabo bakareba bakazitaho bakareba niba ari ahaharurwa hagaharurwa ikigomba gukorwa cyose kigakorwa bakabishyira muri gahunda.</s></text>
+        <text langid="eng"><s>It can watch over the memorial sites in their village and see if there's any work needed to be done, if grass needs to be cut they make sure its cut and if there's anything else they plan for it and follow it up.</s></text>
+      </align></unit>
+      <unit time="00:31:45:05" speaker="Josephine"><align>
+        <text langid="kin"><s>Leta kandi ni abaturage  leta si ministeri si ku karere leta ni ngewe nawe nundi uri aho ngaho twese tugafatanya niko mbyumva.</s></text>
+        <text langid="eng"><s>The government is the citizens, its not a ministry or the district, it is me, you and anybody else who is available and we all work together, that's my opinion.</s></text>
+      </align></unit>
+      <unit time="00:32:00:20" speaker="Martin"><align>
+        <text langid="kin"><s>Kugirango wenda tugana k'umusozo nubwo habayeho jenocide ariko ntabwo tuzayibagirwa.</s></text>
+        <text langid="eng"><s>As we are winding up, even though the genocide took place, we can't forget about it.</s></text>
+      </align></unit>
+      <unit time="00:32:07:24" speaker="Martin"><align>
+        <text langid="kin"><s>Kandi nta nubwo twumva twakwifuzako yakongera kubaho hagati aha rero nagirango nsabe ese mwumva dukurikije ibihe twanyuzemo nibyo twabonye twumva twifuzako bitazongera.</s></text>
+        <text langid="eng"><s>And we don't wish for it to happen again, so I would like to ask you, according to the hard times we went through and saw we don't want it to happen again.</s></text>
+      </align></unit>
+      <unit time="00:32:22:09" speaker="Martin"><align>
+        <text langid="kin"><s>Wumva waraga abana bazavuka ejo hazaza uko b'u rwanda rwejo batigeze baba muri ibi bintu.</s></text>
+        <text langid="eng"><s>What heritage would you like to give to the rwandan children who didn't go throught these things?</s></text>
+      </align></unit>
+      <unit time="00:32:31:21" speaker="Martin"><align>
+        <text langid="kin"><s>Wabaraga kuzabaraga mu rwanda rwaba rumeze rute ugereranije nuru twabayemo?</s></text>
+        <text langid="eng"><s>What kind of rwanda would you like to give to them as a heritage compared to the one you lived in?</s></text>
+      </align></unit>
+      <unit time="00:32:38:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Mubyukuri ahubwo mbona umurage waratangiye gukorwa nuko haba harimo za kidobya iyo ntekereje ko nta mwana ugihagurutswa mu ijuri kubera ubwoko bwe.</s></text>
+        <text langid="eng"><s>I think that the new heritage has started already, there are still problems but I am really glad that no child is asked to stand up in class because of their ethnicity.</s></text>
+      </align></unit>
+      <unit time="00:32:49:02" speaker="Josephine"><align>
+        <text langid="kin"><s>Uko bidakorwa mu ishuri byakagombye no kudakorwa mu ngo z'abantu kuko burya imico mibi yigishirizwa munzu.</s></text>
+        <text langid="eng"><s>The way it's not being done in schools it should also be the same in people's homes because all the ad influence takes place at home behind closed dooors.</s></text>
+      </align></unit>
+      <unit time="00:32:57:08" speaker="Josephine"><align>
+        <text langid="kin"><s>Ku ishyiga niko bakunda kubivuga abaturage ababyeyi nitwe turaga abana bacu ibyiza cyangwa ibibi.</s></text>
+        <text langid="eng"><s>On the cooking stove that's how they always say, we parents are the ones that offer as a heritage good or bad things to our children.</s></text>
+      </align></unit>
+      <unit time="00:33:03:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Mwarimu ahabwa inshingano ahabwa ibyo yigisha ariko ntawe ujya gu controrwa ariko ntawe ujya gukontrola urugo rw'umuntu.</s></text>
+        <text langid="eng"><s>The teacher is given responsibilities and a syllabus to follow but no one controls someone's home.</s></text>
+      </align></unit>
+      <unit time="00:33:11:09" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko rwose mbona ababyeyi mbona dukwiye kwigisha abana gukundana urubyiruko rugasabana ubona ikintu cy'ubusabane bagenda bakora.</s></text>
+        <text langid="eng"><s>So I believe that we parents should teach our children to love each other, the youth needs to fellowship and be together.</s></text>
+      </align></unit>
+      <unit time="00:33:20:11" speaker="Josephine"><align>
+        <text langid="kin"><s>Ubundi politike yacu  ninziza leta y'ubumwe ninziza kuko irashaka ko abantu bose babana ariko iwacu munzu.</s></text>
+        <text langid="eng"><s>Our government's policy is good; the peace government wants us all to live at peace with each other but our homes.</s></text>
+      </align></unit>
+      <unit time="00:33:29:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Niho habi kandi ntawe uzahacontrola ngo amenye ngo barigisha iki ariko buhoro buhoro urabona jenocide bayigishije imyaka mirongo ine ubu tumaze imyaka cumi n'itatu twigisha kubana mu mahoro.</s></text>
+        <text langid="eng"><s>Are the ones with a problem and nobody will control and know what is being taught. The genocide was slowly taught for forty years but we have just spent thirteen years teaching to live at peace.</s></text>
+      </align></unit>
+      <unit time="00:33:40:06" speaker="Josephine"><align>
+        <text langid="kin"><s>Tugize amahoro bigakomeza abana bacu bazabana mu mahoro bakabana mu rwanda rutarimo umwiryane rutarimo nubwoko.</s></text>
+        <text langid="eng"><s>If we continue to live in peace, our children would live together in peaceful Rwanda with no turmoil and ethnicity.</s></text>
+      </align></unit>
+      <unit time="00:33:46:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Ariko harandutse ko abakuru aritwe tubanza kubirandurwamo bwa mbere byibanze ngewe nkifuzako leta yashyiraho umwete yanga igisa n'ijambo ribi ryose riganisha kuri jenocide.</s></text>
+        <text langid="eng"><s>But it starts with us the old and mature ones, we need to uproot it, I would like the government to emphasize refusing and condemning any word that leads to the genocide.</s></text>
+      </align></unit>
+      <unit time="00:34:00:23" speaker="Josephine"><align>
+        <text langid="kin"><s>Urikoze akarihanirwa kumugaragaro ndetse akarusha uwafashe umuhoro umuhoro burya ufatwa nuwabanje kuvuga nuko njye mbyumva abana bacu ntawe mvanguye baragwa kubona amahoro.</s></text>
+        <text langid="eng"><s>And whoever uses it should be punished publically even more than the one that actually used a machete, because a machete is used by someone who first talked about it. Personally I would like our children without differentiating to all have a heritage of peace.</s></text>
+      </align></unit>
+      <unit time="00:34:20:06" speaker="Martin"><align>
+        <text langid="kin"><s>Sinzi niba hari icyo wakongeraho kuri iki kiganiro twari tugiranye wenda dusoza.</s></text>
+        <text langid="eng"><s>I don't know if there's anything you would like to add on as we are concluding our talk?</s></text>
+      </align></unit>
+      <unit time="00:34:27:24" speaker="Josephine"><align>
+        <text langid="kin"><s>Nta kindi uretse gushimira ko mwatekereje kuza kumbaza kandi ibi bintu bikajya niba nawe wagira icyo umbwira niba wumvise bifatika.</s></text>
+        <text langid="eng"><s>There's nothing except to thank you because you thought of me and came to interview me, and for these things to happen, you can also tell me if you think that the things I said make sense.</s></text>
+      </align></unit>
+      <unit time="00:34:40:22" speaker="Josephine"><align>
+        <text langid="kin"><s>Byaba bidafatika ibidafatika ukabikuramo ibifite icyo bimaze ukabirekeramo.</s></text>
+        <text langid="eng"><s>If they make sense then you can keep them and if they don't then you remove them.</s></text>
+      </align></unit>
+      <unit time="00:34:45:03" speaker="Josephine"><align>
+        <text langid="kin"><s>Bikazaba ikitegererezo cy'abandi murakoze.</s></text>
+        <text langid="eng"><s>They can be somebody else's opinion, thank you.</s></text>
+      </align></unit>
+    </data>
+  </file>
+</dataset>

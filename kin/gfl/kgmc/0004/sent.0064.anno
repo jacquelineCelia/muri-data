@@ -1,0 +1,15 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Tubonye inkunga twashaka icyo gukora nicyo kiza cy' ishyirahamwe kandi duhuje . ||| If we ever get support , I am sure that we can find what to do . That 's the good thing about this association ... We would do it together .
+
+% TEXT
+Tubonye inkunga twashaka icyo gukora nicyo kiza cy' ishyirahamwe kandi duhuje .
+
+% ANNO
+Tubonye < inkunga 
+Tubonye < twashaka < (icyo > gukora)
+twashaka < nicyo < kiza < cy' < ishyirahamwe 
+$x :: {twashaka duhuje} :: kandi
+

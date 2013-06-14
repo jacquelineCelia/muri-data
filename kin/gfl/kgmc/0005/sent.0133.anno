@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko ntago yabigize yakundaga bose nta muntu yangaga yakundaga abantu baciye bugufi abantu babakene . ||| But he did n't , he loved everyone , he did n't hate anyone , he loved the poor and humble .
+
+% TEXT
+Ariko ntago yabigize yakundaga bose nta muntu yangaga yakundaga_1 abantu baciye bugufi abantu_1 babakene .
+
+% ANNO
+[Ariko ntago yabigize yakundaga bose nta muntu yangaga yakundaga_1 abantu baciye bugufi abantu_1 babakene]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kuko hari n' abandi bana barokotse nkavuga nti hari abarokotse wenda barabatwaye nange reka ntware aba babandi . ||| Maybe someone took my children adopting and helping them , even me let me help some .
+
+% TEXT
+Kuko hari n' abandi bana barokotse nkavuga nti hari_1 abarokotse wenda barabatwaye nange reka ntware aba babandi .
+
+% ANNO
+[Kuko hari n' abandi bana barokotse nkavuga nti hari_1 abarokotse wenda barabatwaye nange reka ntware aba babandi]

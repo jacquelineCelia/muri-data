@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Icyo gihe ndi kwa muganga nibwo bampimye basanga naranduye . ||| I got tested during my admission period and that 's how I found out I was infected with HIV .
+
+% TEXT
+Icyo gihe ndi kwa muganga nibwo bampimye basanga naranduye .
+
+% ANNO
+(Icyo < gihe) > ndi < kwa < muganga 
+$x :: {ndi bampimye} :: nibwo 
+bampimye < basanga < naranduye

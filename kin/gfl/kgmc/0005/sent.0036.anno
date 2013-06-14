@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Baraza nkinguye nyine turakubitana barambwirango mwishimye se ngo abantu bahanuye indege y' umukuru w' igihugu barihe hehe ? ||| When I opened I saw them and they said that I must be happy and they asked for the people who shot down the president 's plane .
+
+% TEXT
+Baraza nkinguye nyine turakubitana barambwirango mwishimye se ngo abantu bahanuye indege y' umukuru w' igihugu barihe hehe ?
+
+% ANNO
+[Baraza nkinguye nyine turakubitana barambwirango mwishimye se ngo abantu bahanuye indege y' umukuru w' igihugu barihe hehe]

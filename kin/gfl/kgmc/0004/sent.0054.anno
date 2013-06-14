@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+cyangwa mudushakiye nindi milyango uko mwabishobora kuko AVEGA nayo irageragera nta nta kibi ijya idukorera . ||| or you could find other organizations if you can . AVEGA does the best they can and there 's nothing negative that they do .
+
+% TEXT
+cyangwa mudushakiye nindi milyango uko mwabishobora kuko AVEGA nayo irageragera nta nta_1 kibi ijya idukorera .
+
+% ANNO
+cyangwa > mudushakiye < nindi < milyango < uko mwabishobora
+$x :: {mudushakiye irageragera} :: kuko
+(AVEGA < nayo) > irageragera < nta < (nta_1 > kibi) < ijya < idukorera

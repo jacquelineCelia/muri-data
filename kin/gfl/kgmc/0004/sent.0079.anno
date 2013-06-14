@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+ubona bizashira biga bikavaho bigashira ubuzima bukaba bwagenda kubaho kuba burushaho kuba bwiza ? ||| And that people will have a better life ?
+
+% TEXT
+ubona bizashira biga bikavaho bigashira ubuzima bukaba bwagenda kubaho kuba burushaho kuba_1 bwiza ?
+
+% ANNO
+ubona < bizashira < biga < bikavaho < bigashira < ubuzima <  bukaba < bwagenda < kubaho < kuba < burushaho 
+kubaho < kuba_1 < bwiza

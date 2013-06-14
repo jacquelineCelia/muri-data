@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Aha wambwiyeko igitero cyaje kubica mwari muri indera ? ||| You told me that the people that came to kill you were in Ndera ?
+
+% TEXT
+Aha wambwiyeko igitero cyaje kubica mwari muri indera ?
+
+% ANNO
+[Aha wambwiyeko igitero cyaje kubica mwari muri indera]

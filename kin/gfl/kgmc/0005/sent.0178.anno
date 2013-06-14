@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' abanyarwanda bose muri rusange ntabwo bameze neza nkantswe nuwakuwe mutwe burundu . ||| Generally rwandans are not doing great now imagine those who were taken out of their own .
+
+% TEXT
+N' abanyarwanda bose muri rusange ntabwo bameze neza nkantswe nuwakuwe mutwe burundu .
+
+% ANNO
+[N' abanyarwanda bose muri rusange ntabwo bameze neza nkantswe nuwakuwe mutwe burundu]

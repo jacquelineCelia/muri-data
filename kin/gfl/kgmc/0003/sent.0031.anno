@@ -1,0 +1,14 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Hanyuma ariko nyuma Hélène yabashije kugushakira ukuntu yagiye agusova ... ||| And Hélène kept on looking for ways to hide you ...
+
+% TEXT
+Hanyuma ariko nyuma Hélène yabashije kugushakira ukuntu yagiye agusova ...
+
+% ANNO
+$x :: {Hanyuma nyuma} :: ariko
+Hanyuma
+nyuma > Hélène > yabashije < kugushakira < (ukuntu > yagiye < agusova)
+...

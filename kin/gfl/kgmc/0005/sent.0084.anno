@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko mbaye aho muri toillete iminsi ibiri itatu nta kintu nywa amaraso yamvuyemo yaravuye yarakamye . ||| So I stayed in that toilet two three days without drinking anything , I had lost so much blood till there was no more to bleed .
+
+% TEXT
+Nuko mbaye aho muri toillete iminsi ibiri itatu nta kintu nywa amaraso yamvuyemo yaravuye yarakamye .
+
+% ANNO
+[Nuko mbaye aho muri toillete iminsi ibiri itatu nta kintu nywa amaraso yamvuyemo yaravuye yarakamye]

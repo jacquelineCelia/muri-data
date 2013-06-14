@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko tubakura muri toilette ya metero cumi n' esheshatu n' abandi Bantu babajugunyanyemo . ||| So we got them from a sixteen meter pit latrine with other people that were thrown in with them .
+
+% TEXT
+Nuko tubakura muri toilette ya metero cumi n' esheshatu n'_1 abandi Bantu babajugunyanyemo .
+
+% ANNO
+[Nuko tubakura muri toilette ya metero cumi n' esheshatu n'_1 abandi Bantu babajugunyanyemo]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Sinzi niba hari icyo wakongeraho kuri iki kiganiro twari tugiranye wenda dusoza . ||| I do n't know if there 's anything you would like to add on as we are concluding our talk ?
+
+% TEXT
+Sinzi niba hari icyo wakongeraho kuri iki kiganiro twari tugiranye wenda dusoza .
+
+% ANNO
+[Sinzi niba hari icyo wakongeraho kuri iki kiganiro twari tugiranye wenda dusoza]

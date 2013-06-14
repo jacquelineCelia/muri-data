@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko ariko biza kugaragara ko ntabo nyine hanyuma mba ibyumba twagiye ahantu hitwaga niba ari muri social . ||| But I realized that she was not alive , so I lived in Byumba at a place I think that was called social .
+
+% TEXT
+Nuko ariko biza kugaragara ko ntabo nyine hanyuma mba ibyumba twagiye ahantu hitwaga niba ari muri social .
+
+% ANNO
+[Nuko ariko biza kugaragara ko ntabo nyine hanyuma mba ibyumba twagiye ahantu hitwaga niba ari muri social]

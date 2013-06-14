@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma waba warigeze nibura upfa kumenya n' aho babajugunye ngo nibura babe barashyinguwe ? ||| Were you able to know where they threw them at least ? That could have helped burying them ?
+
+% TEXT
+Hanyuma waba warigeze nibura upfa kumenya n' aho babajugunye ngo nibura_1 babe barashyinguwe ?
+
+% ANNO
+Hanyuma > waba < warigeze < nibura 
+warigeze < upfa < kumenya 
+$x :: {warigeze babajugunye} :: n' 
+aho > babajugunye < ngo > nibura_1 < babe < barashyinguwe

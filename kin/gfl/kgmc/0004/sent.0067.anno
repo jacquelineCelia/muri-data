@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ubutumwa nabaha cya n' uku n' ukubabwira ko bakwiriye kwihangana . ||| The message I would tell them is that they should n't give up .
+
+% TEXT
+Ubutumwa nabaha cya n' uku n'_1 ukubabwira ko bakwiriye kwihangana .
+
+% ANNO
+Ubutumwa > nabaha < cya < n' < uku 
+cya < n'_1 < ukubabwira < ko < bakwiriye < kwihangana

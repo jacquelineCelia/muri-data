@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nsubira muri ya mirambo ndongera ndeba abana banjye bose nkasanga ubwonko bwabo bwasohotse ndeba umugabo . ||| I went back and looked at the corpses , looking at my children and I could see their brains , I looked at my husband .
+
+% TEXT
+Nsubira muri ya mirambo ndongera ndeba abana banjye bose nkasanga ubwonko bwabo bwasohotse ndeba_1 umugabo .
+
+% ANNO
+[Nsubira muri ya mirambo ndongera ndeba abana banjye bose nkasanga ubwonko bwabo bwasohotse ndeba_1 umugabo]

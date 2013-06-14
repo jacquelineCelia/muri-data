@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ka kana mwahuriyeyo nako kitwa Mutoni , ese ntabwo mwongeye kubonana ? ||| What about the child called Mutoni you met at the orphanage , did you see her again ?
+
+% TEXT
+Ka kana mwahuriyeyo nako kitwa Mutoni , ese ntabwo mwongeye kubonana ?
+
+% ANNO
+(Ka > kana) > mwahuriyeyo < nako < ((kitwa < Mutoni) < (ese > (ntabwo > mwongeye) < kubonana))

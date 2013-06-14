@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Mbwira , ni ibiki yakubwiye ? ||| Tell me , what did she tell you ?
+
+% TEXT
+Mbwira , ni ibiki yakubwiye ?
+
+% ANNO
+[Mbwira ni ibiki yakubwiye]

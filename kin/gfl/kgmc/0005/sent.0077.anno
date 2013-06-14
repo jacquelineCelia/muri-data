@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko ndagenda njya muri toilette z' abanyeshuri narebye iyanduye cyane aba ariyo njyamo . ||| So I went in the student 's toilets , I looked for the filthiest and went in it .
+
+% TEXT
+Nuko ndagenda njya muri toilette z' abanyeshuri narebye iyanduye cyane aba ariyo njyamo .
+
+% ANNO
+[Nuko ndagenda njya muri toilette z' abanyeshuri narebye iyanduye cyane aba ariyo njyamo]

@@ -1,0 +1,372 @@
+# Source: http://wiki.kinyarwanda.net/wiki/Category:Phrasebook
+::kin Muraho ::eng Hello ::comment when you haven't seen somebody for a couple of days, or when you don't know the person
+::kin Muraho neza ::eng Hello to you as well ::comment common reply
+::kin Amakuru? ::eng How are you? ::comment lit. news?
+::kin Ni meza. ::eng I'm fine.
+::kin Ayawe? ::eng And you? ::comment lit. yours?
+::kin Nanjye ni meza. ::eng I'm fine too.
+::kin Bite? ::eng How are things?
+::kin Ni byiza. ::eng They're good.
+::kin Murakaza neza ::eng Welcome ::comment Sw. karibu commonly used as well
+::kin Mwaramutse ::eng Good morning ::comment lit. how was your night? Mwaramutseho to be more formal
+::kin Mwaramutse neza ::eng Good morning to you as well ::comment common reply
+::kin Igitondo cyiza ::eng Good morning
+::kin Mwiriwe ::eng Good afternoon ::comment lit. how was your day? Generally used after 11am
+::kin Mwiriwe ::eng Good evening ::comment lit. how was your day? Generally used after 11am
+::kin Mwiriwe neza ::eng Good afternoon to you as well ::comment common reply
+::kin Mwiriwe neza ::eng Good evening to you as well ::comment common reply
+::kin Umugoroba mwiza ::eng Good afternoon
+::kin Mwirirwe ::eng Goodbye ::comment in the afternoon
+::kin Muramuke ::eng Good evening
+::kin Muramuke ::eng Good night
+::kin Muramukeho ::eng Good evening
+::kin Muramukeho ::eng Good night
+::kin Ijoro ryiza ::eng Good night
+::kin Umunsi mwiza ::eng Have a nice day
+::kin Murabeho ::eng Goodbye ::comment when you won't see the person for a few days at least
+::kin Murabeho ndatashye ::eng Goodbye I'm going home
+::kin Tuzabonana ejo ::eng See you tomorrow
+::kin Urugendo rwiza ::eng Have a good journey
+::kin Yesu ashimwe ::eng Jesus be praised
+::kin Ashimwe cyane ::eng May he be praised indeed ::comment common reply, lit. very praised
+::kin Imana ishimwe ::eng God be praised
+::kin Ishimwe cyane ::eng May he be praised indeed ::comment common reply, lit. very praised
+::kin Yesu akuzwe ::eng Jesus be glorified
+::kin Iteka ryose ::eng all the time
+::kin Murakoze ::eng Thank you
+::kin Murakoze cyane ::eng Thank you very much
+::kin Urakoze ::eng Thank you ::comment to a friend
+::kin Wakoze ::eng Thank you ::comment when thing was in the immediate past
+::kin Oya ::eng No
+::kin Yego ::eng Yes
+::kin Buretse! ::eng Wait!
+::kin Gerageza! ::eng Try!
+::kin Hagarara! ::eng Stop!
+::kin Ngwino! ::eng Come here!
+::kin Mfasha! ::eng Help me!
+::kin Rekeraho! ::eng Stop, that's enough!
+::kin Tugende! ::eng Lets go!
+::kin Umva! ::eng Listen! ::comment to get someone's attention
+::kin N'ibyo ::eng That's it.
+::kin Ngirango ::eng Maybe
+::kin Nta kibazo ::eng No problem
+::kin Sawa ::eng Okay
+::kin Si cyane ::eng Not very
+::kin Urakire ::eng Get better ::comment said when someone sneezes
+::kin Urakire ::eng Get rich ::comment said when someone sneezes
+::kin Twese ::eng All of us ::comment expected response to urakire
+::kin kuvuga ::eng to speak
+::kin ururimi ::eng language
+::kin ururimi ::eng tongue
+::kin Ikinyarwanda ::eng Kinyarwanda ::synt noun
+::kin Igifaransa ::eng French ::synt noun
+::kin Icyongereza ::eng English ::synt noun
+::kin Igiswayili ::eng Swahili ::synt noun
+::kin Igishinwa ::eng Chinese ::synt noun
+::kin Icyespanyole ::eng Spanish ::synt noun
+::kin Ikidage ::eng German ::synt noun
+::kin Igigereki ::eng Greek ::synt noun
+::kin Ikiholandi ::eng Dutch ::synt noun
+::kin Ilingala ::eng Lingala ::synt noun
+::kin Ikiyapani ::eng Japanese ::synt noun
+::kin Icyarabu ::eng Arabic ::synt noun
+::kin Uvuga icyongereza? ::eng Do you speak English?
+::kin Oya, ariko nvuga igifaransa. ::eng No, but I speak French.
+::kin Uvuga izihe ndimi? ::eng Which languages do you speak?
+::kin Sinzi ikinyarwanda, ariko ndagerageza. ::eng I don't know Kinyarwanda well, but I try.
+::kin umuryango ::eng family
+::kin umuryango ::eng door
+::kin umusaza ::eng elder
+::kin umugabo ::eng man
+::kin umugabo ::eng husband
+::kin umugabo wanjye ::eng my husband
+::kin umugore ::eng woman
+::kin umugore ::eng wife
+::kin umugore wawe ::eng your wife
+::kin umusore ::eng young man
+::kin inkumi ::eng young woman
+::kin umuhungu ::eng boy
+::kin umukobwa ::eng girl
+::kin umwana ::eng child
+::kin uruhinja ::eng baby
+::kin umubyeyi ::eng parent ::comment lit. one who begets
+::kin Papa ::eng father
+::kin Data ::eng our father
+::kin Mama ::eng mother
+::kin umusazawawe ::eng brother
+::kin umushikiwawe ::eng sister
+::kin Sogokuru ::eng grandfather
+::kin Nyogokuru ::eng grandmother
+::kin Amerika ::eng America
+::kin Uburayi ::eng Europe
+::kin Afurika ::eng Africa
+::kin Aziya ::eng Asia
+::kin Ositaraliya ::eng Australia
+::kin U Rwanda ::eng Rwanda
+::kin Ububirigi ::eng Belgium
+::kin Ubudage ::eng Germany
+::kin Ubufaransa ::eng France
+::kin Ubwongereza ::eng England ::comment derived from Fr. 'Anglais'
+::kin Ubushinwa ::eng China
+::kin Ubusuwisi ::eng Switzerland
+::kin Uburundi ::eng Burundi
+::kin Ubugande ::eng Uganda
+::kin Ubutaliyani ::eng Italy
+::kin Ubuholandi ::eng Netherlands
+::kin Uburusiya ::eng Russia
+::kin Amerika ::eng America
+::kin Amerika ::eng USA
+::kin Hisipaniya ::eng Spain
+::kin Irilande ::eng Ireland
+::kin Nijeriya ::eng Nigeria
+::kin Kameruni ::eng Cameroon
+::kin Kongo ::eng Congo
+::kin Uganda ::eng Uganda
+::kin umufaransa ::eng Frenchman
+::kin umwongereza ::eng Englishman
+::kin umusuwisi ::eng Swiss
+::kin umunyamerika ::eng American
+::kin umunyayirilande ::eng Irishman
+::kin umunyarwandakazi ::eng Rwandan female
+::kin umunyayirilandekazi ::eng Irish female
+::kin Aturuka mu Buburundi. ::eng He is from Burundi.
+::kin Nturuka muri Irilande. ::eng I am from Ireland.
+::kin Akomoka mu Buburundi. ::eng He is from Burundi.
+::kin Nkomoka muri Irilande. ::eng I am from Ireland.
+::kin ibiryo ::eng food
+::kin gushonza ::eng to be hungry
+::kin kurya ::eng to eat
+::kin guhara ::eng to be incomplete
+::kin guhara ::eng to be lacking
+::kin guteka ::eng to cook
+::kin guteka ::eng to boil
+::kin umuceri ::eng rice
+::kin igishyimbo ::eng bean
+::kin ibishyimbo ::eng beans
+::kin ifi ::eng fish
+::kin igi ::eng egg
+::kin igitoke ::eng plantain ::comment green banana
+::kin matoke ::eng cooked plantains
+::kin inyumbati ::eng cassava leaves
+::kin umutsima ::eng starchy cake ::comment made from maize or cassava
+::kin avoka ::eng avocado
+::kin ikirayi ::eng potato
+::kin ikijumba ::eng sweet potato
+::kin ikaroti ::eng carrot
+::kin ishu ::eng cabbage
+::kin ubuntunguru ::eng onion
+::kin urusenda ::eng chili pepper
+::kin inyama ::eng meat
+::kin inyama y'ihene ::eng goat meat
+::kin inyama y'intama ::eng mutton
+::kin inyama y'inkoko ::eng chicken
+::kin brouchette ::eng meat kebab ::comment usually goat
+::kin imbuto ::eng fruit
+::kin imbuto ::eng seed
+::kin ikinyomoro ::eng tree tomato
+::kin inanasi ::eng pineapple
+::kin inyanya ::eng tomato
+::kin marakuja ::eng passion fruit
+::kin umuneke ::eng ripe anana
+::kin umunyu ::eng salt
+::kin isukari ::eng sugar
+::kin pili pili ::eng chili sauce
+::kin akabanga ::eng chili pepper oil ::comment lit. little secret
+::kin Bigeze he? ::eng When is it going to be ready?
+::kin Biratinda. ::eng It's going to take a while.
+::kin Birayoshe. ::eng It's delicious.
+::kin Ibiryo ni byiza. ::eng The food is good.
+::kin Urateka iki? ::eng What are you cooking?
+::kin Ndateka umuceri. ::eng I am cooking rice.
+::kin Wariye iki? ::eng What did you eat?
+::kin Nariye ibishyimbo n'inyumbati. ::eng I ate beans and cassava.
+::kin Nkunda ibirayi, ariko sinkunda ibijumba. ::eng I like potatos, but I don't like sweet potatos.
+::kin iginyobwa ::eng drink
+::kin kunywa ::eng to drink
+::kin amata ::eng milk
+::kin inshyushyu ::eng drinking milk
+::kin ikivuguto ::eng yogurt milk
+::kin amata y'ifu ::eng powdered milk
+::kin amazi ::eng water
+::kin amazi yo kunywa ::eng drinking water
+::kin amazi akonje ::eng cold water
+::kin icyayi ::eng tea
+::kin ikawa ::eng coffee
+::kin umutobe w'imbuto ::eng fruit juice
+::kin ifanta ::eng soda
+::kin Coca ::eng Coke
+::kin byeri ::eng beer
+::kin iragwa ::eng local brew
+::kin inzoga ::eng banana beer
+::kin Mutzig ::eng Mützig beer
+::kin Mutzig ntoya ::eng small Mützig
+::kin Mutzig nini ::eng large Mützig
+::kin Uragira inyota? ::eng Are you thirsty?
+::kin Yego, ndashaka amazi akonjye. ::eng Yes, I'd like some cold water.
+::kin Wanyoye iki? ::eng What did you drink?
+::kin Nanyoye amata. ::eng I drunk milk.
+::kin umusatsi ::eng hair
+::kin umutwe ::eng head
+::kin ukuboko ::eng arm
+::kin ikiganza ::eng hand
+::kin urutoki ::eng finger
+::kin igikumwe ::eng thumb
+::kin umutima ::eng heart
+::kin umutsi ::eng vein
+::kin amaraso ::eng blood
+::kin inda ::eng stomach
+::kin înda ::eng lice
+::kin ikibero ::eng thigh
+::kin ukuguru ::eng leg
+::kin akabumbampuri ::eng ankle
+::kin ikirenge ::eng foot
+::kin urwara ::eng nail
+::kin ugutwi ::eng ear
+::kin ijisho ::eng eye
+::kin izuru ::eng nose
+::kin iryinyo ::eng tooth
+::kin umunwa ::eng mouth
+::kin umunwa ::eng lip
+::kin akananwa ::eng chin
+::kin kurwara ::eng to be sick
+::kin indwara ::eng sickness
+::kin ikimenyetso ::eng symptom
+::kin kubabara ::eng to suffer
+::kin kubabara ::eng to hurt
+::kin kuzungera ::eng to feel dizzy
+::kin gukira ::eng to feel better
+::kin gukira ::eng to recover
+::kin ibicurane ::eng cold
+::kin ibicurane ::eng flu
+::kin malariya ::eng malaria
+::kin igipfuko ::eng bandage
+::kin igisubizo ::eng test result
+::kin igisubizo ::eng answer
+::kin umuganga ::eng doctor
+::kin umuti ::eng medicine
+::kin ikinini ::eng tablet
+::kin gufata ::eng to take ::comment a medicine or any object
+::kin ibitaro ::eng hospital
+::kin ivuriro ::eng health center
+::kin ivuriro ::eng hospital
+::kin farmasi ::eng pharmacy
+::kin gutwara ::eng to carry
+::kin gutwara inda ::eng to be pregnant
+::kin kubyara ::eng to give birth
+::kin Umeze ute ::eng How are you feeling?
+::kin Meze neza. ::eng I feel well.
+::kin Meze nabi. ::eng I feel bad.
+::kin Ndashaka kujya kwa muganga. ::eng I want to go to a doctor.
+::kin Urababara he? ::eng Where are you hurting?
+::kin Ndwaye umutwe. ::eng I have a sore head.
+::kin Arwaye ikirenge. ::eng He has a sore foot.
+::kin Ugomba gufata X. ::eng You must take X.
+::kin Umugore wawe aratwite? ::eng Is your wife pregnant?
+::kin Azabyara ryari? ::eng When will she give birth?
+::kin Azabyara mu kwezi gutaha. ::eng She will give birth next month.
+::kin iduka ::eng small shop
+::kin supermarché ::eng supermarket
+::kin kugura ::eng to buy
+::kin kugurisha ::eng to sell
+::kin kwishyura ::eng to pay
+::kin ifaranga ::eng franc
+::kin idolari ::eng dollar
+::kin ipawundi ::eng pound
+::kin Ngufashe iki? ::eng How can I help you?
+::kin Ndashaka kugura X. ::eng I am wanting to buy X.
+::kin Urashaka iki? ::eng What are you looking for?
+::kin Ndashaka X. ::eng I am looking for X.
+::kin Hano hari X. ::eng Here X is sold.
+::kin Angahe? ::eng How much?
+::kin Ni magana tanu. ::eng It's 500 RWF.
+::kin Ni menshi. ::eng It's expensive.
+::kin Buri munsi nishyura igihumbi. ::eng Everyday I pay 1000 RWF.
+::kin Wavuze ngo magana rindwi! ::eng You said 700 RWF!
+::kin Ufite eshanje ::eng You have change?
+::kin Ya ngahe? ::eng Of how much?
+::kin Nzakugurira mudasobwa. ::eng I will buy you a computer.
+::kin umunota ::eng minute
+::kin isaha ::eng clock
+::kin isaha ::eng hour
+::kin igitondo ::eng morning
+::kin mu gitondo ::eng in the morning
+::kin kumanywa ::eng noon
+::kin kumanywa ::eng early afternoon
+::kin umugoroba ::eng late afternoon
+::kin umugoroba ::eng evening
+::kin ku mugoroba ::eng in the afternoon
+::kin ku mugoroba ::eng in the evening
+::kin ijoro ::eng night
+::kin igice ::eng part
+::kin igice ::eng half
+::kin kubura ::eng to lack
+::kin kubura ::eng to fail to find
+::kin saa moja ::eng 7 o'clock
+::kin saa mbili ::eng 8 o'clock
+::kin saa tatu ::eng 9 o'clock
+::kin saa ine ::eng 10 o'clock
+::kin saa tanu ::eng 11 o'clock
+::kin saa sita ::eng 12 o'clock
+::kin saa sita za kumanwya ::eng 12 o'clock noon
+::kin saa sita z'ijoro ::eng 12 o'clock at night
+::kin saa saba ::eng 1 o'clock
+::kin saa saba z'ijoro ::eng 1 o'clock at night
+::kin saa munani ::eng 2 o'clock
+::kin saa cyenda ::eng 3 o'clock
+::kin saa kumi ::eng 4 o'clock
+::kin saa kumi n'imwe ::eng 5 o'clock
+::kin saa kumi n'imwe z'umugoroba ::eng 5 o'clock in the afternoon
+::kin saa kumi n'ebyili ::eng 6 o'clock
+::kin saa kumi n'ebyili z'igitondo ::eng 6 o'clock in the morning
+::kin Ni saa ngapi? ::eng What time is it?
+::kin Ni saa ngahe? ::eng What time is it?
+::kin Ni saa mbili. ::eng It's 8 o'clock.
+::kin Ni saa tatu. ::eng It's half past 9.
+::kin Ni saa ine n'iminota icyenda. ::eng It's 10:09.
+::kin Urya saa ngapi? ::eng You eat at what time?
+::kin Ndya saa kumi n'ebyili za mugoroba. ::eng I eat at 6:00pm.
+::kin Urataha saa ngapi? ::eng What time are going home?
+::kin Ndataha saa kumi n'imwe. ::eng I'm going home at 5:00pm.
+::kin Ndataha saa cyenda n'igice. ::eng I'm going home at 3:30pm.
+::kin Ndataha saa kumi ibuze iminota cumi. ::eng I'm going home at 3:50pm. ::comment lit. ten lacking ten minutes
+::kin umunsi ::eng day
+::kin icyumweru ::eng week
+::kin ukwezi ::eng month
+::kin umwaka ::eng year
+::kin italiki ::eng date
+::kin ryari? ::eng when?
+::kin ku wa mbere ::eng Monday ::synt noun
+::kin ku wa kabili ::eng Tuesday ::synt noun
+::kin ku wa gatatu ::eng Wednesday ::synt noun
+::kin ku wa kane ::eng Thursday ::synt noun
+::kin ku wa gatanu ::eng Friday ::synt noun
+::kin ku wa gatandatu ::eng Saturday ::synt noun
+::kin ku cyumweru ::eng Sunday ::synt noun
+::kin ukwezi kwa mbere ::eng January ::synt noun
+::kin ukwezi kwa kabiri ::eng February ::synt noun
+::kin ukwezi kwa gatatu ::eng March ::synt noun
+::kin ukwezi kwa kane ::eng April ::synt noun
+::kin ukwezi kwa gatanu ::eng May ::synt noun
+::kin ukwezi kwa gatandatu ::eng June ::synt noun
+::kin ukwezi kwa karindwi ::eng July ::synt noun
+::kin ukwezi kwa munani ::eng August ::synt noun
+::kin ukwezi kwa cyenda ::eng September ::synt noun
+::kin ukwezi kwa cumi ::eng October ::synt noun
+::kin ukwezi kwa cumi na rimwe ::eng November ::synt noun
+::kin ukwezi kwa cumi na kabiri ::eng December ::synt noun
+::kin uyu munsi ::eng today
+::kin ejo ::eng yesterday
+::kin ejo ::eng tomorrow
+::kin ejo hashize ::eng yesterday
+::kin ejo hazaza ::eng tomorrow
+::kin ejo ubundi ::eng the day before yesterday
+::kin ejo ubundi ::eng the day after tomorrow
+::kin icyumweru gishize ::eng last week
+::kin iki cyumweru ::eng this week
+::kin icyumweru gitaha ::eng next week
+::kin umwaka ushize ::eng last year
+::kin uyu mwaka ::eng this year
+::kin umwaka utaha ::eng next year
+::kin imyaka icumi ishize ::eng 10 years ago
+::kin Uzataha ryari? ::eng When will you go home?
+::kin Nzataha italiki ya kane. ::eng I will go home on the 4th.

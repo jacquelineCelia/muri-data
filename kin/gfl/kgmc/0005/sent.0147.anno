@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nkamuremesha kandi nkamutera imbaraga numva rero narasigariye kuba maman w' abana badafite banyina . ||| I encourage and strengthen them , I feel like I was left behind so that I can be a mother to all children without mothers .
+
+% TEXT
+Nkamuremesha kandi nkamutera imbaraga numva rero narasigariye kuba maman w' abana badafite banyina .
+
+% ANNO
+[Nkamuremesha kandi nkamutera imbaraga numva rero narasigariye kuba maman w' abana badafite banyina]

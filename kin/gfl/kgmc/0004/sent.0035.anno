@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' ubwo bigoye narabyakiriye ariko ntabwo byoroshye . ||| even though it was hard I had to accept it .
+
+% TEXT
+N' ubwo bigoye narabyakiriye ariko ntabwo byoroshye .
+
+% ANNO
+N' < (ubwo > bigoye) > narabyakiriye 
+(ntabwo > byoroshye)
+$x :: {narabyakiriye byoroshye} :: ariko
+

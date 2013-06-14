@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ni muri ubwo buryo baje . ||| That 's how they came .
+
+% TEXT
+Ni muri ubwo buryo baje .
+
+% ANNO
+Ni > muri < (ubwo > buryo < baje)

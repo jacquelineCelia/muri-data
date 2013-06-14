@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Uwo ijisho ryavuyemo mbese harimo ubumuga butandukanye noneho rero reba aba bantu bafite ubu muga bwo mu mutima . ||| Some do n't have eyes , they are different handicaps and then they are those who are emotionally handicaped .
+
+% TEXT
+Uwo ijisho ryavuyemo mbese harimo ubumuga butandukanye noneho rero reba aba bantu bafite ubu muga bwo mu mutima .
+
+% ANNO
+[Uwo ijisho ryavuyemo mbese harimo ubumuga butandukanye noneho rero reba aba bantu bafite ubu muga bwo mu mutima]

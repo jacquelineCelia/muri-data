@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Tukagira misa nuko ruraho ngaho rwose imbere ya chapelle . ||| And we have mass and pray , the memorial is just in front of the praying room .
+
+% TEXT
+Tukagira misa nuko ruraho ngaho rwose imbere ya chapelle .
+
+% ANNO
+[Tukagira misa nuko ruraho ngaho rwose imbere ya chapelle]

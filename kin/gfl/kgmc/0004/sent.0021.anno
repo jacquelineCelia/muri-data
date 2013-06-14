@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Turagira ngo ukomeze utubwire uko ubuzima bwaje kugenda kugira ngo turangize . ||| We would like you to continue telling us how life was like went so we can wrap up .
+
+% TEXT
+Turagira ngo ukomeze utubwire uko ubuzima bwaje kugenda kugira ngo_1 turangize .
+
+% ANNO
+Turagira < ngo > ukomeze < utubwire < (uko > ubuzima <  bwaje)
+ukomeze < kugenda < kugira > ngo_1 > turangize

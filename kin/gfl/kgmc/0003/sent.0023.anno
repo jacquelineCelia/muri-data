@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ku Gisenyi ni abana n' umucousine wa mama . ||| I was living with mother 's cousin in Gisenyi .
+
+% TEXT
+Ku Gisenyi ni abana n' umucousine wa mama .
+
+% ANNO
+$x :: {abana umucousine} :: n'
+(Ku < Gisenyi) > ni < abana < umucousine < (wa > mama) 
+abana < umucousine

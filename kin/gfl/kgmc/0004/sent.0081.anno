@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+ko nyine bigenda birushaho kuba bibi , keretse mu mugize icyo mwatumarira ndumva bwagenda burushaho kuba bwiza buhoro . ||| Living conditions are even getting more challenging...maybe if you could do something , I think that would be help somehow .
+
+% TEXT
+ko nyine bigenda birushaho kuba bibi , keretse mu mugize icyo mwatumarira ndumva bwagenda burushaho kuba_1 bwiza buhoro .
+
+% ANNO
+ko > nyine > bigenda < birushaho < kuba < bibi 
+keretse < mu < mugize < (icyo > mwatumarira) 
+mugize < ndumva < bwagenda < burushaho < kuba_1 < bwiza < buhoro

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niyo yaba ari umuhutu wa wundi wanyiciye ariko akaza mbona yapfuye . ||| Even if it 's a hutu who killed my family and he comes when he is broken down .
+
+% TEXT
+Niyo yaba ari umuhutu wa wundi wanyiciye ariko akaza mbona yapfuye .
+
+% ANNO
+[Niyo yaba ari umuhutu wa wundi wanyiciye ariko akaza mbona yapfuye]

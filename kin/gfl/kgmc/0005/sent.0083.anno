@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ubundi nkavuga nti ba bana banjye buriya birukanse bo hari uwarokotse mbese nihishaga mvuga ngo hari uwarokotse . ||| And then I would say that may be my boys who ran away at least there is one who survived , I hid myself because I thought there was a survivor .
+
+% TEXT
+Ubundi nkavuga nti ba bana banjye buriya birukanse bo hari uwarokotse mbese nihishaga mvuga ngo hari_1 uwarokotse_1 .
+
+% ANNO
+[Ubundi nkavuga nti ba bana banjye buriya birukanse bo hari uwarokotse mbese nihishaga mvuga ngo hari_1 uwarokotse_1]

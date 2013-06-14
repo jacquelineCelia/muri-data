@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mu rugo mwari abantu mungana iki ? ||| How many people made your family ?
+
+% TEXT
+Mu rugo mwari abantu mungana iki ?
+
+% ANNO
+(Mu < rugo) > mwari < abantu < mungana < iki

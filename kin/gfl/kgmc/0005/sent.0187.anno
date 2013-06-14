@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Wagirango tuba twaribagiwe aho bagiye tukavuga tuti nzajya gusura abantu bange mu kwezi kwa kane . ||| You would think that we forget where they went and say , I will go visit my people in april .
+
+% TEXT
+Wagirango tuba twaribagiwe aho bagiye tukavuga tuti nzajya gusura abantu bange mu kwezi kwa kane .
+
+% ANNO
+[Wagirango tuba twaribagiwe aho bagiye tukavuga tuti nzajya gusura abantu bange mu kwezi kwa kane]

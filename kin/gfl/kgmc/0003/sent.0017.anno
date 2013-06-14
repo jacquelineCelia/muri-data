@@ -1,0 +1,15 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Yego ni njyewe na Shumbusho twasigaye . ||| Yes Shumbusho and I are the ones who survived .
+
+% TEXT
+Yego ni njyewe na Shumbusho twasigaye .
+
+% ANNO
+Yego 
+$x :: {njyewe Shumbusho} :: na
+ni < twasigaye
+njyewe < Shumbusho
+

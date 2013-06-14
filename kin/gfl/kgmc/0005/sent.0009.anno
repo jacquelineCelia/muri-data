@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Azamuka agiye kureba uko bimeze kuri iyo butike abaje kumufata basanze arijyewe uri murugo n' abana . ||| So my husband also went to see how things were at the shop , the people who were coming to arrest him only found me and the children at home .
+
+% TEXT
+Azamuka agiye kureba uko bimeze kuri iyo butike abaje kumufata basanze arijyewe uri murugo n' abana .
+
+% ANNO
+[Azamuka agiye kureba uko bimeze kuri iyo butike abaje kumufata basanze arijyewe uri murugo n' abana]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Gusa gacaca irimo iragenda ibatahu abafunzwe bakarega abatarafunzwe abafunzwe bagashinja abafunguwe . ||| But gacaca is exposing them all , they are turning on each other , those who are in jail denounce those who were not put in jail and those who are in jail also denounce those who are being released .
+
+% TEXT
+Gusa gacaca irimo iragenda ibatahu abafunzwe bakarega abatarafunzwe abafunzwe_1 bagashinja abafunguwe .
+
+% ANNO
+[Gusa gacaca irimo iragenda ibatahu abafunzwe bakarega abatarafunzwe abafunzwe_1 bagashinja abafunguwe]

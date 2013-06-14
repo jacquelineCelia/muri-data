@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' uko numva ko ibibazo atari ibyanjye gusa nta kindi . ||| It makes me feel like I am not the only one with problems .
+
+% TEXT
+N' uko numva ko ibibazo atari ibyanjye gusa nta kindi .
+
+% ANNO
+N' < uko 
+N' < numva < ko < (ibibazo > atari < ibyanjye < (gusa < nta) < kindi)

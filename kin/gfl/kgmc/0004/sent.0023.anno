@@ -1,0 +1,16 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nonese se aha wagarutse uhita uhura na AVEGA cyangwa aho mwari mutuye , wasubiye aho mwari mutuye ? ||| Did you start to live with AVEGA straight away or you returned where you used to live before ?
+
+% TEXT
+Nonese se aha wagarutse uhita uhura na AVEGA cyangwa aho mwari mutuye , wasubiye aho_1 mwari_1 mutuye_1 ?
+
+% ANNO
+Nonese > wagarutse
+se > wagarutse
+aha > wagarutse < uhita < uhura < (na < AVEGA)
+$x :: {wagarutse mwari} :: cyangwa 
+(aho > mwari < mutuye) > wasubiye < aho_1 
+wasubiye > mwari_1 < mutuye_1

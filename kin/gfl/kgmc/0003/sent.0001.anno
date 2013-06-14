@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+-LRB- Yabanje guseka -RRB- ||| [ She laughs ... ]
+
+% TEXT
+-LRB- Yabanje guseka -RRB-
+
+% ANNO
+[Yabanje < guseka]

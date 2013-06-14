@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mbabera nyina bambera abana hanyuma baza kubona umuvandimwe wabo abatwara hanze . ||| I became their mother but they got a relative who took them abroad .
+
+% TEXT
+Mbabera nyina bambera abana hanyuma baza kubona umuvandimwe wabo abatwara hanze .
+
+% ANNO
+[Mbabera nyina bambera abana hanyuma baza kubona umuvandimwe wabo abatwara hanze]

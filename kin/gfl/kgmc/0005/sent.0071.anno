@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ati naha baravuze ngo baraza mu kanya bankureho ati ahubwo jya hariya muruyuzi . ||| They have said that they are coming in a short while to kill me go and hide in that garden with fruits , he said .
+
+% TEXT
+Ati naha baravuze ngo baraza mu kanya bankureho ati ahubwo jya hariya muruyuzi .
+
+% ANNO
+[Ati naha baravuze ngo baraza mu kanya bankureho ati ahubwo jya hariya muruyuzi]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Twarabanye turapfuye aho tugiye nta nkweto bambara ati akira izi nkweto ujye uzinyibukiraho . ||| We 've been very good friends and we are going to die ; where we are going they do n't wear shoes , take my shoes and remember me whenever you look at them .
+
+% TEXT
+Twarabanye turapfuye aho tugiye nta nkweto bambara ati akira izi nkweto_1 ujye uzinyibukiraho .
+
+% ANNO
+[Twarabanye turapfuye aho tugiye nta nkweto bambara ati akira izi nkweto_1 ujye uzinyibukiraho]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Waba uzi uburyo bamwishe ? ||| Freddy , how did they kill your mother ?
+
+% TEXT
+Waba uzi uburyo bamwishe ?
+
+% ANNO
+[Waba uzi uburyo bamwishe]

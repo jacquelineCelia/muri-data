@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ubwo ku itariki enye bari baraye barasa baravuga ngo nitwebwe twaraye turasa mu mugi wa Kigali . ||| On the 4th of October 1990 they had spent the night shooting in the air and they said that we were the ones that were shooting Kigali .
+
+% TEXT
+Ubwo ku itariki enye bari baraye barasa baravuga ngo nitwebwe twaraye turasa mu mugi wa Kigali .
+
+% ANNO
+[Ubwo ku itariki enye bari baraye barasa baravuga ngo nitwebwe twaraye turasa mu mugi wa Kigali]

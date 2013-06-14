@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Kuba uri umuntu wacitse ku icumu , kuri bwawe wumva bivuze iki ? ||| Freddy , what does it mean to ... be a survivor , what did you feel when you survived ?
+
+% TEXT
+Kuba uri umuntu wacitse ku icumu , kuri bwawe wumva bivuze iki ?
+
+% ANNO
+[Kuba uri umuntu wacitse ku icumu kuri bwawe wumva bivuze iki]

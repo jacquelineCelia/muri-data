@@ -1,0 +1,16 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Naho Maman n' abana bo babicishije amahiri n' imipanga hariya mu Bushenge ku Bitaro . ||| My Mum and my siblings were killed with machetes at the hospital of Bushenge .
+
+% TEXT
+Naho Maman n' abana bo babicishije amahiri n'_1 imipanga hariya mu Bushenge ku Bitaro .
+
+% ANNO
+Naho 
+$x :: {Maman abana} :: n' 
+(abana < bo) > babicishije < amahiri < n'_1 < imipanga 
+babicishije < hariya
+babicishije < mu < Bushenge < ku < Bitaro
+ 

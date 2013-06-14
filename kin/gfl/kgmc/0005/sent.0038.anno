@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ntabwo byadushimishije ntawishimirako undi yapfuye ngo kandi arimwe mwamuhanuye ngo kandi inyenzi zamuhanuye ari zenewanyu . ||| Nobody is happy that he died especially when you are the ones that shot down his plane and the cockroaches who did it are your relatives
+
+% TEXT
+Ntabwo byadushimishije ntawishimirako undi yapfuye ngo kandi arimwe mwamuhanuye ngo_1 kandi_1 inyenzi zamuhanuye ari zenewanyu .
+
+% ANNO
+[Ntabwo byadushimishije ntawishimirako undi yapfuye ngo kandi arimwe mwamuhanuye ngo_1 kandi_1 inyenzi zamuhanuye ari zenewanyu]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ubundi hari ukuntu njye numvaga ibintu numvaga twakabaye twibuka abantu bacu tukabashyingura neza tugahora tunabibuka . ||| Personally there is a way I feel that we should remember our people and bury them in such a way that we would always remember them .
+
+% TEXT
+Ubundi hari ukuntu njye numvaga ibintu numvaga_1 twakabaye twibuka abantu bacu tukabashyingura neza tugahora tunabibuka .
+
+% ANNO
+[Ubundi hari ukuntu njye numvaga ibintu numvaga_1 twakabaye twibuka abantu bacu tukabashyingura neza tugahora tunabibuka]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho nkavuga nti ngewe aho kugirango ndemererwe nasabye Imana kumpa umutima wagutse urimo impuhwe nkazigiirira uwo mbona azikeneye . ||| So instead of being burdened I asked God to give me a big heart so that I can offer mercy to everyone who needs it .
+
+% TEXT
+Noneho nkavuga nti ngewe aho kugirango ndemererwe nasabye Imana kumpa umutima wagutse urimo impuhwe nkazigiirira uwo mbona azikeneye .
+
+% ANNO
+[Noneho nkavuga nti ngewe aho kugirango ndemererwe nasabye Imana kumpa umutima wagutse urimo impuhwe nkazigiirira uwo mbona azikeneye]

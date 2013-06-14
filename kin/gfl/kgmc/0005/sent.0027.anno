@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Icyo tujyanye tukagihereza aba suruveya ariko baducunaguza ariko badukubita ntiwamenyaga niba byamugezeho cyangwa bitamugezeho . ||| So whatever we would take we would give it to the guards as they were threatening and beating us , there was no certainty that our loved ones would get it .
+
+% TEXT
+Icyo tujyanye tukagihereza aba suruveya ariko baducunaguza ariko_1 badukubita ntiwamenyaga niba byamugezeho cyangwa bitamugezeho .
+
+% ANNO
+[Icyo tujyanye tukagihereza aba suruveya ariko baducunaguza ariko_1 badukubita ntiwamenyaga niba byamugezeho cyangwa bitamugezeho]

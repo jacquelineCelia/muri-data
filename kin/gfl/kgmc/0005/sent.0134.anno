@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Akibuka kumutwarira ikintu cyo kumuhembuza amaze kubyara nta wundi wabigiraga yari umugabo mwiza . ||| And he would also remember to take something to revive them after they had given birth ; nobody else remembered he was a really nice man .
+
+% TEXT
+Akibuka kumutwarira ikintu cyo kumuhembuza amaze kubyara nta wundi wabigiraga yari umugabo mwiza .
+
+% ANNO
+[Akibuka kumutwarira ikintu cyo kumuhembuza amaze kubyara nta wundi wabigiraga yari umugabo mwiza]

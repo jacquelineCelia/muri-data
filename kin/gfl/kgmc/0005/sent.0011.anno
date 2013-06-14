@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bambaza imbunda barayibura ari basanga twari dufite jumeri umugabo wanjye yajyana guhiga yajyaga ajyana n' abapadiri baba seriziyani . ||| They kept asking me about the gun but they could n't find it but they found binoculars that my husband used when hunting , he did it with priests .
+
+% TEXT
+Bambaza imbunda barayibura ari basanga twari dufite jumeri umugabo wanjye yajyana guhiga yajyaga ajyana n' abapadiri baba seriziyani .
+
+% ANNO
+[Bambaza imbunda barayibura ari basanga twari dufite jumeri umugabo wanjye yajyana guhiga yajyaga ajyana n' abapadiri baba seriziyani]

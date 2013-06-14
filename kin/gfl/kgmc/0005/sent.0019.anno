@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nta muntu wari ukigera murugo yewe nuwo negeraga wabonaga afite ubwoba yuko ndibumukoreho . ||| Nobody was even reaching our home anymore ; if I came close to someone they would seem afraid that I was going to cause them trouble .
+
+% TEXT
+Nta muntu wari ukigera murugo yewe nuwo negeraga wabonaga afite ubwoba yuko ndibumukoreho .
+
+% ANNO
+[Nta muntu wari ukigera murugo yewe nuwo negeraga wabonaga afite ubwoba yuko ndibumukoreho]

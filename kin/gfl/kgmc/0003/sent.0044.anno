@@ -1,0 +1,15 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Uravuga uti @: « kubafunga n' uguhombya igihugu . » Ese ubona kubafungura igihugu aribwo kizunguka ? Ubona hari agaciro hari icyo bizamarira abanyarwanda ? ||| You said that imprisoning them is a waste for the country . Do you believe the country will gain when they are free ? Do you think it will be of any use for the country ?
+
+% TEXT
+Uravuga uti @: « kubafunga n' uguhombya igihugu . » Ese ubona kubafungura igihugu_1 aribwo kizunguka ? Ubona hari agaciro hari_1 icyo bizamarira abanyarwanda ?_1
+
+% ANNO
+$x :: {kubafunga uguhombya} :: n'
+Uravuga < uti < @: < « < kubafunga
+uguhombya < igihugu <  » < Ese > ubona < kubafungura < igihugu_1 < aribwo < kizunguka
+Ubona < hari < agaciro > hari_1 < icyo > bizamarira < abanyarwanda
+kubafunga < uguhombya

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abapfakazi bamwe niba barabashije kubona aho begeka umusaya ubwo uwo muntu yavugako ntacyakozwe . ||| The widows did n't have a place to stay , can that person say that nothing was done .
+
+% TEXT
+Abapfakazi bamwe niba barabashije kubona aho begeka umusaya ubwo uwo muntu yavugako ntacyakozwe .
+
+% ANNO
+[Abapfakazi bamwe niba barabashije kubona aho begeka umusaya ubwo uwo muntu yavugako ntacyakozwe]

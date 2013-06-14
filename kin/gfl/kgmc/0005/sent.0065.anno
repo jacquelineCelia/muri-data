@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko baragenda bigeze nijoro ngenda negura mbona byanga ubwonko bwari bwasohotse nanjye aho batemye bwagombaga kuba bwasohotse . ||| So they walked around and then at night I tried to lift myself up but it was very hard , I think my brain was out where they had hacked and cut me .
+
+% TEXT
+Nuko baragenda bigeze nijoro ngenda negura mbona byanga ubwonko bwari bwasohotse nanjye aho batemye bwagombaga kuba bwasohotse_1 .
+
+% ANNO
+[Nuko baragenda bigeze nijoro ngenda negura mbona byanga ubwonko bwari bwasohotse nanjye aho batemye bwagombaga kuba bwasohotse_1]

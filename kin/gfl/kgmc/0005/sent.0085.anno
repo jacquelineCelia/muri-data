@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ararunguruka arungurutse arambona niwe watangiye kumpa amazi yo kumywa akajya akoza akantu ku rurimi agatonyanza . ||| He peeped through and saw me ; he is the one who gave me water to drink . He would give me tiny little droplets on my tongue .
+
+% TEXT
+Ararunguruka arungurutse arambona niwe watangiye kumpa amazi yo kumywa akajya akoza akantu ku rurimi agatonyanza .
+
+% ANNO
+[Ararunguruka arungurutse arambona niwe watangiye kumpa amazi yo kumywa akajya akoza akantu ku rurimi agatonyanza]

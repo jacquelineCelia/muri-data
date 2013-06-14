@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nkatwe tuba tunafata imiti tubona ntacyo bitumariye kubera ko tuba dukeneye ibintu byinshi . ||| For people like me who are also on medication , it does n't help because we have lost of needs .
+
+% TEXT
+Nkatwe tuba tunafata imiti tubona ntacyo bitumariye kubera ko tuba_1 dukeneye ibintu byinshi .
+
+% ANNO
+Nkatwe < tuba < tunafata < imiti 
+(tubona < ntacyo) < bitumariye < [kubera ko] > tuba_1 < dukeneye < ibintu < byinshi

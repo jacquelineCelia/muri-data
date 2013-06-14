@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Sinzi niba wenda niba muri iryo shyirahamwe ryanyu cyangwa n' abantu murya muhurira muri AVEGA . ||| I do n't know if in that association or the people you meet in AVEGA ...
+
+% TEXT
+Sinzi niba wenda niba_1 muri iryo shyirahamwe ryanyu cyangwa n' abantu murya muhurira muri_1 AVEGA .
+
+% ANNO
+Sinzi < niba < wenda 
+Sinzi < niba_1 < muri < (iryo > shyirahamwe < ryanyu)
+$x :: {Sinzi murya} :: cyangwa 
+(n' < abantu) > murya < muhurira < muri_1 < AVEGA

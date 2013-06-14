@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ari n' ishyirahamwe nyine ry' abarwayi ariko nta nkunga rifite ihagije . ||| It 's an association of patients . It does n't have enough support though .
+
+% TEXT
+Ari n' ishyirahamwe nyine ry' abarwayi ariko nta nkunga rifite ihagije .
+
+% ANNO
+Ari < n' < ishyirahamwe < nyine
+ishyirahamwe < ry' < abarwayi 
+$x :: {Ari nkunga} :: ariko
+(nta > nkunga) < rifite < ihagije

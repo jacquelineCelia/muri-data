@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nti ibyo aribyo byose aha nibaza bagasanga handuye ntabwo bahajya mpagarara imbere y' urugi koko niko byagenze . ||| I said to myself that if they come to use the bathroom they will n't go in the dirtiest , I stood behind the door and that is exactly what happened .
+
+% TEXT
+Nti ibyo aribyo byose aha nibaza bagasanga handuye ntabwo bahajya mpagarara imbere y' urugi koko niko byagenze .
+
+% ANNO
+[Nti ibyo aribyo byose aha nibaza bagasanga handuye ntabwo bahajya mpagarara imbere y' urugi koko niko byagenze]

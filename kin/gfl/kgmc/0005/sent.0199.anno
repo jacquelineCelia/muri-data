@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ubundi politike yacu ninziza leta y' ubumwe ninziza kuko irashaka ko abantu bose babana ariko iwacu munzu . ||| Our government 's policy is good ; the peace government wants us all to live at peace with each other but our homes .
+
+% TEXT
+Ubundi politike yacu ninziza leta y' ubumwe ninziza_1 kuko irashaka ko abantu bose babana ariko iwacu munzu .
+
+% ANNO
+[Ubundi politike yacu ninziza leta y' ubumwe ninziza_1 kuko irashaka ko abantu bose babana ariko iwacu munzu]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+muri uko kwirukanka naje guhura n' interahamwe zimfata ku ngufu . ||| While running , I met other Interahamwe militiamen . They raped me but did n't kill me . ...
+
+% TEXT
+muri uko kwirukanka naje guhura n' interahamwe zimfata ku ngufu .
+
+% ANNO
+(muri < uko) > kwirukanka < naje < guhura < (n' < interahamwe > zimfata < ku < ngufu)

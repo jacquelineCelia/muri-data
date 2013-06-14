@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ntari nteye ishozi n' isesemi nta muntu wanyondoye nta muntu wagize ikintu ankorera ngo avuge ngo nakugiriye ntya . ||| I was hideous and disgusting and there 's no one who really took care of me to say they did it .
+
+% TEXT
+Ntari nteye ishozi n' isesemi nta muntu wanyondoye nta_1 muntu_1 wagize ikintu ankorera ngo avuge ngo_1 nakugiriye ntya .
+
+% ANNO
+[Ntari nteye ishozi n' isesemi nta muntu wanyondoye nta_1 muntu_1 wagize ikintu ankorera ngo avuge ngo_1 nakugiriye ntya]

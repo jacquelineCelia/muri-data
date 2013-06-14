@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho musaza wanjye wo kwa maman wacu yari ari ibyumba akora kuri prefecture niwe waje kuhankura aranjyana aramfasha . ||| So one of my cousin @-@ brother from my mother 's side is the one that moved me from there and started helping me .
+
+% TEXT
+Noneho musaza wanjye wo kwa maman wacu yari ari ibyumba akora kuri prefecture niwe waje kuhankura aranjyana aramfasha .
+
+% ANNO
+[Noneho musaza wanjye wo kwa maman wacu yari ari ibyumba akora kuri prefecture niwe waje kuhankura aranjyana aramfasha]

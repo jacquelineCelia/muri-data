@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Rwose ndamushima cyane kuko kubera bagenzi be rero uwo muntu abona imiti hakaba ubwo ayibonye adafite icyo arya . ||| I am very grateful , so a widow can get the medicine and sometimes not have anything to eat .
+
+% TEXT
+Rwose ndamushima cyane kuko kubera bagenzi be rero uwo muntu abona imiti hakaba ubwo ayibonye adafite icyo arya .
+
+% ANNO
+[Rwose ndamushima cyane kuko kubera bagenzi be rero uwo muntu abona imiti hakaba ubwo ayibonye adafite icyo arya]

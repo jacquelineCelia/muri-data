@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Abo twari duturanye ku Gisenyi oya , aho nari ndi nta bapfuye kereka aho mama akomoka i Kayove nibo nzi bapfuye . ||| Not among our neighbours in Gisenyi . Not where I was living . But people I know of people who died in Kayove where mom was from .
+
+% TEXT
+Abo twari duturanye ku Gisenyi oya , aho nari ndi nta bapfuye kereka aho_1 mama akomoka i Kayove nibo nzi bapfuye_1 .
+
+% ANNO
+Abo > twari < duturanye < (ku > Gisenyi) < oya 
+aho > nari < ndi < (nta > bapfuye) < kereka < (aho_1 > mama > akomoka < (i < Kayove) > nibo < nzi < bapfuye_1)

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Iyo mwitegereje mubona sinzi ukuntu mwabisobanurira umuntu ngo yaguye aha wenda anakubeshya . ||| Looking closely , how would someone say that somebody died from a certain place even when they are lying to you ?
+
+% TEXT
+Iyo mwitegereje mubona sinzi ukuntu mwabisobanurira umuntu ngo yaguye aha wenda anakubeshya .
+
+% ANNO
+[Iyo mwitegereje mubona sinzi ukuntu mwabisobanurira umuntu ngo yaguye aha wenda anakubeshya]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kubera ko AVEGA ifasha abantu benshi inkunga igenda iha umuntu ntabwo imuhaza . ||| Because AVEGA supports many people , the support it gives to individuals can not satisfy them .
+
+% TEXT
+Kubera ko AVEGA ifasha abantu benshi inkunga igenda iha umuntu ntabwo imuhaza .
+
+% ANNO
+(Kubera > ko > AVEGA > ifasha < abantu < benshi) > inkunga < igenda < iha < umuntu > (ntabwo > imuhaza)

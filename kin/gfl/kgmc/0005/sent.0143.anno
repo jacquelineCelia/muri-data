@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nakagombye rero kwemera uko njya nkunda kubwira abantu nti Josephine yarapfuye habaho tante . ||| So I have to accept the way I always tell people that Josephine died and aunty lived .
+
+% TEXT
+Nakagombye rero kwemera uko njya nkunda kubwira abantu nti Josephine yarapfuye habaho tante .
+
+% ANNO
+[Nakagombye rero kwemera uko njya nkunda kubwira abantu nti Josephine yarapfuye habaho tante]
