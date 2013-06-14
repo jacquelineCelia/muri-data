@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ha hantu i Kigali mwari muri ni ahagana he ? ||| Where exactly where you in Kigali ?
+
+% TEXT
+Ha hantu i Kigali mwari muri ni ahagana he ?
+
+% ANNO
+((Ha > hantu) > (i < Kigali)) > mwari < muri < (ni < ahagana) < he

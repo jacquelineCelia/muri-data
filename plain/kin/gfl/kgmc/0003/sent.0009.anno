@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ni ukuvuga ngo naho twacitse ku icumu , ariko buri muntu wese yagiye agira ikintu yangirikaho mu mutwe we . ||| What I mean is that even though we survived , we all have something that was destroyed in our mind .
+
+% TEXT
+Ni ukuvuga ngo naho twacitse ku icumu , ariko buri muntu wese yagiye agira ikintu yangirikaho mu mutwe we .
+
+% ANNO
+$x :: {Ni buri} :: ariko
+Ni < ukuvuga < ngo < naho < twacitse < (ku < icumu)
+(buri > muntu < wese) > yagiye < agira < (ikintu > yangirikaho < (mu < mutwe < we)) 

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ngenda ngiye kumywa amazi igiye kunkubita umupanga indi iramubwira iti ariko se uyu mugore igihe watemeye ntiwahaze . ||| I went to drink water and then as one of the Interahamwe was about the hack me with a machete another asked him , you have hacked this woman so many times are n't you satisfied ?
+
+% TEXT
+Ngenda ngiye kumywa amazi igiye kunkubita umupanga indi iramubwira iti ariko se uyu mugore igihe watemeye ntiwahaze .
+
+% ANNO
+[Ngenda ngiye kumywa amazi igiye kunkubita umupanga indi iramubwira iti ariko se uyu mugore igihe watemeye ntiwahaze]

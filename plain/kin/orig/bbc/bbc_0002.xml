@@ -1,0 +1,31 @@
+<dataset descriptor="kinyarwanda">
+		<file id="pilot1" languages="kin,eng">
+				<metadata article="Pilot Translation 1" editor ="Naasson Nsabimana" otherInfo=""/>
+				<data>
+						<unit sentence="1"><align>
+								<text langid="kin"><s>Ikipe y'abagore y'umupira w'amaguru y'igihugu cya Nigeria izakina umukino wa nyuma w'igikombe cy'Afurika cy'abagore nyuma yo gutsinda ikipe y'igihugu cya Cameroon ibitego bitanu kuri kimwe.</s></text>
+								<text langid="eng"><s>After beating Cameroon with a score of 5 to 1, the Nigerian women soccer team qualified for the final game of the Africa Women Soccer Cup.</s></text>
+						</align></unit>
+						<unit sentence="2"><align>
+								<text langid="kin"><s>Iyi kipe ya Nigeria iboneyeho kandi itike yo kuzakina mu mikino ya nyuma y'igikombe cy'isi cy'abagore izabera mu Budage umwaka utaha.</s></text>
+								<text langid="eng"><s>Thus, the Nigerian team qualified for the final championship games for the Women World Cup to be held in Germany next year.</s></text>
+						</align></unit>
+						<unit sentence="3"><align>
+								<text langid="kin"><s>Umukinnyi w'imbere wa Nigeria Perpetua Nkwocha ku nshuro ya kabiri yatsinze ibitego 3 muri rino rushanwa ririmo kubera muri Afurika yepfo.</s></text>
+								<text langid="eng"><s>For a second time, Nigerian forward Perpetua Nkwocha scored 3 goals during the ongoing soccer championship in South Africa.</s></text>
+						</align></unit>
+						<unit sentence="4"><align>
+								<text langid="kin"><s>Helen Ukaonu na Ugochi Oparanozie nibo batsinze ibitego bindi bibiri muri uwo mukino wabahuje n'ikipe ya Cameroon.</s></text>
+								<text langid="eng"><s>Helen Ukaonu and Ugochi Oparanozie marked the two additional goals in the game that opposed them to Cameroon.</s></text>
+						</align></unit>
+						<unit sentence="5"><align>
+								<text langid="kin"><s>Igitego kimwe rukumbi cya Cameroon cyatsinzwe na Jeanette Ngock.</s></text>
+								<text langid="eng"><s>The only goal scored by Cameroon was authored by Jeannette Ngock.</s></text>
+						</align></unit>
+						<unit sentence="6"><align>
+								<text langid="kin"><s>Nigeria izakina n'ikipe izatsinda umukino wa kimwe cya kabiri ugomba guhuza Afurika yepfo na Guinee Equatoriale ifite icyo gikombe.</s></text>
+								<text langid="eng"><s>Nigeria will meet with the winning team of the half final game between South Africa and Equatorial Guinea, the current holder of the title (Cup).</s></text>
+						</align></unit>
+				</data>
+		</file>
+</dataset>

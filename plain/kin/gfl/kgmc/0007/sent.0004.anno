@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Naho papa wawe ? ||| What about your father ?
+
+% TEXT
+Naho papa wawe ?
+
+% ANNO
+[Naho papa wawe]

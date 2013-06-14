@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ngo dufashwe dufashwe ikarangira . ||| If they help us it can be over .
+
+% TEXT
+Ngo dufashwe dufashwe_1 ikarangira .
+
+% ANNO
+[Ngo dufashwe dufashwe_1 ikarangira]

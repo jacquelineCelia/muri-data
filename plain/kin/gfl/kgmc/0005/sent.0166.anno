@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nayo ikamuzonga kubonera ikintu umuntu arya buri munsi n' ibintu bikomeye kuko urabona turi abapfakazi bagenzi babo . ||| And it can really affect her because the medication is strong , to get food everyday is not easy because you can see that we are widows like them .
+
+% TEXT
+Nayo ikamuzonga kubonera ikintu umuntu arya buri munsi n' ibintu bikomeye kuko urabona turi abapfakazi bagenzi babo .
+
+% ANNO
+[Nayo ikamuzonga kubonera ikintu umuntu arya buri munsi n' ibintu bikomeye kuko urabona turi abapfakazi bagenzi babo]

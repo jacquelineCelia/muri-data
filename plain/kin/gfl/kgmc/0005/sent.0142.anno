@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Wadusobanurira mbese muri wowe wumva umeze ute ntabwo mbyumva ? ||| Please tell us , how do you feel deep inside because I do n't understand ?
+
+% TEXT
+Wadusobanurira mbese muri wowe wumva umeze ute ntabwo mbyumva ?
+
+% ANNO
+[Wadusobanurira mbese muri wowe wumva umeze ute ntabwo mbyumva]

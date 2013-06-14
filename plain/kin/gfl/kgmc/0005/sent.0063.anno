@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Yabarebaga aho yari yihishe noneho barababwira bati se murashaka kudufata murashaka kudukorera ibintu nimutwice n' ubundi tugomba gupfa . ||| He was watching from where he was hiding . Do you want to rape us and hurt us , go ahead and kill us we are supposed to die anyway , my daughters said .
+
+% TEXT
+Yabarebaga aho yari yihishe noneho barababwira bati se murashaka kudufata murashaka_1 kudukorera ibintu nimutwice n' ubundi tugomba gupfa .
+
+% ANNO
+[Yabarebaga aho yari yihishe noneho barababwira bati se murashaka kudufata murashaka_1 kudukorera ibintu nimutwice n' ubundi tugomba gupfa]

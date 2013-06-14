@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nitwa MUJAWAMARIYA Françoise nkaba mvuka i Gashirabwoba ahiri Gisumu cyera . ||| My name is Mujawamariya Françoise and I was born in Gashirabwoba , former Gisumu .
+
+% TEXT
+Nitwa MUJAWAMARIYA Françoise nkaba mvuka i Gashirabwoba ahiri Gisumu cyera .
+
+% ANNO
+Nitwa < [MUJAWAMARIYA Françoise]
+nkaba < mvuka < i < Gashirabwoba < ahiri < Gisumu < cyera

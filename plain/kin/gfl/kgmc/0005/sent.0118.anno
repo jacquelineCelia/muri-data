@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nabo ubwabo bakishinja bagashinjanya ariko rero bagaragaje ubugome bukabije n' agashinyaguro gakabije . ||| They even accuse themselves and each other ; they displayed a lot of hate and torture that was just imaginable .
+
+% TEXT
+Nabo ubwabo bakishinja bagashinjanya ariko rero bagaragaje ubugome bukabije n' agashinyaguro gakabije .
+
+% ANNO
+[Nabo ubwabo bakishinja bagashinjanya ariko rero bagaragaje ubugome bukabije n' agashinyaguro gakabije]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ufite ukwamera ni muri ubwo buryo rero nagiye nshaka abana b' imfubyi tukabana ubonye abe akabasanga utabafite akansanga . ||| That 's how I got orphans and took care of them and when they would find their family they would go and stay with them and if not they stay with me .
+
+% TEXT
+Ufite ukwamera ni muri ubwo buryo rero nagiye nshaka abana b' imfubyi tukabana ubonye abe akabasanga utabafite akansanga .
+
+% ANNO
+[Ufite ukwamera ni muri ubwo buryo rero nagiye nshaka abana b' imfubyi tukabana ubonye abe akabasanga utabafite akansanga]

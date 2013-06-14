@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ninjiramo niba ariwe wantwikiriye uruyuzi ni ari Imana icyo nzicyo nzicyo nuko bagarutse kunshaka ngo bandangize bakambura . ||| I went there , I do n't know if he is the one that covered me with those plants or God but all I know is that they came back looking for me to finish me off and they could n't find me .
+
+% TEXT
+Ninjiramo niba ariwe wantwikiriye uruyuzi ni ari Imana icyo nzicyo nzicyo_1 nuko bagarutse kunshaka ngo bandangize bakambura .
+
+% ANNO
+[Ninjiramo niba ariwe wantwikiriye uruyuzi ni ari Imana icyo nzicyo nzicyo_1 nuko bagarutse kunshaka ngo bandangize bakambura]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Twebwe aho twari dutuye hari hateganye na kanombe mubyukuri ari mu kabande ariko ibyaberga ikanombe washoboraga kubibona . ||| The place where we stayed was just opposite Kanombe , it was in the valley but you could see everything that happens in Kanombe .
+
+% TEXT
+Twebwe aho twari dutuye hari hateganye na kanombe mubyukuri ari mu kabande ariko ibyaberga ikanombe washoboraga kubibona .
+
+% ANNO
+[Twebwe aho twari dutuye hari hateganye na kanombe mubyukuri ari mu kabande ariko ibyaberga ikanombe washoboraga kubibona]

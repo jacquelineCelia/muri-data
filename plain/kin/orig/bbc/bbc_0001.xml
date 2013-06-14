@@ -1,0 +1,36 @@
+<dataset descriptor="kinyarwanda">
+		<file id="pilot1" languages="kin,eng">
+				<metadata article="Pilot Translation 1" editor ="Naasson Nsabimana" otherInfo=""/>
+				<data>
+						<unit sentence="1"><align>
+								<text langid="kin"><s>Rafael ntazakina umukino wa Manchester na Southampton</s></text>
+								<text langid="eng"><s>Rafael won't play in the Manchester versus Southampton game.</s></text>
+						</align></unit>
+						<unit sentence="2"><align>
+								<text langid="kin"><s>Umukinyi w'inyuma wa Manchester, Rafael, ntazakina umukino wa FA mu Bwongereza hagati ya Manchester na Southampton kubera kurwara umutwe.</s></text>
+								<text langid="eng"><s>Manchester's stopper, Rafael, won't play the FA game in England between Manchester and Southampton due to his head injury.</s></text>
+						</align></unit>
+						<unit sentence="3"><align>
+								<text langid="kin"><s>Umunya Brazil Rafael, yakubitanye umutwe na Marlon Harewood wa Blackpool mu mukino wo ku wa kabiri yatsinze 3-2, ahita ajyanwa kwa muganga gusuzumwa.</s></text>
+								<text langid="eng"><s>The Brazilian Rafael collided head-on with Marlon Harewood of Blackpool in the Tuesday game after scoring 3-2, and was immediately taken to the hospital for evaluation.</s></text>
+								<note editorid="naasson">Something is missing. The sentence doesn't have a coherent coordination</note>
+						</align></unit>
+						<unit sentence="4"><align>
+								<text langid="kin"><s>Rafael ufite imyaka 20, yahise ava mu bitaro akaba yarasubiye i Manchester ari hamwe n'abandi bakinana.</s></text>
+								<text langid="eng"><s>Twenty-year-old Rafael was released from hospital and went back to Manchester with his teammates.</s></text>
+						</align></unit>
+						<unit sentence="5"><align>
+								<text langid="kin"><s>Umutoza Alex Ferguson yavuze ko mu gihe afite ikibazo cyo kubabara mu mutwe, ntashobora gukina umukino wo ku wa gatandatu.</s></text>
+								<text langid="eng"><s>The coach Alex Ferguson announced that he cannot play in the Saturday game while he is still suffering from head injury.</s></text>
+						</align></unit>
+						<unit sentence="6"><align>
+								<text langid="kin"><s>Kubabara kwa Rafael ni kimwe mu byatumye hongerwa iminota cumi mu mukino i Blackpool, aho United yishyuye bibiri yari yatsinzwe, igatsinda bitatu birimo bibiri bya Dimitar Berbatov na kimwe cya Javier Hernandez.</s></text>
+								<text langid="eng"><s>Rafael's injury caused a ten-minute overtime in the Blackpool game, after United made a tie of two goals.</s><s>United scored three total including two from Dimitar Bertatov and one scored by Javier Hernandez.</s></text>
+						</align></unit>
+						<unit sentence="7"><align>
+								<text langid="kin"><s>Ubu Manchester United niyo iri ku mutwe urutonde rw'agateganyo muri Premier League n'amanota 51, igakurikirwa na Arsenal ifite 46, mu gihe Manchester City ya gatatu ifite 45 iya kane ikaba Chelsea n'amanota 41.</s></text>
+								<text langid="eng"><s>Manchester United is the highest ranking team in the Premier League with 51 points, followed by Arsenal with 46 points, Manchester in third place with 45, and Chelsea is fourth with 41 points.</s></text>
+						</align></unit>
+				</data>
+		</file>
+</dataset>

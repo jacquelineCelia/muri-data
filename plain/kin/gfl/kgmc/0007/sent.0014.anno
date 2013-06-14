@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Hari ikintu ubona Jenoside itwigisha...hari isomo ubona twayikuramo ? ||| Do we learn anything from the genocide ? Do we learn anything from the genocide ... ? Does genocide ... does it teach us anything ?
+
+% TEXT
+Hari ikintu ubona Jenoside itwigisha...hari isomo ubona_1 twayikuramo ?
+
+% ANNO
+[Hari ikintu ubona Jenoside itwigisha...hari isomo ubona_1 twayikuramo]

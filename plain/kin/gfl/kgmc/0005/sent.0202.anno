@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Byaba bidafatika ibidafatika ukabikuramo ibifite icyo bimaze ukabirekeramo . ||| If they make sense then you can keep them and if they do n't then you remove them .
+
+% TEXT
+Byaba bidafatika ibidafatika ukabikuramo ibifite icyo bimaze ukabirekeramo .
+
+% ANNO
+[Byaba bidafatika ibidafatika ukabikuramo ibifite icyo bimaze ukabirekeramo]

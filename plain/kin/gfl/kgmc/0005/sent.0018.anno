@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko birangije abana ndabegeranya ndabahumuriza ndababwira naringiye nange na papa yagiye nubu bagaruka bakantwara ariko muhure . ||| I called all my children and started comforting them telling them that they almost took me , dad was taken , they might come back and take me too but do not be afraid .
+
+% TEXT
+Nuko birangije abana ndabegeranya ndabahumuriza ndababwira naringiye nange na papa yagiye nubu bagaruka bakantwara ariko muhure .
+
+% ANNO
+[Nuko birangije abana ndabegeranya ndabahumuriza ndababwira naringiye nange na papa yagiye nubu bagaruka bakantwara ariko muhure]

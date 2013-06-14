@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+None Genocide itangira nkuko tubizi yabaye hirya no hino mu Rwanda hose . ||| When the Genocide happened ... We all know it happened all across Rwanda ...
+
+% TEXT
+None Genocide itangira nkuko tubizi yabaye hirya no hino mu Rwanda hose .
+
+% ANNO
+None
+Genocide > itangira < nkuko > tubizi <  yabaye < hirya < no < hino < mu < Rwanda < hose

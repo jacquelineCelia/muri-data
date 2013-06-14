@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko bafata ibibabangukiye baragenda barangije baravuga ngo yemwe twari tuje kwishakira ibintu ngo ababica bari inyuma.a ||| So they took whatever they could manage as they were going away and said that they were only there looking for what to take but those who were going to kill us where on their way .
+
+% TEXT
+Nuko bafata ibibabangukiye baragenda barangije baravuga ngo yemwe twari tuje kwishakira ibintu ngo_1 ababica bari inyuma.a
+
+% ANNO
+[Nuko bafata ibibabangukiye baragenda barangije baravuga ngo yemwe twari tuje kwishakira ibintu ngo_1 ababica bari inyuma.a]

@@ -1,0 +1,14 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Mama giramata yararokotse arokokana n' abana be n' umugabo . Ariko Mélanie ntabwo nigeze menya amakuru ye . Ntabwo nongeye kumubona , umunsi wa nyuma twari turi kumwe mu gihuru niwo munsi namubonye . ||| Mama Giramata survived together with her husband and children . But I have never heard anything about Mélanie . I never saw her again after the day I was with her in the bush .
+
+% TEXT
+Mama giramata yararokotse arokokana n' abana be n'_1 umugabo . Ariko Mélanie ntabwo nigeze menya amakuru ye ._1 Ntabwo nongeye kumubona , umunsi wa nyuma twari turi kumwe mu gihuru niwo munsi namubonye ._2
+
+% ANNO
+$x :: {abana be umugabo} :: n' n'_1 
+[Mama giramata] > yararokotse < arokokana < (abana < be) < umugabo
+Ariko > Mélanie > (ntabwo > nigeze) > menya < (amakuru < ye)
+(Ntabwo > nongeye) < kumubona < umunsi < (wa > nyuma) > twari < turi < kumwe < (mu > gihuru) < niwo > munsi > namubonye

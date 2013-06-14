@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ikintu umbajije kirakomeye ubundi ngewe mba no mu muryango w' abapfakazi ba jenocide avega agahozo . ||| You have just asked me a very difficult question , I am part of a widows ' association called avega agahozo .
+
+% TEXT
+Ikintu umbajije kirakomeye ubundi ngewe mba no mu muryango w' abapfakazi ba jenocide avega agahozo .
+
+% ANNO
+[Ikintu umbajije kirakomeye ubundi ngewe mba no mu muryango w' abapfakazi ba jenocide avega agahozo]

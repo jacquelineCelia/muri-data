@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abantu babarangiraga n' abantu mwari musanzwe muturanye ? ||| The people who were telling you where to excavate where your neighbours ?
+
+% TEXT
+Abantu babarangiraga n' abantu mwari musanzwe muturanye ?
+
+% ANNO
+[Abantu babarangiraga n' abantu mwari musanzwe muturanye]

@@ -1,0 +1,16 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+noneho ugerageze kugenda ubiduha mu buryo burambuye gukomeza nyuma y' igihe kingana gutya Genocide irangiye . ||| Describe in detail how your life was like from the time the genocide started until late when it ended .
+
+% TEXT
+noneho ugerageze kugenda ubiduha mu buryo burambuye gukomeza nyuma y' igihe kingana gutya Genocide irangiye .
+
+% ANNO
+noneho 
+ugerageze < kugenda < ubiduha < (mu < buryo)
+ubiduha < burambuye < gukomeza < nyuma 
+gukomeza < y' < igihe < kingana 
+gukomeza < gutya < Genocide
+gutya < irangiye

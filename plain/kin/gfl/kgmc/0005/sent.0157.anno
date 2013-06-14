@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nkumva umutima wanjye ukeneye kwakira buri wese uje awugana yawugana nabi simuhe umwanya . ||| My heart welcomes everyone who comes to me with good intentions , if you do n't then I do n't give you my time .
+
+% TEXT
+Nkumva umutima wanjye ukeneye kwakira buri wese uje awugana yawugana nabi simuhe umwanya .
+
+% ANNO
+[Nkumva umutima wanjye ukeneye kwakira buri wese uje awugana yawugana nabi simuhe umwanya]

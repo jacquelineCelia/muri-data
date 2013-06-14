@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Naho ubwo ndabwira interahamwe nziko ari abantu b' iwacu duturanye ishuri bararyishe turaramo n' abakozi ||| I did n't know that I was telling Interahamwe , I thought I was telling my people . They forced the door open and we spent the night there with the workers .
+
+% TEXT
+Naho ubwo ndabwira interahamwe nziko ari abantu b' iwacu duturanye ishuri bararyishe turaramo n' abakozi
+
+% ANNO
+[Naho ubwo ndabwira interahamwe nziko ari abantu b' iwacu duturanye ishuri bararyishe turaramo n' abakozi]

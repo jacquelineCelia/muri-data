@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Harimo abana babakobwa babyaye abana badashaka harimo abatemaguwe badafite ibice byo kumubiri umwe ugasanga nta kaboko afite . ||| There are some girls who gave birth to children they did n't want , they are some who were hacked and do not have some limbs , some do n't have hands .
+
+% TEXT
+Harimo abana babakobwa babyaye abana_1 badashaka harimo abatemaguwe badafite ibice byo kumubiri umwe ugasanga nta kaboko afite .
+
+% ANNO
+[Harimo abana babakobwa babyaye abana_1 badashaka harimo abatemaguwe badafite ibice byo kumubiri umwe ugasanga nta kaboko afite]

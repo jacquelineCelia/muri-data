@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kugirango wenda tugana k' umusozo nubwo habayeho jenocide ariko ntabwo tuzayibagirwa . ||| As we are winding up , even though the genocide took place , we can n't forget about it .
+
+% TEXT
+Kugirango wenda tugana k' umusozo nubwo habayeho jenocide ariko ntabwo tuzayibagirwa .
+
+% ANNO
+[Kugirango wenda tugana k' umusozo nubwo habayeho jenocide ariko ntabwo tuzayibagirwa]

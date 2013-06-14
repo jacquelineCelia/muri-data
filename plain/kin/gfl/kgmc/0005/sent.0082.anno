@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bararundanya baratwika bacukura aho ngaho imbere ya chapelle babashyiramo barenzaho itaka baragenda . ||| They piled and burnt them and then dug a hole in front of the praying room and threw them in and then covered it and left .
+
+% TEXT
+Bararundanya baratwika bacukura aho ngaho imbere ya chapelle babashyiramo barenzaho itaka baragenda .
+
+% ANNO
+[Bararundanya baratwika bacukura aho ngaho imbere ya chapelle babashyiramo barenzaho itaka baragenda]

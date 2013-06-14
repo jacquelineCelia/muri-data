@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Baravuga bati ariko abo Bantu bo kubarinda ntabwo bajya barinda buri muntu ati nibabarindire ahangaha aho bari . ||| Those people who are going to protect them can not protect every single one of them , let them protect them from here .
+
+% TEXT
+Baravuga bati ariko abo Bantu bo kubarinda ntabwo bajya barinda buri muntu ati nibabarindire ahangaha aho bari .
+
+% ANNO
+[Baravuga bati ariko abo Bantu bo kubarinda ntabwo bajya barinda buri muntu ati nibabarindire ahangaha aho bari]

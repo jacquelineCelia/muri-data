@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko ndagenda bambwira ngo ningende nikoreye amaboko ngende ndirimba ko nta nzira iri aho . ||| So they told me raise my hands and walk away singing there is no way here .
+
+% TEXT
+Nuko ndagenda bambwira ngo ningende nikoreye amaboko ngende ndirimba ko nta nzira iri aho .
+
+% ANNO
+[Nuko ndagenda bambwira ngo ningende nikoreye amaboko ngende ndirimba ko nta nzira iri aho]

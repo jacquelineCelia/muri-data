@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bahagurutsa n' abana banjye babakobwa babiri barabasohokana babajyana hanze njyewe ntibambona nari negamye inyuma y' abandi badamu . ||| They also told my two daughters to stand up and took them outside but they did n't see me because I was behind some other women .
+
+% TEXT
+Bahagurutsa n' abana banjye babakobwa babiri barabasohokana babajyana hanze njyewe ntibambona nari negamye inyuma y' abandi badamu .
+
+% ANNO
+[Bahagurutsa n' abana banjye babakobwa babiri barabasohokana babajyana hanze njyewe ntibambona nari negamye inyuma y' abandi badamu]

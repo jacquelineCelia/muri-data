@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ni nabwo jenocide yarangiye nubwo aribwo yatangiye ubwo abasirikari baraje bazana n' umwana w' iwacu aje kubayobora . ||| That 's when the genocide was over even though that 's when it started , so the soldiers came with one of our children showing them the way .
+
+% TEXT
+Ni nabwo jenocide yarangiye nubwo aribwo yatangiye ubwo abasirikari baraje bazana n' umwana w' iwacu aje kubayobora .
+
+% ANNO
+[Ni nabwo jenocide yarangiye nubwo aribwo yatangiye ubwo abasirikari baraje bazana n' umwana w' iwacu aje kubayobora]

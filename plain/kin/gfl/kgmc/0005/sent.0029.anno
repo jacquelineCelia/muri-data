@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese byabagezeho bite twagirango udusobanurire ? ||| How did all the events unfold in your lives , I would like you to explain and tell us ?
+
+% TEXT
+Ese byabagezeho bite twagirango udusobanurire ?
+
+% ANNO
+[Ese byabagezeho bite twagirango udusobanurire]

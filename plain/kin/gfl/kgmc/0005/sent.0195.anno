@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Uko bidakorwa mu ishuri byakagombye no kudakorwa mu ngo z' abantu kuko burya imico mibi yigishirizwa munzu . ||| The way it 's not being done in schools it should also be the same in people 's homes because all the ad influence takes place at home behind closed dooors .
+
+% TEXT
+Uko bidakorwa mu ishuri byakagombye no kudakorwa mu_1 ngo z' abantu kuko burya imico mibi yigishirizwa munzu .
+
+% ANNO
+[Uko bidakorwa mu ishuri byakagombye no kudakorwa mu_1 ngo z' abantu kuko burya imico mibi yigishirizwa munzu]

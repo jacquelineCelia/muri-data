@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nkamubona jenocide irangiye batahutse mu Rwanda abo bose n' inshingano mfite ngomba kuzuza uko nzishoboye . ||| And only see her after the genocide when they returned from exile , all those are my responsibility to do all I can .
+
+% TEXT
+Nkamubona jenocide irangiye batahutse mu Rwanda abo bose n' inshingano mfite ngomba kuzuza uko nzishoboye .
+
+% ANNO
+[Nkamubona jenocide irangiye batahutse mu Rwanda abo bose n' inshingano mfite ngomba kuzuza uko nzishoboye]

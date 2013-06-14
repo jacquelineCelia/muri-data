@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Freddy ndumva ushobora gutangira utubwira amazina yawe , n' imyaka yawe . ||| So Freddy , maybe you can begin by telling me your name . Maybe you can tell me your name and your age .
+
+% TEXT
+Freddy ndumva ushobora gutangira utubwira amazina yawe , n' imyaka yawe_1 .
+
+% ANNO
+[Freddy ndumva ushobora gutangira utubwira amazina yawe n' imyaka yawe_1]

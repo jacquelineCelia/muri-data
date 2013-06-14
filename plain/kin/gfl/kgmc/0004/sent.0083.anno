@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+By' umwihariko Leta y' u Rwanda ikwiriye kutwitaho kubera ko ndumva hi itatwitayeho nta kindi cyatwitaho , ||| Most especially I think the government of Rwanda should take care of us because if they do n't , no one else will .
+
+% TEXT
+By' umwihariko Leta y' u Rwanda ikwiriye kutwitaho kubera ko ndumva hi itatwitayeho nta kindi cyatwitaho ,
+
+% ANNO
+(By' < umwihariko < Leta < y' < [u Rwanda]) > ikwiriye < kutwitaho 
+$x :: {ikwiriye ndumva} :: kubera 
+ko > ndumva < hi < itatwitayeho < (nta > kindi) 
+itatwitayeho < cyatwitaho

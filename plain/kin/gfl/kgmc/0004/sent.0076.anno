@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese nibura wumva hari ibyiringiro by' ubuzima ? ||| do you still have hope in life ?
+
+% TEXT
+Ese nibura wumva hari ibyiringiro by' ubuzima ?
+
+% ANNO
+Ese > nibura < wumva < hari < ibyiringiro < by' < ubuzima

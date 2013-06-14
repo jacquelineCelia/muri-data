@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese babajugunye he ? ||| Where did they throw them ?
+
+% TEXT
+Ese babajugunye he ?
+
+% ANNO
+Ese > babajugunye < he

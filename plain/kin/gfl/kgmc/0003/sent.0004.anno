@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ntaho waba utaniye nabo . ||| You would n't be any different from them .
+
+% TEXT
+Ntaho waba utaniye nabo .
+
+% ANNO
+Ntaho > waba < utaniye < nabo

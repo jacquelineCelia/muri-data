@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ntabwo abantu bacu twababonaga baravugaga ngo nituzane ibintu babashyire tukajyayo kuwa kane wa nyuma w' ukwezi . ||| We were not allowed to see our loved ones ; they told us to just bring whatever we were bringing for them on the last Thursday of the month , telling us that it would be delivered to them .
+
+% TEXT
+Ntabwo abantu bacu twababonaga baravugaga ngo nituzane ibintu babashyire tukajyayo kuwa kane wa nyuma w' ukwezi .
+
+% ANNO
+[Ntabwo abantu bacu twababonaga baravugaga ngo nituzane ibintu babashyire tukajyayo kuwa kane wa nyuma w' ukwezi]

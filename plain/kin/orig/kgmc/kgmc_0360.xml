@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset descriptor="kinyarwanda">
+  <file id="kmc00360" languages="kin,eng">
+    <metadata interviewer="Yves" interviewee="Umuhire Diane" date="" location="KICUKIRO" otherInfo="GPS AVT 009"/>
+    <data>
+      <unit time="00:00:18" speaker="Yves"><align>
+        <text langid="kin"><s>Tubwire amazina yawe.</s></text>
+        <text langid="eng"><s>Tell us your name please.</s></text>
+      </align></unit>
+      <unit time="00:00:20" speaker="Diane"><align>
+        <text langid="kin"><s>Nitwa Umuhire Diane</s></text>
+        <text langid="eng"><s>Tell us your name please.</s></text>
+      </align></unit>
+      <unit time="00:00:25" speaker="Yves"><align>
+        <text langid="kin"><s>Ikibazo kitumvikana</s></text>
+        <text langid="eng"><s>Bad sound.</s></text>
+      </align></unit>
+      <unit time="00:00:27" speaker="Diane"><align>
+        <text langid="kin"><s>Nitwa Umuhire Diane, mu ntambara nari mfite imyaka icumi, ahangaha hari mu rugo ni muri komini Kicukiro, segiteri ni Sahara, serile ni Niboye.</s></text>
+        <text langid="eng"><s>My name is Umuhire Diane, I was 10 years old during the war. This was our house, it is in Kicukiro commune, Sahara sector, Niboye cell.</s></text>
+      </align></unit>
+      <unit time="00:00:40" speaker="Yves"><align>
+        <text langid="kin"><s>Mu ntambara mwari hano?</s></text>
+        <text langid="eng"><s>Where you here during the war?</s></text>
+      </align></unit>
+      <unit time="00:00:42" speaker="Diane"><align>
+        <text langid="kin"><s>Twari turi hano,</s></text>
+        <text langid="eng"><s>We were here.</s></text>
+      </align></unit>
+      <unit time="00:00:44" speaker="Yves"><align>
+        <text langid="kin"><s>Watubwira icyahabereye?</s></text>
+        <text langid="eng"><s>Could you tell us what took place here?</s></text>
+      </align></unit>
+      <unit time="00:00:48" speaker="Diane"><align>
+        <text langid="kin"><s>Icyahabereye, nuko bishe abantu, kandi hano hari icyobo, icyi cyobo twaje kugisangamo abantu bagera kuri barindwi nyuma. Hari harimo n'ibindi bintu hejuru yabo bantu, nk'ibiti n'amabuye hari harimo n'umuhoro igice cy'umuhoro wacitsemo kabiri, bishoboka ko wenda aribyo baba barabicishije.</s></text>
+        <text langid="eng"><s>People were killed, that is what happened here. Also there was a pit here. Later on, we found about 7 people in there. There were other things piled on top of them, pieces of wood, stones; there was even an axe, half of a machete that had been broken into two. That's probably what they used to kill them with.</s></text>
+      </align></unit>
+      <unit time="00:01:12" speaker="Yves"><align>
+        <text langid="kin"><s>Abo bantu bashyinguwe hehe?</s></text>
+        <text langid="eng"><s>Where are those people buried?</s></text>
+      </align></unit>
+      <unit time="00:01:14" speaker="Diane"><align>
+        <text langid="kin"><s>Abo bantu babajyanye ku Gisozi.</s></text>
+        <text langid="eng"><s>Those people were taken to Gisozi.</s></text>
+      </align></unit>
+      <unit time="00:01:17" speaker="Yves"><align>
+        <text langid="kin"><s>Mwababonye ryari?</s></text>
+        <text langid="eng"><s>When did you find them?</s></text>
+      </align></unit>
+      <unit time="00:01:20" speaker="Diane"><align>
+        <text langid="kin"><s>Twababonye muri 2004 nko mu kwezi kwa ka... mu kwezi kwa mbere.</s></text>
+        <text langid="eng"><s>We found them in 2004, in the month of…in January.</s></text>
+      </align></unit>
+      <unit time="00:01:30" speaker="Yves"><align>
+        <text langid="kin"><s>Ntago mwabashije kumenya imiryango yabo?</s></text>
+        <text langid="eng"><s>Were you able to find out who their families were?</s></text>
+      </align></unit>
+      <unit time="00:01:32" speaker="Diane"><align>
+        <text langid="kin"><s>Ntago twabashije kumenya imiryango yabo.</s></text>
+        <text langid="eng"><s>We weren't able to find out who their families were.</s></text>
+      </align></unit>
+      <unit time="00:00:06" speaker="Yves"><align>
+        <text langid="kin"><s>Tubwire amazina yawe.</s></text>
+        <text langid="eng"><s>Tell us your name.</s></text>
+      </align></unit>
+      <unit time="00:00:08" speaker="Diane"><align>
+        <text langid="kin"><s>Nitwa Umuhire Diane mu ntambara nari mfite imyaka icumi, aha turi ni muri Kicukiro, muri segiteri Sahara, serile Niboye ya kabiri. Aha hiciwe abantu benshi barenga magana atatu, abari hariya hirya bishwe ku itariki cumi z'ukwezi kwa kane (10/04/1994) barimo mama wanjye na mukuru wanjye, abari hano bo bishwe ku itariki cumi n'enye (14/04/1994). Abantu babishe baje kubatwara bafite imihoro, imbunda, amagerenade n'inkota, barabatemaguye bose, harimo nabo batwitse.</s></text>
+        <text langid="eng"><s>My name is Umuhire Diane, I was 10 years old during the genocide. We are in Kicukiro, in Sahara sector, the cell is Niboye II. Many people were killed here, over 500 people. Those who were on the other side were killed on April 10th, 1994. Among them are my mother and my older sister. The ones who are in here were killed on April 14th, 1994. The killers had machetes, guns, grenades, swords. They slaughtered them and some of them were burnt alive.</s></text>
+      </align></unit>
+      <unit time="00:00:54" speaker="Yves"><align>
+        <text langid="kin"><s>Abantu bo mu rugo bari barimo ushobora kubatubwira?</s></text>
+        <text langid="eng"><s>Could you tell us who the members of your family were who were in here ?</s></text>
+      </align></unit>
+      <unit time="00:01:00" speaker="Diane"><align>
+        <text langid="kin"><s>Hari harimo Mama wanjye na Papa na mukuru wanjye.</s></text>
+        <text langid="eng"><s>There was mother, father and my older sister.</s></text>
+      </align></unit>
+      <unit time="00:01:04" speaker="Yves"><align>
+        <text langid="kin"><s>Mama wawe yitwaga nde?</s></text>
+        <text langid="eng"><s>What was your mum's name ?</s></text>
+      </align></unit>
+      <unit time="00:01:05" speaker="Diane"><align>
+        <text langid="kin"><s>Murebwayire Veneranda Papa yitwaga Hakizimana Fidèle, mukuru wanjye yitwaga Hakizimana Rosine.</s></text>
+        <text langid="eng"><s>Murebwayire Veneranda, dad was called Hakizimana Fidèle and my older sister's name was Hakizimana Rosine.</s></text>
+      </align></unit>
+      <unit time="00:01:13" speaker="Yves"><align>
+        <text langid="kin"><s>Noneho muri make tubwire uburyo babamanuye hano uburyo babazanye hano, n'uburyo babafashe kugeza kubica, hano hari hameze hate mbere? Hari icyobo kimeze gute?</s></text>
+        <text langid="eng"><s>Could you briefly tell us how they were brought down here…how they brought them here…what happened from the time they were caught until the time they were killed.</s></text>
+      </align></unit>
+      <unit time="00:01:25" speaker="Diane"><align>
+        <text langid="kin"><s>Hano hari icyobo bamenamo imyanda, twari twahungiye haruguru mu kigo cy'ababikira baza kubatwara ari interahamwe zigera nko kuri makumyabiri. Abenshi bambaye imihoro, bafite imbunda barabamanura, twese baratumanura batwicaza mu muhanda hagati nuko uwari ukuriye interahamwe aravuga ngo ntihagire uwica umwana, ngo bice abakuru gusa. Nuko bamaze kubamanura nibwo batangiye kubatemagura, abo bashyize muri kiriya cyobo ku itariki icumi, bo babashyizemo basahura n'amamatela yari ari mu rugo, n'ayarari hirya no hino bashyiraho esanse barabatwika.</s></text>
+        <text langid="eng"><s>Here was a rubbish tip, we had sought refuge in a convent up there. They came looking for them there, they were about 20 Interahamwes. Many of them had machetes, guns and they got them to go down, they got us to go down and sit in the middle of the road. The head of the Interahamwes said they should not kill the children, that they should only kill adults. And so after they went down, they started cutting them down, on April 10th, they threw them into this pit. They also stole mattresses at home and in other houses in the neighbourhood, they poured fuel and burnt them.</s></text>
+      </align></unit>
+      <unit time="00:02:05" speaker="Diane"><align>
+        <text langid="kin"><s>Barabatemye, babata mu cyobo barangije babashyiraho n'amamatela barabatwika, nyuma nibwo baje kugaruka gusaka mu kigo cy'ababikira, ari nabwo batwaraga Papa wanjye. Bwo baje ari interahamwe eshanu, harimo babiri bafite imbunda undi afite inyundo n'abandi babiri bafite imihoro, nibwo nabo babamanukanye nabo barabica.</s></text>
+        <text langid="eng"><s>They cut them down and threw them into a pit, and then they put mattresses on top of them and burnt them. Later on they came back to the convent. That's when my dad was taken away. There were 5 Interahamwes this time. Two of them had guns, one had a hammer, two of them had machetes, that's when they took him down and killed him as well.</s></text>
+      </align></unit>
+      <unit time="00:02:30" speaker="Yves"><align>
+        <text langid="kin"><s>Papa wawe we bamwishe nyuma?</s></text>
+        <text langid="eng"><s>So your father was killed later on?</s></text>
+      </align></unit>
+      <unit time="00:02:31" speaker="Diane"><align>
+        <text langid="kin"><s>Papa we bamutwaye nyuma ku itariki cumi n'enye.</s></text>
+        <text langid="eng"><s>Dad was taken after, on the 14th.</s></text>
+      </align></unit>
+      <unit time="00:02:35" speaker="Yves"><align>
+        <text langid="kin"><s>Abantu bose babishe mu buryo bumwe cyangwa Papa wawe byari bikabije?</s></text>
+        <text langid="eng"><s>Were they killed the same way or was his situation worse?</s></text>
+      </align></unit>
+      <unit time="00:02:41" speaker="Diane"><align>
+        <text langid="kin"><s>Papa we barabanje bamukubita inyundo mu mutwe, ubundi bamutwara bamukurura hasi. Ubwo urumva déja bari barangije ni nkaho ari ukumwica, nyuma rero baranamutemaguye kuko nyuma tubataburura ku mutwe hagaragaraho imihoro na hano (ijosi) ku magufa byaragaragaraga.</s></text>
+        <text langid="eng"><s>First, they hit him on the head with a hammer; they took him pulling him across the ground. So you can understand that it was as though they had already killed him. Later again, they slaughtered him, because when we exhumed them, there were traces of a machete on his head and here [on the neck], revealing the bones.</s></text>
+      </align></unit>
+      <unit time="00:03:03" speaker="Yves"><align>
+        <text langid="kin"><s>Nibo noneho bashyinguye hano?</s></text>
+        <text langid="eng"><s>So they are the ones who buried them here?</s></text>
+      </align></unit>
+      <unit time="00:03:05" speaker="Diane"><align>
+        <text langid="kin"><s>Nibo bashyinguye hano.</s></text>
+        <text langid="eng"><s>They are the ones who buried them here.</s></text>
+      </align></unit>
+      <unit time="00:03:06" speaker="Yves"><align>
+        <text langid="kin"><s>Hari abandi bantu waba uzi, bari abaturanyi banyu baba barimo hano?</s></text>
+        <text langid="eng"><s>Do you know anyone else who is in here, perhaps your neighbour?</s></text>
+      </align></unit>
+      <unit time="00:03:10" speaker="Diane"><align>
+        <text langid="kin"><s>Yee, barahari.</s></text>
+        <text langid="eng"><s>Yes, I do.</s></text>
+      </align></unit>
+      <unit time="00:03:11" speaker="Yves"><align>
+        <text langid="kin"><s>Wabatubwira?</s></text>
+        <text langid="eng"><s>Could you tell us who they are?</s></text>
+      </align></unit>
+      <unit time="00:03:13" speaker="Diane"><align>
+        <text langid="kin"><s>Hari nk'umuryango wa Baziga Aloys, hari n'abandi bari abaturanyi umuryango wa Semana Pierre n'umugore we, hari n'umwana witwaga Mutama. Ni benshi ni benshi harimo nabo ntazi.</s></text>
+        <text langid="eng"><s>There is Baziga Aloys' family, some of them were our neighours, Semana Pierre's family and his wife, there is also a child called Mutama. There are many in there and I do not know them all.</s></text>
+      </align></unit>
+      <unit time="00:05:33" speaker="Yves"><align>
+        <text langid="kin"><s>Ndashaka ku kubaza hano hantu hakubwira iki kuri wowe? Buri gihe iyo uhageze hakubwira iki?</s></text>
+        <text langid="eng"><s>I'd like you to tell me how you feel towards this place. How do you feel when you come here?</s></text>
+      </align></unit>
+      <unit time="00:05:40" speaker="Diane"><align>
+        <text langid="kin"><s>Buri gihe iyo mpageze hantera kubabara, noneho hanyuma mpite nkurikizaho na bya bindi byose.</s></text>
+        <text langid="eng"><s>Whenever I come here, I feel pain… Do I talk about everything else?</s></text>
+      </align></unit>
+      <unit time="00:05:48" speaker="Yves"><align>
+        <text langid="kin"><s>Aha hantu iyo uhageze hakubwira iki?</s></text>
+        <text langid="eng"><s>How do you feel when you come here?</s></text>
+      </align></unit>
+      <unit time="00:05:51" speaker="Diane"><align>
+        <text langid="kin"><s>Aha hantu iyo mpageze, hantera ku babara kuko hanyibutsa byinshi nk'ibyaba byarabaye mu ntambara.</s></text>
+        <text langid="eng"><s>I feel pain when I come here. This place reminds me of the many things that happened during the war.</s></text>
+      </align></unit>
+      <unit time="00:05:59" speaker="Yves"><align>
+        <text langid="kin"><s>Uko hameze wumva bigushimishije? Wumva aribyo, cyangwa wifuza ko hari ukundi byagenda?</s></text>
+        <text langid="eng"><s>Do you like the way this place is kept? Do you think it's the way things should be or do you have a different opinion?</s></text>
+      </align></unit>
+      <unit time="00:06:06" speaker="Diane"><align>
+        <text langid="kin"><s>Uko hameze ubu, njye uko mbibona mbona bitanshimishije kuko numva babajyana nko mu nzibutso kuko n'ubundi aha ni mu rugo rw'umuntu, nta n'igihamya kerekana ko ari n'abantu bahaguye mu ntambara. Numva ikiza ari uko bajya nko mu nzibutso umuntu akajya abasangayo.</s></text>
+        <text langid="eng"><s>I do not appreciate the way it is now, I do not like it. I think they should be taken to a memorial site since this is somebody's house anyway. There's nothing that shows that these people were killed during the war. I believe it would be better to take them to a memorial site and people would visit them there.</s></text>
+      </align></unit>
+    </data>
+  </file>
+</dataset>

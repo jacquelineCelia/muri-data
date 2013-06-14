@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Yari ateye ate mu mibanire ye n' abandi Bantu ikintu ujya wumva umwibukiraho udashobora gupfa kwibagirwa ? ||| How did he relate with other people and what is the one thing that you remember about him that you can not forget ?
+
+% TEXT
+Yari ateye ate mu mibanire ye n' abandi Bantu ikintu ujya wumva umwibukiraho udashobora gupfa kwibagirwa ?
+
+% ANNO
+[Yari ateye ate mu mibanire ye n' abandi Bantu ikintu ujya wumva umwibukiraho udashobora gupfa kwibagirwa]

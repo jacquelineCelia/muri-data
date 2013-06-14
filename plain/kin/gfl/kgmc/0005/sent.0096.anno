@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko nkumva umwana atabasha kwishakishiriza icyarya nkumva iteka agomba kubana n' umubyeyi . ||| I felt that a child would n't be able to get what to eat on his @/@ her own and hence always had to live with a parent .
+
+% TEXT
+Ariko nkumva umwana atabasha kwishakishiriza icyarya nkumva_1 iteka agomba kubana n' umubyeyi .
+
+% ANNO
+[Ariko nkumva umwana atabasha kwishakishiriza icyarya nkumva_1 iteka agomba kubana n' umubyeyi]

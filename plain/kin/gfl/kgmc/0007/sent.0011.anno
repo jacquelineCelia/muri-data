@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Wibaza ko abantu bumva cyangwa basobanukirwa ibyo mwanyuzemo . ||| Do you think that people understand your experience ? .
+
+% TEXT
+Wibaza ko abantu bumva cyangwa basobanukirwa ibyo mwanyuzemo .
+
+% ANNO
+[Wibaza ko abantu bumva cyangwa basobanukirwa ibyo mwanyuzemo]

@@ -1,0 +1,284 @@
+﻿
+::source http://izuba.org.rw ::genre newspaper ::date February 18, 2011 ::collected-by Ulf Hermjakob
+
+::kin Abadepite baranenga kutemera amakosa kwa Minisitiri Murekezi ::constituent headline
+::kin Minisiteri iyoborwa na Dr Murekezi Anastase yanenzwe kutemera amakosa ikora kandi agaragarira buri wese (Ifoto/Ububiko) ::constituent caption
+::kin Nzabonimpa Amini ::constituent author
+::kin KIMIHURURA - ::constituent byline
+::kin Mu itangazo ikinyamakuru Izuba Rirashe gikesha serivisi y'itangazamakuru n'itumanaho y'Inteko Ishinga Amategeko Umutwe w'Abadepite, rivuga ko Inteko rusange y'Abadepite yateranye tariki ya 16 Gashyantare 2011, yanenze MIFOTRA ko itemeye amakosa yakoze kandi agaragara.
+::kin Ayo makosa akaba ajyanye n'uko gahunda yo gufasha abakozi basezerewe mu mirimo ya Leta kubona indi mirimo itagenze neza.
+::kin Uwo mwanzuro wafashwe nyuma y'uko Komisiyo y'Imibereho y'Abaturage y'Umutwe w'Abadepite, igejeje ku Nteko Rusange ibyavuye mu isesengura yakoze kuri raporo y'Umugenzuzi Mukuru wa Leta,  ku birebana n'ibyagezweho na gahunda yo gufasha abakozi basezerewe mu mirimo ya Leta kubona indi mirimo,  mu rwego rw'abikorera (2005-2009).
+::kin Abadepite bemeza ko iyo gahunda yakozwe nabi kandi ibamo amakosa menshi, yaje kwerekanwa na raporo y'Umugenzuzi Mukuru w'Imari ya Leta ndetse ikaza gushimangirwa na raporo y'isesengura rya Komisiyo y'Imibereho y'Abaturage mu Mutwe w'Abadepite.
+::kin Raporo y'Umugenzuzi Mukuru w'Imari ya Leta ikaba igaragaza ko MIFOTRA itari ifite gahunda, abahuguwe ntibigeze bahitamo ibyo bahugurwamo, biza gutuma batabona ibyo bari bakeneye, hari abasezerewe mu kazi bafashijwe inshuro ebyiri, ingengo y'imari mu gufasha abasezerewe ntabwo yari ihagije, gukerererwa kwishyura inguzanyo yo kwiga ku basezerewe no kwishyura amafaranga y'ishuri ku bigo byabakiriye, abahisemo gukora imishinga batakurikiranywe n'ibindi.
+::kin Komisiyo y'Imibereho myiza y'Abaturage y'Umutwe w'Abadepite nayo yakoze icukumbura, igaragaza ko MIFOTRA itahaye igenzura agaciro ngo hagaragazwe inyandiko zose zari zikenewe, kutagira igenamigambi rigaragaza abo gahunda igenewe n'ibyo bagomba kuba bujuje, guha CAPMER akazi nta masezerano yanditse, kuba hataragaragajwe ibyiciro by'abakozi barebwaga n'ikibazo, kuba nta rutonde rw'abasezerewe MIFOTRA yari ifite n'ibindi.
+::kin Habayeho kandi ivuguruzanya hagati y'inzego, aho MIFOTRA yemeza ko ingengo y'imari yari ihari Umugenzuzi Mukuru akabihakana, ibijyanye n'itinda ry'inguzanyo byarebaga SFAR, SFAR nayo ikavuga ko bitinzwa na MINECOFIN n'ibindi.
+::kin Abadepite batandukanye bagaragaje ko umugenzuzi Mukuru w'Imari ya Leta yakoze akazi ke neza ndetse ko na Komisiyo yakoze isesengura ryimbitse, ibyo byatumye MIFOTRA banayinenga gukora amakosa.
+::kin Inteko rusange y'Umutwe w'Abadepite ikaba yemeje ko imyanzuro bafashe ishyikirizwa Guverinoma,  kuko iyo nshingano yo gushakira imirimo abasezerewe mu mirimo ya Leta yahawe Ikigo cy'Igihugu cy'Iterambere (RDB).
+::kin Izuba Rirashe ryifuje kuvugana n'abayobozi ba MIFOTRA, yaba Minisitiri ndetse n'Umunyamabanga Uhoraho bose ntibashobora kwitaba telefoni.
+
+::kin Kwigisha ikinyarwanda ni ukubumbatira umuco ::constituent headline
+::kin Kuba Minisiteri ifite uburezi mu nshingano yarahisemo ko amasomo yajya yigishwa mu Kinyarwanda mu mashuri y'incuke n'amashuri abanza ni igikorwa cyiza giha agaciro ururimi rwacu ndetse kikazanatuma uru rurimi rukomeza kuba mu mateka aho kugira ngo agaciro gakomeze guhabwa indimi z'amahanga.
+::kin Ibi bizanafasha n'abana ubwabo kumva ko ururimi rwabo narwo rufite uburemere runaka mu byo biga. Ururimi ni kimwe mu birango bikomeye by'umuco ari nayo mpamvu rukwiye kubumbatirwa kugira ngo rudata agaciro.
+::kin Ururimi ni kimwe mu birango bikomeye by'umuco ari nayo mpamvu rukwiye kubumbatirwa kugira ngo rudata agaciro.
+::kin Cyakora kurwigishamo byonyine ntibihagije kugira ngo rukomeze kubumbatirwa, ahubwo hari n'ibindi bikwiye gukomeza gukorwa kugira ngo indimi z'amahanga zidakomeza kwiganza mu rurimi rwacu.
+::kin Muri byo harimo gushyiraho itsinda ry'intiti (academy) rishinzwe gukurikirana uburyo ururimi rukoreshwa, uko rukura, uko ruhinduka n'ibindi, ibi byafasha kugira ngo ruhorane umwimerere warwo aho kugira ngo tujye twumva amagambo y'izindi ndimi akomeza kwiganza mu Kinyarwanda.
+
+::kin Fuadi yagiye gukora igeragezwa muri Pologne ::constituent headline
+::kin Fouad yishimira Primus Cup (Foto/P. Kamasa) ::constituent caption
+::kin Peter Kamasa ::constituent author
+::kin KIGALI - ::constituent byline
+::kin Umukinnyi w'ikipe ya Kiyovu Sport, Ndayisenge Fuadi yagiye mu gihugu cya Pologne aho yagiye gukora igeragezwa mu ikipe ya MKF Crecovia.
+::kin Mu kiganiro n'ikinyamakuru Izuba Rirashe, ku wa 17 Gashyantare 2011, Umunyamabanga w'ikipe ya Kiyovu Sport, Jean Marie Nsengiyumva, yatangaje ko uwo mukinnyi bamuhaye uruhushya rwo kujya gukora igeragerazwa muri iyo kipe nyuma imishyikirano ikazakomeza.
+::kin Nsengiyumva yakomeje avuga ko kandi Fuadi yasinye muri Kiyovu Sport, amasezerano y'imyaka 2, agomba kurangira muri Kanama 2011, mu gihe yaramuka atsinze igeragezwa, Kiyovu yagirana imishyikirano n'ikipe yaba imwifuza.
+::kin Ndayisenge Fuadi, ukina ku ruhande rw'i bumoso, ni umukinnyi ukomoka mu gihugu cy'u Burundi, wamenyekanye cyane ubwo yakinira ikipe ya APR FC yaje ku musezerera agahita yerekeza mu ikipe ya Kiyovu Sport yari abereye kapiteni.
+
+::kin ATRACO mu myiteguro yo gutora abayobozi bashya ::constituent headline
+::kin Perezida wa ATRACO, Colonel Twahirwa Dodo (Ifoto/Ububiko) ::constituent caption
+::kin Eugene Mugabo ::constituent author
+::kin KIGALI - ::constituent byline
+::kin Colonel Twahirwa Dodo akaba na Perezida w'ishyira-hamwe ry'abashoferi b'imodoka zitwara abagenzi (ATRACO), arakangurira abanyamuryango kuzatora abayobozi bashya ba ATRACO, bagasabwa kuzita cyane ku gutora uwo babona ufite icyo azabamarira mu bikorwa by'iterambere.
+::kin Ni muri urwo rwego kuri uyu wa 16 Gashyantare 2011, abahagarariye abanyamuryango ba ATRACO bagera ku bihumbi bitatu, baturutse mu mpande zinyuranye z'igihugu bateraniye i Kigali, mu nama yigirwagamo iby'amatora y'abayobozi b'amakoperative y'abashoferi azaba kuwa  24 Gashyantare 2011.
+::kin Mu kiganiro yagiranye n'ikinyamakuru Izuba Rirashe, Perezida w'ATRACO yavuze ko ayo mahugurwa abanyamuryango bamazemo iminsi yari agamije kubaha ubumenyi ku myiteguro y'amatora y'abayobozi mu nzego zinyuranye zigamije kuvugurura ATRACO.
+::kin Biteganyijwe ko muri iryo vugururwa hagomba kubaho amakoperative, za Union ndetse n'urugaga ari rwo Federation.
+::kin Iryo vugururwa rikaba rigamije kunoza imikorere mu kongera ubushobozi bw'abanyamuryango, bagura imodoka  zishobora guhatana n'izo muri aka Karere muri serivise zo gutwara abantu.
+::kin Iryo vugururwa ngo rizanatuma abanyamuryango babona inyungu zirimo iz'umuryango, nk'ubwishingizi mu buvuzi n'ibindi.
+::kin Muri icyo kiganiro Perezida w'ATRACO yasabye abanyamuryango kuzatora abayobozi bazabagirira akamaro kandi bazirikana inyungu zabo.
+::kin Bamwe mu bashoferi batangarije ikinyamakuru Izuba Rirashe  ko iri vugururwa ry'ATRACO rigiye gutuma imikorere yabo irangwa n'umucyo.
+::kin Muri iyi nama, abahagarariye abanyamuryango ba ATRACO, batinze ku birebana n'izina rizahabwa koperative yabo hamwe n'ibijyanye n'umugabane  ukwiye kuba watangwa na buri munyamuryango.
+::kin Colonel Twahirwa Dodo  yavuze ko  ibi bibazo byose bizafatirwa umwanzuro mu nteko rusange izaterana mu kwezi kwa gatatu, nyuma y'amatora y'abayobozi b'amakoperative y'abashoferi, ayo matora akazakorwa mu gihugu hose.
+
+::kin Sinzasebya Leta nakoreye - Habineza ::constituent headline
+::kin Uwahoze ari Minisitiri w'Umuco na Siporo Habineza Joseph (Ifoto/T. Kisambira) ::constituent caption
+::kin Peter Kamasa ::constituent author
+::kin KIGALI - ::constituent byline
+::kin Uwahoze ari Minisitiri w'Umuco na Siporo, nyuma yo kwegura ku mirimo ye aratangaza ko atazigera asebya Leta yakoreye kandi atazigera na rimwe arwanya Leta y'u Rwanda.
+::kin Mu kiganiro yagiranye n'abanyamakuru nyuma y'umunsi umwe gusa yeguye, hari tariki ya 16 Gashyantare 2011, Habineza Joséph yatangaje ko atazigera na rimwe asebya igihugu cye.
+::kin Habineza yagize ati « sinzakora ibirwanya igihugu cyanjye, Never, Never, Never, sinzakora icyirwanya igihugu cyanjye. »
+::kin Yakomeje avuga ko icyo igihugu kizifuza ko akora azagikora kuko akunda igihugu cye kandi cyane.
+::kin Habineza avuga ko ataje gushaka imyaka, ngo icyari cyimubesheje muri iyo Minisiteri ni ugukorera igihugu cye kandi neza, ati « naharaniye kwibohora, twabigezeho, ubwo se naba nshaka ikindi kihe?»
+::kin Yakomeje avuga ko yatangiye guharanira kwibohora mu mwaka wa 1990 ubwo yakoraga muri Blarirwa, kandi igihugu cyabigezeho,  akomeza vuga ko azashaka ibindi akora kandi bizamuteza imbere, ati « icyo nakora cyose nabaho kandi ibyiza biri imbere.»
+::kin Habineza avuga ko agiye gufata icyiruhuko gito bityo nyuma akazaba aribwo atangira gushaka ibyo azakora, ati « mu gihe Nyakubahwa Perezida wa Repuburika yanshinga indi mirimo nayikora nta kibazo.»
+::kin Habineza yasabye Abanyarwanda muri rusange, ko bakwiye gukora bagatera imbere kandi ibyiza bigakomeza gushyigikirwa.
+::kin Habineza avuga ko uzaza mu kazi yakoraga agakomereza aho yari agejeje kandi ko bizagenda neza, ariko akavuga ko ibyabaye byamubabaje kuko igisebo cyagiye ku buyobozi bw'u Rwanda, akomeza avuga ko atari umwanzi w'igihugu  kuko atarwanya igihugu cye, ati « niba narababereye umuyobozi mubi am sorry for that. »
+::kin Minisitiri Habineza yashyikirije urwandiko rwegura ubuyobozi bw'Igihugu ku wa kabiri taliki ya 15 Gashyantare 2011 nyuma y'uko hashakajwe amafoto adasanzwe yagaragayemo ari kumwe n'inkumi eshanu bari mu bikorwa byo kwishimisha, iyegura rye ryaremewe niko guhita ava muri Guverinoma.
+
+::kin Abayobozi bahawe imirimo mishya barasabwa gukorana ingufu ::constituent headline
+::kin Barikana Eugene wari Umunyamabanga Uhoraho muri Minisiteri y'Ubutegetsi by'Igihugu na Turatsinze Cyrile wamusimbuye kuri uwo mwanya (Ifoto/J. Mbanda) ::constituent caption
+::kin Kizza E. Bishumba ::constituent author
+::kin Ku cyicaro cya Minisiteri y'Ubutegetsi bw'Igihugu ku Kacyiru ku wa 16 Gashyantare 2011, habereye umuhango w'ihererekanyabubasha hagati y'Umuyobozi mushya w'Ibiro bya Minisitiri w'Intebe, Barikana Eugene wari Umunyamabanga Mukuru muri Minisiteri y'Ubutegetsi by'Igihugu na Turatsinze Cyrile wamusimbuye kuri uwo mwanya, Minisitiri Musoni James wayoboye uwo muhango, yashimimiye abo bayobozi bombi kuba bakoze neza imirimo bari bashinzwe mbere, anabasa gukomeza iyo mikorere mu mirimo mishya bahawe.
+::kin Yagize ati “kuzamurwa mu ntera kwanyu byaturutse ku mikorere myiza yabaranze, mwizuza inshingano muhabwa.”
+::kin By'umwihariko  yashimiye  Barikana ku bwitange no gukunda igihugu yagaragaje mu kazi ke, ati “gukora muri iyi Minisiteri y'Ubutegetsi bw'Igihugu ni ugukunda abaturage.”
+::kin Yasabye  abakozi b'iyo Minisiteri gukorera hamwe nk'ikipe, kugira ngo bashobore kugera ku musaruro mwiza.
+::kin Mu ijambo rye, Barikana we yashimiye ubufatanye n'imikoranire myiza yaranze abakozi ba MINALOC na Minisitiri Musoni by'umwihariko, ati “ubufatanye n'imikoranire myiza nibyo byatumye  ngera kuri byinshi mu nshingano zanjye.”
+::kin Barikana yasabye abakozi b'iyo Minisiteri muri rusange, gukomeza ubufatanye kugira ngo bajye bahora ku isonga, anavuga ko azakomeza kubaba hafi, bagakomeza gufatanya muri gahunda zinyuranye mu kubaka igihugu.
+::kin Turatsinze Cyrile akaba n'Umunyamabanga Uhoraho mushya wasimbuye Barikana, mu ijambo rye yavuze ko yishimiye intera nziza yahawe, avuga ko  yahoraga yifuza kuba yakorana na MINALOC kuko yayibonagamo ubushobozi no gukorera mu mucyo.
+::kin Turatsinze avuga ko yishimiye akazi yahawe, ko n'ubwo ari inshingano zikomeye yiteguye kuzazuzuza ku bufatanye na bagenzi be asanze, aboneraho kwizeza abakozi asanze kuzakorana neza nabo, aharanira ko ibyo iyo Minisiteri imaze kugeraho byakomeza kujya mbere.
+::kin Barikana Barikana abaye umuyobozi mu biro bya Minisitiri w'Intebe,  yari Umunyamabanga Uhoraho muri MINALOC, naho Turatsinze Cyrile yari Umuyobozi wungirije ushinze uburinganire, muri Minisiteri y'Uburinganire n'Iterambere ry'Umuryango.
+
+::kin MIDIMAR yatanze amahugurwa yo kurwanya ibiza ::constituent headline
+::kin Cpt Kayitana Jean Damascène (hagati) hamwe n'impuguke z'Abanyakenya zikuriye ikigo cyo guhangana n'ibiza (Ifoto/Sebuharara) ::constituent caption
+::kin Sebuharara Sylidio ::constituent author
+::kin Ku itariko 17 Gashyantare 2011, abakozi ba Minisiteri y'Imicungire y'Ibiza n'Impunzi (MIDIMAR) Ndetse n'abafatanyabikorwa b'iyi minisiteri, basoje amahugurwa yari yateguwe ku bijyana no kurwanya ibiza no gutabara abahuye n'ibiza, Minisitere yo gucyura impunzi no kurwanya ibiza ikaba yarabifashijweno n'ikigo cyo kurwanya ibiza cyo mu gihugu cya Kenya kibifitemo uburambe n'ubushobozi.
+::kin Izi ngamba zo gutanga ubu bumenyi, bije nyuma yo kubona ko mu Rwanda hari Uturere twibasirwa n'ibiza kandi abaturage bakahasiga ubuzima iyo ubutabazi budakozwe neza mu gihe kihuse, aho byagaragaye ko mu Rwanda mu gihe cy'ubutabazi habamo guhuzagurika mu nzego, ubundi bamwe mu bakora ibikorwa by'ubutabazi ntibasobanukirwe neza ibyo bagombye gukora n'igihe cyo kubikora.
+::kin Ni muri urwo rwego Minisiteri ishinzwe kurwanya ibiza no gucyura impunzi ifatanyije n'umuryango mpuzamahanga wita ku mpunzi UNHCR, batumiye ikigo cyo muri Kenya gishinzwe kurwanya ibiza ngo kigire ubumenyi gitanga no kubakora muri serivise zikora ibijyana n'ibiza mu Rwanda.
+::kin Umunyamabanga w'agateganyo muri MIDIMAR Capitaine Kayitana Jean Damascene, yatangarije ikinyamakuri Izuba Rirashe ko mu Rwanda hari uburyo bwo guhangana n'ibiza ariko butanoze,  bityo bakaba bashaka ko ababikoramo babigiramo ubushobozi.
+::kin Yatangaje ko MIDIMAR itamaze igihe kinini itangiye, ibyo bigatuma nta n'ubushobozi buhagije buboneka bwo guhangana n'ibiza, ariko ko ifite icyerekezo cyiza ifatanyije n'ababifitemo uburambe, nk'ikigo cya Kenya gishinzwe gucunga ibiza.
+::kin Uburyo abitabiriye ibiganiro bari kwigishwa akaba ari ubwitwa Incident command Système (ICS), bukubiyemo gutegura abahangana n'ibiza n'uburyo bwo guhangana nabyo mu gihe cyihuse.
+::kin Umuyobozi w'ikigo gishinzwe guhangana n'ibiza mu gihugu cya Kenya Colonel Vicent Anami, yatangaje ko guhangana n'ibiza bigomba gutegurwa mbere y'uko ibiza bibaho, ibyo bigatuma n'iyo bibaye byihuta mu kubihashya no gutabara abari mu kaga.
+
+::kin IPAR yaje ku isonga ry'ibigo 20 by'ubushakashatsi bishya ku isi muri 2010 ::constituent headline
+::kin Antonia Mutoro, Umunyamabanga Nshingwabikorwa wa IPAR (Ifoto/Interineti) ::constituent caption
+::kin Jean Louis Kagahe ::constituent author
+::kin Ikigo cy'ubushakashatsi n'Isesengura  kuri za Politiki mu Rwanda, IPAR (Institute of Policy Analysis and Resarch-Rwanda) cyabaye icya mbere mu bigo 20 by'ubushakashatsi bikiri bishya ku isi mu mezi 18 ashize, ibyo kikaba cyarabihawe mu mwaka wa 2010.
+::kin Ibi ni ibyatangajwe n'Umunyambabanga Nshingwabikorwa wa IPAR, Antonia Mutoro mu kiganiro yagiranye n'ikinyamakuru Izuba Rirashe  kuri telefoni igendanwa kuwa 17 Gashyantare 2011.
+::kin Nk'uko yabisobanuye, IPAR yashyizwe ku rutonde rw'ibyo bigo byitirirwa “Best New Think Tanks”, bikozwe  n'ikigo “Think Tanks and Civil Societies Program” nacyo kibarizwa muri gahunda ya “International Relations Program” ya Kaminuza  Mpuzamahanga yo mu gihugu cya Pennyslavaniya muri Leta Zunze Ubumwe z'Amerika.”
+::kin Mutoro yakomeje asobanurira ikinyamakuru Izuba Rirashe ko mu kujya gushyira ibigo ku rutonde (Global Thinks Rankings), hari ibigo bikurikirana imikorere y'ibigo by'ubushakashatsi ku isi bikoresheje urubuga rwa intarineti rw'ibyo bigo (website), maze bikagenda bisuzuma imizamukire yabyo, byitaye ku byagezweho mu bushakashatsi n'ingaruka zabyo nziza mu mizamukire y'ibihugu cyangwa y'isi muri rusange.
+::kin Yagize ati “ibyo dukora byose tubishyira ku rubuga rwa interineti rwacu,  maze abantu bakabikurikiriraho ari nako twagiye ku rutonde rwa mbere, batugereranije n'ibigo 20 bishyashya mu mezi 18 ashize.”
+::kin Mu bikorwa byihariye byashyize IPAR ku isonga  mu myaka 2 n'igice imaze itangiye gukora, ni nko kuba cyarakoze ubushakashatsi  ku Ntego z'Ikinyagihumbi n'uburyo u Rwanda ruzabishyira mu bikorwa mu rwego rw'iterambere ryarwo, ubushakashatsi mu itezwa ry'imbere ry'imitangire ya serivisi (service delivery) n'ingamba zafatwa kugira ngo  za serivisi zinyuranye zirusheho gutera imbere.
+::kin Ibi bikorwa n'ibindi binyuranye, IPAR ngo ibikorana n'abafatanyabikorwa banyuranye barimo za Minisiteri zinyuranye, ibigo na Komisiyo za Leta, Banki y'isi, (World Bank), Ishami ry'Umuryango w'Abibumbye rishinzwe Iterambere (UNDP) n'ibindi, byose bikaba bisuzuma aho u Rwanda rugeze mu iterambere.
+::kin Nubwo Mutoro yemera ko bagiye gukaza umurego kugira ngo umwanya bagezeho bazawugumeho, yemeza ko hari n'inzitizi IPAR ihura nazo, nko kuba bakenera ko ibyo bagezeho bigera ku bayobozi bakuru bafata ibyemezo, gukorana byimazeyo n'itangazamakuru, cyangwa  kutagira abashakashatsi b'inzobere ariko nabwo akanishimira ko abashakashatsi bagana iki kigo baza bafite inyota yo kumenya, ikigo nacyo kikaba gifite mu nshingano zacyo guhugura abakozi bacyo.
+::kin Iyi gahunda ya “Global Thinks Rankings” iba buri mwaka, iya 2010 ikaba ari iya kane  naho kuri IPAR bukaba ari ubwa mbere igiye ku rutonde,  dore ko imaze imyaka 2 n'igice gusa  itangiye.
+::kin Ibindi bigo by'ubushakashatsi byo muri Afurika biri ku Rutonde, ni “ The African Centre for Leadership Strategy and Development  (Centre  LDS) cyo muri Nigeria na “ Casablanca Institute” cyo muri Maroc.
+
+::kin Ikigori kiri mu biribwa bikunzwe cyane ku isi ::constituent headline
+::kin Ibigori byasaruwe mu Karere ka Musanze (Ifoto/Niyonsenga) ::constituent caption
+::kin Michel Niyonsenga ::constituent author
+::kin Amakuru ikinyamakuru Izuba Rirashe gikesha urubuga rwa interineti www.linternaute.com, avuga ko ikigori ari kimwe mu binyampeke bihingwa henshi ku isi, kandi umubare w'abakunzi bacyo ukaba ukomeje kwiyongera mu buryo budasanzwe.
+::kin Nk'uko aya makuru akomeza abivuga, hari mu mwaka wa 1492 ubwo Umunyaburayi Christophe Colomb yavumburaga Umugabane wa Amerika, agezeyo ahasanga iki kinyampeke kihamaze igihe, aza kujyana iki gihingwa ku Mugabane w'Uburayi, gitangira guhingwa nyuma y'imyaka 2, ni ukuvuga mu mwaka wa 1494.
+::kin Bitewe n'uburyohe ndetse n'intungamubiri iki gihingwa cyakomeje  kugaragaza, cyagiye gikwira ahantu hatandukanye kugeza aho ubu kiboneka ku Migabane yose y'isi uko ari itanu, bakavuga ko ikigori kimaze imyaka igera ku 7,000 kibayeho.
+::kin Aya makuru avuga ko burya intete y'ikigori iba igizwe n'amazi ku kigero cya 35%, ikigori kikaba gikungahaye ku byubaka umubiri, ibitera Imbaraga, ibinyamavuta na za vitamini zitandukanye, bigatuma kurya iki kinyampeke bishobora gusimbura kurya ibihingwa byinshi bitandukanye.
+::kin Aya makuru akomeza avuga ko ikigori gikungahaye cyane kuri vitamine no ku munyungugu wa manyeziyumu, ukenerwa cyane mu mitsi no mu bwonko.
+::kin Aya makuru yongeraho ko ibigori binabonekamo ibinyamavuta ku kigero gito cyane, dore ko bemeza ko muri garama 100 z'ibigori habonekamo miligarama 1.2 gusa z'amavuta.
+
+::kin Ibinyesukari biri mu byangiza cyane amenyo ::constituent headline
+::kin Ibinyesukari biri mu byangiza amenyo cyane (Ifoto/Niyonsenga) ::constituent caption
+::kin Michel Niyonsenga ::constituent author
+::kin Amakuru ikinyamakuru Izuba Rirashe gikesha ishami ry'Ubuvuzi muri kaminuza ya Kolumbiya muri Leta Zunze Ubumwe z'Amerika, avuga ko kurya ibintu byuzuye amasukari ari kimwe mu bituma indwara z'amenyo ziyongera, cyane cyane iyo bidakurikiwe no kuyakorera isuku ihagije nyuma gato yo kuyakoresha mu kurya ibyo.
+::kin Nk'uko ayo makuru akomeza abisobanura, bimwe abantu bakunda biryohera cyane nka za bombo, ibisuguti, amafunguro n'imitobe byiganjemo isukari ikabije, bigira uruhare rudasubirwamo mu kongera indwara zimunga amenyo, cyane cyane izwi ku izina rya « Carie dentaire .»
+::kin Aya makuru avuga ko iyi ndwara ituma amenyo amungwa agatangira gutakaza imyunyungugu, nyuma bikaza no gufata ishinya bigatangira kuyimunga, bitewe n'uko isukari iyo igeze mu kanwa ihasanga mikorobi zizwi ku izina rya bagiteri, bikaza gutuma agace birimo gahinduka aside (gasharira cyane).
+::kin Icyo gihe bifatanyiriza hamwe kugenda bimunga amenyo, bikanadukira  ishinya, mu bihe bitavuwe bikaba byanakomeza kuhamunga bikagera no ku muzi w'iryinyo.
+::kin Aya makuru akomeza avuga ko guhera ku mwana muto n'iyo yaba acyonka ashobora gufatwa n'izo ndwara, cyane cyane iyo atangiye guhabwa amasukari igihe akiri muto, aho ibyo bishobora no guturuka ku  kunywa imitobe nka za fanta, imitobe y'imbuto n'ibindi bifite isukari nyinshi.
+::kin Aya makuru akomeza avuga ko mu bushakashatsi bwagiye bukorwa, nta na rimwe bwerekanye ko iyi ndwara yo kumungwa kw'amenyo ishobora kuba uruhererekane rukomotse mu muryango.
+::kin Aha yerekana ko bishoboka kuyirinda igihe umuntu agize uruhare mu gusukura amenyo ku rugero ruhagije, nyuma yo kugira ibinyesukari ashyira mu kanwa cyangwa se kurya ikindi cyose muri rusange.
+
+::kin Bamwe mu bakodesha amazu muri Kigali binubira umwanda n'imyubakire mibi y'imisarane ::constituent headline
+::kin Bumwe mu bwiherero bufite umwanda buvugwa kuba bugira abo bubangamira (Ifoto/S. Gatera) ::constituent caption
+::kin Stanley Gatera ::constituent author
+::kin Bamwe mu baturage barinubira umwanda n'imyubakire mibi y'imisarane, biranga mazu atari makeya kodeshwa muri Kigali, bavuga ko Leta ikwiye guhagurukira icyo kibazo.
+::kin Kuwa 17 Gashyantare 2011 bamwe mu baturage barimo uwitwa Nzabaruta Dominique wo mu Karere ka Gasabo, batangarije ikinyamakuru Izuba Rirashe ko mu mago batuyemo, ahenshi haba hari ikibazo cy'umwanda mu misarane.
+::kin Nzabaruta yagize ati “banyir'amazu dukodesha nibo bakwiye kujya bubaka ubwiherero bwiza kandi busukuye, kuko umuntu aza ashaka inzu yo gukodesha akabona ari nziza, ariko wagera ku bwiherero ugasanga buteye ubwoba ari umwanda gusa, kandi bene izo nzu ziba zihenze ababishinzwe bakaba bakwiye kujya babigenzura, abantu bakaba mu mazu meza afite ubwiherero bwiza busukuye.”
+::kin Ikinyamakuru Izuba Rirashe cyabajije ushinzwe urwego rw'ubuzima muri Minisiteri y'Ubuzima witwa Katabarwa Joséph, ku bijyanye n'umwanda uba mu misarane yo mu mago amwe n'amwe, dore umwanda mwinshi utera indwara, maze avuga ko icyo kibazo bakizi kandi ko bariho gukora ubushakashatsi bugamije kumenya neza uko isuku iba ihagaze mu Turere, Imirenge n'Utugali.
+::kin Katabarwa yagize ati “hari impinduka nziza imaze kugaragara, kuko iyo urebye, nyuma y'imyaka 3 ishize uko byari bimeze siko bikimeze.”, avuga ko uko biri abantu bakanguriwe gukora isuku, ku buryo ubu abafite imisarane ivuguruye ari 56% naho abafite iyuzuye neza ifite n'isuku ikaba 45%, ati “twemera ko umwanda mu misarane uhari muri rusange, ariko kuragenda dushyiraho ingamba ku buryo muri viziyo 2020 isuku izaba ari 100%.”
+::kin Katabarwa yavuze ko ikibazo kitari no mu mago gusa, kiri no mu mashuri, kandi ngo  isuku ari ngombwa ahantu hose, ati “dufite ingamba zo kwigisha abaturage, nibamara gusobanukirwa ibyiza by'isuku nabo bazabitoza bana babo, ikibazo gikemuke.”
+
+::kin PHONIX METAL SARL ntigishongesha amabuye y'agaciro kubera amashanyarazi ahenze ::constituent headline
+::kin Niyibizi Peter ::constituent author
+::kin Ikinyamakuru Izuba Rirashe cyagiranye ikiganiro na Mutunzi Jean de Dieu, ushinzwe ibikorwa mu ruganda rw'amabuye y'agaciro rwitwa PHOENIX METAL ruri Karuruma, agitangariza ko uru ruganda rwatangiye rutangijwe na SOMIRWA (societe des mines du Rwanda) rwitwa “fondorie d'etain de Karuruma”, ubu rutagishobora gushongesha amabuye y'agaciro kubera igiciro cy'amashanyarazi kiri hejuru.
+::kin Ngo uru ruganda rwarananiwe ruza kuragizwa i sosiyete yigenga yitwa ALICOM nyuma ya 1987 kugeza mu 1994, ubwo Jenocide yabaga igatera ikibazo cy'ubukungu bityo iyi sosiyete ikaza guhagarara.
+::kin Nk'uko Mutunzi yakomeje abwira iki kinyamakuru, kuva mu mwaka wa 1994 uruganda ntirwakoraga kugeza 2002 ubwo Leta yarweguriye  sosiyete yigenga yitwa “NMC Metallurgie SARL”.
+::kin Mukunzi ati, “uruganda ku wa 18/11/2005, rwahinduye izina rwitwa “PHONIX METAL SARL”.
+::kin Mukunzi yavuze ko uruganda rwashongeshaga amabuye y'agaciro bagakoramo ibyo bita “ingots” byoherezwa hanze kuva mu mwaka wa 2003 kugera 2005, ariko ngo amashanyarazi yarabahendaga biza kubaviramo kureka gushongesha, bakohereza amabuye y'agaciro uko yakabaye, bamaze kuyavangura n'imicanga, ibyondo n'ibindi.
+::kin Aha agira ati “icyo gihe, hari ubwo ELECTOGAZ yatubariye miliyoni 20 Frw mu minsi 15, bituma tutabasha tudashobora guhangana ku masoko mpuzamahanga kuko ahandi amashanyarazi aba ahendutse.”
+::kin Mutunzi yakomeje avuga ko amabuye y'agaciro batunganya ubu aboneka mu Rwanda, ari Gasegereti, Coltan , Wolfram na Fer, ariko ngo yo ikaba imaze guta agaciro, ati “icyakora uruganda ruzongera gushongesha mu kwa gatatu 2011 kuko Leta yemeye kutugabanyiriza igiciro cy'umuriro.”
+::kin Yavuze ko Gasegereti na Coltan bigira ibyuma byubaka byiza kandi bikomeye, naho Fer ikaba yangirika nko kugwa umugese, yongeraho ariko ko i Rwamagana hari uruganda ruzajya rukuramo fer a beton mu gihe cya vuba.
+::kin Yanagaragaje ko amabuye y'agaciro aha abantu akazi, ndetse ngo hari umuntu wa shyorongi ubagemurira toni 70-80 kandi akaba yiteguye kugeza kuri toni 200, uwo akaba ngo akoresha abantu bagera mu bihumbi.
+
+::kin Ikipe y'igihugu y'abaterengeje imyaka 23 yatangiye imyitozo ::constituent headline
+::kin Umutoza Sellas Tetteh (Foto/Arshive) ::constituent caption
+::kin Peter Kamasa ::constituent author
+::kin Ikipe y'igihugu y'abaterengeje imyaka 23 yatangiye imyiteguro y'umukino ifitanye n'ikipe ya Zambia y'abatarengeje imyaka 23, mu rwego rwo gushaka itike yo gukina imikino Olempike izabera i Londres muri 2012.
+::kin Tariki 17 Gashyantare 2011, Umunyamabanga w'Ishyirahamwe ry'umupira w'amaguru mu Rwanda, (FERWAFA), Jules Kalisa, avuga ko ikipe yatangiye imyitozo ariko hari abakinnyi bataraza mu bandi kuko aribwo bari bakiva mu ikipe y'igihugu nkuru gukina igikombe cy'Afurika cy'abakinnyi bakina mu bihugu byabo (Chan).
+::kin Umutoza wungirije mu ikipe y'igihugu y'abaterengeje imyaka 23, Thierry Hitimana avuga ko batangiye imyitozo n'abakinnyi 15 kuko abandi bataraza akaba avuga ko atarangaza urutonde ntakuka.
+::kin Hitimana akomeza avuga ko mu gihe abakinnyi bose bazaba bahageze ndetse n'umutoza Sellas Tetteh akagera mu ikipe, imyitozo ikaze izahita itangira.
+::kin Ikipe y'igihugu y'abatarengeje imyaka 23 ifite umukino na Zambia tariki ya 23 Gashyantare 2011 muri Zambia na ho umukino wo kwishyura ukazabere mu Rwanda tariki ya 9 Werurwe 2011.
+
+::kin Sitade ya Rubavu izavugururwa nyuma y'imyaka ibiri ::constituent headline
+::kin Ngiyo Sitade Umuganda yo muri Rubavu (Foto/Arishive) ::constituent caption
+::kin Pascal Bakomere ::constituent author
+::kin Nyuma yo gusanwa kugira ngo yakiriye imikino y'igikombe cy'Afurika cy'abatarengeje imyaka 17, Sitade Umuganda yo mu Karere ka Rubavu izongerera kuvugurwa nyuma y'imyaka ibiri, yongererwe imyanya n'ubushobozi.
+::kin Mu kiganiro Umunyamabanga Uhoraho wa Minisiteri ya Siporo n'Umuco Karabaranga Jean Pierre yagiranye n'ikinyamakuru Izuba Rirashe ku wa 17 Gashyantare 2011 yavuze ko bakiri gushaka ubushobozi bwo kwagura iyo sitade, bikazatangira byibuze nyuma y'imyaka ibiri.
+::kin Ikinyamakuru Izuba Rirashe cyabajije Umunyamabanga Uhoraho wa Minisiteri ya Siporo n'Umuco igihe Sitade Umuganda izegurirwa Akarere ka Rubavu asubiza ko ubusanzwe ari iya Rubavu ati “ni nk'uko Sitade ya Nyamirambo ari iy'Umujyi wa Kigali”.
+::kin Umuyobozi w'Akarere ka Rubavu, Sheih Bahame Hassan yavuze ko Sitade Umuganda ari nto idafite ubushobozi bwo kwakira abantu benshi ari yo mpamvu igomba kwagurwa. Umuyobozi w'Akarere ka Rubavu yavuze ko abaturage bashyiraho akabo nko gukora isuku kugira ngo Sitade Umuganda igaragare neza.
+::kin Sheih Bahame yavuze ko impamvu abaturage ba Rubavu bakunda umupira w'amaguru ari uko hari umutoza witwa Maveken watoje abana bakura bawuzi. Umuyobozi w'Akarere ka Rubavu yavuze ko nubwo ikipe ya Etincelles FC iherutse gutsindwa na AC Leopards yo muri Congo Brazzaville ibitego bibiri ku busa, ariko batigeze bacika intege.
+::kin Sitade Umuganda yo mu Karere ka Rubavu yubatswe mu rwego rwo kugira ngo yakire imikino ikomeye ku rwego rw'Afurika, muri Mutarama akaba ari bwo hakiniwe imikino y'igikombe cy'Afurika ku bana bari munsi y'imyaka 17. Nyuma Minisiteri ya Siporo n'Umuco (MINISPOC) yaje gusanga ari nto n'abantu bavuga ko hari ibyo itujuje nko kuba idashobora kwakira abantu benshi hamwe no kuba iyo imvura iguye amazi yuzura mu kibuga.
+
+::kin Ibyangombwa ni ngenzi ku batwara ibinyabiziga ::constituent headline
+::kin Moto ni ngenzi ariko iyo nta byangombwa bibyara ibibazo (Foto / Arishive) ::constituent caption
+::kin Eugène Mugabo ::constituent author
+::kin Nta muntu wari ukwiriye kwica amategeko y'umuhanda yitwaje umwanya w'ubuyobozi afite. Ibyo ni byavuzwe na Karemera Sam Umuyobozi wa Polisi mu Ntara y'Iburasirazuba ‘‘Assistant Commission of Police’’, mu nama yamuhuje n'abakora umurimo w'abatwara abagenzi kuri moto mu Karere ka Nyagatare.
+::kin Nyuma y'aho abo batwara abantu n'ibintu kuri moto, bagaragaje imbogamizi bagihura nazo z'uko baba mu makoperative ndetse bakicungira umutekano wabo ariko ugasanga hari abitwaza imyanya y'ubuyobozi bafite, bityo bakagaragaraho amakosa anyuranye mu muhanda bigaha isura itari nziza abatwara za moto.
+::kin Karemera Sam ‘‘Assistant Commission of Police’’Umuyobozi wa Polisi mu Ntara y'Iburasirazuba, yatangarije Izuba Rirashe kuri Telefone igendanwa ko nta muntu wari ukwiriye kujya hejuru y'amategeko yitwaje umurimo akora, yaba ari abasirikare, abapolisi, Abanyamabanga Nshingwabikorwa b'imirenge n'abandi, ahubwo umuyobozi mwiza ko ari ushaka ibyangombwa bimwemerera gutwara ibinyabiziga akabera n'abandi urugero.
+::kin Kugira ngo umutekano wo mu muhanda ugende neza bityo n'impanuka zigabanuke, abatwara abagenzi kuri moto barakangurirwa gushaka impushya zibemerera gutwara moto, kuko akenshi usanga impanuka ziterwa n'abatazifite.
+::kin Mu rwego rwo korohereza abakora umurimo wo gutwara abantu kuri moto batarabona uruhushya rwa burundu kandi barakoze ibizamini bagatsinda, Polisi ibaha gitansi yerekana ko bandikishije uruhushya rwo gutwara ikinyabiziga batsindiye, bityo bakaba bakora akazi kabo kugeza igihe bazazibonera.
+::kin Kirenga Sam ukorera umurimo wo gutwara abantu n'ibintu kuri moto mu Mujyi wa Nyagatare, yatangaje ko iyo polisi ibahagaritse bakayereka iyo kitansi ko batsinze ibizamini, bakaba baraniyandikishije bategereje ko zizabageraho batabaca amafaranga.
+
+::kin Ingingo ya 69 ni yo yatumye Ashinzwuwera akurwaho ubudahangarwa ::constituent headline
+::kin Depite Alexandre Ashinzwuwera watawe muri yombi (Foto/Arishive) ::constituent caption
+::kin Egide Kayiranga na Kizza E. Bishumba ::constituent author
+::kin Polisi Dennis, Visi perezida w'Inteko Ishinga Amategeko y'u Rwanda, aratangaza ko ingingo ya 69 ari yo yakurikijwe kugira ngo Depite  Ashinzwuwera Dumas Alexandre akurweho ubudahangarwa (immunity) anatabwe  muri yombi na Polisi y'Igihugu aho akurikiranyweho guhohotera umwana w'umuhungu w’ imyaka 12.
+::kin Avuga ko iyo ngingo ibasaba guterana bisanzwe cyangwa bidasanzwe maze bakiga ku gufata icyemezo cyo gukuraho ubudahangarwa umudepite babisabwe n'Umushinjacyaha Mukuru, ati “ibi ni byo twakoze mu Nteko rusange yo kuwa 15 Gashyantare 2011.”
+::kin Umuvugizi wa Polisi  y'igihugu Supt. Theos Badege, avuga ko  Depite Alexandre yatawe muri yombi ku wa 15 Gashyantare 2011, nyuma y'uko umuturanyi we amenewe ibanga n’ uwo mwana  ajyaniye ikirego kuri Sitasiyo ya Polisi ya Nyamirambo  ko Ashinzwuwera Dumas Alexandre yadukiriye umwana abereye mukuru we aramuhondagura ndetse amuca inguma. Polisi ngo yahise ikora idosiye na yo iyishyikiriza ubushinjacyaha  na bwo bwihutira gusaba inteko kumukuraho icyizere.
+::kin Theos Badege avuga ko amakuru bafite ari uko uyu mwana ubusanzwe yari ucumbitse mu rugo kwa Depite Alexandre, nyuma yo gukubitwa no gucibwa inguma yahise ajyanwa ku Bitaro bya Polisi ku Kacyiru  mu Mujyi wa Kigali aho yitabwagaho mu buryo bwo kumuvura inguma ndetse n'ibikomere byo ku mutima muri serivisi ya Polisi y'Igihugu yitwa Isange-One Stop Center, ishinzwe gufasha abahuye n’ ibibazo by'ihohoterwa.
+::kin Ubu Depite Ashinzwuwera Alexandre Dumas afungiye kuri burigade ya Nyamirambo mu gihe hagitegerejwe ko agezwa imbere y'inkiko. Yari mu Nteko Ishinga Amategeko ahagarariye ishyaka PSP.
+::kin Ikinyamakuru izuba Rirashe cyashatse kuvugana na Kanyange Phoebe kuri telefoni ye igendanwa kugira ngo agire icyo abivugaho ariko ntiyaboneka.
+::kin Ibi bikaba bibaye nyuma y'igihe gito habaye igenzurwa ry'imyitwarire mibi ku bayobozi kandi  riherutswe  no gukorerwa kuri ba Senateri barimo Seth Kamanzi na José Kagabo aho ku wa 15 Gashyantare 2011, Inteko Ishinga Amategeko Umutwe wa Sena yateranye igasuzuma  raporo yavugaga ku myitwarire idahwitse y'abo ba Senateri bombi ariko nyuma ngo ikaza gusanga ibibavugwaho atari amakosa nk'uko byavugwaga.
+::kin Icyo gihe, kuri Senateri Kagabo yavugwagaho kuba yarigeze kugonga imodoka y'umuntu akayimena ikinyoteri  ku kibuga cy'indege mpuzamahanga i Kanombe mu Mujyi wa Kigali, mu gihe yari ku rugendo ajya mu mahanga.
+::kin Polisi ngo yabasabye kumvikana gusa ngo kubera ko Senateri Kagabo yihutaga yasigiye umushoferi we amadolari y'Abanyamerika 100 kugira ngo akemure icyo kibazo cyane ko ikinyoteri ngo cyari gihwanye n'amafaranga y'u Rwanda ibihumbi 30.
+::kin Senateri Kamanzi we yavugwagaho  kubangamira inzego z'ubutabera ngo kuba yaritambitse mu itabwa muri yombi ry'Umuyobozi w'Ikigo Nderabuzima cya Rutsira witwa Silas Ruberandinda ubwo yatabwaga muri yombi akurikiranwa n'Urwego rw'Umuvunyi kubera gukoresha nabi umutungo w'icyo kigo.
+::kin Komisiyo yakoze iperereza yari iyobowe na Senateri Antoine Mugesera yagaragaje  ko yasanze nta ruhare na ruto Senateri Kamanzi yagize mu kubangamira itabwa muri yombi ry'uwo mugabo  cyane ko nta bimenyetso byagaragaye, ngo ahubwo yakoze ibyo ashinzwe nk'umuyobozi wese utakiwe na rubanda, bityo abo bayobozi bombi bagirwa abere.
+
+::kin Kwigisha ikinyarwanda ni ukubumbatira umuco ::constituent headline
+::kin Kuba Minisiteri ifite uburezi mu nshingano yarahisemo ko amasomo yajya yigishwa mu Kinyarwanda mu mashuri y'incuke n'amashuri abanza ni igikorwa cyiza giha agaciro ururimi rwacu ndetse kikazanatuma uru rurimi rukomeza kuba mu mateka aho kugira ngo agaciro gakomeze guhabwa indimi z'amahanga.
+::kin Ibi bizanafasha n'abana ubwabo kumva ko ururimi rwabo narwo rufite uburemere runaka mu byo biga.
+::kin Ururimi ni kimwe mu birango bikomeye by'umuco ari nayo mpamvu rukwiye kubumbatirwa kugira ngo rudata agaciro.
+::kin Cyakora kurwigishamo byonyine ntibihagije kugira ngo rukomeze kubumbatirwa, ahubwo hari n'ibindi bikwiye gukomeza gukorwa kugira ngo indimi z'amahanga zidakomeza kwiganza mu rurimi rwacu.
+::kin Muri byo harimo gushyiraho itsinda ry'intiti (academy) rishinzwe gukurikirana uburyo ururimi rukoreshwa, uko rukura, uko ruhinduka n'ibindi, ibi byafasha kugira ngo ruhorane umwimerere warwo aho kugira ngo tujye twumva amagambo y'izindi ndimi akomeza kwiganza mu Kinyarwanda.
+
+::kin Ishami rishinzwe gushakisha abajenosideri hanze rimaze gukora amadosiye 1059 ::constituent headline
+::kin Egide Kayiranga ::constituent author
+::kin Ishami rishinzwe gushakisha abakekwaho kugira uruhare muri Jenoside yakorewe abatutsi bihishe mu mahanga rikorera mu Bushinjacyaha Bukuru, riratangaza ko kuri ubu rimaze gukora amadosiye agera ku 1059.
+::kin Mu kiganiro yagiranye n'ikinyamakuru Izuba Rirashe, ukuriye iryo shami Siboyintore Jean Bosco avuga ko iryo shami akuriye mu mwaka wa 2010 ryamaze kuzuza amadosiye 1059, uretse izo kandi hakaba hamaze gutangwa impapuro zo guta muri yombi zigera ku 104 (indictment) andi madosiye 274 na yo amaze kuzura hasigaye gutangwa impapuro zo guta muri yombi abashakishwa,   na ho andi 681 yo aracyakorerwa iperereza ricukumbuye ariko akaba abura ibintu bike ngo arangire.
+::kin Siboyintore Jean Bosco ati “hari n'andi madosiye 55 urukiko mpuzamahanga mpanabyaha rwashyiriweho u Rwanda (ICTR) rwashyikirije u Rwanda kugira ngo ruyakurikirane.”
+::kin Avuga ko mu mwaka wa 2005 na 2006 hatanzwe impapuro zo guta muri yombi abashakishwa zigera kuri 22, muri 2007 hatangwa 13, muri 2008 hatangwa 16, muri 2009 hatangwa 24 na ho mu mwaka wa 2010 hatangwa impapuro zigera kuri 24.
+::kin Siboyintore Jean Bosco avuga ko kandi muri rusange hamaze gutangwa impapuro zo guta muri yombi abashakishwa zigera kuri 29 mu bihugu 16 byo ku migabane itandukanye, muri izo igihugu cy'u Bufaransa akaba ari cyo kimaze gutangwamo nyinshi kuko zigera kuri 4,  na ho igihugu cya Leta Zunze Ubumwe z'Amerika kikaba ari cyo kimaze gutangwamo impapuro nke kuko zigera kuri rumwe.
+::kin Ati “ uretse ibyo, mu Rwanda hamaze kuza amakomisiyo akora iperereza kubashinjwa 56 ava mu bihugu bitandukanye, muri izo u Buholandi ni bwo bumaze kohereza komisiyo nyinshi kuko zigera kuri 15 na Norvege zigera ku 10 na ho urukiko mpuzamahanga mpanabyaha (ICC) ni rwo rumaze kohereza nke kuko ari 5.”
+::kin Avuga ko kandi kuri ubu abantu 12 ari bo bafungiye mu magereza yo mu mahanga kandi imanza zabo zikaba zigikomeza, hari kandi n'abandi 8 bamaze guhamwa n'ibyaha baburanishijwe n'inkiko zo hanze.
+::kin U Bubiligi akaba ari bwo bumaze kuburanisha abantu benshi kuko bagera ku 8, ndetse n'imanza zigera kuri 11 zitaratangira kuburanishwa.
+::kin Mu bibazo yagaragaje harimo iby'uko abashakishwa bahindagura imyirondoro yabo n'ubwenegihugu, kutamenya aho baherereye.
+::kin Siboyintore Jean Bosco ati “abashakishwa ni abari mu butegetsi ndetse n'abari mu rwego rw'abateguye ndetse bakanashyira mu bikorwa Jenoside, n'abakatiwe n'inkiko ariko bagatoroka ubutabera.
+::kin Uru rwego rukaba rwarashyizweho n'Inama y'Abaminisitiri ku wa 12 Mata 2008.
+
+::kin Kubungabunga ibidukikije n'ibya buri wese ::constituent headline
+::kin Dr Rose Mukankomeje Umunyamabanga Nshingwabikorwa wa REMA (Foto / Arishive) ::constituent caption
+::kin Ku Mwanditsi Mukuru w'ikinyamakuru Izuba Rirashe nshimishwa n'inkuru zanyu cyane cyane amakuru hirya no hino ariko ibijyanye n'ibidukikije nagira ngo mujye mutugezaho amakuru abera hirya no hino mu gihugu.
+::kin Nishimira cyane ziriya nkuru zo mu bahanga banditse ibitabo bitandukanye, kuko bidufasha kumenya kubungabunga ibidukikije duhereye ku nama mutugira mubinyujije mu kinyamakuru cyanyu.
+::kin Twiyemeje gukurikiza inama mutugira tubungabunga ibidukikije byacu, kuko bizaturinda kuba mu butayu. Ikindi n'uko ku bijyanye n'ibimera twagiye tumenya ko bimwe bifitiye akamaro ubutaka duhinga ndetse tukamenya no kubibungabunga.
+::kin Twifuza ko mwadufasha mukadusobanurira impamvu zituma ubutaka busaza mubicishije mu kinyamakuru cyanyu cy'ubutaha. Nzakomeza gukurikirana amakuru y'ibidukikije, kuko bimfasha kugira ubumenyi buhagije mu bijyanye n'ubutaka.
+::kin Yari umukunzi wanyu ::constituent signature (?)
+::kin Kagaju Anne Lyse ::constituent author (?)
+
+::kin Ikinyarwanda kizigishwa kuva mu mashuri y'incuke ::constituent headline
+::kin Dr Harebamungu Mathias, Umunyamabanga wa Leta ushinzwe amashuri abanza n'ayisumbuye (Foto/Ububiko) ::constituent caption
+::kin Eugene Mugabo ::constituent author
+::kin Kwigisha mu rurimi rw'ikinyarwanda mu mashuri y'incuke no mu cyiciro cya mbere cy'amashuri abanza, birashyirwa mu ngiro uyu mwaka w'amashuri 2011, hashingiwe ko kwiga mu rurimi kavukire bifasha umwana kumenya vuba kandi neza iby'ibanze bijyanye n'ururimi rwe kavukire, ndetse bigashimangira n'umuco urushamikiyeho.
+::kin Mu kiganiro Dr Harebamungu Mathias, Umunyamabanga wa Leta ushinzwe amashuri abanza n'ayisumbuye  yagiranye n'abanyamakuru ku wa kabiri tariki ya 15 Gashyantare 2011, ku Kimihurura,  ku birebana n'imyigishirize mu kinyarwanda mu mashuri y'incuke n'icyiciro cya mbere cy'amashuri abanza,  yavuze ko abahanga  mu burezi hamwe n'ab'imiryango mpuzamahanga nk'Ishami ry'Umuryango w'Abibumbye ryita ku bana (UNICEF), Ishami ry'Umuryango w'Abibumbye ryita ku bumenyi, uburezi n'umuco (UNESCO), Umuryango w'Afurika yunze ubumwe(A.U), bemeza ko aho bishoboka ari byiza ko inyigisho z'ibanze zo kwigisha gusoma, kubara no kwandika, zikwiriye gutangwa mu rurimi  kavukire.
+::kin Gutangira kwiga umwana yigishwa mu rurimi kavukire, biba umusingi mwiza mu gukunda ishuri, akiga abyishimiye, bikamufasha gutsinda kimwe no gufata neza indimi z'amahanga.
+::kin Yakomeje asobanura impamvu ari ngombwa ko abana batangira ishuri biga mu kinyarwanda, yavuze ko bifite inyungu nyinshi kuko iyo umwana avuye mu muryango we ajya mu wundi muryango witwa ishuri, ashobora guhungabana igihe agezeyo agatangira kwiga mu rurimi atazi, atanumva, bikaba byatuma yanga amasomo.
+::kin Gutangira kwiga umwana yumva neza ibyo yigishwa bituma arushaho gukunda ishuri, akanagira uruhare mu myigire ye.
+::kin Igihe umwana atahanye umukoro ababyeyi be badashobora kumufasha, umwana agahera mu cyeragati, rimwe na rimwe hakaniyongeraho kuba mwarimu nawe atazi neza ururimi rw'icyongereza.
+::kin Ikindi ni uko nta ngengo y'imari y'inyongera bisaba, kuko abarimu babimenyereye basanzwe bahari, ibitabo n'imfashanyigisho nabyo bikaba byarateganijwe.
+
+::kin Kuzirikana iterambere ry'aho uvuka bikwiye kujya mu nshingano za buri munyeshuri-Murenzi ::constituent headline
+::kin Abanyeshuri bafashije abatishoboye b'aho bakomoka (Foto/Ububiko) ::constituent caption
+::kin Patrick Buhigiro ::constituent author
+::kin Abanyeshuri biga ku ishuri rikuru ry'imari n'amabanki rya Mburabuturo, bibumbiye mu ihuriro “umuryango ku ishuri” rizwi ku izina rya “Home at Scool”, ku wa 14 Gashyantare 2011, basuye abatishoboye bo mu Murenge wa Karangazi, mu Karere ka Nyagatare, Intara y'iburasirazuba, aho bishyuriye amafaranga y'ubwishingizi bw'ubuvuzi abaturage 50 bo muri uwo Murenge batishoboye.
+::kin Uhagarariye iryo huriro ry'abanyaeshuri ba SFB, John Gahigana, ati “byaba nta gaciro bifite gufatwa nk'intiti z'igihugu mu gihe aho dukomoka bashonje, ubumenyi bwacu ntacyo bwaba bubamariye.”
+::kin Umunyamabanga Nshingwabikorwa w'Umurenge wa Karangazi, Emmanuel Murenzi, yakiranye urugwiro abo banyeshuri, abashimira igitekerezo cyiza cyo kwibuka aho bakomoka, avuga ko bigaragaza umutima mwiza wo kuzirikana iterambere ry'aho bakomoka no kuhahoza ku mitima, ati “ n'abandi banyeshuri biga mu mashuri makuru na za Kaminuza bakwiriye kubafatiraho urugero, bityo bigatuma bagira uruhare mu iterambere ry'aho bakomoka bakora ibikorwa bizamura ubushobozi n'imibereho myiza y'abahatuye.”
+::kin Umwe mu bishyuriwe amafaranga y'ubwishingizi mu buvuzi Valerie Ngirumwami yagize ati “imana yo nyine ibahe umugisha ku byo mudukoreye, namwe ihore ibashoboza kandi umutima mufite wo gufasha muwukomeze kuko uzabageza kuri byinshi kandi byiza.”
+::kin Mu mwaka ushize, abo banyeshuri bafatanije n'ubuyobozi bw'Umurenge bakomokamo mu gushyigikira gahunda yo kubaka ibyumba by'amashuri by'uburezi bw'ibanze bw'myaka icyenda, bakaba bavuga ko barimo no gutegura uburyo bwo gushyigikira gahunda ya Leta yo guca Nyakatsi bakangurira ababyeyi babo kureka nyakatsi bakaba mu mazu ajyanye n'igihe.
+
+::kin Amashuri 113 ni yo amaze kugezwaho mudasobwa ::constituent headline
+::kin Umubare w'amashuri amaze kugezwaho mudasobwa ntoya kuri buri mwana aragenda yiyongera (Foto/Ububiko) ::constituent caption
+::kin Patrick Buhigiro ::constituent author
+::kin Gahunda ya mudasobwa imwe kuri buri mwana imaze kugezwa ku mashuri 113, ib ni ibyatangajwe n'umuhuzabikorwa wa gahunda ya mudasobwa imwe kuri buri mwana muri Minisiteri y'uburezi, Nkubito Bakuramutsa.
+::kin Bakuramutsa yatangarije ikinyamakuru Izuba Rirashe ko ibarura ryakozwe ku mashuri yatanzweho mudasobwa muri gahunda ya mudasobwa imwe kuri buri mwana ari amashuri abanza agera ku 113 mu gihugu hose, ati “  icyo gikorwa kuva gitangiye tumaze gutanga mudasobwa ku113 mu gihugu hose, aho abanyeshuri biga mu mwaka wa kane kugeza mu mwaka wa gatandatu w'amashuri abanza bazishyikirijwe kugira ngo zibafashe  gukora ubushakashatsi ndetse zibafashe no gusobanukirwa ibyo biga, bityo bakure bashishikariye kunoza ikoreshwa ry'ikoranabuhanga. Impamvu duhera ku banyeshuri biga mu mwaka wa kane kugeza ku biga mu mwaka wa gatandatu w'amashuri abanza,ni uko ari cyo cyiciro cy'amashuri abanza kigaragara mo abana baba bamaze guca akenge, kandi baba bashishikariye kuvumbura udushya, bikaba bizabafasha kunoza ikoreshwa ry'ikoranabuhanga mu  gutanga umusaruro mu ishuri, ndetse banatezweho byinshi mu kuzamura ubukungu bw'igihugu mu gihe kiri imbere, kuko iyo umwana atangiye gukoresha mudasobwa  akura ayizobereye.”
+::kin Bakuramutsa kandi yongeyeho ko iyo gahunda igamije kongerera ubushobozi urubyiruko ruri mu mashuri mu gushishikarira kwiga amasomo y'ikoranabuhanga, mu rwego rwo kujya baba indashyikirwa ku isoko ry'umurimo, haba mu gihugu ndetse no ku rwego rw'amahanga muri rusange, ati “ ibi biri mu byo igihugu kirimo gushyiramo imbaraga cyane mu rwego rwo gutanga uburezi bushingiye ku bumenyi n'ikoranabuhanga mu mashuri.”
+::kin Yasobanuye ko kugeza mu mpera z'ukwezi kwa Kamena 2010, mudasobwa zari zimaze gutangwa hirya no hino mu gihugu zageraga ku 56,607, yongeraho ko mu mpera za Kamena 2011, mudasobwa zizaba zimaze gukwirakwizwa ku mashuri abanza hirya no hino, biteganijwe ko zose hamwe ari 100,000 uhereye igihe iyi gahunda yatangiriye.
+::kin Mu gushyira mu ngiro icyo gikorwa kandi, yavuze ko amashuri abanza gushyirwaho umuriro w'amashanyarazi kugira ngo bishobore kuborohera kuzikoresha.
+::kin Yanavuze kandi ko amashuri 150 amaze kugezwaho umuriro mu rwego rwo kwitegura iyo gahunda, kandi ko gahunda igikomeza aho biteganijwe ko hashyitswa umuriro no ku yandi mashuri agera kuri 90 bitarenze Kanama 2011.
+::kin Gahunda yo gutanga mudasobwa kuri buri mwana yatangiye mu mwaka wa 2008, intego yayo ikaba ari ugufasha abana biga mu mashuri abanza kubona ibikoresho bibafasha mu myigire kugira ngo barusheho gusobanukirwa ibyo biga.
+
+::kin Abanyeshuri 310 bo mu ishuri ribanza rya Mirama bahawe mudasobwa ::constituent headline
+::kin Mudasobwa imwe kuri buri mwana (Foto/Ububiko) ::constituent caption
+::kin Eugene Mugabo ::constituent author
+::kin Abanyeshuri 310 bo mu ishuri ribanza rya Mirama ryo mu Murenge wa Nyagatare, Akarere ka Nyagatare, ni bo bahawe Mudasobwa muri gahunda ya Leta ya One Laptop Per Child, bakaba batangaza ko bibafasha mu myigire yabo, bityo bikazazamura ubumenyi biturutse muri za porogaramu ziririmo zijyanye n'ibyo biga. Bamwe muri bo, bagiye babihamya ubwo bazishyikirizwaga ku ya 15 Gashyantare 2011 na Minisiteri y'uburezi.
+::kin Ari ubuyobozi bw'ishuri ndetse n'ubw'Akarere, basabye ababyeyi ubufatanye mu gucunga umutekano w'izi mudasobwa, ababyeyi nabo bemeza ko bumva neza agaciro kazo ndetse n'umusaruro abana babo bazikuramo bityo bakaba bababa hafi banabakangurira kuzikoresha ntizibikwe mu tubati.
+::kin Kemirembe Jean, umwe mu babyeyi waganiriye  n'ikimyamakuru Izuba Rirashe, yavuze ko umwana we yari yabwiwe ko we atazayibona kuko atari ahasanzwe ariko kubera inyota y'iterambere n'ubwo atari azi uko isa, ibi ntibyamushimishije kuko yumva igihe umwana ayifite mu rugo amaherezo nawe yazayimenya.
+::kin Izo mudasobwa zahawe iki kigo cy'amashuri abanza cya Mirama zigera kuri 317 zirimo 310 zahawe abanyeshuri kuva mu mwaka wa kane kugera mu wa gatandatu, izindi 7 zikaba zarahawe abarimu bigisha aba bana.
+::kin Ikinyamakuru Izuba Rirashe cyagiranye ikiganiro kuri terefone ingendenwa na Ingabire Sarah, umwe mu banyeshuri bayitangariza ko bakiye neza iki gikorwa ndetse ko bazitezeho umusaruro uhagije.
+::kin Mustafa Louis, umuyobozi w'ikigo cya Mirama yavuze ko bishimiye izo mashini zatanzwe na Leta, avuga ko ababyeyi bazajya bafatanya mu bikorwa byoroheje birimo nko kugura za purize (prises) bazicomekaho no kuzirindira umutekano muri rusange.
+::kin Umuyobozi w'uburezi mu Karere ka Nyagatare, Hakizimana Martin, yavuze ko impinduka zizaba nziza kandi nyinshi , kuko ubusanzwe abanyeshuri bigaga mudasobwa batazireba ariko ubu bakaba baziga banazikoresha.
+
+::kin Kurwanya isuri bisaba kwifashisha uburyo butandukanye icya rimwe ::constituent headline
+::kin Imisozi nk'iyi ikeneye kurwanywaho isuri (Foto/Niyonsenga) ::constituent caption
+::kin Michel Niyonsenga ::constituent author
+::kin Kurwanya isuri ni kimwe mu bikorwa bikenerwa cyane mu duce turangwa n'imisozi miremire, cyane cyane ahakorerwa imirimo y'ubuhinzi.
+::kin Ibyo kandi binakenerwa mu bihugu nk'u Rwanda aharangwa n'ubuhaname bukabije, aho usanga imwe mu misozi yaragiye yambara ubusa kubera isuri. Kurwanya isuri byakagombye kuba bikorwa mu buryo bukomatanyije, kuko byose bituma bishobora gutanga umusaruro munini kuruta gukoresha uburyo bumwe.
+::kin Nk'uko ikinyamakuru Izuba Rirashe kibikesha igitabo ‘‘Biological Nitrogen Fixation’’ ngo hashobora kwifashisha uburyo bwinshi icya rimwe, bityo bigatanga ikizere gihamye cyo kurinda bwa butaka.
+::kin Ibyo bituma hatanabaho guhendwa n'uburyo bumwe, dore ko rimwe na rimwe bumwe bushobora kwuzuzwa ahantu henshi, kugira ngo bukemure ikibazo burundu ariko ntibibe byagerwaho.
+::kin Aya makuru avuga ko mu gihe isuri itangiye ishobora kugenda igira ibimenyetso nk'ibiboneka ku bihingwa iyo bifashwe n'indwara runaka. Aha ni ukuvuga ko ishobora gukura, itashakirwa umuti ikaba yakomeza bikarangira igeze kure, ikagira ingaruka kuri byinshi icya rimwe.
+::kin Akenshi burya itangira ari nk'igitonyanga gito, nyuma ikaza gukomera itangiye gukora umugende w'amazu, hatabaho gufata ingamba bigahinduka inkangu itwara itaka ryose mu kabande. Bitewe n'ubuhaname bw'umusozi, hari igihe ubutaka bushobora kugenda bukarema inkangu.
+::kin Aha ni ukuvuga ko igice cy'umusozi kiba cyamaze kugenda, bitewe n'uko amazi aba yacengeye mu butaka cyane. Ahanini ibi biterwa n'ubuhaname ndetse bikanavurwa no gutera amashyamba.
+::kin Uburyo bufatanyije mu kurwanya isuri ni nk'uburyo bwo guhinga ibyatsi bitwikira ubutaka(Cover crop), guhinga ibiti bishobra imizi igafata ubutaka, guhinga bimwe mu byatsi ku mikingo ikunda kuriduka.
+::kin Gusasira imirima guza amaterasi y'indinganire no gufumbiza imirima ifumbire cyane cyane ikomoka ku matungo. Ahanini usanga ibi byose bishobora gukorerwa icya rimwe, cyangwa hakaba ibyagenda byitabazwa bitewe n'uburemere bw'ikibazo kiboneka muri ako gace.
+
+::kin Imiterere y'ibiti ishobora kugira ruhare ku mikurire ::constituent headline
+::kin Ibiti biri mu muryango wa pinusi (Foto / Niyonsenga) ::constituent caption
+::kin Michel Niyonsenga ::constituent author
+::kin Ibiti ni ibimera bigira uruhare rudasanzwe mu miterere y'ibindi bimera, bikaba bishobora gutuma ibyo bimera bindi bikura neza cyangwa ntibimere neza. Ibyo bikunze kugaragara cyane iyo habayeho kubivangwa mu murima umwe, nyuma bimwe bikaba bidashobora guturana neza n'ibindi.
+::kin Akenshi usanga kuvanga ibiti n'ibihingwa ari igisubizo cyiza ku bukungu by'ibihugu bifite ubuso buto n'umubare w'amaturage munini. Ibyo kandi ni n'igisubizo ntakuka ku kurwanya isuri cyane cyane mu misozi miremire, aho usanga imwe mu misozi yambaye ubusa ikunze gutakaza ubutaka bwayo bumanuka bugana mu mibande.
+::kin Nk'uko amakuru Izuba Rirashe gikesha ishami ry'ubuhinzi muri Kaminuza Nkuru y'u Rwanda abivuga, ukuvanga ibiti bivangwa n'imyaka mu murima byakagombye gukorwa ari uko hazwi neza imyihariko irangwa na cya giti, kugira ngo kitarengera ubutaka ariko kikaba cyakwangiza ibindi bimera bishobora kuvangwa nacyo.
+::kin Nk'urugero mu gihe umuhinzi avanze ibiti nka pinusi gerveriya n'ibindi bihingwa, bishobora gutuma ubutaka burushaho gusharira, bityo ntihapfe kubona ibimera byihanganira bwa busharire mu buryo bworoshye.
+::kin Ibyo bishobora gutuma habaho uguhomba gukomeye ku bakora umwuga w'ubuhinzi, kuko uko ubusharire burushaho kuzamuka ari nako byinshi mu bimera bitihanganira kubumamo.
+::kin Ibyo kandi binatuma biba ngombwa kurwanya ubwo busharire cyane cyane hakoreshejwe amafumbire cyangwa ishwagara, ariko ugasanga byose n'ibindi bikomoka mu maboko cyangwa mu mufuka w'umuhinzi.
+::kin Biba byiza iyo ibiti bivanzwe n'imyaka aba ari ibiturana n'ibindi bihingwa byinshi kandi buri kimwe kikaba kigirira akamaro ikindi. Iyo bitagenze gutyo usanga inyungu ikomoka kuri ukwo guhuza ibiti n'ibihingwa ishobora kuba nke, bityo bikaba ntacyo byamara cyane mu kuzamura iterambere ry'umuhinzi.

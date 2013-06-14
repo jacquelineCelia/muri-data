@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+ese abarimo ni bande ? ||| Who are the members ?
+
+% TEXT
+ese abarimo ni bande ?
+
+% ANNO
+ese > abarimo < ni <  bande

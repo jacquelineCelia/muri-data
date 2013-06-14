@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nta kazi dufite bamwe na bamwe bagafite nabo bafite izindi charges mungo zabo ariko turafashanya turahumurizanya . ||| We do n't have work and those who do sometimes have other responsibilities in their home , but we try to help and confort each other .
+
+% TEXT
+Nta kazi dufite bamwe na bamwe_1 bagafite nabo bafite izindi charges mungo zabo ariko turafashanya turahumurizanya .
+
+% ANNO
+[Nta kazi dufite bamwe na bamwe_1 bagafite nabo bafite izindi charges mungo zabo ariko turafashanya turahumurizanya]

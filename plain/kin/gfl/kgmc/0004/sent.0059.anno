@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Harimo abantu benshi amazina yabo ntabwo nabasha kuyibuka , bari banatumiye Presidente waryo niba yaje simbizi . ||| There are many people . I can n't remember their names ... They invited the lady who is the president the association but I do n't know if she came .
+
+% TEXT
+Harimo abantu benshi amazina yabo ntabwo nabasha kuyibuka , bari banatumiye Presidente waryo niba yaje simbizi .
+
+% ANNO
+Harimo < (abantu < benshi) 
+Harimo < amazina < yabo < (ntabwo > nabasha) < kuyibuka 
+bari < banatumiye < Presidente < waryo < niba > yaje > simbizi

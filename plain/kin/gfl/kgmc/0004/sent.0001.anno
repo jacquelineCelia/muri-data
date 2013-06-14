@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+aho tugiye kuganira nawe atubwira amateka ye kuri Genocide . ||| We are going to have a discussion with her and she will tell her story . The story of what she went through during the Genocide .
+
+% TEXT
+aho tugiye kuganira nawe atubwira amateka ye kuri Genocide .
+
+% ANNO
+aho 
+tugiye < kuganira  
+nawe > atubwira < amateka < (ye < kuri < Genocide)

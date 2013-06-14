@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nkamuhumuriza nkamwumvisha ko agomba kubaho nka mutera imbaraga numva rero narasigariye kuba tante w' abana bose . ||| To confort and convince that that child must live and encourage him @/@ her , so I think I was left behind so that I may be an aunty to all the children .
+
+% TEXT
+Nkamuhumuriza nkamwumvisha ko agomba kubaho nka mutera imbaraga numva rero narasigariye kuba tante w' abana bose .
+
+% ANNO
+[Nkamuhumuriza nkamwumvisha ko agomba kubaho nka mutera imbaraga numva rero narasigariye kuba tante w' abana bose]

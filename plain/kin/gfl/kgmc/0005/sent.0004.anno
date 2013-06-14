@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abahungu batatu n' abakobwa batatu twari dufite nundi mwana twareraga mwishywa w' umugabo wanjye . ||| Three boys and three girls , we also had a child that we had adopted , my husband 's niece .
+
+% TEXT
+Abahungu batatu n' abakobwa batatu_1 twari dufite nundi mwana twareraga mwishywa w' umugabo wanjye .
+
+% ANNO
+[Abahungu batatu n' abakobwa batatu_1 twari dufite nundi mwana twareraga mwishywa w' umugabo wanjye]

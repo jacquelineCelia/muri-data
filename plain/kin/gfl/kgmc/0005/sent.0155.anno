@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko nka kenga nkagira amakenga kuberako ibyo aribyo byose ntabwo incira ishobora guhinduka inkoko ngo uyirye . ||| But I have to be careful because there is no way a cobra can turn into a cock and you eat it .
+
+% TEXT
+Ariko nka kenga nkagira amakenga kuberako ibyo aribyo byose ntabwo incira ishobora guhinduka inkoko ngo uyirye .
+
+% ANNO
+[Ariko nka kenga nkagira amakenga kuberako ibyo aribyo byose ntabwo incira ishobora guhinduka inkoko ngo uyirye]

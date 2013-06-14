@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Huuu ntabwo najyayo , ||| No I can not return there .
+
+% TEXT
+Huuu ntabwo najyayo ,
+
+% ANNO
+Huuu
+ntabwo > najyayo

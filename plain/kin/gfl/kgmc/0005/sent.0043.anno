@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Tugeze hakurya abantu batangira kudukumira batubuza kugenda naho zari interahamwe zihunze inkotanyi i remera . ||| When we reached a bit farther some people started blocking our way stopping us from moving forward but we did n't know that they were Interahamwe fleeing Inkotanyi from remera .
+
+% TEXT
+Tugeze hakurya abantu batangira kudukumira batubuza kugenda naho zari interahamwe zihunze inkotanyi i remera .
+
+% ANNO
+[Tugeze hakurya abantu batangira kudukumira batubuza kugenda naho zari interahamwe zihunze inkotanyi i remera]

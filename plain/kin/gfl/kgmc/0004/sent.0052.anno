@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+niyo kongera ubushobozi AVEGA n' iyo gushaka indi milyango ibafasha ? ||| Is it to increase the capacity of AVEGA or to look for other organizations to help you ?
+
+% TEXT
+niyo kongera ubushobozi AVEGA n' iyo gushaka indi milyango ibafasha ?
+
+% ANNO
+niyo > kongera < ubushobozi < AVEGA 
+iyo > gushaka < indi < milyango > ibafasha
+$x :: {kongera gushaka} :: n'

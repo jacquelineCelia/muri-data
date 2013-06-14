@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nukuvuga ngo niba uziko mu ishyamba harimo inyamaswa ugomba kugenda uzi uko uri buhunge iyo nyamaswa . ||| It means that if you know that there is an animal or beast in the forest you must walk when your ready to run away from it .
+
+% TEXT
+Nukuvuga ngo niba uziko mu ishyamba harimo inyamaswa ugomba kugenda uzi uko uri buhunge iyo nyamaswa .
+
+% ANNO
+[Nukuvuga ngo niba uziko mu ishyamba harimo inyamaswa ugomba kugenda uzi uko uri buhunge iyo nyamaswa]

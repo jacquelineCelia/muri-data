@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko ari Imana yankijije kuko aho bantemye ni nkaho bari batemye abandi bose . ||| It 's just that God kept me otherwise they had hacked me just like everyone else .
+
+% TEXT
+Nuko ari Imana yankijije kuko aho bantemye ni nkaho bari batemye abandi bose .
+
+% ANNO
+[Nuko ari Imana yankijije kuko aho bantemye ni nkaho bari batemye abandi bose]

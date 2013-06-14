@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kuba ukiriho nejo uzabaho tugira amahirwe amahirwe twabonye umushinga ubafasha kubona iriya miti igabanya ubukana bwa sida . ||| Telling them that the fact that they are still alive that they will continue to live , we are lucky that we got a project that helps them with anti @-@ retro viral medication for HIV & AIDS .
+
+% TEXT
+Kuba ukiriho nejo uzabaho tugira amahirwe amahirwe_1 twabonye umushinga ubafasha kubona iriya miti igabanya ubukana bwa sida .
+
+% ANNO
+[Kuba ukiriho nejo uzabaho tugira amahirwe amahirwe_1 twabonye umushinga ubafasha kubona iriya miti igabanya ubukana bwa sida]

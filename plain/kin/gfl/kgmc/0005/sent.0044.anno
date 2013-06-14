@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mbwira abantu twari turi kumwe nti nanjye nimunyicire ririya shuri nange nigiremo n' abana ndabona hariya huzuye . ||| So I asked the people I was with to force the door open of one of the classrooms since all the other classrooms seemed full .
+
+% TEXT
+Mbwira abantu twari turi kumwe nti nanjye nimunyicire ririya shuri nange nigiremo n' abana ndabona hariya huzuye .
+
+% ANNO
+[Mbwira abantu twari turi kumwe nti nanjye nimunyicire ririya shuri nange nigiremo n' abana ndabona hariya huzuye]

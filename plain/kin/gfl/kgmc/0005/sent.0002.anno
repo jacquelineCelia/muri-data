@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mbere ya jenocide twari dutuye ahantu bita imasoro icyo gihe bahitaga muri secteur ya ndera . ||| Before the genocide we lived in a place called Masoro at that time it was called Ndera sector .
+
+% TEXT
+Mbere ya jenocide twari dutuye ahantu bita imasoro icyo gihe bahitaga muri secteur ya_1 ndera .
+
+% ANNO
+[Mbere ya jenocide twari dutuye ahantu bita imasoro icyo gihe bahitaga muri secteur ya_1 ndera]

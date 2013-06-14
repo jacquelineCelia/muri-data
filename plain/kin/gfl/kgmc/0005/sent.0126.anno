@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Umwana wabitubwiyemo amakuru yatubwiye yuko barabatemye umuhungu wange wa kabiri uwo bitaga dede yitwaga jean bosco . ||| The boy who told us said that they were hacked , my second son , the one they called dede his name was jean bosco .
+
+% TEXT
+Umwana wabitubwiyemo amakuru yatubwiye yuko barabatemye umuhungu wange wa kabiri uwo bitaga dede yitwaga jean bosco .
+
+% ANNO
+[Umwana wabitubwiyemo amakuru yatubwiye yuko barabatemye umuhungu wange wa kabiri uwo bitaga dede yitwaga jean bosco]

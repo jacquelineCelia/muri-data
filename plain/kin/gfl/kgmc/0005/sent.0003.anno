@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Komine rubungo niho twari dutuye ubu ni akarere ka gasabo nari mfite umugabo n' abana batandatu . ||| Commune Rubungo is where we lived , nowadays it 's called Gasabo district , I had a husband with six children .
+
+% TEXT
+Komine rubungo niho twari dutuye ubu ni akarere ka gasabo nari mfite umugabo n' abana batandatu .
+
+% ANNO
+[Komine rubungo niho twari dutuye ubu ni akarere ka gasabo nari mfite umugabo n' abana batandatu]

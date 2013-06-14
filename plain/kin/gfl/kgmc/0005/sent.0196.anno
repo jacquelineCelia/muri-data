@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ku ishyiga niko bakunda kubivuga abaturage ababyeyi nitwe turaga abana bacu ibyiza cyangwa ibibi . ||| On the cooking stove that 's how they always say , we parents are the ones that offer as a heritage good or bad things to our children .
+
+% TEXT
+Ku ishyiga niko bakunda kubivuga abaturage ababyeyi nitwe turaga abana bacu ibyiza cyangwa ibibi .
+
+% ANNO
+[Ku ishyiga niko bakunda kubivuga abaturage ababyeyi nitwe turaga abana bacu ibyiza cyangwa ibibi]

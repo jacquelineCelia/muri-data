@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ndi mubantu bambere bihutiye gushyingura mvuga ngo ndashyingura abana banjye ndashyingura abavandimwe ariko naje gusanga ko ataribo twashyinguraga . ||| I am among the first people that were eager to bury , saying that I am burying my children and the remains of my relatives , but I later found out that they were not the ones we had buried .
+
+% TEXT
+Ndi mubantu bambere bihutiye gushyingura mvuga ngo ndashyingura abana banjye ndashyingura_1 abavandimwe ariko naje gusanga ko ataribo twashyinguraga .
+
+% ANNO
+[Ndi mubantu bambere bihutiye gushyingura mvuga ngo ndashyingura abana banjye ndashyingura_1 abavandimwe ariko naje gusanga ko ataribo twashyinguraga]

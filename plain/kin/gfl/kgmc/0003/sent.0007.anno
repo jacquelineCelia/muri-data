@@ -1,0 +1,15 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ni ukuvuga ngo tugomba kubana kugirango twubake igihugu , ariko kuvuga ngo ngende niyunge n' umuntu wanyiciye ibyo ntabwo bishoboka . Ni ukuvuga ngo ni ukugusaba...ni ugusaba ibintu bidashoboka . ||| Yes , we have to live together in order to build the country but you can not tell me to reconcile with them .
+
+% TEXT
+Ni ukuvuga ngo tugomba kubana kugirango twubake igihugu , ariko kuvuga ngo_1 ngende niyunge n' umuntu wanyiciye ibyo ntabwo bishoboka . Ni_1 ukuvuga_1 ngo_2 ni ukugusaba...ni ugusaba ibintu bidashoboka ._1
+
+% ANNO
+$x :: {Ni kuvuga} :: ariko
+Ni < ukuvuga < ngo > tugomba < kubana < kugirango > twubake < igihugu
+kuvuga < ngo_1 > ngende < niyunge < (n' > umuntu) > wanyiciye < ibyo > (ntabwo > bishoboka)
+Ni_1 < ukuvuga_1 < ngo_2 > ni < ukugusaba...ni < ugusaba < (ibintu > bidashoboka)
+ukuvuga = ngo 

@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ibintu bya gacaca n' ubumwe n' ubwiyunge ubwumva gute muri make ? ||| How do you feel about Gacaca , unity and reconciliation ?
+
+% TEXT
+Ibintu bya gacaca n' ubumwe n'_1 ubwiyunge ubwumva gute muri make ?
+
+% ANNO
+$x :: {Ibintu ubumwe ubwiyunge} :: n' n'_1
+(Ibintu < (bya < gacaca)) < ubumwe < (ubwiyunge < ubwumva < gute < muri < make)

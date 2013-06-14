@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Twataburuye abantu Magana abiri na mirongo itanu icyo gihe kandi abantu bahariya iwacu baratubeshyaga tugataburura abataribo buri gihe . ||| That day we excavated two hundred and fifty people , before that people kept lying to us and we would excavate the wrong people .
+
+% TEXT
+Twataburuye abantu Magana abiri na mirongo itanu icyo gihe kandi abantu_1 bahariya iwacu baratubeshyaga tugataburura abataribo buri gihe_1 .
+
+% ANNO
+[Twataburuye abantu Magana abiri na mirongo itanu icyo gihe kandi abantu_1 bahariya iwacu baratubeshyaga tugataburura abataribo buri gihe_1]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Wumva waraga abana bazavuka ejo hazaza uko b' u rwanda rwejo batigeze baba muri ibi bintu . ||| What heritage would you like to give to the rwandan children who did n't go throught these things ?
+
+% TEXT
+Wumva waraga abana bazavuka ejo hazaza uko b' u rwanda rwejo batigeze baba muri ibi bintu .
+
+% ANNO
+[Wumva waraga abana bazavuka ejo hazaza uko b' u rwanda rwejo batigeze baba muri ibi bintu]

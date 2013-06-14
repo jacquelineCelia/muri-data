@@ -1,0 +1,16 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma abo bandi watubwiye bandi bagufashe ku ngufu ngo abo bose nta n' umwe wigeze umenyamo ? ||| What about the other men that you told us who raped you ? Did n't you recognize any of them ?
+
+% TEXT
+Hanyuma abo bandi watubwiye bandi_1 bagufashe ku ngufu ngo abo_1 bose nta n' umwe wigeze umenyamo ?
+
+% ANNO
+Hanyuma 
+(abo > bandi) > watubwiye 
+bandi_1 > bagufashe < (ku < ngufu)
+bagufashe < ngo > abo_1 > bose < nta 
+$x :: {bose umwe} :: n'
+wigeze < umenyamo

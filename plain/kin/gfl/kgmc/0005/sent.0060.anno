@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho hakaba hari undi musore witwaga mutsinzi nawe baramuhigaga noneho bamwambika kuvureri baramutwikira amera nk' umudamu . ||| There was also another young man called mutsinzi that they were looking for , they put a bead cover on him which made him look like a woman .
+
+% TEXT
+Noneho hakaba hari undi musore witwaga mutsinzi nawe baramuhigaga noneho bamwambika kuvureri baramutwikira amera nk' umudamu .
+
+% ANNO
+[Noneho hakaba hari undi musore witwaga mutsinzi nawe baramuhigaga noneho bamwambika kuvureri baramutwikira amera nk' umudamu]

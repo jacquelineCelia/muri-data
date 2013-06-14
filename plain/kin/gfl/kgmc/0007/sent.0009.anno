@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Bamukubise amahiri bamwica . ||| My mother was beaten to death with clubs .
+
+% TEXT
+Bamukubise amahiri bamwica .
+
+% ANNO
+[Bamukubise amahiri bamwica]

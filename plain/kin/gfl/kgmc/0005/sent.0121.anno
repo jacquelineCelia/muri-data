@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko ubwo ni nange werekanye aho babashyize hari ikigunda rwose n' amafoto yaho . ||| I am the one who showed where they were thrown there is a bush even pictures of the place .
+
+% TEXT
+Ariko ubwo ni nange werekanye aho babashyize hari ikigunda rwose n' amafoto yaho .
+
+% ANNO
+[Ariko ubwo ni nange werekanye aho babashyize hari ikigunda rwose n' amafoto yaho]

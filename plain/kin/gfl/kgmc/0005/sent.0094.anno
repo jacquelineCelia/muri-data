@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niwe watubohoreje inzu njyamo n' abandi bana babavandimwe be jyamo turabana . ||| He is the one that got a a house for us , I went in with some of his siblings .
+
+% TEXT
+Niwe watubohoreje inzu njyamo n' abandi bana babavandimwe be jyamo turabana .
+
+% ANNO
+[Niwe watubohoreje inzu njyamo n' abandi bana babavandimwe be jyamo turabana]

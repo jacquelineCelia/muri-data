@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Igihe inkotanyi zitera muri 1990 hari abaturanyi mwari muturanye ku gisenyi baba barishwe ? ||| Did any of your neighbours in Gisenyi die when the Inkotanyis attacked in 1990 ?
+
+% TEXT
+Igihe inkotanyi zitera muri 1990 hari abaturanyi mwari muturanye ku gisenyi baba barishwe ?
+
+% ANNO
+((Igihe > inkotanyi) > zitera < (muri > 1990)) > hari < abaturanyi > mwari < muturanye < (ku < gisenyi) < (baba > barishwe)

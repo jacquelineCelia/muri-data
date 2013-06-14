@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ku buryo naje gushobora kubona aho bari bari ndabashyingura . ||| I found their corpses and buried them .
+
+% TEXT
+Ku buryo naje gushobora kubona aho bari bari_1 ndabashyingura .
+
+% ANNO
+(Ku < buryo) > naje < gushobora < (kubona < aho) < bari < bari_1 < ndabashyingura

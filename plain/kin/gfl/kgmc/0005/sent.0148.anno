@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hari abo mfite hano murugo ubu mfite abana batandatu mfitemo abakobwa babiri mfitemo n' abahungu bane . ||| They are some that I have here in my house . I have six children , two girls and four boys .
+
+% TEXT
+Hari abo mfite hano murugo ubu mfite_1 abana batandatu mfitemo abakobwa babiri mfitemo_1 n' abahungu bane .
+
+% ANNO
+[Hari abo mfite hano murugo ubu mfite_1 abana batandatu mfitemo abakobwa babiri mfitemo_1 n' abahungu bane]

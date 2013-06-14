@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset descriptor="kinyarwanda">
+  <file id="kmc00363" languages="kin,eng,fra">
+    <metadata interviewer="Yves" interviewee="Bizimana Théodore" date="2-FEB-2005" location="GAHANGA, Kicukiro" otherInfo="GPS AVT 008"/>
+    <data>
+      <unit time="00:00:07" speaker="Théodore"><align>
+        <text langid="kin"><s>Nitwa Bizimana Théodore, nkaba muri 1994 nari ntuye aha mu Nyakabanda, nari umuntu mukuru ukuze nzi ubwenge nari mfite imyaka mirongo ine n'ibiri (42).</s></text>
+        <text langid="eng"><s>My name is Théodore Bizimana. In 1994, I was living here in Nyakabanda, I was a mature, grown-up person. I was 42 years old.</s></text>
+        <text langid="fra"><s>Je m'appelle Bizimana Théodore. En 1994, j'habitais ici à Nyakabanda, j'étais adulte et mûr. J'avais 42 ans.</s></text>
+      </align></unit>
+      <unit time="00:00:23" speaker="Yves"><align>
+        <text langid="kin"><s>Ushobora kutubwira icyabereye hano?</s></text>
+        <text langid="eng"><s>Could you tell us what happened here?</s></text>
+        <text langid="fra"><s>Pourrais-tu nous dire ce qui s'est passé ici?</s></text>
+      </align></unit>
+      <unit time="00:00:27" speaker="Théodore"><align>
+        <text langid="kin"><s>Ibyabereye aha ni agahoma munwa, uru rugo rwari urw'umuturanyi, abantu bahaguye twari kumwe muri Eto, hanyuma igihe kiragera barabashuka akantu k'agahumure ab'umutima (ari myoje) nako ni abagejeje umunsi. Bafata inzira barataha bageze aha ntibaharaye barabica, dusigara muri Eto tuza kuhava tujya i Nyanza ariko abo twasigaranye barahaguye, birumvikana benshi barahaguye, niho nahonokeye njyewe ariko ubundi abo bantu twari duturanye muri icyo gihe.</s></text>
+        <text langid="eng"><s>What happened here goes beyond imagination. This was a neighbour's family. Those who were killed here were with me at ETO. They were deceived, and told that things had cooled down... In the end, their day had come and they were killed. They headed back home but did not spend another night alive, they were killed. We stayed at ETO and we left there for Nyanza. But those who had remained behind lost their lives. It is evident that many people were killed there. I escaped death then. Those people were our neighbours.</s></text>
+        <text langid="fra"><s>Ce qui est arrivé ici était inimaginable, ce foyer était celui d'un voisin, ceux qui ont été tués ici étaient avec moi à l'ETO [Ecole Technique Officielle]. Ils les ont trompés et ont prétendu que le calme était revenu... Finalement, leur jour était arrivé et ils ont été tués. Ils ont pris la route pour rentrer chez eux mais ils n'y ont pas passé la nuit, ils ont été assassinés. Nous sommes restés à ETO et nous avons quitté ETO pour Nyanza. Mais ceux qui étaient restés y ont perdu la vie. Il est évident que beaucoup y ont perdu la vie. C'est là que j'ai échappé à la mort. Ces gens étaient nos voisins à l'époque.</s></text>
+      </align></unit>
+      <unit time="00:01:11" speaker="Yves"><align>
+        <text langid="kin"><s>Abantu biciwe hano ushobora kutubwira umubare wabo?</s></text>
+        <text langid="eng"><s>Could you tell us how many people were killed here?</s></text>
+        <text langid="fra"><s>Pourrais-tu nous donner le nombre de personnes qui ont été tués ici?</s></text>
+      </align></unit>
+      <unit time="00:01:15" speaker="Théodore"><align>
+        <text langid="kin"><s>Hano haguye abantu batandatu, batanu b'uru rugo n'undi umwe... bari baturanye wo hirya yacu, hirya yacu.</s></text>
+        <text langid="eng"><s>Six people lost their lives here, 5 from this family and somebody else...they were our neighbours and they used to live on the other side of our home.</s></text>
+        <text langid="fra"><s>Six personnes ont perdu la vie ici, 5 membres de cette famille et quelqu'un d'autre...ils étaient nos voisins et ils habitaient de l'autre côté de chez nous.</s></text>
+      </align></unit>
+      <unit time="00:01:26" speaker="Yves"><align>
+        <text langid="kin"><s>Ahangaha nyine turi?</s></text>
+        <text langid="eng"><s>Right here where we are?</s></text>
+        <text langid="fra"><s>Ici même où nous nous trouvons?</s></text>
+      </align></unit>
+      <unit time="00:01:27" speaker="Théodore"><align>
+        <text langid="kin"><s>Hano hano, bari batabye mu mwobo wari aha.</s></text>
+        <text langid="eng"><s>Right here. They'd been thrown into a pit that was here.</s></text>
+        <text langid="fra"><s>Ici même, ils avaient été jetés dans une fosse qui se trouvait ici.</s></text>
+      </align></unit>
+      <unit time="00:01:31" speaker="Yves"><align>
+        <text langid="kin"><s>Ushobora kutubwira uburyo babishe?</s></text>
+        <text langid="eng"><s>Could you please tell us how they were killed?</s></text>
+        <text langid="fra"><s>Pourrais-tu nous décrire la façon dont ils ont été tués?</s></text>
+      </align></unit>
+      <unit time="00:01:34" speaker="Théodore"><align>
+        <text langid="kin"><s>Barabatemaguye, barabarasa, babatera amagerenade barangije babajugunya muri uyu mwobo, uyu mwobo wari umusarane, wari wagenewe kuba umusarane ariko wari utarakoreshwa. Hanyuma barabica babajugunyamo rero.</s></text>
+        <text langid="eng"><s>They hacked them, shot them and threw grenades on them. The pit was a septic tank...they had planned to make it into one, but it was not yet completely built. So they killed them and threw them in.</s></text>
+        <text langid="fra"><s>Ils les ont découpés et leur ont tiré dessus et leur ont lancé des grenades. Le trou était une fosse septique. Ils avaient prévu d'en faire une fosse septique mais ils n'avaient pas fini de la construire. Ils les ont donc tués et jetés dedans.</s></text>
+      </align></unit>
+      <unit time="00:01:47" speaker="Yves"><align>
+        <text langid="kin"><s>Yari nyiri urugo n'abana be, n'umugore we?</s></text>
+        <text langid="eng"><s>Was it the head of the family together with his children and wife?</s></text>
+        <text langid="fra"><s>S'agissait-il du chef de famille, de ses enfants et de sa femme?</s></text>
+      </align></unit>
+      <unit time="00:01:50" speaker="Théodore"><align>
+        <text langid="kin"><s>Yeee, nyiri urugo ni mama w'abana ise w'abana yari yarapfuye yari yarashaje, hanyuma ni nyina w'abana n'abana ndetse n'abuzukuru.</s></text>
+        <text langid="eng"><s>Yes, actually the mother was the head of the family, as the father died, of old age. Therefore, it was the children's mother, the children and the grand-children.</s></text>
+        <text langid="fra"><s>Oui, la mère des enfants était chef de famille, leur père était mort durant sa veillesse. Il s'agissait donc de leur mère, des enfants et des petits-enfants.</s></text>
+      </align></unit>
+      <unit time="00:02:04" speaker="Yves"><align>
+        <text langid="kin"><s>Nyuma ya jenoside habaye iki?</s></text>
+        <text langid="eng"><s>What happened after genocide?</s></text>
+        <text langid="fra"><s>Que s'est-il passé après le génocide?</s></text>
+      </align></unit>
+      <unit time="00:02:09" speaker="Théodore"><align>
+        <text langid="kin"><s>Nyuma ya Jenoside habayeho guhunga, duhungutse twagarutse mu ngo tugenda tumenya aho abantu baguye ino aho bagiye bagwa. Abantu twari twarakoze neza uyu mwobo, turahoma tubarekeramo. Hanyuma igihe kiragera biba ngombwa gushyingura mu cyubahiro, tubakuramo tubajyana ku Gisozi bagiyeyo umwaka ushize.</s></text>
+        <text langid="eng"><s>After the genocide, people fled. When we came back from exile, we went back to our homes and we slowly found out where people had been killed. We arranged the pit, cemented it and left them in. Later on, we wanted to bury them with respect and we exhumed them and took them to Gisozi, last year.</s></text>
+        <text langid="fra"><s>Après le génocide, les gens ont pris la fuite, lorsque nous sommes rentrés d'exil et nous sommes retournés dans nos foyers et petit à petit, nous avons appris où les gens étaient tombés. Nous avons arrangés cette fosse, nous l'avons cimentée et nous les avons laissés dedans. Plus tard, il a fallu les enterrer avec respect et nous les avons exhumés pour les emmener à Gisozi l'an dernier.</s></text>
+      </align></unit>
+      <unit time="00:02:40" speaker="Yves"><align>
+        <text langid="kin"><s>Murakoze.</s></text>
+        <text langid="eng"><s>Thank you.</s></text>
+        <text langid="fra"><s>Merci.</s></text>
+      </align></unit>
+      <unit time="00:02:41" speaker="Yves"><align>
+        <text langid="kin"><s>Murakoze namwe.</s></text>
+        <text langid="eng"><s>Thanks to you.</s></text>
+        <text langid="fra"><s>Merci à vous aussi.</s></text>
+      </align></unit>
+    </data>
+  </file>
+</dataset>

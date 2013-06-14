@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset descriptor="kinyarwanda">
+  <file id="kmc00002" languages="kin,eng">
+    <metadata interviewer="Aegis" interviewee="Uwimana Richard" date="" location="" otherInfo=""/>
+    <data>
+      <unit time="00:05:40:08" speaker="Aegis"><align>
+        <text langid="kin"><s>Reka tukubaze ariko;</s><s>Umbwire uko witwa n'umwaka wavutsemo;</s></text>
+        <text langid="eng"><s>I would like to ask you...</s><s> But first, what is your name and your birthday?</s></text>
+      </align></unit>
+      <unit time="00:05:44:15" speaker="Richard"><align>
+        <text langid="kin"><s>Nitwa Uwimana Rishard;</s><s> Nitwa Uwimana Richard nkaba naravutse tariki 08/08/1979.</s></text>
+        <text langid="eng"><s>My name is Uwimana Richard. </s><s>I was born on 8/08/1979.</s></text>
+      </align></unit>
+      <unit time="00:06:05:07" speaker="Aegis"><align>
+        <text langid="kin"><s>Wavukiye he?</s></text>
+        <text langid="eng"><s>Where were you born?</s></text>
+      </align></unit>
+      <unit time="00:06:08:01" speaker="Richard"><align>
+        <text langid="kin"><s>Nkaba naravukiye i Kigali muri Nyarugenge precisement mu Nyakabanda;</s></text>
+        <text langid="eng"><s>I was born in Kigali, Nyarugenge and more precisely in Nyarugenge.</s></text>
+      </align></unit>
+      <unit time="00:06:13:07" speaker="Aegis"><align>
+        <text langid="kin"><s>Muri Genocide wari ufite imyaka ingahe?</s></text>
+        <text langid="eng"><s>How old were you at the time of the genocide?</s></text>
+      </align></unit>
+      <unit time="00:06:14:05" speaker="Richard"><align>
+        <text langid="kin"><s>Muri genocide nari mfite imyaka cumi n'itanu</s></text>
+        <text langid="eng"><s>During the genocide, I was 15 years old.</s></text>
+      </align></unit>
+      <unit time="00:06:14:08" speaker="Aegis"><align>
+        <text langid="kin"><s>Witwa nde wavukiye he?</s></text>
+        <text langid="eng"><s>What's your name and where were you born?</s></text>
+      </align></unit>
+      <unit time="00:06:18:12" speaker="Richard"><align>
+        <text langid="kin"><s>Nitwa Uwimana Richard; </s><s>Nkaba naravukiye i Kigali aho bita mu nyakabanda; </s><s>Nkaba naravutse ku itariki ya 08/08/1979</s></text>
+        <text langid="eng"><s>My name is Uwimana Richard. </s><s>I was born in Kigali in an area called Nyarugenge.</s><s> I was born on 8/08/1979.</s></text>
+      </align></unit>
+      <unit time="00:06:38:07" speaker="Aegis"><align>
+        <text langid="kin"><s>Muri Genocide ubwo wari ufite imyaka ingahe?</s></text>
+        <text langid="eng"><s>So how old were you at the time of the genocide?</s></text>
+      </align></unit>
+      <unit time="00:06:40:02" speaker="Richard"><align>
+        <text langid="kin"><s>Genocide itanira nari mfite imyaka 15;</s></text>
+        <text langid="eng"><s>I was 15 during the genocide.</s></text>
+      </align></unit>
+      <unit time="00:06:45:02" speaker="Aegis"><align>
+        <text langid="kin"><s>Wambwira kuva ku munsi wa mbere genocide itangira wari uri he?</s></text>
+        <text langid="eng"><s>Could you tell me where you were during the genocide, from its first day?</s></text>
+      </align></unit>
+      <unit time="00:06:46:02" speaker="Richard"><align>
+        <text langid="kin"><s>Genocide, itangira kuri njyewe;</s><s> Ntabwo ari ibintu kuri njyewe byatunguranye kuko;</s><s>Genocide itangira kuri njyewe icyo nibuka ni uko; </s><s>Ntabwo yatangiye bahanuye indege ya Habyarimana;</s></text>
+        <text langid="eng"><s>When the genocide started... </s><s>It was no surprise to me because...</s><s> When the genocide began, I remember that...</s><s> It did not start with the crash of Habyarimana's plane.</s></text>
+      </align></unit>
+      <unit time="00:07:12:01" speaker="Richard"><align>
+        <text langid="kin"><s>Genocide kuri njyewe yari imaze iminsi ifite ibimenyetso inyereka. </s><s>Ni ukuvuga ngo rero Genocide itangira nko mu rugo nari maze iminsi nganira n'ababyeyi tubona stuation ihari; </s><s>Abantu badataha batinze;</s></text>
+        <text langid="eng"><s>There were some signs before the genocide happened. </s><s>I remember that when it started, I had spent some time discussing the situation with my parents. </s><s>People would avoid returnig home late...</s></text>
+      </align></unit>
+      <unit time="00:07:32:06" speaker="Richard"><align>
+        <text langid="kin"><s>Ndibuka ko nka papa cyangwa mama nta wari ukirenza saa kumi akiri hanze; </s><s>Saa kumi zo ku mugoroba babaga bari mu rugo. </s><s>Ni ukuvuga ngo Genocide itangira rero, ndibuka nari mu nzu; </s><s>Twabaga mu nzu yo hanze njye na bakuru banjye, muri Annexe yo hanze, ku buryo Genocide itangira nibuka ko nahise njyakubibwira ba papa mu nzu nini babagamo.papa ahota ambwira ati karabaye.</s></text>
+        <text langid="eng"><s>I remember that even Dad and Mom were never out after 4pm. </s><s> At 4pm o'clock they were all at home.</s><s> When the genocide began, I remember that I was at home in a small house attached to the main one. </s><s>When the genocide started, I rushed to see my parents who were in the main house and tell them: 'the situation is critical!'</s></text>
+      </align></unit>
+      <unit time="00:08:02:23" speaker="Richard"><align>
+        <text langid="kin"><s>Mpita mubwira nti karabaye se iki? </s><s>Ati ubu igihe cyageze ni ukuvuga ko genocida ubu yatangiye;</s><s> Ati hagiye kuba akantu mpita rero numva ko;</s></text>
+        <text langid="eng"><s>Then he said: 'What? Critical?' </s><s> And he added: 'this is the beginning of the genocide. </s><s>Something is going to happen.'</s></text>
+      </align></unit>
+      <unit time="00:08:20:03" speaker="Richard"><align>
+        <text langid="kin"><s>Ubwicanyi bujya gutangira ikintu nakubwira ni uko bwari bumaze iminsi hari amarenga buduha; </s><s>Ni ukuvuga ko njyewe nahise numva radio mu Gitondo numva ngo indege ya perecida bayihanuye; </s><s>Ndabyibuka ko nararaga mu nzu yo hanze na bakuru banjye; mpita nsohoka njya kubibwira ba papa na mama; </s><s>Ngikomanga ngira n'Imana ni papa waje ku nkingurira; </s><s>Mpita mbimubwira.</s></text>
+        <text langid="eng"><s>Then I deducted that the killings were going to start, but there had been some precursor signs.</s><s> When I listened to the radio in the morning, I heard that the presidential plane was shot down.</s><s> I remember that my big brothers and I lived in the small house attached to the main house... </s><s>I went to knock at the main house then Dad opened. </s><s>I told him straightaway.</s></text>
+      </align></unit>
+      <unit time="00:08:50:04" speaker="Richard"><align>
+        <text langid="kin"><s>Arambwira ngo ubwicanyi bugikomeye bugiye kuba kuko bari banamaze iminsi banatuganiriza n'iby'itanu n'icyenda; </s><s>Dore ko mbere ho batanabitubwiraga; </s><s>Kubera ukuntu Stuatio y'ubwicanyi yagaragaraga; </s><s>Nkibibwira papa rero ahita ambwira ati ubwicanyi buratangiye; </s><s>Ndabyibuka kuri iyo tariki ku manywa saa munani z'amanywa papa ahita atubwira ati abasore mushake ahantu mujya.</s></text>
+        <text langid="eng"><s>That's when he told me that the killings were going to start.</s><s> We had already talked about what happened in the 1950s...</s><s>Most of us were told about that during that time. </s><s>Then after telling Dad about the situation of the killings, he told me: 'the killings have started.' </s><s>I remember that on that same date at 2pm, Dad told us: 'Boys, you must look for places to hide.'</s></text>
+      </align></unit>
+      <unit time="00:09:19:24" speaker="Richard"><align>
+        <text langid="kin"><s>Mu gitondo nyine twari twirirwanye nabo;</s><s> Mbona mama yumiwe mbona ko koko hagiye kuba ikintu gikomeye.</s></text>
+        <text langid="eng"><s>We had spent the whole morning together. </s><s>Mum was overwhelmed and I sensed that something terrible was going to happen.</s></text>
+      </align></unit>
+      <unit time="00:09:35:07" speaker="Richard"><align>
+        <text langid="kin"><s>Papa yaratubwiye rero ngo duhunge abasore duhita tujya kureba ahantu twihisha.</s><s>Ndibuka neza ko indege yahanuwe ku itariki esheshatu nimugoroba saa mbiri; </s><s>Ku itariki zirindwi rero nibwo papa yatubwiye ati abasore mushake ahantu mujya kwihisha; </s><s>Kuko yabonaga ko byatuyobeye hari abantu muri Cartier ba familla bitwaga kwa Focas na kwa John bo bari bamaze kubica deja; </s><s>Abonaga ko natwe icyo kintu kigomba kutugeraho.</s></text>
+        <text langid="eng"><s>Dad told us to look for a hiding place, and then we left to find one. </s><s>I remember that the plane crash happened on 6th April 1994 around 8pm; </s><s>The following day, on 7th, Dad told us, the boys, to look for places to hide. </s><s>He said that after noticing that the situation in the neighbourhood was desperate because the families of Focas and John had already been killed. </s><s>He probably realized that we were next.</s></text>
+      </align></unit>
+      <unit time="00:10:02:22" speaker="Aegis"><align>
+        <text langid="kin"><s>Wari uzi impamvu bashaka kubica?</s></text>
+        <text langid="eng"><s>undefined</s></text>
+      </align></unit>
+      <unit time="00:10:06:21" speaker="Richard"><align>
+        <text langid="kin"><s>Impamvu rero yo kwibaza ati ubwo bwicanyi buri butugereho;</s><s> Kera ntabwo twakundaga kumenya neza amateka ababyeyi bacu babayemo nubwo bayakubwiraga ukumva ko bagize amateka mabi; </s><s>Ababyeyi banjye bose babaza i Bugesera, kandi i Bugesera muzi yuko muri za mirongo itanu n'icyenda; Za mirongo irindwi abatutsi niho babajyanaga kubata; </s><s>Habaga n'ibikoko bikomeye muzi yuko habaga n'isazi ya tsetse bagirango ibice.</s></text>
+        <text langid="eng"><s>The reason to think that the killings would reach us...</s><s>In fact, we were not really informed about what our parents went through in the past though we were roughly told that they had a bad history.</s><s> My parents lived in Bugesera and I think you know well that in 1950s, 1970s ... Tutsis were deported there and they were beaten </s><s>And I think that you also know that there were some Tsetse flies there with which to kill them.</s></text>
+      </align></unit>
+      <unit time="00:10:41:21" speaker="Richard"><align>
+        <text langid="kin"><s>Noneho genocida itangiye; </s><s>Iburaho igihe gitoya, nk'icyenda gatatu guerra mu kwezi kwa mbere kurinda kurangira amashyaka amaze kuza; </s><s>Noneho twamenye ko tumenya ubwoko bwacu ku buryo na papa yatubwiraga ati ubu bwicanyi buratureba nahise menya ko tugiye gupfa noneho;</s><s> Ugahita unibonamo n'abandi bantu bagiye gupfa; </s><s>Nk'abaturanyi bacu b'abatutsi nyine bari batangiye gupfa.</s></text>
+        <text langid="eng"><s>Now the genocide starts...</s><s> But a little bit before then, towards the end of January 1993 during the multiparty system... </s><s>That's when we really knew about our ethnic group and Dad kept warning us saying: 'this killing concerns us.' </s><s>And when it happened, I realized that we were going to be killed. </s><s>Then you could picture other people who would die just like you, and some Tutsi neighbours had already been killed.</s></text>
+      </align></unit>
+      <unit time="00:11:10:12" speaker="Richard"><align>
+        <text langid="kin"><s>Kugirango noneho nemere ko ubwo bwicanyi butureba cyane nk'abatutsi;</s><s> Ndahera ku baturanyi noneho uhite unamenya ko icyo kintu buri muntu wese cyahise kimutera ubwoba; </s><s>Ndibuka ko abantu bose b'abaturanyi bacu batari abatutsi twagiye kubona tubona batangiye kumanuka bafite imbunda, bafite amagerenade, mbese bafite ibikoresho by'ubwicanyi.</s></text>
+        <text langid="eng"><s>What really proved to me that the killings concerned us, the Tutsis, is... </s><s>Let me start with our neighbours to help you understand that this is something that everybody was afraid of.</s><s> I remember that all our neighbours who were not Tutsis started to go down in the streets with guns, grenades and other weapons for killing.</s></text>
+      </align></unit>
+      <unit time="00:11:46:06" speaker="Richard"><align>
+        <text langid="kin"><s>Ndibuka mu rugo bari bantumye ngo njye kuri Boutique kuzana isukali; </s><s>Ngisohoka neza mpita mpura n'abantu b'abaturanyi, abana b'inshuti zacu twari dusanzwe dukina; </s><s>Mbashuhuje bati ugiye he sha, ngo subira iwanyu vuba.</s></text>
+        <text langid="eng"><s>I remember that I had been sent to go to get sugar from a small neighbouring shop. </s><s>As soon as I stepped outside the door, I noticed some neighbours- kids that I used to play with...</s><s> When I said hi to them, they said to me: 'Where are you going? Go back home!'</s></text>
+      </align></unit>
+      <unit time="00:12:01:13" speaker="Richard"><align>
+        <text langid="kin"><s>Nibwo nagarutse mu rugo nyine mpita mbwira ba papa, nti kabaye hanze abantu bafite intwaro batangiye kwicana;</s><s> Ubwo nyine hari familla ebyiri nizo banatangiriyeho twari tuziranye cyane: iyo yo kwa Focas no kwa John;</s><s> Mbwira papa nti ibintu byakomeye, ni nabwo yahise avuga ati mushake ahantu muhungira.</s></text>
+        <text langid="eng"><s>That's when I returned home and said to Dad: 'It's terrible! People are killing each other in the streets.'</s><s> At that time, two families that were friends of mine had already been killed: the families of Focas and John. </s><s>That's when I said to Dad: 'things are terrible!' and that's when he said to us: 'find yourselves some hideouts.'</s></text>
+      </align></unit>
+      <unit time="00:12:28:24" speaker="Aegis"><align>
+        <text langid="kin"><s>Noneho wambwira ibyakurikiyeho muri makeya ukuntu byagenze mu muryango wanyu;</s><s> Abapfuye mu muryango wawe ni bangahe?</s></text>
+        <text langid="eng"><s>Carry on with your story </s><s> Tell us how many people died in your family.</s></text>
+      </align></unit>
+      <unit time="00:12:29:21" speaker="Richard"><align>
+        <text langid="kin"><s>Nyuma y'aho rero papa amaze kutubwira ngo mushake aho muhungira ndabyibuka nagiye gusezera mama areba hasi yari ari gusoma viviría yanga no kumvugisha papa we ndamubwira nti ndagiye; </s><s>Arambwira ati ok ati tuzabonana;</s><s> Mba ndagiye nari ndi kumwe na mukuru wanjye turagiye tujya ahantu bita mu kigo IWACU ku Kabusunzu; </s><s>Tuhageze mukuru wanjye ahita avuga ngo reka ngaruke njye kureba ababyeyi banjye; </s><s>Arambwira ati ariko wowe guma aho ngaho ndaje; </s><s>Ndagenda mpita njya muri icyo kigo nyine njyewe ngumamo grand frere agaruka mu rugo; </s><s>Ntiyanagarutse kundeba naraye aho njyenyine maze kugumamo nawe asubira mu rugo, ubwo murugo banarayemo nanone ku itariki 07 baraye mu rugo, ku itariki 08 nibwo bavuye mu rugo; nibwo bateye mu rugo baje kubica;</s></text>
+        <text langid="eng"><s>After Dad told us to find hiding places, I remember that I went to say my farewell to Mom, she looked down, and she was reading the bible and never said a word. </s><s>I said goodbye to my Dad, then replied: 'Okay, we shall meet again.' </s><s>I left with my big brother and went to a centre named IWACU ku Kabusunzu. </s><s>When we got there, my big brother told me: 'stay right here, I'll be back in a short while. </s><s>I must go and see how our parents are doing.' </s><s>I entered in the centre and stayed there, and my brother went home and never came back to that centre. </s><s>The rest of the family had spent the night of 7th April at home and only left on 8th April 1994, the day our home was attacked.</s></text>
+      </align></unit>
+      <unit time="00:13:39:12" speaker="Richard"><align>
+        <text langid="kin"><s>Uwo munsi ntabwo babishe baratorotse; </s><s>Twari abana barindwi na papa na mama, twari icyenda twese, n'umukozi wacu wa cumi, bose barahunga bahungira mu baturanyi;</s><s> Bageze aho umuturanyi wa mbere banahungiyeho ababwira ko adashoboye gukomeza kubahisha; </s><s>Ahita abirukana ariko we by'umwihariko ko yaashakaga gusahura aba arabirukanye bashakisha ahandi.</s></text>
+        <text langid="eng"><s>Actually they never left on that day... </s><s>We were a family of 7 children, Dad and Mom which makes a total of 10 people including the maid.</s><s> They sought refuge in the neighbours' homes, but when they reached the first neighbour's house, the latter told them after few days that they would not continue to hide them.</s><s> They threw my family outside the door but the reality behind it is that they were interested in looting other people's properties, So my family left and looked for another place to hide.</s></text>
+      </align></unit>
+      <unit time="00:14:11:13" speaker="Richard"><align>
+        <text langid="kin"><s>Nyuma yo kubirukana bahise batandukana; </s><s>Papa aba agiye ukwe na mama ajya ukwe n'abana bajya ukwabo na mukuru wanjye ajyana abana bato babiri n'undi na mushiki wanjye.</s></text>
+        <text langid="eng"><s>But right after being chased, they dispatched. </s><s>Dad took his own way, so did Mom and so did the children, and my big brother left with two younger brothers and my sister.</s></text>
+      </align></unit>
+      <unit time="00:14:28:08" speaker="Richard"><align>
+        <text langid="kin"><s>Ubwo tuba aho; </s><s>Njyewe noneho nyuma yo kuva aho mu kigo ubwo ku itariki umunani bahise batera; </s><s>Bateramo ama Grenada dusohoka twiruka nta hantu nari Maite njya; </s><s>Ndamanuka gato mpita mpura n'interahamwe twwari duturanye yari umu Jendarme </s><s>Nibagiwe ukuntu yitwa; </s><s>Ahita ambaza ngo sha ngo ugiye hendamubwira nti ndi gushaka ahantu Niza bari gushaka kutwica;</s><s> Ati ufite amafaranga; </s><s>Nari Mfite amafaranga magana abiri gusa mpita nyamuha anyereka igiti nihishamo.</s></text>
+        <text langid="eng"><s>So we stayed there.... </s><s>After I left home on 8th April 1994, the centre where I was was attacked. </s><s>They threw grenades inside the centre and we ran outside... </s><s>I left and while running away, and I met an Interahamwe who was our neighbour and was a gendarme, </s><s>  I don't remember his name.</s><s> Then he asked me: 'where are you going?' and I replied: 'I am looking for a place to hide because they're trying to kill us.' </s><s>Then he asked me: 'how much money do you have?'</s><s> I said: 'I only have 200Rwf,' and I gave him the money, and then he showed me a tree in which I hid.</s></text>
+      </align></unit>
+      <unit time="00:14:59:06" speaker="Richard"><align>
+        <text langid="kin"><s>Icyo giti nicyo nabayemo kugeza ku itariki ya 22/04/1994; </s><s>Ubwo nari nkirimo nyine mu gitondo ngiye kubona ahagana nko mu ma saa kumi n'ebyiri mbona papa na mama n'uwo mukuru wanjye; babanje kuzana mama baramwica na papa baraza nawe bahita bamwica nyuma noneho wa mukuru wanjye wundi yari uwa kabiri mu bana bo mu rugo; abonye ibibaye nawe ahita aza yirukanka bahita bamwica;</s></text>
+        <text langid="eng"><s>I stayed in that tree until 22/04/1994. </s><s>That morning, around 6 o'clock, I saw Dad, Mom and my big brother, first they brought Mom and killed her then my big brother who was the second born of the family, affected by what had just happened came running ... they killed him immediately.</s></text>
+      </align></unit>
+      <unit time="00:15:36:07" speaker="Aegis"><align>
+        <text langid="kin"><s>Abantu bicaga wari ubazi? </s><s>Impamvu babicaga ese warabyumvaga ni iki wabatekerezagaho?</s></text>
+        <text langid="eng"><s>Did you know the people who conducted the killings? </s><s>Did you know the reason why they were acting so, and what were you thinking about them?</s></text>
+      </align></unit>
+      <unit time="00:15:45:09" speaker="Richard"><align>
+        <text langid="kin"><s>Muri ubwo bwicanyi ndi aho rero ndi kureba abantu bica abantu bicaga ni abantu twari duturanye; </s><s>Nk'ahantu mama yari yihishe umugabo waho ni we wamutanze niwe wagiye kumwicisha yitwaga Népo;</s><s> Papa yari na parent we mu batisimu byari n'ibintu bibabaje cyane urebye niwe muntu wari uhagarariye ubwo bwicanyi niwe muntu wari hejuru; </s><s>N'abandi bitwa ba Munyagisenyi;</s><s>Abantu bo muri Cartier nyine bari abaturnyi dusanzwe cubana umunsi ku munsi.</s></text>
+        <text langid="eng"><s>While watching how people were killing each other... the killers were ordinary neighbours.</s><s> For instance, the man of the house where Mom hid is the one who handed her in to the killers, and his name was Nepo. </s><s>Dad was even his Godfather, and it was very sad to realize that Nepo was a high profile killer in that area.</s><s> There are other people like Munyagisenyi... </s><s>People who killed in my neighbourhood were just ordinary neighbours.</s></text>
+      </align></unit>
+      <unit time="00:16:17:01" speaker="Richard"><align>
+        <text langid="kin"><s>Ubwo nyine bamaze kubica hari umuntu nabaga munsi y'inzu; icyo giti nabagamo hari inzu yabaga munsi yacyo;</s><s> Umuntu waho witwa Jean Pierre ahita ampamagara; </s><s>Yari n'umututsi ariko yararongoye muri familla y'abahutu bataramwica nawe akiri aho ahita ampamagara ati ngwino nguhishe;</s><s> Ndaza ampisha mu nzu ye iminsi ibiri, hari umugabo witwa Adorphe aza ku menya ko ariho ndi aza kumbwira ko abandi bana bo mu rugo basigaye bari kwa Gismba, yari Orpherna yitwa kwa Gisimba;</s></text>
+        <text langid="eng"><s>After they got killed, there was a house at the foot of the tree in which I was hiding. </s><s>The man of that house was named Jean Pierre, and he called me...</s><s>He was a Tutsi but was married to a Hutu woman, and he was not killed yet.</s><s> I went to his house and he hid me for 2 days, and there was a man named Adolphe who knew where I was hiding there, and he came and told me that my siblings were at Gisimba's orphanage.</s></text>
+      </align></unit>
+      <unit time="00:17:00:23" speaker="Richard"><align>
+        <text langid="kin"><s>Nabashije kujyayo; </s><s>Ni ahantu ubundi hatwaye iminota icumi kugirango ugereyo; ariko kubera barierre zari mu Neira ni ibintu byari bigoye kuhagera ndakubwiye byantwaye iminsi ibiri; kandi aho hose ndi kugenda neura mpasanga imirambo abantu bapfuye iki; </s><s>Nagiye kugerayo nyuma y'iminsi ibiri.</s></text>
+        <text langid="eng"><s>I went there... </s><s>Ordinarily, it is a 15-minute walk but due to all the roadblocks set all over the street, I only managed to get there after two days, and wherever I went, the streets were full of corpses... </s><s>I only got there 2 days later.</s></text>
+      </align></unit>
+      <unit time="00:17:24:09" speaker="Richard"><align>
+        <text langid="kin"><s>Ngezeyo nsanga hariyo abantu benshi; </s><s>Hariyo abantu bagera kuri 400 bihisheyo;</s><s> Nkaba tunamushimira cyane ko yahishe abantu akabasha no guhangana nabyo dore ko bitari byoroshye;</s><s> Njyewe na bene mama rero twese niho twabashije gukirira twaje kuva aho kwa Gisimba ariko nabwo buri munsi bakajya bashaka kutwica dore ko hari n'abo bibaga bakaza bakagenda bakabica; </s><s>Nk'umuganga watuvuraga bigeze kuza baramubeshya bati hari umuntu upfuye ngwino ugende umuvure; nawe baragenda baramwica.</s></text>
+        <text langid="eng"><s>I found many people when I reached there.</s><s> Around 400 people were hiding there. </s><s>We are really grateful for having hidden people there and for resisting the assaults, which was not easy at all. </s><s>That is where my siblings and I survived, and later we left Gisimba orphanage but during the time we were there, they tried to kill us every day. </s><s>It happened sometimes that some of the people got abducted from the orphanage and got killed, and I remember that they, the killers, lied to the doctor who took care of us, saying there that there was someone seriously wounded in the street that needed his help, and they killed the doctor!</s></text>
+      </align></unit>
+      <unit time="00:17:58:21" speaker="Richard"><align>
+        <text langid="kin"><s>Ni ubwo buzima twabagamo buri munsi witeguye gupfa twebwe tugize Imana tubona ubwicanyi burarangiye baza ariko ubwo baje kutuvana aho kwa Gisimba batujyana Saint Michel; </s><s>Saint Michel rero niho twagiye kubona tubona ubwicanyi burarangiye nyuma tuza guhamya neza ko ubwo bwicanyi kubera bwari  bwibasiye nyine ubwoko; </s><s>Ni naho twaje kuvuga ko nyine ari genocida;</s></text>
+        <text langid="eng"><s>That was our daily lifestyle, and were prepared to die any time, and we were lucky to realize that the war was over, and people took us from the Gisimba orphanage to St Michel cathedral. </s><s>We stayed at St Michel until the end of the war, which was then that we realized that the type of killing that had just happened was against an ethnic group.</s><s> That was then that we decided to call it genocide.</s></text>
+      </align></unit>
+      <unit time="00:18:32:14" speaker="Richard"><align>
+        <text langid="kin"><s>Ndibuka iri kuba bwo twabwitaga ubwicanyi tukabyita andi mazina ariko nyuma yaho noneho kubera gusobanukirwa neza iryo jambo riza kuboneka nubwo ritari mu rurimi rwacu tuza kumenya ko ari genocida yakorerwaga abatutsi.</s></text>
+        <text langid="eng"><s>I remember that when it was happening, we called it 'killings' and other names but later, after understanding the fact, a word defining that killing was discovered even though it was not part of our language, and we were informed that it was a genocide perpetrated towards the Tutsis.</s></text>
+      </align></unit>
+      <unit time="00:18:47:12" speaker="Aegis"><align>
+        <text langid="kin"><s>Ni iki kikubabaza cyane iyo wibutse genocida?</s></text>
+        <text langid="eng"><s>What hurts you the most when you remember the genocide?</s></text>
+      </align></unit>
+      <unit time="00:18:50:12" speaker="Richard"><align>
+        <text langid="kin"><s>Muri genocide iyo nibutse genocida hari ikintu cya mbere kimbabaza njyewe ni ukuntu bishe ababyeyi banjye.</s><s> Ndabyibuka icyo gihe hari mu gitondo; </s><s>Iryo joro; </s><s>Ubundi nabaga mu giti ariko sinajyaga manuka; </s><s>Ariko iryo joro naraye nikubita hasi nk'inshuro nk'enye bugiye gucya nka mu gitondo nka saa kumi n'imwe nako mu masaa kumi n'ebyiri buri gucya nibwo nabonye mama aje baramurasa papa araza baramurasa mama araza; </s><s>Nako na mukuru wanjye araza baramurasa iyo shusho ntabwo ishobora kumvamo byo bibaho.</s></text>
+        <text langid="eng"><s>Every time I remember the genocide, what hurts me the most is the way they killed my parents. </s><s>I remember that it happened one morning. </s><s>The night preceding that morning...</s><s>Ordinarily I always stayed in the tree and never went down on the ground.</s><s> But that night, I kept on falling down, about 4 times, and then at dawn around 6 o'clock, I saw my mother being shot then it was my Dad's turn, and they shot him too. </s><s>Then they shot my big brother, and that picture can never be erased of my memory!</s></text>
+      </align></unit>
+      <unit time="00:19:37:01" speaker="Richard"><align>
+        <text langid="kin"><s>Ariko noneho aho hantu nabaga mu giti icyo cyobo biciyeho ababyeyi banjye buri munsi niko biciragaho abantu; </s><s>Ayo mashusho rero buri Munsi aragaruka mba nyareba niyo mashusho ya mbere mbese anza mo; </s><s>Iyo bavuze genocide mpita mbona.</s></text>
+        <text langid="eng"><s>At the foot of the tree in which I hid, there was a pit, which is where my parents were killed, and many people were killed there everyday.</s><s> So all those images keep on coming back to me, and I see them every time that I remember it. </s><s>That's what I see every time the word genocide is mentioned.</s></text>
+      </align></unit>
+      <unit time="00:19:53:21" speaker="Richard"><align>
+        <text langid="kin"><s>Ikindi kintu cya kabiri cyambabaje muri genocida nibuka ni urwo rugendo mbese nakoze mva aho ngaho nari nihishe kugera kwa Gisimba; </s><s>Ni ahantu hatwaye iminota icumi; </s><s>Ariko hantwaye iminsi ibiri, ariko muri iyo Minsk ibiri ibintu nabonye ni ibintu njyewe mbara ko bihwanye n'imyaka nk'ijana ahari; </s><s>Kuko nabonye ubwicanyi burenze kandi noneho igituma mvuga ko bibabaje ni uko utabonaga uko ubabara; warabibonaga ukagumya uri nk'igiti nutriré ntukore iki ibyo bikaba ari byo bintu byambabaje cyane muri genocida rero.</s></text>
+        <text langid="eng"><s>The second thing that hurt me in the genocide was that walk from where I was hiding to the Gisimba orphanage. </s><s>It is ordinarily a 10-minute walk but it took me 2 days. </s><s>But what I saw within those 2 days is equivalent to 100 years, I should say.</s><s> I witnessed killings beyond understanding, and the reason why I am saying that it hurt me a lot is because you would see all that and not get hurt, and you would just stay there numb like a tree, and you wouldn't shed a tear or anything, and that's what hurt me the most during the genocide.</s></text>
+      </align></unit>
+      <unit time="00:20:35:24" speaker="Aegis"><align>
+        <text langid="kin"><s>Ubu ngubu se ukora iki, ubu ukora iki ubu ngubu mu buzima bwa buri minsi?</s></text>
+        <text langid="eng"><s>What do you do in your everyday life?</s></text>
+      </align></unit>
+      <unit time="00:20:38:11" speaker="Richard"><align>
+        <text langid="kin"><s>Nyuma ya genocida nyine byumwihariko twakomeje guhangana n'izo ngaruka za genocida;</s><s> Uyu munsi rero nkaba nararangije amashuri yanjye matota Secondaire;</s><s> Nkaba nkora ku Rwibutso rwa Gisozi umunsi ku wundi, ubuzima butoroshye na gato kuko ni ukuvuga ngo buri munsi mpora muri genocida;</s></text>
+        <text langid="eng"><s>After the genocide, we kept on struggling against the consequences of the genocide.</s><s>Today I have completed my secondary education. </s><s>I work at the Gisozi Genocide Memorial Centre full-time, which is not easy at all because everyday takes me back to the life during the genocide.</s></text>
+      </align></unit>
+      <unit time="00:21:05:19" speaker="Richard"><align>
+        <text langid="kin"><s>Ariko by'umwihariko nk'umuntu wayibayemo kuri njyewe bikanamfasha nanone kuko bituma mbona ko abacu batagiye ngo birangirire aho.</s></text>
+        <text langid="eng"><s>But in particular as someone who experienced it, it helps me, and it makes me feel that our loved ones did not just pass away and get forgotten!</s></text>
+      </align></unit>
+      <unit time="00:21:13:00" speaker="Richard"><align>
+        <text langid="kin"><s>Nkaba rero nkora ku rwibutso rwa Gisozi;</s><s> Nkaba nkora muri Departement ya documentation.</s></text>
+        <text langid="eng"><s>I work at the Kigali Genocide Memorial located in Gisozi. </s><s>I work in the Documentation department.</s></text>
+      </align></unit>
+      <unit time="00:21:27:06" speaker="Aegis"><align>
+        <text langid="kin"><s>Ese warabyakiriye uvaza kugendana nabyo buri munsi? </s><s>Ko ababyeyi bawe bapfuye; ni iki kigufasha gotera intambwe?</s></text>
+        <text langid="eng"><s>Have you accepted the loss of your parents or you live with it every day? </s><s>What helps you move forward?</s></text>
+      </align></unit>
+      <unit time="00:21:36:15" speaker="Richard"><align>
+        <text langid="kin"><s>Kuvuga yuko umuntu yakiriye kubura abacu biragoye;</s><s> Nko kubura umubyeyi byo buri muntu azi valeur y'umubyeyi icyo ari cyo.</s></text>
+        <text langid="eng"><s>Saying that we have accepted the loss of our loved ones is hard. </s><s>When it comes to parents, I think everyone knows the value of a parent.</s></text>
+      </align></unit>
+      <unit time="00:21:48:14" speaker="Richard"><align>
+        <text langid="kin"><s>Ntabwo binyorohera kubyakira kubura ababyeyi; </s><s>Ariko ngerageza kubyakira bikanantera nubugabo bwo kuvuga ngo reka nshakishe ubuzima kuko abatwishe baracyariho;</s><s> Buri munsi duhura nabo binavuga ko ntabwo banatwifuriza no kubaho; ariko buri munsi umuntu agerageza kuvuga ati reka nnkore ikiza kugirango ba bantu banyishe batishima; ukeretse ko bitanoroshye rero;</s></text>
+        <text langid="eng"><s>It is not easy for me to accept the loss of my parents but I try.</s><s> And this gives me the courage to struggle for a better life because those who killed us are still out there and we meet them every day.</s><s> They definitely do not wish us to live but everyday one tries to do what's good so that those who destroyed our lives do not rejoice, though it isn't easy.</s></text>
+      </align></unit>
+      <unit time="00:22:25:14" speaker="Richard"><align>
+        <text langid="kin"><s>Muri ubwo buzima bwa buri munsi umuntu ahura n'ibibazo bitoroshye; </s><s>Kubaho bisanzwe kuko; hari igihe abantu bibeshya ko umuntu warokotse akenera amafaranga ariko umuntu warokotse akenera n'umuntu umwegera akamuganiriza; </s><s>Kuko babana n'iyo genocida mu mutwe noneho n'iyo bikubitiyeho ko nta mwaye afite yo kubaho bikaba ibintu bimugora mu buzima bwa buri munsi bwo gushakisha uko twabaho nubwo bitoroshye.</s></text>
+        <text langid="eng"><s>In our everyday life, we encounter various difficulties in general. </s><s>Sometimes people are mistaken that genocide survivors need money but the reality is that they need people close to them, people they can talk to. </s><s>Because they live with genocide everyday and when the lack of means is added to that, things become more complicated, and we try to find a better way of life, but it's not easy.</s></text>
+      </align></unit>
+      <unit time="00:22:52:08" speaker="Aegis"><align>
+        <text langid="kin"><s>Ese bijya bikubaho kwiheba?</s></text>
+        <text langid="eng"><s>Do you ever get desperate?</s></text>
+      </align></unit>
+      <unit time="00:22:56:07" speaker="Richard"><align>
+        <text langid="kin"><s>Kwiheba; </s><s>kwiheba ngewe njya niheba;</s><s> Njya nicara; nkubu nkeneye kwiga universte; nshaka kuzamura ubuzima bwanjye ariko iyo ureba ko buri munsi ukora kugirango ubigereho ukabona bidashboka bigutera ubwoba ukagera n'aho wiheba kwiheba noneho; </s><s>Nkanjye impano ngira ni uko;</s><s> Nababwiye ko nkora ku rwibutso rwa Gisozi; hari igihe some time mpura n'abantu bafite ibicazo bindenze ibyo rero nibyo bingarurira za Mbarara nkavuga nti reka dushakishe ukuntu dukora ubuzima bwacu.</s></text>
+        <text langid="eng"><s>Desperate? </s><s> Yes I get desperate sometimes. </s><s>When I think about 'I need to go to University, I need to improve my life status ... ' but when realize that you work every day to achieve that and it doesn't happen, it leads you to desperation. </s><s>But I have a gift... </s><s>I think I mentioned that I work at the Kigali Genocide Memorial Centre, I happen to meet with people who have more problems than I do and that gives me the power to say: 'Let's look for ways to make a better life.'</s></text>
+      </align></unit>
+      <unit time="00:23:40:15" speaker="Aegis"><align>
+        <text langid="kin"><s>Nk'abo bantu ndakeka ko baba ari imfubyi;</s><s> Watubwira ubuzima bwabo uko bumeze?</s></text>
+        <text langid="eng"><s>I guess you are talking about orphans. </s><s>Could you tell us about their life today?</s></text>
+      </align></unit>
+      <unit time="00:23:41:17" speaker="Richard"><align>
+        <text langid="kin"><s>Kuvuga ko hari abantui benshi bafite ingaruka za genocide ibyo nibyo; </s><s>Nkubu ndabaha urugero;</s><s> Hari abantu batemwe bafite ibikomere;</s><s> Hari abantu basenyewe uyu munsi batarubaka amazu yabo; </s><s> Hari abana badashobora kwiga uyu munsi kubera ibicazo bya Tromatisime; </s><s>Hari ibicazo binyuranye; </s><s>Ariko muri ibyo bibazo byose hari abana bibana badafite capacite yo kuvuga ngo ararera bene nyina ariko kubera ko byabaye gutyo birabaye agomba kubikora.</s></text>
+        <text langid="eng"><s>It is true that there are many people suffering from the consequences of the genocide.</s><s> I will give you some cases:</s><s> there are people living with machete cuts.</s><s> There are some people whose houses were destroyed and no rehabilitation was done.</s><s> Some children cannot go to school because they undergo trauma...</s><s> There are many different problems. </s><s>Above all that there are children who live alone and who do not have the capacity to take care of their siblings but who do because they have to.</s></text>
+      </align></unit>
+      <unit time="00:24:25:17" speaker="Richard"><align>
+        <text langid="kin"><s>Noneho ikibazo kigaruka cyane ni iki ngiki; </s><s>Ibyo byose twarabyakiriye yego n'ubwo bigote; ariko se nubwo bigote ikibagoye cyane tugomba kureba ni iki?</s><s>Uyu munsi abantu batwiciye bari hanze; bari gufungurwa bagabanyirijwe ibyaha; ngo ni uko bemeye ibyaha.</s><s>Uyu munsi urahura n'umuntu wakwiciye avuye mu munyururu umuryango we ntabwo wapfuye; araza agahura n'umuryango we ukamwubaka agatera imbere; wowe akagusanga hahandi ugeze ugakomeza ukanahaba.</s></text>
+        <text langid="eng"><s>Now the question is 'what is the question that keeps coming back?</s><s> We have accepted all that even though it's hard but the question is which of them is the most difficult? </s><s>Today those who killed our loved ones are out there, they are getting freed and their sentence reduced simply because they admitted their crimes. </s><s>Today you meet with the one who killed your loved ones, and the genocide perpetrators get to go back to their families and rebuild their lives, and they move forward while you keep on living the same way you used to when they found you there.</s></text>
+      </align></unit>
+      <unit time="00:25:06:08" speaker="Richard"><align>
+        <text langid="kin"><s>Ikindi n'iyo Justice ku bantu barokotse niba ari nacyo cyanabahumura umutima uyu munsi hari umuntu utarabona uwe kandi twita ngo turi kubabarira abantu bakoze genocida ngo vírese ibyaha ariko uyu munsi kubona uwawe byonyine ni ibintu bigoye ako ni agahinda umuntu agifite; </s><s>Ugize kwicirwa;</s><s> Ugize no kuba utarabona uwawe.</s></text>
+        <text langid="eng"><s>Another issue is Justice to the survivors- if this is what will put them at ease, because to this day, there are people who haven't found yet the remains of their loved ones, and then we claim talking about forgiving the genocide perpetrators who so-called confessed to their crimes while finding the body of your loved one is very hard.</s><s> This is a pain that one bears inside:</s><s> Losing your loved ones and missing their bodies.</s></text>
+      </align></unit>
+      <unit time="00:25:32:13" speaker="Richard"><align>
+        <text langid="kin"><s>N'ibindi bitandukanye rero;</s><s> Abapfakazi batabashije kurera abana babo baba mu mazu adafatitse; </s><s>ngabo abana batiga nabo baba mu mazu adafatitse; </s><s>gusanga ubuzima bw'aba rescape uyu munsi ntabwo bushimishije; </s><s>kandi noneho guasanga ko hari abantu hanze aha uyu munsi bari kugenda bakora ibikorwa biyitirira ko babaye intwali; </s><s>muzi nka Film bita Hotel Rwanda;</s><s> Rusesabagina niwe muntu wayikoze buri munsi aragenda yiyitirira ku isi yose ko ariwe muntu wakoze ubutwali; ko yakoze ubutwali akagenda bamuha ibikombe ku isi yose;</s><s> bakamuha amafaranga menshi cyane; ariko wajya kureba ukabona ayo mafaranga ari guhabwa ari kugenda akora ibindi bintu birwanya genocida</s></text>
+        <text langid="eng"><s>There are other different things... </s><s>Widows cannot look after their kids and live in houses in bad conditions. </s><s>There are also kids who don't go to school and who live in houses in bad conditions.</s><s> Briefly the life of genocide survivors is not good at all. </s><s>Also there are people outside the country who claim to have done heroic acts... </s><s>I think you heard about the movie called Hotel Rwanda. </s><s>Rusesabagina, the main guy behind it, tells his so-called heroic deeds to the whole world and gets awards here and there. </s><s>He also gets a lot of money but when you look at what he does with that money, you realize that he uses it for purpose of revisionism.</s></text>
+      </align></unit>
+      <unit time="00:26:32:24" speaker="Richard"><align>
+        <text langid="kin"><s>Ugasanga rero bibabaje;</s><s> ukurikije  ubuzima bw'abacitse genocida y'abatutsi mu Rwanda; </s><s>Guasanga ubuzima babayeho budakwiranye no kuba uyu munsi bari kuba bakirira kuko amahanga niyo yabatereranye sinumva n'impamvu rero atakongera ngo agaruke inyuma ahubwo ngo abafashe.</s></text>
+        <text langid="eng"><s>So it is very sad. </s><s>So if you consider the life status of the survivors of the Tutsi genocide... </s><s>Then you realize that today, they shouldn't be living in sorrow because it is the world that abandoned them, so I don't understand why they cannot turn back and help them.</s></text>
+      </align></unit>
+      <unit time="00:27:02:09" speaker="Richard"><align>
+        <text langid="kin"><s>Dukurikije rero ibyo twavuze byose ni ukuvuga ngo uyu munsi dukeneye ubufasha bwinshi; </s><s>Nk'umuntu wese ufite ubushobozi; </s><s>Nk'umuntu wese ugifite imbaraga yo kuba agihumeka; abantu barokotse genocida y'abatutsi mu Rwanda bakeneye abantu babegera;</s></text>
+        <text langid="eng"><s>So referring to all that we stated above, I would simply say that we need help. </s><s>Whoever has the potential, whoever is still breathing... </s><s>People who survived the Tutsi genocide in Rwanda need people next to them.</s></text>
+      </align></unit>
+      <unit time="00:27:32:10" speaker="Richard"><align>
+        <text langid="kin"><s>Ariko iyo mvuze kwegera ntiwumve ko Directe mvuze amafaranga;</s><s> Abantu benshi hari n'ukeneye ko waza ukamuganiriza; </s><s>Ariko tuve kuri ibyo; </s><s>Hari umuntu uyu munsi witwa ngo yarokotse genocida uyu munsi ntafite aho aba; </s><s>Uyu munsi arakicaye aracyararaguzwa ntafite aho akinga ubuzima bwe.</s></text>
+        <text langid="eng"><s>When I say next to them, do not directly think that I am talking about money. </s><s>Some people just need people they can talk to. </s><s>But let's leave that aside.</s><s> Today we have people who survived the genocide and who have nowhere to live. </s><s> They are there wandering with no help at all.</s></text>
+      </align></unit>
+      <unit time="00:27:59:18" speaker="Richard"><align>
+        <text langid="kin"><s>Uyu munsi hari umuntu ufite ibikomere bya genocida bitarashira ku mubiri we udashobora no kubona uko yivuza; </s><s>Uyu munsi hari abana batiga;</s><s> Kubera iki?</s><s> Ababafasha nabo ubushobozi ni buke; </s><s>Ukumva ngo umwana niba adafite aya manota ntashobora gukomeza kwiga; ariko nawe siwe witeye ibicazo arimo;</s></text>
+        <text langid="eng"><s>Today we have people who still bear scars of the genocide in their bodies and they still have no access to medical care.</s><s> Today we have kids who don't go to school. </s><s>Why? </s><s>Because those who help them have a very limited potential. </s><s>Then sometimes you hear people saying that if a kid doesn't have a certain grade, they cannot pursue their education, but one needs to know that they are not responsible for the problems that they have.</s></text>
+      </align></unit>
+      <unit time="00:28:23:02" speaker="Richard"><align>
+        <text langid="kin"><s>Ni ukuvuga ngo rero muri ibyo bibazo byose; navega ko abacitse ku icumu rya Genocide y'abatutsi bafite ibicazo bikomeye;</s><s> Byumwihariko noneho binakabije kuko uyu munsi haracyari ubwicanyi;</s><s> Kubera yanarokotse ubwo bwicanyi bwa Genocide y'icyenda na kane uyu munsi ubwicanyi buracyakomeza; ndavuga ko nko mu w'2007 umwaka ushize hishwe abantu bagera kuri cumi n abane; uyu mwaka kuva watangira wonyine muri uku kwezi kwa gatatu twitegura kwinjira mu kwibuka abantu bamaze gupfa ni batanu;</s></text>
+        <text langid="eng"><s>So after stating all those problems, I would say that the survivors of the Tutsi genocide have very big problems. </s><s>In addition the killings are still carried on towards the survivor of the 1994 killings.</s><s> Last year, in 2007, about 14 people were killed, and since the beginning of this year, this March, as we approach the commemoration period, 5 people are already dead!</s></text>
+      </align></unit>
+      <unit time="00:29:06:08" speaker="Richard"><align>
+        <text langid="kin"><s>Bivuga ngo wa muntu warokotse genocide nta buzima buhamye afite; </s><s>Ariko noneho kuba adafite ubuzima bwiza nta nubwo aravuga ngo njyewe narokotse iyo genocida neza; </s><s>Bivuga agio rero buri muntu wese ufite umutima ufite ubumuntu mu mutila wawe njyewe navega ngo dukwiye guhaguruka uyu munsi kwa kundi tuvuga ngo genocida never agene ariko noneho tukanavuga tuti ni iki twakorera ababantu.</s></text>
+        <text langid="eng"><s>All this to say that the survivor of the genocide has no stable life today.</s><s> Besides not having a stable life, they cannot even say that they really survived the genocide. </s><s>This leads me to say that whoever has some humanity within their heart should stand today and say 'Genocide, never again,' but this time thinking about what to do for those people.</s></text>
+      </align></unit>
+      <unit time="00:29:38:18" speaker="Richard"><align>
+        <text langid="kin"><s>Uhaguruke turwanye ubwicanyi kuko; njyewe sinavuga ko bwarangiye kuko uyu munsi hari abantu bakicwa kubera ari abatutsi.</s></text>
+        <text langid="eng"><s>People need to stand and fight against this type of killings, since today people continue to be killed because they are Tutsis.</s></text>
+      </align></unit>
+      <unit time="00:29:57:04" speaker="Richard"><align>
+        <text langid="kin"><s>Dukurikije rero ibyo tubona byose ku isi bigenda biba;</s><s> Tukabona ko genocida y'aba juife yarabaye baravuga bati genocida never agene;</s><s> Genocida hari n'izitaremerwa uyu munsi kandi zabaye genocida y'abanyarwanda nayo y'abatutsi iraba; </s><s>Hari abakiyihakana ni nabenshi ku isi; </s><s>ariko twebwe twakora iki nk'abantu?</s></text>
+        <text langid="eng"><s>So considering all that happens on this planet... </s><s>The Holocaust happened and people said 'Never again',</s><s> There are even genocides that are not yet recognized while they happened, but the Rwandan genocide happened,</s><s> But there are many people out there who still deny it! </s><s>But what can we do as human beings?</s></text>
+      </align></unit>
+      <unit time="00:30:23:10" speaker="Richard"><align>
+        <text langid="kin"><s>Njyewe nihereyeho icyo nababwira ni uko tugomba guhaguruka; </s><s>Tugomba guhaguruka tukareba ijambo tuvuga tukareba n'uburemere bwaryo tukareba n'icyo Imana izatubaza; kuko Imana yaturemye kuza gukora ku isi iduha ubwenge; ntabwo yaduhaye ubwenge bwo kwica tuvanaho ibiremwa byayo.</s></text>
+        <text langid="eng"><s>Personally I say this to you: </s><s>We must stand up and weigh every word that comes out of our mouths and also take into consideration what God will ask us because God put us on this Earth and gave us intelligence- and not the intelligence to kill and destroy his creation.</s></text>
+      </align></unit>
+      <unit time="00:30:40:02" speaker="Richard"><align>
+        <text langid="kin"><s>Bivuga iki rero; </s><s>Nubwo nkubwira ko uyu munsi mu Rwanda hari abantu bakizira ko ari abatutsi bakicwa ngo ni uko barokotse genocida y'icyenda na kane bati tuzakomeza tubarangirizeho; </s><s>Ntabwo bivuga ko ari ho gusa;</s><s> Turebe za Darfour ubu hari kuvugwa genocida; </s><s>Ariko nkanjye nk'umuunyarwanda by'umwihariko warokotse genocida y'abatutsi y'icyenda na kanengewe nanavuga nti kubera ibyo nayibonye mo ntabwo naceceka kuvuga ko twavuga tuti ubwicanyi bwo muri Darfour nabwo niburangire buhagarare; abanye Darfour nabo babone amahoro.</s></text>
+        <text langid="eng"><s>What does this mean? </s><s>Though I am telling you that there are people who still die in Rwanda because they are Tutsis, because they survived the genocide of 1994 with people aiming to exterminate them all...</s><s> it is not just about Rwanda! </s><s>Today people talk about Genocide in Darfur! </s><s>So as a Rwandan and in particular as a survivor of the 1994 Tutsi genocide, due to what I went through, I cannot stop myself from saying 'let the genocide of Darfur end and let the people of Darfur have peace.'</s></text>
+      </align></unit>
+    </data>
+  </file>
+</dataset>

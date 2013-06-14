@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Sinari nahazi nzakujyayo umuntu aranyobora icyo gihe narayobye ntungukira kwa perezida habyarimana hariya mu kiyovu . ||| I did n't know the place so someone directed me but I got lost and went to president Habyarimana 's house in Kiyovu .
+
+% TEXT
+Sinari nahazi nzakujyayo umuntu aranyobora icyo gihe narayobye ntungukira kwa perezida habyarimana hariya mu kiyovu .
+
+% ANNO
+[Sinari nahazi nzakujyayo umuntu aranyobora icyo gihe narayobye ntungukira kwa perezida habyarimana hariya mu kiyovu]

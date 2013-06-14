@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Kuko bo ... Mutabazi bamwicanye na musaza wanjye muto bishe afite imyaka umunani . ||| Because they ... Mutabazi was killed together with Uwitonze my 8 year old brother .
+
+% TEXT
+Kuko bo ... Mutabazi bamwicanye na musaza wanjye muto bishe afite imyaka umunani .
+
+% ANNO
+(Kuko > bo)... < (Mutabazi > bamwicanye < (na > ((musaza < wanjye) < muto)) > bishe < afite < (imyaka < umunani))

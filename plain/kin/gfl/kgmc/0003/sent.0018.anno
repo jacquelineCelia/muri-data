@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Tugarutse inyuma gato mu gihe cyo muri 90 ... niba ubyibuka neza watubwiye ko wari uri ku gisenyi , ese waje kuva ku Kibuye gute ujya kuba ku Gisenyi ? N' ibyo bibazo by' intambara ? ||| If we go back to 1994 ... can you remember exactly how you left Kibuye for Gisenyi ? Was it as a consequence of the war ?
+
+% TEXT
+Tugarutse inyuma gato mu gihe cyo muri 90 ... niba ubyibuka neza watubwiye ko wari uri ku gisenyi , ese waje kuva ku_1 Kibuye gute ujya kuba ku_2 Gisenyi ? N' ibyo bibazo by' intambara ?_1
+
+% ANNO
+Tugarutse < (inyuma < gato) < (mu > gihe < (cyo > muri > 90)) > niba < (ubyibuka < neza) > watubwiye < ko > (wari < uri < (ku < gisenyi) < ese > waje ) > kuva < (ku_1 < Kibuye) < gute > ujya < kuba < (ku_2 < Gisenyi) 
+N' < (ibyo > bibazo < (by' > intambara))

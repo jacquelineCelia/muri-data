@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Uwitonze bari bari kumwe twabakuye hamwe . ||| We found them together .
+
+% TEXT
+Uwitonze bari bari_1 kumwe twabakuye hamwe .
+
+% ANNO
+Uwitonze < bari < bari_1 < kumwe < twabakuye < hamwe

@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Yego , nashyinguye Ngirabakunzi ma sœur -LRB- murumuna wanjye -RRB- na Alphred n' uwitonze , na data wacu Mutabazi . ||| Yes , I buried Ngirabakunzi my little sister , Alfred and Uwitonze and our uncle Mutabazi .
+
+% TEXT
+Yego , nashyinguye Ngirabakunzi ma sœur -LRB- murumuna wanjye -RRB- na Alphred n' uwitonze ,_1 na_1 data wacu Mutabazi .
+
+% ANNO
+Yego
+$x :: {Ngirabakunzi Alphred uwitonze data} :: na n' na_1
+Ngirabakunzi < (ma > sœur) < -LRB- < murumuna < wanjye < -RRB- < Alphred > uwitonze < (wacu > Mutabazi)

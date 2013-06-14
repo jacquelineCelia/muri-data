@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Shumbusho muracyari kumwe ? ||| Are you still with Shumbusho ?
+
+% TEXT
+Shumbusho muracyari kumwe ?
+
+% ANNO
+Shumbusho > muracyari < kumwe

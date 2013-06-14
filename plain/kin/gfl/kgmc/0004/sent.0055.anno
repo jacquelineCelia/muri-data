@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abo bose bareba AVEGA kandi ukabona nti ntibashoboye ntibafashe uko bikwiriye . ||| All those people have their eyes on AVEGA and it is clear to see that it does n't help them much .
+
+% TEXT
+Abo bose bareba AVEGA kandi ukabona nti ntibashoboye ntibafashe uko bikwiriye .
+
+% ANNO
+(Abo > bose) > bareba < AVEGA 
+$x :: {bareba ukabona} :: kandi
+(ukabona < nti) < ntibashoboye < ntibafashe < uko < bikwiriye

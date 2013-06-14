@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mbese ukagira nk' ikintu wabitubwiraho . ||| Just tell us something about that .
+
+% TEXT
+Mbese ukagira nk' ikintu wabitubwiraho .
+
+% ANNO
+Mbese < ukagira < (nk' < ikintu) 
+ukagira < wabitubwiraho

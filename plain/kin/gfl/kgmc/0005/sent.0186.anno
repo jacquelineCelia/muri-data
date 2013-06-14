@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nukuri usanga twibuka mu kwa kane gusa wagirango ubundi tuba twaribagiwe aho bagiye tukabibuka mu kwa kane gusa . ||| It 's true that we only remember in april , you would think that at other times we forget where they went and only remember thrm in april .
+
+% TEXT
+Nukuri usanga twibuka mu kwa kane gusa wagirango ubundi tuba twaribagiwe aho bagiye tukabibuka mu_1 kwa_1 kane_1 gusa_1 .
+
+% ANNO
+[Nukuri usanga twibuka mu kwa kane gusa wagirango ubundi tuba twaribagiwe aho bagiye tukabibuka mu_1 kwa_1 kane_1 gusa_1]

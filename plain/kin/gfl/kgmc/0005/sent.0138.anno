@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kuko ngewe ubwange ntawe ndiwe nta nicyo mba ndicyo pe ariko kuba Imana yarabonyeko abana banshizeho umubiri ukanshiraho . ||| Because on my own I am nothing and I would be nothing but the fact that God saw that my children and body were dead .
+
+% TEXT
+Kuko ngewe ubwange ntawe ndiwe nta nicyo mba ndicyo pe ariko kuba Imana yarabonyeko abana banshizeho umubiri ukanshiraho .
+
+% ANNO
+[Kuko ngewe ubwange ntawe ndiwe nta nicyo mba ndicyo pe ariko kuba Imana yarabonyeko abana banshizeho umubiri ukanshiraho]

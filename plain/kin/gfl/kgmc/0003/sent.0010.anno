@@ -1,0 +1,14 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Kandi akagira n' ikintu ... bikanakomeza . ||| There 's also ... it goes on .
+
+% TEXT
+Kandi akagira n' ikintu ... bikanakomeza .
+
+% ANNO
+$x :: {Kandi ikintu} :: n'
+Kandi > akagira
+ikintu > bikanakomeza 
+...

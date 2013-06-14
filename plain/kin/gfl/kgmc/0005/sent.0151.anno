@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' ikintu cya girira abandi akamaro . ||| It 's something that can help others .
+
+% TEXT
+N' ikintu cya girira abandi akamaro .
+
+% ANNO
+[N' ikintu cya girira abandi akamaro]

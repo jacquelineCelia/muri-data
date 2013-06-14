@@ -1,0 +1,15 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma uwo musirikare watubwiye w' umurokore se niwe wari wagufashije kukugeza kuwo mu Zairoise ? ||| The born @-@ again soldier you told us about , is he the one that helped you get to the Congelese woman ?
+
+% TEXT
+Hanyuma uwo musirikare watubwiye w' umurokore se niwe wari wagufashije kukugeza kuwo mu Zairoise ?
+
+% ANNO
+Hanyuma 
+uwo > musirikare < watubwiye < w' < umurokore 
+watubwiye < se 
+watubwiye < niwe 
+watubwiye < wari < wagufashije < kukugeza < kuwo < mu < Zairoise

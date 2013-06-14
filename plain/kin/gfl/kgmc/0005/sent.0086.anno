@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Akambwira ati numywa menshi arakwica tubaye aho ngaho muri toilette haza kuzamo n' abandi bana . ||| He would say to me that if I drink a lot , the water would kill me . We stayed in that toilet and were joined by other children .
+
+% TEXT
+Akambwira ati numywa menshi arakwica tubaye aho ngaho muri toilette haza kuzamo n' abandi bana .
+
+% ANNO
+[Akambwira ati numywa menshi arakwica tubaye aho ngaho muri toilette haza kuzamo n' abandi bana]

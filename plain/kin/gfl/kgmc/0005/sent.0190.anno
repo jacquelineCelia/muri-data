@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ukibaza uti uru nurugo rwaba bantu bantu batakireba ku isi ariko n' urugo rwabo . ||| It is the home of those people , they may not be here on earth but it is there home .
+
+% TEXT
+Ukibaza uti uru nurugo rwaba bantu bantu_1 batakireba ku isi ariko n' urugo rwabo .
+
+% ANNO
+[Ukibaza uti uru nurugo rwaba bantu bantu_1 batakireba ku isi ariko n' urugo rwabo]

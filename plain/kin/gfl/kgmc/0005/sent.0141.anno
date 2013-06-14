@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko imbabazi za nyirarubeshwa ntazo mfite hari ibintu muri gacaca bavuga ngo nsabye imbabazi abanyarwanda bose . ||| But not forgiveness out of hypocrisy like they do in gacaca , someone coming and saying that I am asking forgiveness from every Rwandan , I do n't have that forgiveness .
+
+% TEXT
+Ariko imbabazi za nyirarubeshwa ntazo mfite hari ibintu muri gacaca bavuga ngo nsabye imbabazi_1 abanyarwanda bose .
+
+% ANNO
+[Ariko imbabazi za nyirarubeshwa ntazo mfite hari ibintu muri gacaca bavuga ngo nsabye imbabazi_1 abanyarwanda bose]

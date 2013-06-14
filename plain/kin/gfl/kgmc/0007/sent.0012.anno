@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Ni iki wifuza gukora mu gihe kizaza ? ||| What do you want to do in the future ?
+
+% TEXT
+Ni iki wifuza gukora mu gihe kizaza ?
+
+% ANNO
+[Ni iki wifuza gukora mu gihe kizaza]

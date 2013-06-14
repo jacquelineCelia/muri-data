@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+bibaye nk' igitangaza ukabona baraje bagusabye imbabazi , wabyitwaramo ute ? ||| If it happened by any miracle that you saw them coming to you to ask for forgiveness , how would you react ?
+
+% TEXT
+bibaye nk' igitangaza ukabona baraje bagusabye imbabazi , wabyitwaramo ute ?
+
+% ANNO
+(bibaye < nk' < igitangaza) > ukabona < baraje < bagusabye < imbabazi 
+wabyitwaramo < ute

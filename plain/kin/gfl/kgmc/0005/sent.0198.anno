@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko rwose mbona ababyeyi mbona dukwiye kwigisha abana gukundana urubyiruko rugasabana ubona ikintu cy' ubusabane bagenda bakora . ||| So I believe that we parents should teach our children to love each other , the youth needs to fellowship and be together .
+
+% TEXT
+Ariko rwose mbona ababyeyi mbona_1 dukwiye kwigisha abana gukundana urubyiruko rugasabana ubona ikintu cy' ubusabane bagenda bakora .
+
+% ANNO
+[Ariko rwose mbona ababyeyi mbona_1 dukwiye kwigisha abana gukundana urubyiruko rugasabana ubona ikintu cy' ubusabane bagenda bakora]

@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ba bantu mwari mwihishanye igihe wabaga kwa Mariya ba Giramata , nta makuru yabo ... ? ||| Have you heard anything Giramata , the one you were hiding with at Maria 's ?
+
+% TEXT
+Ba bantu mwari mwihishanye igihe wabaga kwa Mariya ba Giramata , nta makuru yabo ... ?
+
+% ANNO
+(Ba > bantu) > mwari < mwihishanye < (igihe > wabaga < (kwa < Mariya < (ba > Giramata) < (nta > makuru < yabo)) 
+...

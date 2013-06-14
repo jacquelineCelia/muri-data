@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Uuuuuuuuuuuuuuuuu mu iseminari . ||| Hummmm , at the seminary .
+
+% TEXT
+Uuuuuuuuuuuuuuuuu mu iseminari .
+
+% ANNO
+[Uuuuuuuuuuuuuuuuu mu iseminari]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Turongera na none indi nshuro imwe turongera turashyingura bwa kabiri . ||| We buried again for the second time .
+
+% TEXT
+Turongera na none indi nshuro imwe turongera turashyingura bwa kabiri .
+
+% ANNO
+[Turongera na none indi nshuro imwe turongera turashyingura bwa kabiri]

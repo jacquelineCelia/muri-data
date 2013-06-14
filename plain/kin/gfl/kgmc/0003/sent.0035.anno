@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Hari abantu bawe waba warabashije gushyingura mu cyubahiro ? ||| Have you been able to bury in respect some of your people ?
+
+% TEXT
+Hari abantu bawe waba warabashije gushyingura mu cyubahiro ?
+
+% ANNO
+Hari < ((abantu < bawe) < waba) > warabashije < gushyingura < (mu < cyubahiro)

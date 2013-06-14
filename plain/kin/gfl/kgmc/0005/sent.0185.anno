@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Zigahora zitaweho mukeza igihe runaka sinzi niba mwebwe icyo kintu icyo mwabivugaho ? ||| So that there ar ealways taken care of no matter what , I do n't know what you would comment about it ?
+
+% TEXT
+Zigahora zitaweho mukeza igihe runaka sinzi niba mwebwe icyo kintu icyo_1 mwabivugaho ?
+
+% ANNO
+[Zigahora zitaweho mukeza igihe runaka sinzi niba mwebwe icyo kintu icyo_1 mwabivugaho]

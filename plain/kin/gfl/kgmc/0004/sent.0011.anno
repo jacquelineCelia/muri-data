@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bari babiri ariko bari baturutse muri Karengera ntabwo nari mbazi . ||| They were two and they came from Karengera . I did n't know them .
+
+% TEXT
+Bari babiri ariko bari baturutse muri Karengera ntabwo nari mbazi .
+
+% ANNO
+$x :: {Bari bari} :: ariko 
+Bari < babiri 
+bari < baturutse < muri < Karengera 
+(ntabwo > nari) < mbazi

@@ -1,0 +1,15 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Twari aba ... abahungu bari ... bane bapfuye na Shumbusho wa gatanu na petite sœur Ngirabakunzi na njye . ||| We were ... the boys were 4 plus Shumbusho , that makes it 5 and my little sister Ngirabakunzi and I.
+
+% TEXT
+Twari aba ... abahungu bari ..._1 bane bapfuye na Shumbusho wa gatanu na_1 petite sœur Ngirabakunzi na_2 njye .
+
+% ANNO
+$x :: {Twari Shumbusho petite} :: na na_1 na_2
+Twari < (aba ... > abahungu > bari < ..._1 bane) > bapfuye
+Shumbusho > $copula < (wa > gatanu)
+((petite > sœur) > Ngirabakunzi) njye
+

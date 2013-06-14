@@ -1,0 +1,17 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma ntabwo ariko mwadusobanuriye neza ku bintu byerekeranye n' urupfu rw' ababyeyi bawe cyangwa n' abavandimwe bawe . ||| But you did n't tell us about the death of your parents or your relatives .
+
+% TEXT
+Hanyuma ntabwo ariko mwadusobanuriye neza ku bintu byerekeranye n' urupfu rw' ababyeyi bawe cyangwa n'_1 abavandimwe bawe_1 .
+
+% ANNO
+Hanyuma 
+ntabwo > mwadusobanuriye
+ariko > mwadusobanuriye < neza 
+mwadusobanuriye < ku < bintu 
+mwadusobanuriye < byerekeranye < n' < urupfu < rw' < ababyeyi < bawe 
+$x :: {n' n'_1} :: cyangwa
+n'_1 < abavandimwe < bawe_1

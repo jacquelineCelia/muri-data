@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Umwana unsanze afite ikibazo nshobora kugikemura ndagikemura nkamuhumuriza nkamwumvisha ko agomba kubaho . ||| A child who comes to me with a problem that I can fix , I fix it and confort them and convince him that they must live .
+
+% TEXT
+Umwana unsanze afite ikibazo nshobora kugikemura ndagikemura nkamuhumuriza nkamwumvisha ko agomba kubaho .
+
+% ANNO
+[Umwana unsanze afite ikibazo nshobora kugikemura ndagikemura nkamuhumuriza nkamwumvisha ko agomba kubaho]

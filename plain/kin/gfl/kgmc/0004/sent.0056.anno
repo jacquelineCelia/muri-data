@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ehh iryo shyirahamwe n' ishyirahamwe ryi ryitwa ngw' iki ? ||| What 's the name of that association ?
+
+% TEXT
+Ehh iryo shyirahamwe n' ishyirahamwe ryi ryitwa ngw' iki ?
+
+% ANNO
+Ehh 
+iryo > shyirahamwe 
+$x :: {shyirahamwe ishyirahamwe} :: n'
+ishyirahamwe < ryi < ryitwa < ngw' < iki

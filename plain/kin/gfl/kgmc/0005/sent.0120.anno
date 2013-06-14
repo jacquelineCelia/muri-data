@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niko iwacu bimeze . ||| That 's how things are in our region .
+
+% TEXT
+Niko iwacu bimeze .
+
+% ANNO
+[Niko iwacu bimeze]

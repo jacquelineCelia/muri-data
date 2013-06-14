@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Yitwa rugengamanzi niwe wari padiri mukuru aratwakira azana yari yabahaye nibyo bateka batetse baratwakiriye baratugaburiye tubonako tubonye ubuhungiro . ||| He is called Rugengamanzi , he was the head priest . He welcomed us ; he had even given them food to cook . So they welcomed us and gave us food and we were comforted that we had got refuge .
+
+% TEXT
+Yitwa rugengamanzi niwe wari padiri mukuru aratwakira azana yari yabahaye nibyo bateka batetse baratwakiriye baratugaburiye tubonako tubonye ubuhungiro .
+
+% ANNO
+[Yitwa rugengamanzi niwe wari padiri mukuru aratwakira azana yari yabahaye nibyo bateka batetse baratwakiriye baratugaburiye tubonako tubonye ubuhungiro]

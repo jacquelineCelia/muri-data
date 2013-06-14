@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho ngo abo bana banjye babakobwa ngo bashaka kubaviyora ariko iyo n' inkuru nabwiwe na pasteri kuko yararokotse . ||| And then they tried to rape my daughters , pastor told me this since he survived .
+
+% TEXT
+Noneho ngo abo bana banjye babakobwa ngo_1 bashaka kubaviyora ariko iyo n' inkuru nabwiwe na pasteri kuko yararokotse .
+
+% ANNO
+[Noneho ngo abo bana banjye babakobwa ngo_1 bashaka kubaviyora ariko iyo n' inkuru nabwiwe na pasteri kuko yararokotse]

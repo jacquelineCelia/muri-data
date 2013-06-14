@@ -1,0 +1,13 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Hanyuma igihe uje ... waje i Kigali gute ? uva ku Gisenyi ntabwo wabidusobanuriye neza . ||| How did you end up in Kigali ? We did n't understand it well ...
+
+% TEXT
+Hanyuma igihe uje ... waje i Kigali gute ? uva ku Gisenyi ntabwo wabidusobanuriye neza .
+
+% ANNO
+... 
+(Hanyuma < igihe) < uje < waje < (i < Kigali < (gute > uva))
+(ku < Gisenyi) > (ntabwo > wabidusobanuriye) < neza

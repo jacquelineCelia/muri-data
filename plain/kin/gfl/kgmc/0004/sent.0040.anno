@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Urumva Génocide yarabaye igutwarira abavandimwe irangije irarangaza igufata no ku ngufu , ndashaka kukubaza . ||| The Genocide happened and it took away your relatives and you were raped ... the question that I would like to ask you is @:
+
+% TEXT
+Urumva Génocide yarabaye igutwarira abavandimwe irangije irarangaza igufata no ku ngufu , ndashaka kukubaza .
+
+% ANNO
+Urumva < Génocide 
+Urumva < yarabaye < igutwarira < abavandimwe < irangije < irarangaza < igufata 
+$x :: {igufata ku} :: no 
+ku < ngufu < ndashaka < kukubaza

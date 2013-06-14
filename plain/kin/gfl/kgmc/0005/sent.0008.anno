@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko itariki ya karindwi z' ukwacumi mirongo icyenda niho umugabo wanjye baje kumufatako ari ikitso k' inkotanyi . ||| On the 7th of October 1990 that 's when they came to arrest my husband saying he was a spy for the Inkotanyi .
+
+% TEXT
+Ariko itariki ya karindwi z' ukwacumi mirongo icyenda niho umugabo wanjye baje kumufatako ari ikitso k' inkotanyi .
+
+% ANNO
+[Ariko itariki ya karindwi z' ukwacumi mirongo icyenda niho umugabo wanjye baje kumufatako ari ikitso k' inkotanyi]

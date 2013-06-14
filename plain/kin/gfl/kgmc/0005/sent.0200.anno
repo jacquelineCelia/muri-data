@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Tugize amahoro bigakomeza abana bacu bazabana mu mahoro bakabana mu rwanda rutarimo umwiryane rutarimo nubwoko . ||| If we continue to live in peace , our children would live together in peaceful Rwanda with no turmoil and ethnicity .
+
+% TEXT
+Tugize amahoro bigakomeza abana bacu bazabana mu mahoro bakabana mu_1 rwanda rutarimo umwiryane rutarimo_1 nubwoko .
+
+% ANNO
+[Tugize amahoro bigakomeza abana bacu bazabana mu mahoro bakabana mu_1 rwanda rutarimo umwiryane rutarimo_1 nubwoko]

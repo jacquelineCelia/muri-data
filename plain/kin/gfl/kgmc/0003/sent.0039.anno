@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Alphred nawe bamwiciye hafi uvuye i wacu . ||| Alfred was killed near our home .
+
+% TEXT
+Alphred nawe bamwiciye hafi uvuye i wacu .
+
+% ANNO
+(Alphred < nawe) > bamwiciye < hafi < uvuye (i < wacu)

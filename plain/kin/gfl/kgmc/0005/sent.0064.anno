@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bamurasa amaguru baramubwira ngo nahaguruke kandi bamurashe amaguru bagenda bamukurura natwe baradusohora . ||| They shot her legs and asked her to stand up when they had shot her legs ; they dragged her as they took us all out .
+
+% TEXT
+Bamurasa amaguru baramubwira ngo nahaguruke kandi bamurashe amaguru_1 bagenda bamukurura natwe baradusohora .
+
+% ANNO
+[Bamurasa amaguru baramubwira ngo nahaguruke kandi bamurashe amaguru_1 bagenda bamukurura natwe baradusohora]

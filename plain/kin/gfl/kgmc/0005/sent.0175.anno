@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Biba ari bikeya ariko wenda mu mikoro make ariko ntago narahira ngo nsembe ngo ntacyo twakorewe . ||| It 's not enough may be because of limited means but I can n't say that they did n't help us .
+
+% TEXT
+Biba ari bikeya ariko wenda mu mikoro make ariko_1 ntago narahira ngo nsembe ngo_1 ntacyo twakorewe .
+
+% ANNO
+[Biba ari bikeya ariko wenda mu mikoro make ariko_1 ntago narahira ngo nsembe ngo_1 ntacyo twakorewe]

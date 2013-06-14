@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Amakarita y' ishuri imyenda yabo uretseko gusa bari barabaye utugufa barashengaguritse . ||| School cards and their clothes but they were just bones because they had decomposed .
+
+% TEXT
+Amakarita y' ishuri imyenda yabo uretseko gusa bari barabaye utugufa barashengaguritse .
+
+% ANNO
+[Amakarita y' ishuri imyenda yabo uretseko gusa bari barabaye utugufa barashengaguritse]

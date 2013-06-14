@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Hari abaturanyi mwari muturanye baba baragize uruhare mu kukwicira umuryango bagihari , batigeze bafatwa ngo bafungwe ? ||| Among the neighbours who killed your family , are there some who participated openly and never went to jail ?
+
+% TEXT
+Hari abaturanyi mwari muturanye baba baragize uruhare mu kukwicira umuryango bagihari , batigeze bafatwa ngo bafungwe ?
+
+% ANNO
+Hari < abaturanyi < mwari < muturanye < baba < baragize < uruhare < (mu < kukwicira) < umuryango < bagihari 
+batigeze < bafatwa < ngo > bafungwe

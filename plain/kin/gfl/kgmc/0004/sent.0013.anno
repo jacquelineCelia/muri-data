@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' aba Polisi ntazi amazina bari aba Polisi ba Commune n' abasirikare ntazi . ||| The policemen ... I did n't know their names . All I know is that they were policemen who worked at the commune office . I did n't who know the soldiers were neither .
+
+% TEXT
+N' aba Polisi ntazi amazina bari aba_1 Polisi_1 ba Commune n' abasirikare ntazi_1 .
+
+% ANNO
+N' < (aba > Polisi)
+N' < ntazi < amazina
+ntazi < bari < (aba_1 > Polisi_1) < ba < Commune < n' < abasirikare < ntazi_1

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abatarapfuye kuko hari benshi barapfuye kuko iriya miti ije vuba kuko hari benshi baducitse . ||| There are many who died because the medication just started coming in recently , they are many who passed away .
+
+% TEXT
+Abatarapfuye kuko hari benshi barapfuye kuko_1 iriya miti ije vuba kuko_2 hari_1 benshi_1 baducitse .
+
+% ANNO
+[Abatarapfuye kuko hari benshi barapfuye kuko_1 iriya miti ije vuba kuko_2 hari_1 benshi_1 baducitse]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bakaba bari muri universte abandi bararangije hari umwana wavuye mu mwobo aziko aziga . ||| And now they are in university and some have finished , is their a child who came out of a pit thinking that he was going to study .
+
+% TEXT
+Bakaba bari muri universte abandi bararangije hari umwana wavuye mu mwobo aziko aziga .
+
+% ANNO
+[Bakaba bari muri universte abandi bararangije hari umwana wavuye mu mwobo aziko aziga]

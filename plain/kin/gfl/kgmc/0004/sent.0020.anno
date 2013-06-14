@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma mu maze kuba mu nkambi y' Inyabushishi byaje kugenda bite ? ||| What happened in Nyabushishi refugee camp ?
+
+% TEXT
+Hanyuma mu maze kuba mu_1 nkambi y' Inyabushishi byaje kugenda bite ?
+
+% ANNO
+Hanyuma 
+(mu < maze) > kuba < (mu_1 < nkambi < y' < Inyabushishi < byaje) 
+kuba < kugenda < bite

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Cyane cyane ko n' umuterankunga wa AVEGA yahagaze ubu noneho nta n' icyo AVEGA iri kubamarira . ||| Plus , since the donors of AVEGA stopped funding it , AVEGA does n't help them anymore .
+
+% TEXT
+Cyane cyane ko n' umuterankunga wa AVEGA yahagaze ubu noneho nta n'_1 icyo AVEGA_1 iri kubamarira .
+
+% ANNO
+Cyane < cyane < ko > (n' < umuterankunga < wa < AVEGA) > yahagaze < ubu < noneho < (nta > n'_1) < icyo > AVEGA_1 > iri < kubamarira

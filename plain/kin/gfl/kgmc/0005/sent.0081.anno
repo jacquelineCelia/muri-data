@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hashize nk' iminsi nk' itatu nibwo mbonampeka yazanaga essence arabarundanya barabatwika nkumva barabivuga ndaho muri toilette . ||| After three days is when mbonampeka brought fuel , piled up all the corpses and then burnt them , I heard them saying it from the toilet .
+
+% TEXT
+Hashize nk' iminsi nk'_1 itatu nibwo mbonampeka yazanaga essence arabarundanya barabatwika nkumva barabivuga ndaho muri toilette .
+
+% ANNO
+[Hashize nk' iminsi nk'_1 itatu nibwo mbonampeka yazanaga essence arabarundanya barabatwika nkumva barabivuga ndaho muri toilette]

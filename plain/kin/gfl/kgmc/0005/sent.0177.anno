@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nabataravayo kandi natwe tuzakomeza dufatanye tuvuge tuvuge icyangombwa nukuvuga kandi nanone abakiri inyuma ntago navuga ngo wenda nukubirengagiza . ||| And we will continue to stand together and talk , I do n't want us to forget those who are behind us .
+
+% TEXT
+Nabataravayo kandi natwe tuzakomeza dufatanye tuvuge tuvuge_1 icyangombwa nukuvuga kandi_1 nanone abakiri inyuma ntago navuga ngo wenda nukubirengagiza .
+
+% ANNO
+[Nabataravayo kandi natwe tuzakomeza dufatanye tuvuge tuvuge_1 icyangombwa nukuvuga kandi_1 nanone abakiri inyuma ntago navuga ngo wenda nukubirengagiza]

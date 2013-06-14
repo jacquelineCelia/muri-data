@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Amaze gupfa nagarutse I Cyangugu AVEGA itangira kumfasha , ni muri ubwo buryo nagarutse . ||| After he died I returned to Cyangugu and AVEGA started to help me . That 's how I came back .
+
+% TEXT
+Amaze gupfa nagarutse I Cyangugu AVEGA itangira kumfasha , ni muri ubwo buryo nagarutse_1 .
+
+% ANNO
+(Amaze < gupfa < nagarutse < (I < Cyangugu)) > (AVEGA > itangira < kumfasha < ni < (muri < (ubwo > buryo)))
+muri < nagarutse_1

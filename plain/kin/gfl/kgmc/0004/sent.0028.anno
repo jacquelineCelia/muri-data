@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese bari bakuzi ? ||| Did they know you before ?
+
+% TEXT
+Ese bari bakuzi ?
+
+% ANNO
+Ese > bari < bakuzi

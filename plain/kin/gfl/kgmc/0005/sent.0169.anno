@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Sida yo nikimungu kiba mu mubiri ariko bimaze kugaragarako itakinica kuwabashije kubona iyo miti . ||| HIV & AIDS is bad disease in the body but its clear now that it does not even kill when one gets those medication .
+
+% TEXT
+Sida yo nikimungu kiba mu mubiri ariko bimaze kugaragarako itakinica kuwabashije kubona iyo miti .
+
+% ANNO
+[Sida yo nikimungu kiba mu mubiri ariko bimaze kugaragarako itakinica kuwabashije kubona iyo miti]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Ni iki uzajya ubabwira ? ||| What would you tell them ?
+
+% TEXT
+Ni iki uzajya ubabwira ?
+
+% ANNO
+[Ni iki uzajya ubabwira]

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset descriptor="igt">
+  <file id="igt_0001" languages="kin,eng">
+    <data>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>umugore arabiyi muheera</s>
+          </text>
+          <text langid="eng">
+            <s>The woman is giving it to it for him .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>umualimu arandika ibaruwa n' ikaramu</s>
+          </text>
+          <text langid="eng">
+            <s>The teacher is writing the letter with a pen .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>mama wanye yari umuntu yakundaga</s>
+          </text>
+          <text langid="eng">
+            <s>My mother was a very loving person .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>Yohani yatahanye igitabo cyo mw' ishuri</s>
+          </text>
+          <text langid="eng">
+            <s>John took home the book that belongs to the school .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>N' abana bagiye</s>
+          </text>
+          <text langid="eng">
+            <s>It is the children who are going .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>kuririmba birakomeya</s>
+          </text>
+          <text langid="eng">
+            <s>To sing is difficult .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>inkorora irwawe n' umwana</s>
+          </text>
+          <text langid="eng">
+            <s>The cough is had by the child .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>Umugabo yashakaga nde</s>
+          </text>
+          <text langid="eng">
+            <s>Who was the man looking for ?</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>virashoboka ko abana give ibitabo</s>
+          </text>
+          <text langid="eng">
+            <s>It is possible that the children give you the books .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>abashyitsi bararirimbira mu gisagara</s>
+          </text>
+          <text langid="eng">
+            <s>The guests are singing in the village .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>umugabo arasomera umugore</s>
+          </text>
+          <text langid="eng">
+            <s>The man is reading for the woman .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>Ndabona umugabo ugiye ku kazi</s>
+          </text>
+          <text langid="eng">
+            <s>I see the man who is going to work .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>Nabonye igitabo umuhungu yahaye umukobwa</s>
+          </text>
+          <text langid="eng">
+            <s>I saw the book that the boy gave to the girl .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>nabonye umukobwa umuhungu yahaye igitabo</s>
+          </text>
+          <text langid="eng">
+            <s>I saw the girl to whom the boy gave the book .</s>
+          </text>
+        </align>
+      </unit>
+      <unit>
+        <align>
+          <text langid="kin">
+            <s>mu gitanda umwana aryamyemo harashyushye</s>
+          </text>
+          <text langid="eng">
+            <s>The bed in which the child is sleeping is warm .</s>
+          </text>
+        </align>
+      </unit>
+    </data>
+  </file>
+</dataset>

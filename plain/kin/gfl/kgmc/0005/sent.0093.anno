@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko intambara irangiye rero ngaruka mu matongo ariko nsanga barahashenye barahamaze hanyuma rero umwana mbereye nyinawabo . ||| After the war I came back home but they were just ruins , they had destroyed everything , one of my nephews .
+
+% TEXT
+Nuko intambara irangiye rero ngaruka mu matongo ariko nsanga barahashenye barahamaze hanyuma rero_1 umwana mbereye nyinawabo .
+
+% ANNO
+[Nuko intambara irangiye rero ngaruka mu matongo ariko nsanga barahashenye barahamaze hanyuma rero_1 umwana mbereye nyinawabo]

@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Yego baravukanaga Hélène yari murumuna wa Mariya . ||| Yes Hélène was Maria 's younger sister .
+
+% TEXT
+Yego baravukanaga Hélène yari murumuna wa Mariya .
+
+% ANNO
+Yego 
+baravukanaga < (Hélène > yari < (murumuna < (wa < Mariya)))

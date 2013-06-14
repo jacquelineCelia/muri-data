@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Yari afite umugabo ? ||| Was she married ?
+
+% TEXT
+Yari afite umugabo ?
+
+% ANNO
+Yari < afite < umugabo

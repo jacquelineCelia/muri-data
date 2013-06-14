@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Mbwira ingorane zikomeye wibuka wahuye nazo muri Jenoside . ||| Tell me about a difficult memory from the genocide .
+
+% TEXT
+Mbwira ingorane zikomeye wibuka wahuye nazo muri Jenoside .
+
+% ANNO
+[Mbwira ingorane zikomeye wibuka wahuye nazo muri Jenoside]

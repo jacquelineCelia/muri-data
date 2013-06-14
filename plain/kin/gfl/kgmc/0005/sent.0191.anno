@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ngewe rero nkabona abantu bakagombye kubishyira mu nshingano zabo noneho tukagira n' amahirwe haje inzego zo hasi umudugudu . ||| I personally think that people should make it their purpose and we are also lucky that now we have lower levels of government the umudugudu @/@ village .
+
+% TEXT
+Ngewe rero nkabona abantu bakagombye kubishyira mu nshingano zabo noneho tukagira n' amahirwe haje inzego zo hasi umudugudu .
+
+% ANNO
+[Ngewe rero nkabona abantu bakagombye kubishyira mu nshingano zabo noneho tukagira n' amahirwe haje inzego zo hasi umudugudu]

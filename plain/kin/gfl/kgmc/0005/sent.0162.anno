@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+N' umubiri badafite aho bataha badafite inzu yo kubamo kenshi na kenshi begamiye aba bahekuye . ||| And physically they do n't have a home , without a house to live in , many times they are next door to the ones who kileed their families and injured them .
+
+% TEXT
+N' umubiri badafite aho bataha badafite_1 inzu yo kubamo kenshi na kenshi_1 begamiye aba bahekuye .
+
+% ANNO
+[N' umubiri badafite aho bataha badafite_1 inzu yo kubamo kenshi na kenshi_1 begamiye aba bahekuye]

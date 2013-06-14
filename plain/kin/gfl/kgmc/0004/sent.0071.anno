@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niba ubona harakozwe iki uvuge uti hakwiye gukorwa iki kugira ngo abo abantu barusheho kwitabwaho ? ||| And if you know it , could you also tell us if the help improved people 's welfare ?
+
+% TEXT
+Niba ubona harakozwe iki uvuge uti hakwiye gukorwa iki_1 kugira ngo abo abantu barusheho kwitabwaho ?
+
+% ANNO
+Niba > ubona < harakozwe < iki 
+harakozwe < uvuge < uti < hakwiye < gukorwa < iki_1
+gukorwa < kugira < ngo < (abo > abantu) > barusheho < kwitabwaho
+

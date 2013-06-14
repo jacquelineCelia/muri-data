@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Noneho batangira kwivangura umuhutu akerekana indangamuntu nutayerekanye byabaga bigaragara agasohoka . ||| So people started walking out showing their identity cards and the ones who did n't show it , it was still visible .
+
+% TEXT
+Noneho batangira kwivangura umuhutu akerekana indangamuntu nutayerekanye byabaga bigaragara agasohoka .
+
+% ANNO
+[Noneho batangira kwivangura umuhutu akerekana indangamuntu nutayerekanye byabaga bigaragara agasohoka]

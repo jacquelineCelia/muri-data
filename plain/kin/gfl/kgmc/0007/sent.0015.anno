@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Waba wifuza kuzagira umuryango wawe [ urugo ] umunsi umwe ? ||| Would you like to have a family one day ?
+
+% TEXT
+Waba wifuza kuzagira umuryango wawe [ urugo ] umunsi umwe ?
+
+% ANNO
+[Waba wifuza kuzagira umuryango wawe [ urugo ] umunsi umwe]

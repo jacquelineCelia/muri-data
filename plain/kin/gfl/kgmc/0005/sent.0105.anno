@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Niba yari abizi cyangwa Atari abizi sinzi ngewe nayobowe ibyo aribyo . ||| I do n't know if he knew what he was doing or not but I was really shocked .
+
+% TEXT
+Niba yari abizi cyangwa Atari abizi_1 sinzi ngewe nayobowe ibyo aribyo .
+
+% ANNO
+[Niba yari abizi cyangwa Atari abizi_1 sinzi ngewe nayobowe ibyo aribyo]

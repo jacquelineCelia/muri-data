@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mwongereye AVEGA a i ubushobozi byarushaho kuba byiza kubera ko ||| Increasing AVEGA 's capacity would be much better because ...
+
+% TEXT
+Mwongereye AVEGA a i ubushobozi byarushaho kuba byiza kubera ko
+
+% ANNO
+Mwongereye < AVEGA < [a i] < ubushobozi < byarushaho > kuba < byiza < [kubera ko]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ngo barajya kwa nde barica kwande ahubwo babiteguye kera indege iba imbarutso . ||| They knew where to find everybody and who to kill , it was planned long ago , the plain just marked the beginning .
+
+% TEXT
+Ngo barajya kwa nde barica kwande ahubwo babiteguye kera indege iba imbarutso .
+
+% ANNO
+[Ngo barajya kwa nde barica kwande ahubwo babiteguye kera indege iba imbarutso]

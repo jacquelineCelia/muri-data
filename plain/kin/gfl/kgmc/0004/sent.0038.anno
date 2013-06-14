@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko nta ku nonese nabigenza nte ? ||| What else can I do ?
+
+% TEXT
+Ariko nta ku nonese nabigenza nte ?
+
+% ANNO
+Ariko 
+nta > ku > nonese > nabigenza < nte

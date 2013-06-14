@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Mu rugo twari abana umunani n' ababyeyi bombi . ||| We were eight children in my family with both parents .
+
+% TEXT
+Mu rugo twari abana umunani n' ababyeyi bombi .
+
+% ANNO
+(Mu < rugo) > twari < abana < umunani 
+ababyeyi < bombi
+abana < ababyeyi
+$x :: {abana ababyeyi} :: n'

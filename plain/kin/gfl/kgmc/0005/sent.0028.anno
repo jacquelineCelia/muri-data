@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ukavuga uti noneho nagenda ntagaruka ariko tukumva bitazafata intera ndende nkiyo byafashe muri mirongo icyenda na kane . ||| When he would walk out I would keep thinking that he will n't return but we never thought that it would be as bad as it was in 1994 .
+
+% TEXT
+Ukavuga uti noneho nagenda ntagaruka ariko tukumva bitazafata intera ndende nkiyo byafashe muri mirongo icyenda na kane .
+
+% ANNO
+[Ukavuga uti noneho nagenda ntagaruka ariko tukumva bitazafata intera ndende nkiyo byafashe muri mirongo icyenda na kane]

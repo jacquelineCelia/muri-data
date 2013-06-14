@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese ubona n' iki kintu watubwira ? ||| So what can you tell us ?
+
+% TEXT
+Ese ubona n' iki kintu watubwira ?
+
+% ANNO
+Ese > ubona < (n' < iki < kintu) 
+ubona < watubwira

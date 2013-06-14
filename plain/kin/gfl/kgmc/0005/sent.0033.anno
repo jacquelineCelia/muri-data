@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Igihe tukibijya impaka tumva abantu barakomanze kurugi rwo mugikari ndabyuka ndagenda nkinguye nkubitana n' abasirikari baje iwacu ||| As we were still arguing we heard a knock at the back door , so I woke up and went to open the door where I met with soldiers .
+
+% TEXT
+Igihe tukibijya impaka tumva abantu barakomanze kurugi rwo mugikari ndabyuka ndagenda nkinguye nkubitana n' abasirikari baje iwacu
+
+% ANNO
+[Igihe tukibijya impaka tumva abantu barakomanze kurugi rwo mugikari ndabyuka ndagenda nkinguye nkubitana n' abasirikari baje iwacu]

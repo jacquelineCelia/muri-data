@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Aba bantu bataha aba bantu bahabwa imbabazi mbese usanga biduhungabanya kuko usanga basa naho aribo bitaweho . ||| These people who are sent home and forgiven really traumatizes us because it seems as though they are the ones who are cared for .
+
+% TEXT
+Aba bantu bataha aba bantu_1 bahabwa imbabazi mbese usanga biduhungabanya kuko usanga_1 basa naho aribo bitaweho .
+
+% ANNO
+[Aba bantu bataha aba bantu_1 bahabwa imbabazi mbese usanga biduhungabanya kuko usanga_1 basa naho aribo bitaweho]

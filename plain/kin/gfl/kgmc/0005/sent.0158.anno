@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nizo z' uburwayi wababwira iki ese sinzi ukuntu nge navuga . ||| For example disease , what would you say to them ? I do n't know how to say it .
+
+% TEXT
+Nizo z' uburwayi wababwira iki ese sinzi ukuntu nge navuga .
+
+% ANNO
+[Nizo z' uburwayi wababwira iki ese sinzi ukuntu nge navuga]

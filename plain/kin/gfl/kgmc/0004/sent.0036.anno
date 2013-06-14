@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hari ikindi kibazo nendaga kukubaza nacyo gishobora kuba kitoroshye . ||| There is another question which I wanted to ask you and it might not be easy too .
+
+% TEXT
+Hari ikindi kibazo nendaga kukubaza nacyo gishobora kuba kitoroshye .
+
+% ANNO
+Hari < (ikindi > kibazo) > nendaga < kukubaza < nacyo
+kukubaza < gishobora < kuba < kitoroshye

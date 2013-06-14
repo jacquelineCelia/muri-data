@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ndababwira nti dore umugabo wange nguriya araje ||| So I said to them , there is my husband , he is coming .
+
+% TEXT
+Ndababwira nti dore umugabo wange nguriya araje
+
+% ANNO
+[Ndababwira nti dore umugabo wange nguriya araje]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Yasafuriya ndayita noneho nsa nugenda mpambiranya igitenge kuri buri mwana kugirango ntaza kubata munzira . ||| I threw away the saucepan and started tying a piece of the loincloth that I had on every child so that I will n't leave them on the way .
+
+% TEXT
+Yasafuriya ndayita noneho nsa nugenda mpambiranya igitenge kuri buri mwana kugirango ntaza kubata munzira .
+
+% ANNO
+[Yasafuriya ndayita noneho nsa nugenda mpambiranya igitenge kuri buri mwana kugirango ntaza kubata munzira]

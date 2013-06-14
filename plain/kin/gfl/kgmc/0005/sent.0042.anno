@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nitwe babanje bwa mbere bati oya wenda dupfane cyangwa bigenda ukundi ariko turaguma hano . ||| We were the first ones to be arrested . No , may be we 'll die together or something like that but we are not living this place .
+
+% TEXT
+Nitwe babanje bwa mbere bati oya wenda dupfane cyangwa bigenda ukundi ariko turaguma hano .
+
+% ANNO
+[Nitwe babanje bwa mbere bati oya wenda dupfane cyangwa bigenda ukundi ariko turaguma hano]

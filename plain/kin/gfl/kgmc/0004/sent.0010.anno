@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+njyeze I Cyangugu naho bamfata ku ngufu abasirikare . ||| When I reached Cyangugu , the soldiers raped me again .
+
+% TEXT
+njyeze I Cyangugu naho bamfata ku ngufu abasirikare .
+
+% ANNO
+njyeze < (I < Cyangugu) 
+naho > bamfata < ku < ngufu < abasirikare

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Wabaraga kuzabaraga mu rwanda rwaba rumeze rute ugereranije nuru twabayemo ? ||| What kind of rwanda would you like to give to them as a heritage compared to the one you lived in ?
+
+% TEXT
+Wabaraga kuzabaraga mu rwanda rwaba rumeze rute ugereranije nuru twabayemo ?
+
+% ANNO
+[Wabaraga kuzabaraga mu rwanda rwaba rumeze rute ugereranije nuru twabayemo]

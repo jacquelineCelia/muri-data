@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abantu bacu bagiye kubibuka kwiza icyambere nukumenya aho bajugunywe tukabashyingura tukabavana mu myobo . ||| The first and best way to honor our people is to know where they were thrown and we bury them taking them out of the holes .
+
+% TEXT
+Abantu bacu bagiye kubibuka kwiza icyambere nukumenya aho bajugunywe tukabashyingura tukabavana mu myobo .
+
+% ANNO
+[Abantu bacu bagiye kubibuka kwiza icyambere nukumenya aho bajugunywe tukabashyingura tukabavana mu myobo]

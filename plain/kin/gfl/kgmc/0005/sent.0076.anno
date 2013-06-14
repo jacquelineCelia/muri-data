@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko ndagaruka nicaramo muri iyo mirambo ndicara ngeze aho ndavuga nti ariko se ubu ndicara . ||| So I sat among the corpses and then after a while I asked myself what I was doing .
+
+% TEXT
+Nuko ndagaruka nicaramo muri iyo mirambo ndicara ngeze aho ndavuga nti ariko se ubu ndicara_1 .
+
+% ANNO
+[Nuko ndagaruka nicaramo muri iyo mirambo ndicara ngeze aho ndavuga nti ariko se ubu ndicara_1]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Twari tubanye neza twari dufite urugo rwiza twari dufite imibereho ishimishije umugabo wanjye yarakora . ||| We were living in harmony , we had a nice house , our standard of life was good , and my husband was working .
+
+% TEXT
+Twari tubanye neza twari dufite urugo rwiza twari_1 dufite_1 imibereho ishimishije umugabo wanjye yarakora .
+
+% ANNO
+[Twari tubanye neza twari dufite urugo rwiza twari_1 dufite_1 imibereho ishimishije umugabo wanjye yarakora]

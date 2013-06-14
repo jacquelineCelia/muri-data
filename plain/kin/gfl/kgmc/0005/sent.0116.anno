@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Muhamagaye ngirango uwo mwana niwe umbeshya twari tugiye gutongana nukwitesha agaciro nanga gutongana nawe no guhangana nawe . ||| I called him and even thought that the child is the one who was lying to me , we almost started arguing but I realized I would be disrespecting myself and did n't want any confrontation with him .
+
+% TEXT
+Muhamagaye ngirango uwo mwana niwe umbeshya twari tugiye gutongana nukwitesha agaciro nanga gutongana_1 nawe no guhangana nawe_1 .
+
+% ANNO
+[Muhamagaye ngirango uwo mwana niwe umbeshya twari tugiye gutongana nukwitesha agaciro nanga gutongana_1 nawe no guhangana nawe_1]

@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ibyo bakoze byo ni byinshi kuko abantu , ||| What they did is a lot .
+
+% TEXT
+Ibyo bakoze byo ni byinshi kuko abantu ,
+
+% ANNO
+(Ibyo > bakoze < byo) > ni < byinshi 
+$x :: {bakoze abantu} :: kuko
+abantu

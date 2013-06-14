@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hari uwitwa pasteri na rukanika n' umugabo wange na nkundabarashe ariko we ntibamuhamagaraga cyane bahamagaraga pasteri na rukanika . ||| On the list was a man called pastor , rukanika , nkundabarashe and my husband , but they did n't call out my husband a lot , they called out for pastor and rukanika .
+
+% TEXT
+Hari uwitwa pasteri na rukanika n' umugabo wange na_1 nkundabarashe ariko we ntibamuhamagaraga cyane bahamagaraga pasteri_1 na_2 rukanika_1 .
+
+% ANNO
+[Hari uwitwa pasteri na rukanika n' umugabo wange na_1 nkundabarashe ariko we ntibamuhamagaraga cyane bahamagaraga pasteri_1 na_2 rukanika_1]

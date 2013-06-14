@@ -1,0 +1,14 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+ntabwo nabasha kuvugana nabo sinabishobora . ||| I can not be able to talk to them .
+
+% TEXT
+ntabwo nabasha kuvugana nabo sinabishobora .
+
+% ANNO
+(ntabwo > nabasha) < kuvugana 
+sinabishobora
+$x :: {nabasha sinabishobora} :: nabo
+

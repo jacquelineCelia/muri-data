@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Cyarakozwe kuko niba umwana yararokotse ari muri secondaire ubu akaba ari muri univeriste ejo azabeshaho abandi . ||| Things have changed for example if a child survived the genocide when he was in secondary and now he is in university , he 'll also help others .
+
+% TEXT
+Cyarakozwe kuko niba umwana yararokotse ari muri secondaire ubu akaba ari_1 muri_1 univeriste ejo azabeshaho abandi .
+
+% ANNO
+[Cyarakozwe kuko niba umwana yararokotse ari muri secondaire ubu akaba ari_1 muri_1 univeriste ejo azabeshaho abandi]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Wumva wifuza kuzagira umuryango umunsi umwe ? ||| Can I ask you the same question again .... Would you like to have a family one day ?
+
+% TEXT
+Wumva wifuza kuzagira umuryango umunsi umwe ?
+
+% ANNO
+[Wumva wifuza kuzagira umuryango umunsi umwe]

@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+None n' ukuvuga ng' ubungubu mu mulyango wo mwabanaga usigaye wenyine ? ||| Does that mean that from your whole family and all the people you lived with , you are the only survivor ?
+
+% TEXT
+None n' ukuvuga ng' ubungubu mu mulyango wo mwabanaga usigaye wenyine ?
+
+% ANNO
+None 
+n' < ukuvuga < ng' > ubungubu < mu < mulyango 
+wo > mwabanaga > usigaye < wenyine

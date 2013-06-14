@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Kuberako narimfite souvenir mbi cyane ngewe natakaye mu ishyamba iwacu bahunga muri mirongo itandatu na gatatu . ||| I had very bad memories because I got lost in the forest when my family was fleeing in 1963 .
+
+% TEXT
+Kuberako narimfite souvenir mbi cyane ngewe natakaye mu ishyamba iwacu bahunga muri mirongo itandatu na gatatu .
+
+% ANNO
+[Kuberako narimfite souvenir mbi cyane ngewe natakaye mu ishyamba iwacu bahunga muri mirongo itandatu na gatatu]

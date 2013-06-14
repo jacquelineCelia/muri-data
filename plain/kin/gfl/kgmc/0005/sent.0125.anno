@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Muri izo ntumbi nitwe twavuye muri izo ntumbi . ||| We are the only ones who came out of the corpses .
+
+% TEXT
+Muri izo ntumbi nitwe twavuye muri izo_1 ntumbi_1 .
+
+% ANNO
+[Muri izo ntumbi nitwe twavuye muri izo_1 ntumbi_1]

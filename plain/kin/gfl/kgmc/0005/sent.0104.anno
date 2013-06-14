@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ejo bundi mu bihumbi bibiri na gatanu ngirango nibwo twashyinguye hari mukwezi kwa kane . ||| Recently in April 2005 is when we buried .
+
+% TEXT
+Ejo bundi mu bihumbi bibiri na gatanu ngirango nibwo twashyinguye hari mukwezi kwa kane .
+
+% ANNO
+[Ejo bundi mu bihumbi bibiri na gatanu ngirango nibwo twashyinguye hari mukwezi kwa kane]

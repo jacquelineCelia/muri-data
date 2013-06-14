@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Oya ntabwo nari nararangije kwiga , nasubiye ku ishuri nyuma . ||| No , I had n't . I went back to school later on .
+
+% TEXT
+Oya ntabwo nari nararangije kwiga , nasubiye ku ishuri nyuma .
+
+% ANNO
+Oya 
+(ntabwo > nari) < nararangije < kwiga < nasubiye (ku < ishuri) < nyuma

@@ -1,0 +1,12 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Kubera ko kandi abakagombye kudutera inkunga ... ukumva nk' umuntu akubajije gutyo , ngo buriya nawe warishe , aba yongeye akakwica nta kindi kintu nakongeraho . ||| They should encourage us because when someone comes and asks you if you also killed , it is as though they were killing you once again . That 's all I can say .
+
+% TEXT
+Kubera ko kandi abakagombye kudutera inkunga ... ukumva nk' umuntu akubajije gutyo , ngo buriya nawe warishe ,_1 aba yongeye akakwica nta kindi kintu nakongeraho .
+
+% ANNO
+(Kubera < ko < kandi) > abakagombye < kudutera < (inkunga ... > ukumva < nk' > umuntu > (akubajije < gutyo) < ngo > ({buriya [warishe < (aba < yongeye) > akakwica < nta (kindi > kintu >nakongeraho)]} :: nawe )]
+buriya < [warishe < (aba < yongeye) > akakwica < nta (kindi > kintu >nakongeraho)

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+barahagarara baramubwira ngo niyinjiremo ajye kubaha imbunda nabemereye ngo ariko njyewe nanze kuzibaha atampaye uruhushya . ||| They stopped and told him to enter the car and go give them the gun I had promised them but could n't give it away without his permission .
+
+% TEXT
+barahagarara baramubwira ngo niyinjiremo ajye kubaha imbunda nabemereye ngo_1 ariko njyewe nanze kuzibaha atampaye uruhushya .
+
+% ANNO
+[barahagarara baramubwira ngo niyinjiremo ajye kubaha imbunda nabemereye ngo_1 ariko njyewe nanze kuzibaha atampaye uruhushya]

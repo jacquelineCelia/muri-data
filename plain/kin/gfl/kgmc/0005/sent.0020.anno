@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko nkajya mbyuka ngenda murugo hariya irubungo ni kure ya Kigali nkabura umbwira ati araha naha . ||| So I would wake up and go home , Rubungo is far from Kigali and nobody would direct me where he might be .
+
+% TEXT
+Nuko nkajya mbyuka ngenda murugo hariya irubungo ni kure ya Kigali nkabura umbwira ati araha naha .
+
+% ANNO
+[Nuko nkajya mbyuka ngenda murugo hariya irubungo ni kure ya Kigali nkabura umbwira ati araha naha]

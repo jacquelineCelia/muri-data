@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko abayafite barayatanga ariko ntabwo ariyo bashakaga mubyukuri byari ukwiyenzi barangije bashaka gutera grenade aho ngaho twari turimo . ||| So whoever had money gave it away , but they did n't really want money they were just toying with us . After that they tried to throw a grenade where we were .
+
+% TEXT
+Nuko abayafite barayatanga ariko ntabwo ariyo bashakaga mubyukuri byari ukwiyenzi barangije bashaka gutera grenade aho ngaho twari turimo .
+
+% ANNO
+[Nuko abayafite barayatanga ariko ntabwo ariyo bashakaga mubyukuri byari ukwiyenzi barangije bashaka gutera grenade aho ngaho twari turimo]

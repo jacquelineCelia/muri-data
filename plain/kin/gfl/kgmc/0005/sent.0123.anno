@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Abari benshi n' abatutsi bari bahahungiye . ||| The majority were the Tutsis seeking refuge .
+
+% TEXT
+Abari benshi n' abatutsi bari bahahungiye .
+
+% ANNO
+[Abari benshi n' abatutsi bari bahahungiye]

@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+We nkabura ahantu bamutemye ariko yapfuye yari afatanye nundi mugenzi we mu ntoki bapfuye bafatanye . ||| I could n't see where they had hacked him but he died holding another man 's hand , they died holding each others hands .
+
+% TEXT
+We nkabura ahantu bamutemye ariko yapfuye yari afatanye nundi mugenzi we mu ntoki bapfuye bafatanye .
+
+% ANNO
+[We nkabura ahantu bamutemye ariko yapfuye yari afatanye nundi mugenzi we mu ntoki bapfuye bafatanye]

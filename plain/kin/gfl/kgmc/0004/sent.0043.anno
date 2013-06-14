@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese uyu munsi abaturanyi bawe ahantu mwari mutuye ubundi ubu mubanye mute ? ||| Today your neighbours from where you used to live ... how is life like together today ?
+
+% TEXT
+Ese uyu munsi abaturanyi bawe ahantu mwari mutuye ubundi ubu mubanye mute ?
+
+% ANNO
+Ese > mwari
+(uyu > munsi) > mwari
+(abaturanyi < bawe < ahantu) > mwari < mutuye < ubundi < ubu < mubanye < mute

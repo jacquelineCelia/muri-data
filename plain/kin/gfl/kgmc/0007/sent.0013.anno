@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Wumva warababariye abagukoreye ibyo watubwiye ? ||| Can you forgive people that carried out these problems ?
+
+% TEXT
+Wumva warababariye abagukoreye ibyo watubwiye ?
+
+% ANNO
+[Wumva warababariye abagukoreye ibyo watubwiye]

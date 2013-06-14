@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ncuruza dufite n' isambu nziza dufite inka ndeberera imirimo yose yo murugo twari twifashije . ||| So I was in a business and we also had a nice piece of land and cows , I was supervising all the activities at home , we were doing great .
+
+% TEXT
+Ncuruza dufite n' isambu nziza dufite_1 inka ndeberera imirimo yose yo murugo twari twifashije .
+
+% ANNO
+[Ncuruza dufite n' isambu nziza dufite_1 inka ndeberera imirimo yose yo murugo twari twifashije]

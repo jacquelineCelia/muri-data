@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.txt
+
+% ORIG
+Hanyuma turangiza , nagirango utubwire twavuga ko Freddy ari muntu ki , muri iki gihe ? ||| And finally , who is Freddy today ? Which sort of a person are you ?
+
+% TEXT
+Hanyuma turangiza , nagirango utubwire twavuga ko Freddy ari muntu ki ,_1 muri iki gihe ?
+
+% ANNO
+[Hanyuma turangiza nagirango utubwire twavuga ko Freddy ari muntu ki muri iki gihe]

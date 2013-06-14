@@ -1,0 +1,11 @@
+% SOURCE
+file=../orig/sample.tok
+
+% ORIG
+Ubona ubuzima bw' abacitse ku icumu bwitwaye gute muri kino gihugu ? ||| What do you think of the lives of the survivors in this country ?
+
+% TEXT
+Ubona ubuzima bw' abacitse ku icumu bwitwaye gute muri kino gihugu ?
+
+% ANNO
+Ubona < (ubuzima < ((bw' < abacitse) < (ku < icumu))) > bwitwaye < gute < (muri < (kino > gihugu))

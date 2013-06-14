@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Bashyiraho gouvernement ya batabazi nibwo twamenyeko tuvanze n' interahamwe baratangira barishima noneho tukumva ntabwo tukivuga ibintu bimwe . ||| The interim government was put in place , that 's when we found out that we were mixed with Interahamwe because they started celebrating , all of a sudden we did n't talk the same language .
+
+% TEXT
+Bashyiraho gouvernement ya batabazi nibwo twamenyeko tuvanze n' interahamwe baratangira barishima noneho tukumva ntabwo tukivuga ibintu bimwe .
+
+% ANNO
+[Bashyiraho gouvernement ya batabazi nibwo twamenyeko tuvanze n' interahamwe baratangira barishima noneho tukumva ntabwo tukivuga ibintu bimwe]

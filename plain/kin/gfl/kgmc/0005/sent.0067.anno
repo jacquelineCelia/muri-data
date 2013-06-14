@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nuko ndavuga nti ubu nabo baraza guhembuka nti jyewe se ko nahembutse kandi bari bantemye . ||| So I thought to myself that the others will also wake up since I had also woken up after being hacked .
+
+% TEXT
+Nuko ndavuga nti ubu nabo baraza guhembuka nti_1 jyewe se ko nahembutse kandi bari bantemye .
+
+% ANNO
+[Nuko ndavuga nti ubu nabo baraza guhembuka nti_1 jyewe se ko nahembutse kandi bari bantemye]

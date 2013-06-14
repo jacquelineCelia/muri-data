@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Hanyuma nari mfite n' abandi bavandimwe twabanaga basaza banjye babiri . ||| We also lived with my two brothers .
+
+% TEXT
+Hanyuma nari mfite n' abandi bavandimwe twabanaga basaza banjye babiri .
+
+% ANNO
+[Hanyuma nari mfite n' abandi bavandimwe twabanaga basaza banjye babiri]

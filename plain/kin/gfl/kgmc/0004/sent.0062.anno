@@ -1,0 +1,15 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+wumva se kuba nibura uri muri iryo shyirahamwe hari ikintu byagufashije . ||| Do you feel that being in the association is helpful you at all .
+
+% TEXT
+wumva se kuba nibura uri muri iryo shyirahamwe hari ikintu byagufashije .
+
+% ANNO
+wumva < kuba < nibura 
+uri < muri < (iryo > shyirahamwe)
+muri < hari < ikintu < byagufashije
+wumva < se
+kuba < uri

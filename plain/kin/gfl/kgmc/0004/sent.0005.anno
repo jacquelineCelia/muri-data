@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ese yabasanze hehe ? ||| Where did it find you ?
+
+% TEXT
+Ese yabasanze hehe ?
+
+% ANNO
+Ese > yabasanze < hehe

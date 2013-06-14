@@ -1,0 +1,12 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+MUJAWAMARIYA Françoise rero ndagirango mutangire mutwibwira . ||| MUJAWAMARIYA Françoise you could start up with introducing yourself ?
+
+% TEXT
+MUJAWAMARIYA Françoise rero ndagirango mutangire mutwibwira .
+
+% ANNO
+[MUJAWAMARIYA Françoise] rero > ndagirango > mutangire < mutwibwira
+[MUJAWAMARIYA Françoise] > ndagirango 

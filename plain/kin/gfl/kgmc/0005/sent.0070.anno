@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ngo ntago ariho ngo nanabaho ngo azicwe n' agahinda ngo mureke . ||| She is n't really alive and even if she lives let her die of sorrow , leave her alone .
+
+% TEXT
+Ngo ntago ariho ngo nanabaho ngo_1 azicwe n' agahinda ngo_2 mureke .
+
+% ANNO
+[Ngo ntago ariho ngo nanabaho ngo_1 azicwe n' agahinda ngo_2 mureke]

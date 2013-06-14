@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Uhh bashyinguwe hariya ku ku Rwibutso rwo rw' Igashirabwoba . ||| Yes they buried them at the memorial site of Gashirabwoba .
+
+% TEXT
+Uhh bashyinguwe hariya ku ku_1 Rwibutso rwo rw' Igashirabwoba .
+
+% ANNO
+Uhh 
+bashyinguwe < hariya 
+bashyinguwe < ku < ku_1 < Rwibutso < rwo < rw' < Igashirabwoba

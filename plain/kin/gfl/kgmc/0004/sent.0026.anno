@@ -1,0 +1,13 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ni muri ubwo buryo sinzi , nanjye sinababwira uko yamenye kuko nari ndembye cyane . ||| I never knew it before then when I was in Cyangugu . I do n't can n't tell you how they knew about me ... I was way too sick .
+
+% TEXT
+Ni muri ubwo buryo sinzi , nanjye sinababwira uko yamenye kuko nari ndembye cyane .
+
+% ANNO
+(Ni < (muri < ubwo > buryo)) > sinzi 
+nanjye > sinababwira < uko > yamenye < kuko 
+yamenye < nari < ndembye < cyane

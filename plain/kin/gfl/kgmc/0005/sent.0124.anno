@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Nukuvuga ko mu Bantu Magana ane bari bahari abarokotsemo ntabwo barenga icumi . ||| So you mean that in the four hundred seeking refuge the survivors are not more than ten ?
+
+% TEXT
+Nukuvuga ko mu Bantu Magana ane bari bahari abarokotsemo ntabwo barenga icumi .
+
+% ANNO
+[Nukuvuga ko mu Bantu Magana ane bari bahari abarokotsemo ntabwo barenga icumi]

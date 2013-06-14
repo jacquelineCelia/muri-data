@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Be simbizi yari umuntu wumvikana kandi ugira impuhwe cyane kuburyo yashoboraga kwiyibagirwa cyangwa akibagirwa abandi . ||| He was very easy to relate to and was very merciful ; he could easily ignore himselfo or others .
+
+% TEXT
+Be simbizi yari umuntu wumvikana kandi ugira impuhwe cyane kuburyo yashoboraga kwiyibagirwa cyangwa akibagirwa abandi .
+
+% ANNO
+[Be simbizi yari umuntu wumvikana kandi ugira impuhwe cyane kuburyo yashoboraga kwiyibagirwa cyangwa akibagirwa abandi]

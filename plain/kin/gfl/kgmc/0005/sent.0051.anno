@@ -1,0 +1,11 @@
+% SOURCE
+file=sample.tok
+
+% ORIG
+Ariko ngewe kuri paruwasi nkumva simpashaka kubera hari umugabo twahoraga duhanganye kuva umugabo wanjye yafungwa mubyitso . ||| But personally I did n't want to stay at the parish because there was a man that we were not at good terms with since my husband was imprisoned among the spies .
+
+% TEXT
+Ariko ngewe kuri paruwasi nkumva simpashaka kubera hari umugabo twahoraga duhanganye kuva umugabo_1 wanjye yafungwa mubyitso .
+
+% ANNO
+[Ariko ngewe kuri paruwasi nkumva simpashaka kubera hari umugabo twahoraga duhanganye kuva umugabo_1 wanjye yafungwa mubyitso]
